@@ -130,27 +130,27 @@ p {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/dark.png)
+  background: url(Resources/dark.png)
     center / auto 100% no-repeat;
 }
 
 .catalog-content-1A {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/A.png);
+  background-image: url(Resources/A.png);
 }
 .catalog-content-2Ab {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/Ab.png);
+  background-image: url(Resources/Ab.png);
 }
 .catalog-content-3Abc {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/Abc.png);
+  background-image: url(Resources/Abc.png);
 }
 .catalog-content-2Ba {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/Ba.png);
+  background-image: url(Resources/Ba.png);
 }
 .catalog-content-3Bac {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/Bac.png);
+  background-image: url(Resources/Bac.png);
 }
 .catalog-content-3Cab {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/Cab.png);
+  background-image: url(Resources/Cab.png);
 }
 
 #catalog-content-0 {
@@ -182,7 +182,7 @@ p {
   top: 6rem;
   height: 2rem;
   right: 3rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/go.png);
+  background-image: url(Resources/go.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -218,7 +218,7 @@ p {
   top: 1.35rem;
   height: 1.5rem;
   left: 7.75rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/label_1_on.png);
+  background-image: url(Resources/label_1_on.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -230,7 +230,7 @@ p {
   top: 1.35rem;
   height: 1.5rem;
   left: 7.75rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/label_1_off.png);
+  background-image: url(Resources/label_1_off.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -243,7 +243,7 @@ p {
   top: 1.35rem;
   height: 1.5rem;
   left: 14.3rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/label_2_on.png);
+  background-image: url(Resources/label_2_on.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -255,7 +255,7 @@ p {
   top: 1.35rem;
   height: 1.5rem;
   left: 14.3rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/label_2_off.png);
+  background-image: url(Resources/label_2_off.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -268,7 +268,7 @@ p {
   top: 1.35rem;
   height: 1.5rem;
   left: 20.85rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/label_3_on.png);
+  background-image: url(Resources/label_3_on.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -280,7 +280,7 @@ p {
   top: 1.35rem;
   height: 1.5rem;
   left: 20.85rem;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/catalog/label_3_off.png);
+  background-image: url(Resources/label_3_off.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -293,7 +293,7 @@ p {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/portraitBg.jpg)
+  background: url(Resources/portraitBg.jpg)
     center / auto 100% no-repeat;
   z-index: 520;
   display: none;
@@ -305,7 +305,7 @@ p {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/listBG.jpg)
+  background: url(Resources/listBG.jpg)
     center / auto 100% no-repeat;
   z-index: 1200;
   display: none;
@@ -317,7 +317,7 @@ p {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/background/bg.jpg)
+  background: url(Resources/bg_1.jpg)
     center / auto 100% no-repeat;
   z-index: 1300;
   display: none;
@@ -372,7 +372,7 @@ p {
   height: 2.1rem;
   left: 0;
   bottom: 0;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/barTop.png);
+  background: url(Resources/barTop.png);
   background-size: 28.55rem 2.1rem;
   background-position: left;
   background-repeat: no-repeat;
@@ -385,7 +385,7 @@ p {
   bottom: -1.75rem;
   height: 4.5rem;
   width: 39.1rem;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/barFrame.png);
+  background: url(Resources/barFrame.png);
   background-size: 39.1rem 4.5rem;
   background-position: left;
   background-repeat: no-repeat;
@@ -398,7 +398,7 @@ p {
   width: 2.6rem;
   left: 0;
   bottom: -0.375rem;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/barIcon.png);
+  background: url(Resources/barIcon.png);
   background-size: 2.6rem 2.85rem;
   background-position: left;
   background-repeat: no-repeat;
@@ -412,7 +412,7 @@ p {
   width: 5.9rem;
   right: 0.75rem;
   bottom: 0.65rem;
-  background: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/details.png)
+  background: url(Resources/details.png)
     center / auto 100% no-repeat;
   cursor: pointer;
 }
@@ -566,7 +566,7 @@ p {
   height: 50%;
   top: 10%;
   left: 25%;
-  background: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/common/horizon_hint.png')
+  background: url('Resources/horizon_hint.png')
     100% 100% /100% auto no-repeat;
 }
 #confirm {
@@ -668,7 +668,7 @@ p {
   top: 0;
   right: 0;
   z-index: 810;
-  background: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/close.png');
+  background: url('Resources/close.png');
   background-size: 100% 100%;
   background-position: center;
   cursor: pointer;
@@ -696,7 +696,7 @@ p {
   bottom: 6rem;
   right: 0;
   z-index: 810;
-  background: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/remark.png');
+  background: url('Resources/remark.png');
   background-size: 100% 100%;
   background-position: center;
 }
@@ -709,7 +709,7 @@ p {
   top: 0;
   right: 0;
   z-index: 810;
-  background: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/close.png');
+  background: url('Resources/close.png');
   background-size: 100% 100%;
   background-position: center;
   cursor: pointer;
@@ -723,7 +723,7 @@ p {
   top: 0;
   right: 0;
   z-index: 810;
-  background: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/exit.png');
+  background: url('Resources/exit.png');
   background-size: 100% 100%;
   background-position: center;
   cursor: pointer;
@@ -746,7 +746,7 @@ p {
   top: 0;
   left: 0;
   z-index: 810;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/save.png');
+  background-image: url('save.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -760,7 +760,7 @@ p {
   top: 0;
   left: 6.4rem;
   z-index: 810;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/load.png');
+  background-image: url('load.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -782,7 +782,7 @@ p {
   height: 100%;
   bottom: 0;
   left: 6.4rem;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/auto.png');
+  background-image: url('auto.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -790,7 +790,7 @@ p {
 }
 
 .dialog-btn-autoplay-on {
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/auto_1.png');
+  background-image: url('auto_1.png');
 }
 
 .dialog-btn-history {
@@ -799,7 +799,7 @@ p {
   height: 100%;
   top: 0;
   right: 0;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/log.png');
+  background-image: url('log.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -812,7 +812,7 @@ p {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/skip.png');
+  background-image: url('skip.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -820,7 +820,7 @@ p {
 }
 
 .dialog-btn-skip-on {
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/skip_1.png');
+  background-image: url('skip_1.png');
 }
 
 .menuscene {
@@ -1366,7 +1366,7 @@ p {
   width: /*90%*/ 42rem;
   height: /*25%*/ 7rem;
   z-index: 210;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/dialog.png');
+  background-image: url('Resources/dialog.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -1377,7 +1377,7 @@ p {
 
 .dialog_article {
   height: 21rem;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/dialogBig.png');
+  background-image: url('Resources/dialogBig.png');
 }
 
 .history {
@@ -1387,7 +1387,7 @@ p {
   width: 42rem;
   height: 21rem;
   z-index: 250;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/dialogBig.png');
+  background-image: url('Resources/dialogBig.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -1402,7 +1402,7 @@ p {
   width: 42rem;
   height: 21rem;
   z-index: 250;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/dialogBig.png');
+  background-image: url('Resources/dialogBig.png');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -1452,10 +1452,10 @@ p {
 }
 
 .dialog-text {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: left;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
   height: auto;
 }
 
@@ -1467,46 +1467,46 @@ p {
 }
 
 .article-text {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: left;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
   text-indent: 3rem;
 }
 
 .article-text-h {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: left;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
 }
 
 .article-text-s {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: right;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
 }
 
 .article-text-c {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: center;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
 }
 
 .history-text {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: left;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
 }
 
 .remark-text {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-family: htmlHeitiFamily;
   text-align: left;
-  line-height: 2.5rem;
+  line-height: 1.7rem;
 }
 
 .history-choice {
@@ -1516,7 +1516,7 @@ p {
   background: rgba(64, 31, 40, 0.9);
   color: white;
   font-family: htmlHeitiFamily;
-  font-size: 1.5rem;
+  font-size: 1.1 rem;
 }
 
 .history-choice-mark {
@@ -1544,15 +1544,15 @@ p {
 
 .dialog-chara-line.dialog-chara-left {
   width: 1.14rem;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/Label-L.png');
+  background-image: url('Resources/Label-L.png');
 }
 .dialog-chara-line.dialog-chara-center {
   background-repeat: repeat;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/Label-M.png');
+  background-image: url('Resources/Label-M.png');
 }
 .dialog-chara-line.dialog-chara-right {
   width: 2.4rem;
-  background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/Label-R.png');
+  background-image: url('Resources/Label-R.png');
 }
 
 .dialog-chara-padding {
@@ -1783,23 +1783,23 @@ ul li {
 }
 
 #pagenum-1 {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/left.png);
+  background-image: url(Resources/left.png);
 }
 #pagenum-2 {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/right.png);
+  background-image: url(Resources/right.png);
 }
 
 #pagenum-5 {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/leftPage.png);
+  background-image: url(Resources/leftPage.png);
 }
 #pagenum-6 {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/achievement/rightPage.png);
+  background-image: url(Resources/rightPage.png);
 }
 #pagenum-7 {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/left.png);
+  background-image: url(Resources/left.png);
 }
 #pagenum-8 {
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/ui/right.png);
+  background-image: url(Resources/right.png);
 }
 
 .cg-frame {
@@ -1820,7 +1820,7 @@ ul li {
   background-size: auto 88%;
   background-position: center;
   display: inline-block;
-  background-image: url(https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/common/cgclose.png);
+  background-image: url(Resources/cgclose.png);
 }
 
 .showCgOrigin {
