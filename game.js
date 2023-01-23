@@ -1446,7 +1446,7 @@ function systemAutoLoadStart(galgameKey) {
       .html(
         `<div class="cancel ${tl_css_lang}"></div><div class="submit ${tl_css_lang}" onclick="systemAutoLoad()"></div>`
       )
-      .css('background', "url('/novels/duriduri/en-US/continue.png') no-repeat")
+      .css('background', "url('continue.png') no-repeat")
       .css('background-size', 'auto 100%')
       .css('background-position', 'center')
     $('.cancel').click({ k: galgameKey }, function (e) {
@@ -2078,8 +2078,7 @@ function catalogPageNew(page, flag) {
       $('#catalog-chap-' + (j - page * 2)).css(
         'background-image',
         "url('" +
-          base_url +
-          '/resources/catalog/t' +
+          'Resources/t' +
           getText(catalogListSort[i]) +
           ".png')"
       )

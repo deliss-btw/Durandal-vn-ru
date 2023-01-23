@@ -8,32 +8,32 @@
         </scene>
         <scene id="10" background="deepWater.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
-            <text>I am dreaming. A dream of when I still lived in a Russian orphanage.</text>
-            <text>The city is called Sochi. It has a warm climate, and it's surrounded by mountains and facing the sea.</text>
-            <text>I ran freely through the alleys, inhaling fresh air into my lungs. As I slowly exhale I feel like I was able to get out something melancholic within me.</text>
-            <text>Cirsium bloomed in the weathered road under the lovely sunlight of June.</text>
-            <text>They are purple, thorny, arrogant and stubborn flowers, able to grown freely in the most barren lands.</text>
-            <text>Just like all the hardworking poor humans.</text>
-            <text>Bees fly around the flowers. A familiar smell tickles my nose.</text>
-            <text>I don't know where or when was this. It could all be a weird hallucination.</text>
-            <text>But I know one thing for sure. There is something I've lost and is still missing, buried here like a time capsule.</text>
-            <text>Walking past the steam of the hot springs, I arrive at the shore of the Black Sea.</text>
-            <text remark="next">From the Argonauts to Nikolai Ostrovsky, countless known and unknown heroes have stopped here to listen to the sound of the waves.</text>
+            <text>Кажется, тебе приснился сон. Сон о том, что ты все ещё живешь в русском санатории.</text>
+            <!-- 你 - Ты -->
+            <text>Санатории, расположенном в городе Сочи. Он окружен горами с трех сторон и обращен к морю с другой, это место, где весна в полном разгаре во все времена года.</text>
+            <text>Ты спокойно бродишь меж асфальтированных улочек, а свежий воздух выводит весь мрак из твоих легких.</text>
+            <text>Был июнь. Дикий чертополох кучами высовывался вдоль тропинки.</text>
+            <text>Это пурпурные, колючие, гордые и упрямые цветы, которые могут безудержно расти в самой бесплодной земле.</text>
+            <text>Как и все бедные, но трудолюбивые люди.</text>
+            <text>Пчелы деловито летали вокруг цветов. Ты почувствовал знакомый запах.</text>
+            <text>Не знаю когда. Не знаю где. Может быть, это просто странная иллюзия.</text>
+            <text>Но, по крайней мере, в этом сне ты уверен. Что-то, что сейчас не имеет значение, но все еще волнует тебя, спит на земле как капсула времени.</text>
+            <text>Ты стоишь на берегу синего и глубокого Черного моря, а возле тебя проносится пар, принесенный горячими источниками.</text>
+            <text remark="next">От экипажа «Аргонавта» до слепого Островского: бесчисленные герои, известные и неизвестные, слушали здесь шум волн.</text>
             <remark post="U2FsdGVkX18Hb7L85UTiSUAt87Ml">
-                <p class="article-text-h">Note：</p>
-                <!-- TODO -->
-                <p class="article-text">尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基（Николай Алексеевич Островский, 1904 - 1936）是一位传奇式的苏联作家。他15岁参军入伍，16岁时在战斗中头部负伤、右眼失明，23岁时全身瘫痪、双目失明；然而，就是在这种状况下，他坚持口述（由妻子整理）并在29岁时完成了一部讲述信念、毅力、自我认同的自传体小说——《钢铁是怎样炼成的》。</p>
+                <p class="article-text-h">Примечание：</p>
+                <p class="article-text">Николай Алексеевич Островский (Николай Алексеевич Островский, 1904-1936) - легендарный советский писатель.Он вступил в армию в возрасте 15 лет, получил травму головы в бою в возрасте 16 лет, был слеп на правый глаз, а в возрасте 23 лет был парализован и ослеп на оба глаза; однако именно при этом условии он настоял на устном повествовании (организованном его жена) и в возрасте 29 лет завершил автобиографический роман о вере, упорстве и самоидентификации - "Как закалялась сталь".</p>
             </remark>
-            <text>The Petrel is free to roam the sky. A familiar smell tickles my nose.</text>
-            <text>I don't know where or when was this. It could all be a weird hallucination.</text>
+            <text>Буревестники свободно резвились между небом и землей. Ты почувствовал знакомый запах.</text>
+            <text>Не знаю когда. Не знаю где. Может быть, это просто странная иллюзия.</text>
             <goto goto="20" change="#000000"/>
         </scene>
         <scene id="20" background="submarineCabinBlurDeep.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Hey. Good morning.</speak>
+            <speak chara="_Shakespeare">Эй, доброе утро.</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Going to bed and getting up early can be difficult in a ship isolated from the outside world.</speak>
+            <speak chara="_Shakespeare">В этом изолированном корабле довольно сложно рано ложиться и рано вставать.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">Well, that might be true for the captain who went through 10 alarms before waking up.</speak>
@@ -41,7 +41,7 @@
             <speak chara="_Bianka">Us Valkyries are trained in a way our life rhythm will not disrupt those around us!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Is that so? Quite different from what Rita told me.</speak>
+            <speak chara="_Shakespeare">Is that so? Quite different from what Rita-san told me.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">...</speak>
@@ -290,7 +290,7 @@
             <speak chara="_Bianka">What came here? Please be clear——</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="mailboxFar" position="left"/>
-            <speak chara="_mechineRed">Welcome to Alexandria—— James Watt and unnamed young lady.</speak>
+            <speak chara="_mechineRed">Welcome to Alexandria—— James Watt-san and unnamed young lady.</speak>
             <show chara="mailboxFar" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -551,7 +551,7 @@
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">A-Apologies, I lost my composure. Please forget I mentioned any rank.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Cough. Now I see, Thales, you didn't approach us because you were in need of money.</speak>
+            <speak chara="_Bianka">Cough. Now I see, Thales-san, you didn't approach us because you were in need of money.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
             <speak chara="_Thales">Now you get it! I wanted to talk with you because you seemed interesting!</speak>
@@ -640,7 +640,7 @@
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">P-Please don't treat me like a child! I must let you know I'm a great Valkyrie!</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">A-And you don't look too much like an adult yourself, shorty Director.</speak>
+            <speak chara="_Bianka">A-And you don't look too much like an adult yourself, shorty Director-san.</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
             <speak chara="_Thales">Yes yes, I got it——</speak>
