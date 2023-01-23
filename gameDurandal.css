@@ -869,7 +869,7 @@ p {
   background-repeat: no-repeat;
 }
 .menu_btn_1 {
-  background-image: url('/start.png');
+  background-image: url('start.png');
 }
 .menu_btn_2 {
   background-image: url('gallery.png');
