@@ -869,13 +869,13 @@ p {
   background-repeat: no-repeat;
 }
 .menu_btn_1 {
-  background-image: url('start.png');
+  background-image: url('/start.png');
 }
 .menu_btn_2 {
-  background-image: url('gallery.png');
+  background-image: url('/gallery.png');
 }
 .menu_btn_3 {
-  background-image: url('history.png');
+  background-image: url('/history.png');
 }
 .menu_btn_4 {
   background-image: url('https://webstatic.bh3.com/event_bh3_com/avg-anti-entropy/static_CN/baseDurandal/resources/menu/achievement.png');
