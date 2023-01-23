@@ -8,26 +8,26 @@
         </scene>
         <scene id="10" background="deepWater.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
-            <text>The 「Sea of Quanta」 is not a real ocean.</text>
-            <text>It doesn't belong to any particular planet, nor it's composed of liquid such as water.</text>
-            <text>It's not the 「cornerstone」 of a 「single universe」 either, but the 「medium」 where many worlds of countless possibilities exist.</text>
-            <text>Its structure can't be completely described using a third or four dimensional mathematical concept——</text>
-            <text>Let's imagine for a moment many worlds, each one with their own set of dimensions and laws, being their own separated 「bubble world」——</text>
-            <text>——Following that metaphor, the 「Sea of Quanta」 is an 「ocean」 that houses countless 「bubble worlds」.</text>
-            <text>...Of course, it doesn't matter if you think of it as a bathtub instead of an ocean.</text>
-            <text>「Membranes」 are formed in the 「fluctuations」 of the 「Ether」 the 「Sea of Quanta」 is composed of, and said 「membranes」 may evolve into a 「bubble world」.</text>
-            <text>As we all know, a three dimensional bubble has a spherical surface that is close to being two dimensional.</text>
-            <text>When these 「bubble worlds」 are in the 「Ether Bathhub」, a choice of which of the eleven dimensions are inherited must be made.</text>
-            <text>For instance, in the 「universe」 we are familiar with humans can recognize four dimension and seven extra dimensions, each one being a constant 「membrane」.</text>
-            <!-- RENAME: What Bishop Otto referred to as 「Ether Anchor Point」 is the special structure or method that allows those 「membranes」 to turn into 「bubble worlds」. -->
-            <text>What Overseer Otto referred to as 「Ether Anchor Point」 is the special structure or method that allows those 「membranes」 to turn into 「bubble worlds」.</text>
-            <text>When the 「analogous distance」 between two 「membranes」 is small enough, they begin to influence each other—— For example, by exchanging matter.</text>
-            <text>Speaking in general, it's easier for a substance to go from a 「relatively small membrane」 to a 「relatively big membrane」 but doing the oppossite is quite difficult——</text>
-            <text>——As such, the 「relatively small membrane」 is likely to be the one who performs changes to other bigger 「membranes」.</text>
-            <text>And finally, the special 「membrane」 called 「projection」 is born.</text>
-            <text>In this 「projection」, only analogous areas of the 「membranes」 continue to exist—— while everything else disappears completely.</text>
-            <text>For example, the 「world」 where the 「Caledonia」 exists right now is a 「projection」 made out of 「membranes」 which had analogous properties between them.</text>
-            <text>This is how Bianka and Rita were able to meet 「Captain Shakespeare」 who came from another world.</text>
+            <text>“Море Кванта” - это не водные просторы.</text>
+            <text>Оно не принадлежит ни к какой конкретной планете и не состоит из жидкости, подобной воде.</text>
+            <text>На самом деле, к нему стоит относиться как к некоему "фундаменту", не принадлежащему ни к какой вселенной, как к среде.</text>
+            <text>Его структура не может быть полностью описана в трехмерной или четырехмерной математической системе——</text>
+            <text>Мы можем представить множество миров, каждый со своим собственным набором измерений и законов,</text>
+            <text>это все - их собственный отдельный "пузырьковый мир"——</text>
+            <text>——Следуя этой метафоре, “Море Кванта” - это “океан”, в котором находится бесчисленное кол-во “пузырьковых миров”</text>
+            <text>...Конечно, если вам так больше нравится, можете представлять его как ванну.</text>
+            <text>«Мембраны» образуются в колебаниях Эфира, из которого состоит Море Кванта. Упомянутые «мембраны» могут эволюционировать в пузырьковый мир.</text>
+            <text>Мы знаем, что трехмерный пузырь имеет сферическую поверхность, близкую к двумерной.</text>
+            <text>У этих пузырьковых миров есть выбор для наследования, выбор состит из 11 измерений, принадлежащих «Эфирной Ванне»</text>
+            <text>К примеру, известная нам вселенная представляет собой «мембрану», простирающуюся в 4 измерениях и сворачивующуюся в 7 остальных.</text>
+            <text>То, что Епископ Отто назвал Эфирным Якорем, относится к специальным структурам, которые могут стабилизировать мембрану в пузырьковый мир.</text>
+            <text>Когда "расстояние подобия" между двумя стабильными мембранами достаточно мало, они будут влиять друг на друга, например, обмениваясь материей.</text>
+            <text>Вообще, материи легко перейти от меньшей мембраны к большей, но в обратную сторону сделать это гораздо сложнее——</text>
+            <text>——Так что меньшая мембрана легко разрушается по структуре и приводит к влиянию на нее большего количества других мембран.</text>
+            <text>Конечным результатом является формирование особого вида мембраны, называемой “проекцией”：</text>
+            <text>На “проекции” остаются лишь те участки, на которые устойчиво воздействуют другие мембраны —— остальное пространство исчезает в небытие.</text>
+            <text>Например, мир, в котором в настоящее время находится Каледония, представляет собой «проекцию» из нескольких мембран со схожими свойствами.</text>
+            <text>Именно поэтому вы, из одного мира, являетесь гостями капитана Шекспира из другого мира.</text>
             <goto goto="20" change="#000000"/>
         </scene>
         <scene id="20" background="CG3-1.jpg">
@@ -41,73 +41,73 @@
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Agh! I can't wrap my head around this situation! </speak>
+            <speak chara="_Bianka">Аргх! Ни черта не понимаю!</speak>
             <show chara="biankaSeriousClose" position="right"/>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
-            <speak chara="_Bianka">Oh...</speak>
+            <speak chara="_Bianka">Ой...</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Y-You were there, Rita.</speak>
+            <speak chara="_Bianka">Т-ты была тут, Рита.</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">The island refugees seem to have calmed down.</speak>
+            <speak chara="_Rita">Беженцы с острова, похоже, уже обустроились.</speak>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">There were a few complains by the pirates, but they still made room for everyone to rest.</speak>
+            <speak chara="_Rita">Хоть пираты и жаловались, но все равно освободили места всем для отдыха.</speak>
             <show chara="rita17HesitateClose" position="left"/>
-            <speak chara="_Rita">...But I doubt they'll be able to lie down in bed and relax for a while.</speak>
+            <speak chara="_Rita">...Но при этом, большинство людей вряд-ли смогут спокойно поспать у себя в постели.</speak>
             <show chara="rita17HesitateClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">That's fine, no one is in a position to complain.</speak>
+            <speak chara="_Bianka">В любом случае, будь то спасатели, или же транспортировщики, обеим сторонам не на что жаловаться.</speak>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">And that old man Miguel is here too, I don't think the air will be too tense with him around.</speak>
+            <speak chara="_Bianka">Кроме того, когда рядом наш старик Мигель, атмосфера не может быть плохой, верно?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Yes, I agree.</speak>
+            <speak chara="_Rita">И правда..</speak>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">.....</speak>
-            <speak chara="_Rita">Actually, I can't help but feel impressed by that side of you.</speak>
+            <speak chara="_Rita">Если честно, то я восхищаюсь этим в Бьянке-сама.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Eh? My what?</speak>
+            <speak chara="_Bianka">А? Чем именно?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">The side of you that swiftly makes decisions and takes action.</speak>
+            <speak chara="_Rita">Тем, как быстро вы принимаете решения и исполняете их.</speak>
             <show chara="rita17SmileClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Ahaha...</speak>
+            <speak chara="_Bianka">Э...</speak>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">About that, once in the orphanage a counselor told me——</speak>
+            <speak chara="_Bianka">Знаешь ли ты, как в приюте вожатая меня критиковала?——</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">「By the love of God! You idiot! Would it kill you to use your head for a little bit!?」</speak>
+            <speak chara="_Bianka">“Боже мой！ Идиотка! У тебя совсем мозгов нет?!”</speak>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">And——</speak>
+            <speak chara="_Bianka">Или же——</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">「Don't trust so quickly！Think things twice!」</speak>
+            <speak chara="_Bianka">“Не так быстро! Разве не лучше подумать дважды перед действиями?!”</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">——For most that would be a disadvantage, but in the right hands it can turn into an important advantage.</speak>
+            <speak chara="_Bianka">——Как ни смотри, это недостаток, разве можно его превратить в преимущество?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Hehe. I wouldn't say it has turned into an advantage.</speak>
+            <speak chara="_Rita">Хе-хе. Не сказала бы что недостаток полностью можно сделать приемуществом.</speak>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">——I think someone who is moderately reckless is better than someone who doesn't hesitate at all, is too indecisive, or doesn't do anything at all to escape responsibility.</speak>
+            <speak chara="_Rita">——Честно говоря, я считаю что лучше быть в меру безрассудным, чем нерешительным или даже бездействующим ради избежания ответственности.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...About that last one—— I don't think there is a Valkyrie like that anywhere. Of course, I'm aware it also doesn't apply to you.</speak>
+            <speak chara="_Bianka">...Насчёт последнего — разве может быть настолько плохая валькирия? Я уверена что ты не такая, так ведь?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Hehe. I just wanted to compliment you earnestly.</speak>
+            <speak chara="_Rita">Пфф, я просто пытаюсь тебя искренне похвалить.</speak>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">C-Compliment me...</speak>
+            <speak chara="_Bianka">П-похвалить... меня...</speak>
             <show chara="biankaHesitateClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">...I guess you took the lead on that.</speak>
+            <speak chara="_Bianka">...Так ты меня опередила!</speak>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">Our roles are backwards now!</speak>
+            <speak chara="_Bianka">Наоборот, наоборот, всё должно быть наоборот!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">Backwards, you say?</speak>
+            <speak chara="_Rita">....Наоборот?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -115,19 +115,19 @@
         </scene>
         <scene id="40" background="CG3-2.jpg">
             <bgm src="11_29_themeTesla.mp3" status="start"></bgm>
-            <speak chara="_Bianka">Here, take this... It's a gift.</speak>
-            <speak chara="_Bianka">Ummm...</speak>
-            <speak chara="_Bianka">Happy 17th birthday, adjutant.</speak>
-            <speak chara="_Rita">...T-Thank you very much.</speak>
-            <speak chara="_Bianka">I-I made it using a fang from the 「Leviathan」.</speak>
-            <speak chara="_Bianka">...If it is too weird, feel free to throw it away. It's not worth anything.</speak>
-            <speak chara="_Bianka">I-I planned to give it to you at night, right before going to sleep... but let me give it to you now, to serve as well as a thanks for fighting on my behalf today...</speak>
-            <speak chara="_Bianka">...T-There is no problem if I give it to you a few hours earlier, right? Right?</speak>
+            <speak chara="_Bianka">Вот, это... для тебя.</speak>
+            <speak chara="_Bianka">С...</speak>
+            <speak chara="_Bianka">С 17-ти летием тебя, адъютант.</speak>
+            <speak chara="_Rita">А... С-спасибо большое.</speak>
+            <speak chara="_Bianka">Это б-безделушка, вырезанная из зуба Левиафана.</speak>
+            <speak chara="_Bianka">...Если тебе не нравится, можешь выкинуть, все равно он ничего не стоит.</speak>
+            <speak chara="_Bianka">Я планировала отдать её когда у меня был выходной... как подарок тебе за то, что ты решила сражаться за меня...</speak>
+            <speak chara="_Bianka">...Н-ничего страшного, если я отдам его тебе на несколько часов раньше, да? Так ведь??</speak>
             <show chara="black" position="back" opacity="0.6"/>
             <show chara="ritaSpecialRightSquint" position="center"/>
             <speak chara="_Rita">.....</speak>
             <show chara="ritaSpecialRightSmile" position="center"/>
-            <speak chara="_Rita">But of course. I will cherish any present from Bianka-sama.</speak>
+            <speak chara="_Rita">Конечно. Я буду дорожить подарком Бьянки-сама.</speak>
             <hide position="back"></hide>
             <hide position="center"></hide>
             <goto goto="60" change="0"/>
@@ -137,315 +137,313 @@
             <show chara="biankaBiteClose" position="right"/>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Y-You don't have to cherish it!</speak>
+            <speak chara="_Bianka">Т-тебе не нужно так оберегать его!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="rita17NaughtyClose" position="left"/>
-            <speak chara="_Rita">Hehehe... no need to be shy, Bianka-sama.</speak>
+            <speak chara="_Rita">Эхехе... Не стесняйтесь, Бьянка-сама.</speak>
             <show chara="rita17NaughtyClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">I-I'm not shy!</speak>
+            <speak chara="_Bianka">Э.. Это кто ещё стесняется!</speak>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">Ah... I'm sorry. I-I didn't mean to raise my voice...</speak>
+            <speak chara="_Bianka">Ой... Извини, я... я не хотела на тебя кричать...</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Hehe. I'm aware, Bianka-sama.</speak>
+            <speak chara="_Rita">Хехе. Я знаю, Бьянка-сама</speak>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">If I may ask...</speak>
-            <speak chara="_Rita">How did you know my birthday was tomorrow... on March 1st?</speak>
-            <speak chara="_Rita">...I don't... recall telling anyone.</speak>
+            <speak chara="_Rita">Однако, хочу спросить...</speak>
+            <speak chara="_Rita">...Откуда вы знаете что мой день рождения завтра, 1 марта? </speak>
+            <speak chara="_Rita">...Я не... рассказывала о нем кому-либо.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <!-- RENAME: ...Ahahaha, I know because the Bishop 「sold you out」. -->
-            <speak chara="_Bianka">...Ahahaha, I know because the Overseer 「sold you out」.</speak>
+            <speak chara="_Bianka">...Ахахаха, это всё Епископ, он "предал" тебя.</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Rita Rossweisse, born on March 1st 1995——</speak>
+            <speak chara="_Bianka">Рита Россвайс, родилась 1 марта 1995 года в——</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Oops...</speak>
+            <speak chara="_Shakespeare">Оу.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Hope I didn't interrupt something nice.</speak>
+            <speak chara="_Shakespeare">Похоже я прервала нечто хорошее.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">N-Nice? I-It's nothing like that...</speak>
+            <speak chara="_Bianka">Х-хорошее? Н-ничего хорошего.</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <bgm src="11_15_shakespeareTheme.mp3" status="start"></bgm>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">...Cough.</speak>
+            <speak chara="_Shakespeare">...Кхм.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">As I said during my introduction, in this world the continent known as 「Europe」 is currently 「blocked」.</speak>
+            <speak chara="_Shakespeare">Как я уже сказал, в этом мире континент, известный как "Европа" сейчас "заблокирован".</speak>
             <show chara="shakesColdClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">Yes, you said the amount of refugees from other worlds are increasing and that it might be connected with whoever is ruling 「Europe」 right now.</speak>
+            <speak chara="_Bianka">Ага, вы также говорили, что рост числа попаданцев из других миров также, вероятно, связан с правителями Европы.</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Yeah, and also that I would show you 「solid proof」 of that——</speak>
+            <speak chara="_Shakespeare">Верно. А ещё я сказала, что покажу вам прямые доказательства этого——</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">——We've just arrived at the perfect place to see it.</speak>
+            <speak chara="_Shakespeare">——И сейчас мы в самом подходящем месте, чтобы увидеть это. </speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">...?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">A land called by many names such as 「Pillars of Hercules」, 「Mount of Tarik」 and 「The World's End」——</speak>
+            <speak chara="_Shakespeare">Место со всевозможными названиями, такими как "Геркулесовы Столбы", "Гора Тарика", "Конец Света"——</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">——Gibraltar.</speak>
+            <speak chara="_Shakespeare">——Гибралтар.</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">...!?</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">...Gibraltar??</speak>
+            <speak chara="_Bianka">...Гибралтар??</speak>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">Didn't we leave from a place between the Canary Islands and Madeira in the Atlantic Ocean?</speak>
+            <speak chara="_Bianka">Разве место, откуда мы отправились, не находилось в океане между Канарскими островами и Мадейрой?</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">That's right. I'm not lying.</speak>
+            <speak chara="_Shakespeare">Это так. Я не вру.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">Then if you're telling the truth, we traveled over 1000 kilometers in barely 4 hours——</speak>
+            <speak chara="_Bianka">Итак, если ты не врешь, то мы преодолели путь в тысячи километров за 4 часа——</speak>
             <show chara="biankaSneerClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">——On this old submarine? Can it even move at over 100 knots? </speak>
+            <speak chara="_Bianka">——На этом старье? Со скоростью более 100 узлов? </speak>
+            <speak chara="_Texts">100 узлов = Около 180км/час</speak>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">Even at 1/4 of that, 25 knots, it would be less 50 kilometers per hour—— What you're saying can't be true!</speak>
+            <speak chara="_Bianka">Даже если дважды поделить это количество пополам, при скорости в 25 узлов, менее 50 км/час - это невозможно!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Hahahaha! Are all Valkyries this good at geography?</speak>
+            <speak chara="_Shakespeare">Ахахаха! Вы, валькирии, все так хороши в знаниях о географии и транспорте?</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">The 「Caledonia」 is moving at 5 knots—— Approximately the speed of a normal person running.</speak>
+            <speak chara="_Shakespeare">Действительно, Каледония двигается лишь со скоростью в 5 узлов - что эквивалентно средней скорости бега человека.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">Then——</speak>
+            <speak chara="_Bianka">Тогда почему——</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Well, calm down and listen.</speak>
+            <speak chara="_Shakespeare">Успокойся, успокойся.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">The 「Caledonia」 isn't particularly fast, but what if there is a shortcut?</speak>
+            <speak chara="_Shakespeare">Каледония, может, и не быстрая, но это не значит что не существует коротких путей.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">...What do you mean?</speak>
+            <speak chara="_Bianka">...Что ты имеешь в виду?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Do you remember what my adjutant said? That everything here is a 「projection」 of the real world.</speak>
+            <speak chara="_Shakespeare">Помните слова моего адъютанта? Она сказала, что всё здесь можно рассматривать как "проекцию" внешнего мира</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">However that 「projection」 isn't 100% accurate. For instance, there are no 「humans」 born in this world.</speak>
+            <speak chara="_Shakespeare">Но проекция не может воспроизвести сущность на 100%. Например, в этом мире люди не рождаются.</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">...Which means, it wouldn't be so strange if there was a natural phenomena that doesn't exist in the outside world, right?</speak>
+            <speak chara="_Shakespeare">...Но с другой стороны, в этом мире вполне могут существовать природные явления, отличные от тех, что во внешнем мире.</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">...What are you trying to say?</speak>
+            <speak chara="_Bianka">...Что ты пытаешься этим сказать?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">When I sailed for the first time, I discovered ultra high speed deep sea currents going into many directions. By taking advantage of them, the 「Caledonia」 can travel at high speed underwater.</speak>
+            <speak chara="_Shakespeare">Во время путешествия мы обнаружили широкий спектр сверхскоростных течений, которые могут помочь Каледонии крайне быстро плыть.</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">You can think of it as this submarine being a surfboard surfing underwater.</speak>
+            <speak chara="_Shakespeare">Вы можете представить нашу подводную лодку как доску для серфинга на дне океана.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
-            <speak chara="_Rita">Ultra high speed sea currents... Why does something like that exist?</speak>
+            <speak chara="_Rita">Сверхскоростные подводные течения... почему они существуют?</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">...Beats me. It's like teaching a mere fisherman the principle behind a typhoon.</speak>
+            <speak chara="_Shakespeare">...Я не знаю. Это все равно что просить рыбака объяснить принцип работы тайфунов.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">According to my adjutant, this is a natural phenomena unique to this world. Who knows, maybe there is a 「complex reason」 behind it.</speak>
+            <speak chara="_Shakespeare">В любом случае, по словам моего адъютанта, они являются явлением, уникальным для этого мира.</speak>
+            <speak chara="_Shakespeare">И за ними могут скрываться глубокие принципы.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">In any case, the Gibraltar doesn't lie.</speak>
+            <speak chara="_Shakespeare">Как бы то ни было, легендарная скала Гибралтара - не ложь.</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">The 「Caledonia」 will soon surface—— And you'll be able to see it with your own eyes.</speak>
+            <speak chara="_Shakespeare">Каледония вот-вот всплывет —— смотрите в оба.</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="wallGibraltar.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">We're really at Gibraltar...</speak>
+            <speak chara="_Bianka">Это действительно Гибралтар...</speak>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">But that wall—— What's going on with that wall!?</speak>
+            <speak chara="_Bianka">Но... эта стена—— Что это, черт возьми, такое?!</speak>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">It's surrounding the entire coastline!</speak>
+            <speak chara="_Bianka">Она окружает всё побережье?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">——To be precise, it's surrounding the entire European continent.</speak>
+            <speak chara="_Shakespeare">——Если быть точнее, она окружает весь европейский континент.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">「The Wall of Asgard」... is what the people who fled to North Africa call that monstrous wall.</speak>
+            <speak chara="_Shakespeare">“Стена Асгарда”... Люди, бежавшие в Северную Африку, называли эту чудовищно огромную стену именно так.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">According to them, the wall appeared approximately 100 years ago. Though at first it only surrounded a ruined city.</speak>
+            <speak chara="_Shakespeare">Говорят, эта стена начала появляться более ста лет назад, первоначально она окружала лишь некий затерянный город.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">But over time it started to expand, and slowly but surely new walls were formed. It crossed mountains and rivers, leaving behind inhospitable areas.</speak>
+            <speak chara="_Shakespeare">Однако с тех пор она медленно расширяется, создавая новые преграды, обходя горы, пересекая реки и оставляя позади пустынные земли.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare" remark="next">Give it a few years and it'll block the Mediterranean and Atlantic Ocean too.</speak>
+            <speak chara="_Shakespeare" remark="next">Через несколько лет Средиземное море может оказаться отрезанным от Атлантического океана.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare" remark="next">The Strait of Gibraltar flows faster than the English Channel... but before that huge wall it's just a matter of time until that is no longer true.</speak>
+            <speak chara="_Shakespeare" remark="next">Гибралтарский пролив... гораздо неспокойнее, чем Ла-Манш, но это лишь вопрос времени, когда его отрежет эта стена.</speak>
             <remark post="U2FsdGVkX18uSb9H1ND0T3Wb7jFr">
                 <p class="article-text-h">Note：</p>
-                <p class="article-text">海峡被截断、地中海和大西洋断绝联系的事件，在地质史上真实发生过。以下内容引自《古海荒漠：科学史上大发现》一书（许靖华著，朱文焕译，生活·读书·新知三联书店、天下文化出版公司出版）：</p>
+                <p class="article-text">Усечение проливов и разделение Средиземного и Атлантического океанов - это событие, которое действительно произошло в геологической истории. Нижеследующее цитируется по книге "Древние морские пустыни: великие открытия в истории науки" (автор Сюй Цзинхуа, перевод Чжу Вэньхуа, издательство 天下文化):</p>
                 <br />
-                <p class="article-text">***地中海的沧桑史***</p>
-                <p class="article-text">我们设想：在2000万年前，地中海是一条联通印度洋和大西洋的宽阔海路。大约1500万年前，随着非洲和欧亚大陆的碰撞和在中东发生的造山运动，古地中海与印度洋的海路联系宣告中断。当时，古地中海与大西洋联系的通道也仅遗留下两条狭窄的海峡——西班牙南部的贝蒂克（Betic）海峡和北非的里菲（Riphian）海峡。我们在岩芯里可以清楚地看出地中海环境的逐步恶化——海水流动渐趋停滞，底栖生物不可避免地纷纷死亡，浮游种群苟延残喘，而幸免于盐度危机的耐盐种族则演化繁衍。随着两条海峡的最后封闭，这个内陆海变成了一些巨大的盐湖。盐湖不断涸竭，导致这个位于海平面以下3000公尺的中新世“死谷”底上的动植物荡然无存。直布罗陀地峡是一道孤孤单单的长堤，横亘在干涸的地中海和大西洋之间的咽喉地带，阻止了大西洋海水的侵入。500万年前的上新世初叶，这道长堤决口，破堤而入的海水汹涌奔腾，冲过缺口，形成一个巨大的瀑布。这个直布罗陀大瀑布的水流量每年约为四万立方公里，比维多利亚瀑布壮观百倍，比尼亚加拉瀑布雄浑千倍。但即使是这样大的瀑布，也需要一百多年才能把干涸的地中海重新灌满海水。这该是何等壮观的场面啊！</p>
-                <p class="article-text">在墨西拿盐度危机时期，一旦海水溢过地峡，动物也会随之蜂拥而来；而一旦溶解的离子以盐的形式沉淀下来，它们就又都死亡殆尽。但是，每一次洪水泛滥后就会建立起一代新的动物王朝。上新世初，直布罗陀海峡又窄又深，大西洋的冷海水可以畅通无阻地流入新诞生的地中海。但是，岩芯已经告诉我们，历史是会重演的。目前，直布罗陀海峡正在变浅而成为一道海槛。我们可以设想，总有一天，直布罗陀海峡又会重新变成阻隔在大西洋和地中海沙漠之间的一条地峡。</p>
-                <p class="article-text">这个故事委实过于离奇，但是雷恩、希妲和我是根据岩芯的分析资料推论出来的，可谓证据确凿。我们这个大胆的见解自然遭到许多人的怀疑。质疑者有之，批评者亦不乏其人。但是，由诘问和答辩组成的每一个回合，到头来不过是在帮助我们，在这幅拼图游戏中又翻开了一些新的拼版而已。</p>
+                <p class="article-text">***Превратности Средиземноморья***</p>
+                <p class="article-text">Давайте представим: 20 миллионов лет назад Средиземное море было широким морским путем, соединявшим Индийский и Атлантический океаны. Около 15 миллионов лет назад, после столкновения Африканского и Евразийского континентов и горно-строительных движений на Ближнем Востоке, морская связь между древним Средиземноморьем и Индийским океаном была нарушена. Остались только два узких пролива - Бетический пролив на юге Испании и Рифейский пролив в Северной Африке, соединяющие древнее Средиземноморье с Атлантикой. В кернах мы можем ясно видеть постепенное ухудшение средиземноморской среды - стагнацию потока морской воды, неизбежную гибель бентосных организмов, выживание пелагических популяций и эволюцию солеустойчивых рас, которые были избавлены от кризиса солености. После окончательного закрытия двух проливов внутреннее море превратилось в несколько огромных соленых озер. Когда соленые озера высохли, флора и фауна на дне этой миоценовой "долины смерти", расположенной на 3 000 метров ниже уровня моря, вымерли. Пять миллионов лет назад, в раннем плиоцене, эта длинная дамба прорвалась, и воды хлынули через образовавшуюся брешь, образовав огромный водопад. С потоком воды около 40 000 кубических километров в год, этот Большой Гибралтарский водопад в сто раз зрелищнее водопада Виктория и в тысячу раз величественнее Ниагарского водопада. Но даже водопад такого размера потребует более ста лет, чтобы наполнить пересохшее Средиземноморье морской водой. Какое это было бы зрелище!</p>
+                <p class="article-text">Во время кризиса солености в Мессине, как только море переполняет перешеек, животные кишат вместе с ним; и как только растворенные ионы оседают в виде соли, все они снова вымирают. Однако за каждым потопом следовало установление нового поколения династий животных. В начале плиоцена Гибралтарский пролив был узким и глубоким, что позволяло холодным водам Атлантики беспрепятственно проникать в только что зародившееся Средиземноморье. Но ядра научили нас тому, что история повторяется. В настоящее время Гибралтарский пролив обмелел и превратился в морской порог. Можно представить, что однажды Гибралтарский пролив снова станет перешейком между Атлантическим океаном и средиземноморской пустыней.</p>
+                <p class="article-text">Эта история слишком странная, чтобы быть правдой, но Рейн, Шейда и я вывели ее из анализа ядер, и доказательства ошеломляют. Естественно, наша смелая идея была встречена с большим скептицизмом. Были и сомневающиеся, и критики. Но в итоге каждый раунд перекрестного допроса и реплик только помогал нам перевернуть несколько новых кусочков головоломки.</p>
             </remark>
             <show chara="lallaSighClose" position="left"/>
-            <speak chara="_Lalla">Gibraltar used to be a very important trading hub in the past, who could had imagined it would end up like this.</speak>
+            <speak chara="_Lalla">Гибралтар раньше был очень важным торговым оплотом. Неожиданно, что его так забросили.</speak>
             <show chara="lallaSeriousClose" position="left"/>
-            <speak chara="_Lalla">I wonder how long will Tanger, Ceuta and Tetouan remain on the other side.</speak>
+            <speak chara="_Lalla">Интересно, как долго Танжер, Сеута и Тетуан продержатся на том берегу?</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">Tetouan is Lalla's hometown.</speak>
+            <speak chara="_Shakespeare">Город Тетуан - родной город мисс Лаллы..</speak>
             <show chara="shakesPityClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">May I ask something?</speak>
+            <speak chara="_Bianka">Можно задать вопрос?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Of course.</speak>
+            <speak chara="_Shakespeare">Конечно.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <!-- RENAME: That 「Wall of Asgard」... is it made of Houkai energy? -->
-            <speak chara="_Bianka">That 「Wall of Asgard」... is it made of Honkai energy?</speak>
+            <speak chara="_Bianka">А эта “Стена Асгарда”... она состоит из Хонкай энергии?</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">That seems to be the case according to my adjutant's observations.</speak>
+            <speak chara="_Shakespeare">Судя по наблюдениям моего адъютанта, да, это так.</speak>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">「The average density is approximately 1000HW per meter, touch it and you die」—— I don't understand well the terms she uses, but it sounds horrible.</speak>
+            <speak chara="_Shakespeare">“Средняя плотность энергии поперечного сечения составляет около 1000 мегаватт на квадратный метр, прямой контакт приведет к немедленной смерти”.——</speak>
+            <speak chara="_Shakespeare">Я не очень хорошо понимаю термины, которые она использует, но это звучит довольно пугающе.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
-            <!-- RENAME: ...However there hasn't been any sightings of 「Houkai Beasts」 correct? -->
-            <speak chara="_Rita">...However there hasn't been any sightings of 「Honkai Beasts」 correct?</speak>
+            <speak chara="_Rita">...Однако даже это не вызвало появление Хонкай зверей, верно?</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="left"/>
-            <!-- RENAME: Houkai beast? What's that? -->
-            <speak chara="_Shakespeare">Honkai beast? What's that?</speak>
+            <speak chara="_Shakespeare">Хонкай звери? Что это?</speak>
             <show chara="shakesQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">The 「monsters」 Iron Mask mentioned earlier.</speak>
+            <speak chara="_Bianka">Те самые монстры, о которых рассказывала Железная маска.</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Do they not appear near the 「wall」?</speak>
+            <speak chara="_Bianka">Неужели рядом со стеной действительно не было никого подобного?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">No, I don't think so.</speak>
+            <speak chara="_Shakespeare">Неа.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">But that doesn't change the fact that merely touching the 「Wall of Asgard」 is fatal... the natives who refused to leave their homes and went up in smoke are proof of that.</speak>
+            <speak chara="_Shakespeare">Но прямой контакт со ”Стеной Асгарда” По-прежнему смертелен... Некоторые беженцы, одержимые своей родиной, уже доказали это собственным пеплом.</speak>
             <show chara="shakesPityClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">They went up in smoke...</speak>
+            <speak chara="_Bianka">Собственным пеплом...</speak>
             <show chara="rita17HesitateClose" position="right"/>
-            <!-- RENAME: It appears that besides Houkai energy, there is another kind of energy at play... -->
-            <speak chara="_Rita">It appears that besides Honkai energy, there is another kind of energy at play...</speak>
+            <speak chara="_Rita">Похоже, помимо высокой концентрации Хонкай энергии, есть какой-то иной вид энергии.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">...Once I thought that if I obtained the means, I could change everything.</speak>
+            <speak chara="_Shakespeare">...Когда-то я думала, что я могу всё изменить, пыталась это сделать.</speak>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">I told myself everything would be fine and that fortune was on my side. Which is why——</speak>
+            <speak chara="_Shakespeare">Однако я переоценила свою удачу, вот почему——</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG3-3-1.jpg">
             <bgm src="11_29_themeTesla.mp3" status="start"></bgm>
-            <speak chara="_Shakespeare">——This sword is broken.</speak>
-            <speak chara="_Bianka">Is that... a treasure sword?</speak>
-            <speak chara="_Bianka">...Doesn't look broken to me.</speak>
-            <speak chara="_Shakespeare">...That's because you haven't seen its true form yet.</speak>
+            <speak chara="_Shakespeare">——Это оружие стало таким.</speak>
+            <speak chara="_Bianka">Это... меч?</speak>
+            <speak chara="_Bianka">...Разве он выглядит сломанным?.</speak>
+            <speak chara="_Shakespeare">...Вы еще не видели его истинную форму.</speak>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="CG3-3-2.jpg">
             <bgm src="11_29_themeTesla.mp3" status="continue"></bgm>
-            <speak chara="_Shakespeare">「Good Durindana, unlucky is your plight!」</speak>
-            <speak chara="_Shakespeare">「I've need of you no more; spent is my pride!」</speak>
-            <speak chara="_Shakespeare">「We in the field have won so many fights, combating through so many regions wide」</speak>
-            <speak chara="_Shakespeare">「Beneath the sun reflecting back his rays!」</speak>
-            <speak chara="_Shakespeare">「Relics lay in your seven-colored pattern!」</speak>
-            <speak chara="_Shakespeare">「Red Courage, Orange Intuition, Gold Freedom, Green Ethics, Cyan Prosperity, Blue Reason, Purple Dominance」</speak>
-            <speak chara="_Shakespeare">「You shall become the sharpest blade in the world, wielded by a brave hero worthy of you!」</speak>
-            <speak chara="_Shakespeare">「Just like your name —— Durindana, you shall be unbreakable and unrivaled.」</speak>
+            <speak chara="_Shakespeare">«О храброе оружие, как ты несчастен!»</speak>
+            <speak chara="_Shakespeare">«Сейчас ты бесполезен, но люди все еще любят тебя.»</speak>
+            <speak chara="_Shakespeare">«Древние храбрецы использовали тебя, чтобы выиграть множество сражений. Пусть мы и новички, но не трусы!»</speak>
+            <speak chara="_Shakespeare">«Ах, как ослепителен, прекрасен и свят ты на солнце!»</speak>
+            <speak chara="_Shakespeare">«Твоя семицветная рукоять, что полна священных сокровищ, к которым стремится каждый——»</speak>
+            <speak chara="_Shakespeare">«Красный - храбрость, оранжевый - уверенность, золотой - человеколюбие, зеленый - доброта, голубой - жизненная сила, синий - спокойствие, фиолетовый - благородство!»</speak>
+            <speak chara="_Shakespeare">«Ты самый острый клинок в мире, способный отправить всю грязь в бездонную пропасть.»</speak>
+            <speak chara="_Shakespeare">«——ведь твое имя «Дуриндана», несокрушимость и непобедимость.»</speak>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="CG3-3-1.jpg">
             <bgm src="11_29_themeTesla.mp3" status="continue"></bgm>
-            <speak chara="_Shakespeare">Anyway, the sword can't be used anymore so it's all yours!</speak>
-            <speak chara="_Bianka">W-Wait a moment!</speak>
-            <speak chara="_Bianka">What do you mean you're giving me a broken sword!?</speak>
-            <speak chara="_Bianka">That name 「Durindana」... I feel like I've heard it before... And that needlessly melodramatic act of yours is too suspicious!</speak>
+            <speak chara="_Shakespeare">В любом случае, я уже использовала его, так что теперь он твой!</speak>
+            <speak chara="_Bianka">Стой, стой, стой!</speak>
+            <speak chara="_Bianka">Почему ты отдаешь мне сломанный меч?!</speak>
+            <speak chara="_Bianka">Имя Дуриндана кажется мне знакомым... Но твой поступок выглядит подозрительно!</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="wallGibraltar.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">Well, how to say it...</speak>
+            <speak chara="_Shakespeare">Как бы сказать...</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">If one were to try to forcibly draw out the power of that sword...</speak>
-            <speak chara="_Shakespeare">It would be similar to breaking some kind of contract and all the power stored in the sword would go away!</speak>
+            <speak chara="_Shakespeare">Просто однажды я использовала его принудительно...</speak>
+            <speak chara="_Shakespeare">Похоже, в итоге был нарушен какой-то контракт, и особая сила меч рассеялась!</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Don't tell me...</speak>
-            <speak chara="_Bianka">...You're about to ask for our help to restore the power of that sword, aren't you?</speak>
+            <speak chara="_Bianka">Ты...</speak>
+            <speak chara="_Bianka">...Хочешь использовать нас, чтобы вернуть эти силы, да?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Yup. Exactly.</speak>
+            <speak chara="_Shakespeare">Верно.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">Do you actually expect me to nod and do as you say!?</speak>
+            <speak chara="_Bianka">Эй! Ты думаешь мы согласимся на настолько нелепую вещь?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">...Well, according to what my adjutant says about 「Valkyries」, either you, or perhaps Rita, is the 「True Owner」 of this sword.</speak>
+            <speak chara="_Shakespeare">...Чтож, учитывая слова моего первого помощника о валькириях, вы или Рита, возможно, являетесь истинными владельцами.</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">...What do you mean by that?</speak>
+            <speak chara="_Bianka">...Что это значит?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">The moment when 「Durindana」 unleashes its true power, it does a check to determine the true nature of its 「Owner」.</speak>
+            <speak chara="_Shakespeare">Когда Дуриндана высвобождает свою истинную мощь, он проверяет, соответствует ли «хозяин» его ожиданиям.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Courageous, intuitive, free, virtuous, vigorous, rational and noble.</speak>
+            <speak chara="_Shakespeare">Он должен быть храбрым, уверенным в себе, человеколюбивым, добрым, энергичным, спокойным, благородным.</speak>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">If the seven characteristics aren't met, the power of the sword will be scattered across the world in the form of gems.</speak>
+            <speak chara="_Shakespeare">Пока все эти аспекты не будут распознаны, сила меча будет рассеиваться по уголкам Земли и превращаться в семь драгоценных камней.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">...Sounds like a fairy tale.</speak>
+            <speak chara="_Bianka">...Сказка какая-то.</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">In that case, let me tell you this——</speak>
+            <speak chara="_Shakespeare">Но если я скажу, что——</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">We found one of the seven gems, the 「Gem of Courage」, in the Saloum River at the West of Africa, and the red color of the sword's hilt returned——</speak>
+            <speak chara="_Shakespeare">Экипаж Каледонии недавно побывал на западной точке Африки, в устье реки Салум, где извлек камень Храбрости, после чего на рукояти появился красный камень——</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">——Do you still believe it's a mere fairy tale after seeing this?</speak>
+            <speak chara="_Shakespeare">——Все ещё думаете, что это сказка?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Try holding it. Let it tell you where the remaining six gems are.</speak>
+            <speak chara="_Shakespeare">Держи. Пусть он сам подскажет вам, где разбросаны остальные шесть драгоценных камней.</speak>
             <goto goto="120" clockwise="1"/>
         </scene>
         <scene id="120" background="wallGibraltar.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="back"/>
             <show chara="swordRedClose-up" position="center"/>
-            <text>The moment she touched the sword, a strange feeling overwhelmed the girl's mind.</text>
-            <text>Surprised, she closed her eyes to shut off her vision. That way it would be easier to picture the images that came to her.</text>
+            <text>В момент, когда она взялась за рукоять, почувствовала в своем сознании странное предчувствие.</text>
+            <text>От удивления она закрыла глаза, стараясь уловить больше образов.</text>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="black">
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
-            <text>And she saw six different landscapes——</text>
-            <text>A flower blooming amid a blizzard.</text>
-            <text>An idol dazzling on the stage.</text>
-            <text>A mysterious city surrounded by volcanoes and snowy ridges.</text>
-            <text>A space center near the edge of a desert.</text>
-            <text>A limestone cave glowing like a jewel in a rainforest.</text>
-            <text>A desolated island with statues pointing towards the shore.</text>
-            <text>——And unrelated to those visions...</text>
-            <text>...Without proof whatsoever, the girl felt that if this sword were to awaken its true power, it would become the sharpest blade in the world.</text>
-            <text>No matter the opponent, it would cut right through it as easy as slicing a cake.</text>
-            <text>...No.</text>
-            <text>...That was not a baseless claim.</text>
-            <text>...For an instant, the girl had a taste of how an undefeated warrior in the battlefield would feel like.</text>
-            <text>But she knows very well that is not something she should grasp right now.</text>
-            <text>Her nerves tighten.</text>
-            <text>Goosebumps arise.</text>
-            <text>Cold sweat drops.</text>
+            <text>Она увидела шесть сцен——</text>
+            <text>Цветы, распускающиеся посреди снежной бури.</text>
+            <text>Ослепительный айдол на сцене.</text>
+            <text>Таинственный город, окруженный вулканами и заснеженными горами.</text>
+            <text>Возвышающийся космический центр на краю пустыни.</text>
+            <text>Бездонная голубая пещера, похожая на жемчужину в тропическом лесу.</text>
+            <text>Пустынный остров с разрушающимися статуями на берегу.</text>
+            <text>——И, несмотря на все эти видения...</text>
+            <text>...Она начала безосновательно верить, что завершенное лезвие этого меча будет самым острым в мире.</text>
+            <text>Каким бы не был предмет, меч разрубит его столь же легко, как торт.</text>
+            <text>...Нет.</text>
+            <text>...Эта вера не безосновательна.</text>
+            <text>...На мгновение она почувствовала, как ощущает себя уверенный в себе воин на поле боя.</text>
+            <text>Но девушка очень хорошо знает, что это не то, чего она может ожидать сейчас.</text>
+            <text>Она напряглась.</text>
+            <text>Волосы встали дыбом.</text>
+            <text>По лицу течет холодный пот.</text>
             <goto goto="140" change="#000000"/>
         </scene>
         <scene id="140" background="wallGibraltar.jpg">
@@ -453,90 +451,89 @@
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">...I certainly saw strange 「landscapes」.</speak>
-            <speak chara="_Bianka">And felt some kind of hidden power... that I can't put into words.</speak>
+            <speak chara="_Bianka">Я... видела странное видение.</speak>
+            <speak chara="_Bianka">И... какая-то скрытая... неописуемая... великая сила.</speak>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">...If this sword can really awaken, there is no doubt that it will destroy that 「wall」 easily.</speak>
+            <speak chara="_Bianka">...Если этот меч действительно может пробудиться, то определенно будет способен разрезать эту стену, словно тофу.</speak>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">But where did you get this 「Durindana」—— A weapon on the level of a 「Divine Key」?</speak>
+            <speak chara="_Bianka">Но где вы нашли этот "Дуриндана" 一 оружие, способное посоревноваться с Божественным Ключом?</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">I stumbled upon it.</speak>
+            <speak chara="_Shakespeare">Подобрала его.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">...Excuse me?</speak>
+            <speak chara="_Bianka">...Что?</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">I found it by chance.</speak>
+            <speak chara="_Shakespeare">Подобрала его.</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">An earthquake happened shortly after I met Lalla in Tetouan.</speak>
+            <speak chara="_Shakespeare">Когда я встретила Лаллу в Тетуане, там было землетрясение.</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">The sword fell off a cliff—— And I was lucky enough to be the first one to find it.</speak>
+            <speak chara="_Shakespeare">Эта диковинка упала с обрыва вместе с обломками — к счастью, я была первой, кто обнаружил его.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">...Well, I can't guess what you're thinking, but just so you know the one who gave it the name 「Durindana」 wasn't me.</speak>
+            <speak chara="_Shakespeare">...Что бы вы ни думали, название "Дуриндана" выбрано не мной.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">The first time I touched this seven colored sword, I saw the silhouette of a certain female knight.</speak>
+            <speak chara="_Shakespeare">Когда я впервые взяла в руки это радужное оружие, то увидела силуэт девушки-рыцаря.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Carrying the Carolingian Empire's coat of arms with her, she and her companions fought all over the country against monsters and other evil creatures—— And even made it to the Moon once.</speak>
+            <speak chara="_Shakespeare">Под гербом орла Каролингов она путешествовала по миру с дюжиной своих лучших спутников, покоряя четыре стороны света, сражались со злобными монстрами и демонами - и даже однажды побывали на Луне.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Isn't that...</speak>
+            <speak chara="_Bianka">Это же...</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="left"/>
-            <speak chara="_Shakespeare">Yes, it matches the tale of a certain historical figure.</speak>
+            <speak chara="_Shakespeare">Эти деяния полностью соответствуют характеристике исторической личности..</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">The legendary knight who served under Charles the Great—— Rowland.</speak>
+            <speak chara="_Shakespeare">Легендарный рыцарь, самый могущественный полководец Карла Великого, Роланд.</speak>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">The only inconsistency is... the Rowland from the history I know was definitely a man. A brave, burly man full of muscles.</speak>
+            <speak chara="_Shakespeare">Единственная проблема в том, что... в известной мне истории, Роланд, несомненно, мужчина. Сильный и очень мускулистый мужчина.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">...A man!?</speak>
+            <speak chara="_Bianka">...Мужчина!?</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="shakesDisgustedClose" position="left"/>
-            <speak chara="_Shakespeare">Yes, nothing to be surprised about——</speak>
+            <speak chara="_Shakespeare">Ну да——</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Ah, I see. In your history Rowland was a woman, wasn't he?</speak>
+            <speak chara="_Shakespeare">А. Поняла. В вашей истории, Роланд является женщиной. Правильно?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <!-- RENAME: Yes, she's quite famous as a hero who fought the Houkai—— And although she wasn't a Valkyrie herself, there is no Valkyrie who hasn't heard of her. -->
-            <speak chara="_Bianka">Yes, she's quite famous as a hero who fought the Honkai—— And although she wasn't a Valkyrie herself, there is no Valkyrie who hasn't heard of her.</speak>
+            <speak chara="_Bianka">Да. Она - известная историческая героиня, которая сражалась с Хонкаем, хоть она и не была валькирией, но все валькирии знают о ней.</speak>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">But what's the relationship between 「Durindana」 and Rowland? Her sword was named 「Durandal」——</speak>
+            <speak chara="_Bianka">Но какое отношение "Дуриндана" имеет к Роланд? Её меч назывался "Дюрандаль"——</speak>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Ah——!</speak>
+            <speak chara="_Bianka">A.</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Hahaha! Did you realize it?</speak>
+            <speak chara="_Shakespeare">Хахахаха! Поняла?</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Let me ask you this, just in case——</speak>
+            <speak chara="_Shakespeare">Позволь спросить ещё кое-что——</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Did your Rowland's sword, 「Durandal」, go missing at the end of her legend?</speak>
+            <speak chara="_Shakespeare">Меч Роланда в вашем мире, Дюрандаль, в конце легенды он пропал?</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">...Yes.</speak>
+            <speak chara="_Bianka">...Да.</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">「Durandal」 went missing after she lost her life. I've heard rumors that it was stolen right before the war began but——</speak>
+            <speak chara="_Bianka">После её смерти, Дюрандаль таинственным образом исчез, хотя есть версия, что некий предатель украл его перед войной——</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">But that's——</speak>
+            <speak chara="_Shakespeare">Но ведь возможно——</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <bgm src="noise.mp3" status="start"></bgm>
             <show chara="lallaSeriousClose" position="right"/>
-            <speak chara="_Lalla">Captain! We got a drifter on the 「Caledonia」's course!</speak>
+            <speak chara="_Lalla">Капитан! На поверхности замечен человек! Прямо по курсу Каледонии!</speak>
             <show chara="lallaSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="left"/>
-            <speak chara="_Shakespeare">Just when things were about to get interesting——</speak>
+            <speak chara="_Shakespeare">Тск. Мы так мило беседовали——</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">——But saving lives is more important!</speak>
+            <speak chara="_Shakespeare">——Но спасать жизни важнее!</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">We might be getting a new crew member, people! Hahaha!</speak>
-            <speak chara="_Shakespeare">Come with me!</speak>
+            <speak chara="_Shakespeare">Ребята, похоже мы снова можем пополнить нашу команду! Хахахаха!</speak>
+            <speak chara="_Shakespeare">Все за мной!</speak>
             <end post="U2FsdGVkX19LI5+XVKTLDbEhVqlH"/>
         </scene>
     </story>
