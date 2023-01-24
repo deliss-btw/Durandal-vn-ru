@@ -849,7 +849,7 @@ p {
 .grid_layout {
   position: absolute;
   right: /*35%*/ 2.4rem;
-  bottom: /*43%*/ 0.6rem;
+  bottom: /*43%*/ 2.8rem;
   width: /*30%*/ 15rem;
   height: /*50%*/ 15rem;
   z-index: 1;

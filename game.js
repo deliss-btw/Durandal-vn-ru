@@ -769,8 +769,7 @@ function processAction(act, gotoScene, gotoAction, skipKey, loadKey2) {
         .css(
           'background',
           "url('" +
-            base_url +
-            '/resources/cg/' +
+            'CG/' +
             act.getAttribute('src') +
             "') no-repeat"
         )
@@ -1138,11 +1137,7 @@ function nextChapterBox() {
     .html('<div class="submit-center" onclick="CloseConfirmDialog()"></div>')
     .css(
       'background',
-      "url('" +
-        base_url +
-        '/resources/catalog/' +
-        date_url +
-        "nextChapter.png') no-repeat"
+      "url(CG/nextChapter.png) no-repeat"
     )
     .css('background-size', 'auto 100%')
     .css('background-position', 'center')
@@ -1690,7 +1685,7 @@ function preLoadImagesBegin(imageList) {
     $('.preload').append($tempImage)
   }
   $tempImage = $('<img></img>')
-  tempSrc = base_url + '/resources/catalog/' + date_url + 'nextChapter.png'
+  tempSrc = 'Resources/nextChapter.png'
   $tempImage
     .attr('src', tempSrc)
     .addClass('preload-image')

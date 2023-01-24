@@ -85,7 +85,7 @@
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <text>И сейчас...</text>
             <text>История перенесется назад на 1461 день с 29 февраля 2016 года——</text>
-            <text>До того момента, когда Бьянка Атаегина и Рита Россвайс прибыли в 「Море Кванта」.</text>
+            <text>До того момента, когда Бьянка Атаэгина и Рита Россвайс прибыли в 「Море Кванта」.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="fishingVillage.jpg">
@@ -155,7 +155,7 @@
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Излишне говорить, что до тех пор, пока наша миссия не будет завершена, мы планируем участвовать во всех ваших радостях и печалях.</speak>
             <show chara="biankaConfidentClose" position="left"/>
-            <speak chara="_Bianka">Я Бьянка Атаегина, а это мой адъютант, Рита Россвайс —— Чем мы можем вам помочь?</speak>
+            <speak chara="_Bianka">Я Бьянка Атаэгина, а это мой адъютант, Рита Россвайс —— Чем мы можем вам помочь?</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_MiguelNoName">Хахахаха!</speak>
@@ -210,7 +210,7 @@
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">О море, мой старый друг!</speak>
-            <speak chara="_Miguel">Я благодарю вас за то, что не разбили этот потрепанный корабль, чтобы мы могли сегодня снова плыть!</speak>
+            <speak chara="_Miguel">Я благодарю тебя за то, что не разбило этот потрепанный корабль, чтобы мы могли сегодня снова плыть!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
             <speak chara="_Bianka">...Что с тобой?</speak>

@@ -123,7 +123,7 @@
         </scene>
         <scene id="80" background="submarineEngine.jpg">
             <bgm src="legion.mp3" status="continue"></bgm>
-            <text>Для Бьянки Атаегиной и Риты Россвайс Каледония стала огромной капсулой времени...</text>
+            <text>Для Бьянки Атаэгиной и Риты Россвайс Каледония стала огромной капсулой времени...</text>
             <text>——Как будто они попали в роман Жюля Верна.</text>
             <goto goto="90" change="0"/>
         </scene>
@@ -285,7 +285,7 @@
             <speak chara="_Bianka">——Раз уж вы представились, то, полагаю, теперь наша очередь рассказать о себе.</speak>
             <show chara="biankaProudClose" position="left"/>
             <show chara="rita17SquintClose" position="right" opacity="0.8"/>
-            <speak chara="_Bianka">Я Бьянка Атаегина, а она — мой адъютант Рита Россвайс. Мы - валькирии, пришедшие сюда по приказу Шиксала для исследования этого мира.</speak>
+            <speak chara="_Bianka">Я Бьянка Атаэгина, а она — мой адъютант Рита Россвайс. Мы - валькирии, пришедшие сюда по приказу Шиксала для исследования этого мира.</speak>
             <show chara="biankaProudClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
             <speak chara="_Watt">.....?</speak>
