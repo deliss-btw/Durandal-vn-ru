@@ -200,7 +200,7 @@
             <speak chara="_ManfredNoName">Ма́нфред А́льбрехт фрайхерр фон Рихтго́фен. Пилот, командир 1-го немецкого истребительного авиаполка.</speak>
             <show chara="manfredColdClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">Бьянка Атаэгина. Валькирия, лидер специальной экспедиции Шиксала 「LONELY PANTHALASSA」.</speak>
+            <speak chara="_Bianka">Бьянка Атаегина. Валькирия, лидер специальной экспедиции Шиксала 「LONELY PANTHALASSA」.</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_Manfred">..."Шиксал" и "Валькирия".</speak>
