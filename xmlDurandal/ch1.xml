@@ -76,7 +76,7 @@
             <text>Время начала: 29 февраля 2012 года</text>
             <text>Локация: ██████████ - Море Кванта  </text>
             <text>Цель: ██████████</text>
-            <text>Участники: Бьянка "Дюрандаль" Атаэгина (12 лет), Рита Россвайс (16 лет)</text>
+            <text>Участники: Бьянка "Дюрандаль" Атаегина (12 лет), Рита Россвайс (16 лет)</text>
             <text>Статус: Закрыта</text>
             <text>Рассмотрено: Отто Апокалипсисом</text>
             <goto goto="30" change="#ffffff"/>
@@ -85,7 +85,7 @@
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <text>И сейчас...</text>
             <text>История перенесется назад на 1461 день с 29 февраля 2016 года——</text>
-            <text>До того момента, когда Бьянка Атаэгина и Рита Россвайс прибыли в 「Море Кванта」.</text>
+            <text>До того момента, когда Бьянка Атаегина и Рита Россвайс прибыли в 「Море Кванта」.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="fishingVillage.jpg">
@@ -165,7 +165,7 @@
             <speak chara="_Bianka">...Что смешного?</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_MiguelNoName">Приношу свои извинения! Мы, пожилые люди, просто любим посмеяться. Пожалуйста, не обращайте на это внимания, мисс исследователь.</speak>
+            <speak chara="_MiguelNoName">Приношу свои извинения! Мы, пожилые люди, просто любим посмеяться. Пожалуйста, не обращайте на это внимания, мисс Исследователь.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
