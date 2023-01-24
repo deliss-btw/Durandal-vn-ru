@@ -23,10 +23,10 @@
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
             <text>.....</text>
             <text>Кажется, прошла целая жизнь с тех пор, как он чувствовал свободу</text>
-            <text>Иронично, но сейчас он, в некотором смысле, "наслаждается" абсолютной "свободой".</text>
+            <text>Иронично, но сейчас он в некотором смысле "наслаждается" абсолютной "свободой".</text>
             <text>У него нет ни снов, ни желаний. Никакого смысла в жизни, он словно "свободный" ходячий труп.</text>
             <text>Глас разума неоднократно предупреждал его——</text>
-            <text>——Все эти абсурдные ощущения — галлюцинации, порождаемые телом на грани смерти из-за дисбаланса жидкостей организма.</text>
+            <text>——Все эти абсурдные ощущения — галлюцинации, порождаемые телом на грани смерти из-за дисбаланса жидкости в организме.</text>
             <text>Если меня спасут, все станет лучше.</text>
             <text>Если меня спасут, я буду свободен.</text>
             <goto goto="40" change="#ffffff"/>
@@ -50,7 +50,7 @@
         <scene id="50" background="submarineCabinBlurSunset.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">И так. Кем был этот выживший?</speak>
+            <speak chara="_Shakespeare">Итак. Кем был этот выживший?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="ironWhiteClose" position="right"/>
             <speak chara="_Ironface">“Пилотом”. Это тот, кто управляет машинами, парящими в голубом небе.</speak>
@@ -74,7 +74,7 @@
             <speak chara="_Shakespeare">Подводя итог, ты имеешь в виду, что использовать полет для преодоления стены нельзя, да?</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="ironWhiteClose" position="right"/>
-            <speak chara="_Ironface">Именно. Однако, если самолет можно будет использовать в обычных боях, это, безусловно, будет очень выгодно.</speak>
+            <speak chara="_Ironface">Именно. Однако если самолет можно будет использовать в обычных боях, это, безусловно, будет очень выгодно.</speak>
             <show chara="ironWhiteClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
             <speak chara="_Watt">Предоставьте ремонт мне.</speak>
@@ -113,9 +113,9 @@
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">Т-ты позволила нам плыть на твоем корабле——</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">——Было бы здорово, если бы отплатили тебя за это, да?</speak>
+            <speak chara="_Bianka">——Было бы здорово, если бы мы отплатили тебе за это, да?</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Более того, этот человек солдат, верно? Аристократ с конца Первой мировой, упрямый “летчик-ас”?.</speak>
+            <speak chara="_Bianka">Более того, этот человек - солдат, верно? Аристократ с конца Первой мировой, упрямый “летчик-ас”?.</speak>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">Уверена, он предпочел бы поговорить с валькирией-асом вроде меня, чем с какими-то пиратами, не так ли?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
@@ -172,9 +172,9 @@
             <shake position="right" time="250"></shake>
             <speak chara="_Bianka">Ха?</speak>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Вас спасли от такой ситуации—— и у вас всё ещё нет аппетита, чтобы поесть?</speak>
+            <speak chara="_Bianka">Вас спасли из такой ситуации—— и у Вас всё ещё нет аппетита, чтобы поесть?</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">...Неужели такой человек, как вы, не насытился бы, просто выпив немного медовой воды?</speak>
+            <speak chara="_Bianka">...Неужели такой человек, как Вы, не насытился бы, просто выпив немного медовой воды?</speak>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="_Bianka">Вы сами верите в такую чушь? !.</speak>
@@ -186,13 +186,13 @@
             <speak chara="_Bianka">.....</speak>
             <speak chara="_Bianka">Хех. Вы, мистер Пилот, даже не представились и начинаете дискриминировать людей по возрасту?</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Кажется, зря я пыталась быть доброй с вмаи.</speak>
+            <speak chara="_Bianka">Кажется, зря я пыталась быть доброй с вами.</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="manfredAngryClose" position="left"/>
             <speak chara="_ManfredNoName">.....</speak>
             <show chara="manfredAngryClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Намереваетесь остаться анонимным перед теми, кто вас спас?</speak>
+            <speak chara="_Bianka">Намереваетесь остаться анонимным перед теми, кто Вас спас?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="manfredAngryClose" position="left"/>
             <speak chara="_ManfredNoName">.....</speak>
@@ -231,7 +231,7 @@
             <show chara="manfredQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">Тск——</speak>
-            <speak chara="_Bianka">Какой беспокойный вы человек.</speak>
+            <speak chara="_Bianka">Какой беспокойный Вы человек.</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="manfredAngryClose" position="left"/>
             <speak chara="_Manfred">...?</speak>
@@ -239,11 +239,11 @@
             <show chara="biankaSneerClose" position="right"/>
             <speak chara="_Bianka">Позвольте сказать иначе:</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">То, что лежит перед вами, не что иное, как туша нашего последнего врага.</speak>
+            <speak chara="_Bianka">То, что лежит перед Вами, не что иное, как туша нашего последнего врага.</speak>
             <speak chara="_Bianka">Убийство столь огромного морского чудовища дало нам такие обычные вещи, как мясо и кости. Мясо нельзя съесть сразу, да и хранить его неудобно.</speak>
-            <speak chara="_Bianka">Итак, то, что сейчас перед вами, это просто кухонные отходы. Ничем не отличается от «морских водорослей» или «креветок».</speak>
+            <speak chara="_Bianka">Итак, то, что сейчас перед Вами, это просто кухонные отходы. Ничем не отличается от «морских водорослей» или «креветок».</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">——Теперь вы довольны?</speak>
+            <speak chara="_Bianka">——Теперь Вы довольны?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="manfredAngryClose" position="left"/>
             <speak chara="_Manfred">...Ты!</speak>
@@ -251,12 +251,12 @@
             <speak chara="_Manfred">(Урчание в животе...)</speak>
             <show chara="manfredSadClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">Видите, вы так сопротивляетесь, но ваше тело очень честное.</speak>
+            <speak chara="_Bianka">Видите, Вы так сопротивляетесь, но ваше тело очень честное.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...Или вы предпочли бы продолжить дрейфовать?</speak>
+            <speak chara="_Bianka">...Или Вы предпочли бы продолжить дрейфовать?</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Хотели бы ваши товарищи видеть, как вы мучаете себя вот так? !</speak>
+            <speak chara="_Bianka">Хотели бы Ваши товарищи видеть, как Вы мучаете себя вот так? !</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="manfredSadClose" position="left"/>
             <speak chara="_Manfred">.....</speak>
@@ -264,7 +264,7 @@
             <show chara="biankaConfidentClose" position="right"/>
             <speak chara="_Bianka">Ешьте.</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Мне тоже... приходилось прощаться с людьми, прямо как вам.</speak>
+            <speak chara="_Bianka">Мне тоже... приходилось прощаться с людьми, прямо как Вам.</speak>
             <show chara="biankaConfidentClose" position="right"/>
             <speak chara="_Bianka">Слушайте меня пока едите, ладно?</speak>
             <goto goto="70" clockwise="1"/>
@@ -292,7 +292,7 @@
         </scene>
         <scene id="110" background="benghuai3.jpg">
             <bgm src="12_14_fadeAway.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">Это сама природа, безэмоциональная, никогда не испытывающая удовлетворения или сострадания.</speak>
+            <speak chara="_Bianka">Это сама природа. Безэмоциональная, никогда не испытывающая удовлетворения или сострадания.</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="benghuai4.jpg">
@@ -332,7 +332,7 @@
         <scene id="155" background="12_12_cloudSky.jpg">
             <bgm src="12_14_Sonnet_18.mp3" status="continue"></bgm>
             <speak chara="_Bianka">Это было незабываемое время.</speak>
-            <speak chara="_Bianka">Если вам нужно описать это словами...</speak>
+            <speak chara="_Bianka">Если Вам нужно описать это словами...</speak>
             <speak chara="_Bianka">Возможно, стихотворение, которому она нас научила, будет самым подходящим для этого.</speak>
             <goto goto="160" change="#ffffff"/>
         </scene>
@@ -384,7 +384,7 @@
             <bgm src="12_14_fadeAway.mp3" status="continue"></bgm>
             <speak chara="_Bianka">На самом деле, весной того года выжившая посетила наш детский дом.</speak>
             <speak chara="_Bianka">Удивительно, но об Отряде она мало что вспоминала, только рассказывала о "школе", где сейчас преподает.</speak>
-            <speak chara="_Bianka">...В то время я думала, что она просто использует свое положение для "вербовки" студентовя.</speak>
+            <speak chara="_Bianka">...В то время я думала, что она просто использует свое положение для "вербовки" студентов.</speak>
             <speak chara="_Bianka">Естественно, я была возмущена таким "неблагодарным" поведением.</speak>
             <speak chara="_Bianka">Но в ответ на мой гнев она сказала мне——</speak>
             <goto goto="220" change="0"/>
@@ -410,12 +410,12 @@
             <show chara="biankaConfidentClose" position="right"/>
             <speak chara="_Bianka">Вскоре после этого я записалась на обучение Валькирий в штаб-квартире.</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Я не решался сразу идти в ту школу, о которой она говорила——</speak>
+            <speak chara="_Bianka">Я не решалась сразу идти в ту школу, о которой она говорила——</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Но их система была столь мягкой, что мне потребовались бы годы, прежде чем я смогла бы стать полноценной валькирией.</speak>
+            <speak chara="_Bianka">Но их система была столь щадящей, что мне потребовались бы годы, прежде чем я смогла бы стать полноценной валькирией.</speak>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">...Вы можете считать, что я просто "ребенок-солдат", но я также имею право думать, что в обучении пилотов, которое вы прошли, нет ничего особенного.</speak>
-            <speak chara="_Bianka">Я действующая А-ранговая Валькирия, солдат, видевший тот же ад, что и вы.</speak>
+            <speak chara="_Bianka">Я действующая А-ранговая Валькирия, солдат, видевший тот же ад, что и Вы.</speak>
             <speak chara="_Bianka">——Более того, вы были измучены смертью вашего товарища и превратились в никудышного человека.</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="manfredQuestionClose" position="left"/>
@@ -424,7 +424,7 @@
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">Тщательно обдумай это, начни смотреть только вперед, солдат.</speak>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">Подумай, как можно исполнить мечты своих товарищей в этом новом мире.</speak>
+            <speak chara="_Bianka">Подумай, как можно исполнить мечты твоих товарищей в этом новом мире.</speak>
             <goto goto="250" clockwise="1"/>
         </scene>
         <scene id="250" background="submarineCabinBlurDeep.jpg">
@@ -435,7 +435,7 @@
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">Не знаю.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">В любом случае, я сказала то, что должна была... Достоин ли он того, чтобы быть чем то большим, зависит от него.</speak>
+            <speak chara="_Bianka">В любом случае, я сказала то, что должна была... Достоин ли он того, чтобы быть чем-то большим, зависит от него.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Хахахахаха!</speak>
@@ -453,7 +453,7 @@
             <speak chara="_Shakespeare">А. Кстати говоря... каково твое представление о том, куда мы отправимся завтра?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka" remark="next">…вы про “Александрию”?</speak>
+            <speak chara="_Bianka" remark="next">…Вы про “Александрию”?</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <remark post="U2FsdGVkX1+eKLKx5fPAhMd10Pz0">
                 <p class="article-text-h">Примечание:</p>
@@ -478,7 +478,7 @@
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Процветающая династическая столица? Одинокий обломок цивилизации?</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Всё это правда и не правда одновременно.</speak>
+            <speak chara="_Shakespeare">Всё это правда и неправда одновременно.</speak>
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Александрия - это живой город, полный убожества и красоты.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
