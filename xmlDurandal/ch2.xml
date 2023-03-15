@@ -30,7 +30,7 @@
             <speak chara="_Miguel">...Нет. Если честно, я никогда в жизни не видел ничего подобного.</speak>
             <speak chara="_Miguel">Металлический корабль... разорвал брюхо Левиафана, будто оно было бумажным. И этот корабль может нырять под воду...</speak>
             <show chara="cervantesShoutClose-up" position="center"/>
-            <speak chara="_Miguel">——Все корабли через 400 лет такие хорошие?</speak>
+            <speak chara="_Miguel">——Все корабли через 400 лет так хороши?</speak>
             <show chara="biancaSighClose-up" position="center"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biancaSneerClose-up" position="center"/>
@@ -130,7 +130,7 @@
         <scene id="90" background="submarineCorridor.jpg">
             <bgm src="legion.mp3" status="continue"></bgm>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Дизайн в конце 19-го и начале 20-го веков……</speak>
+            <speak chara="_Bianka">Дизайн конца 19-го и начала 20-го веков……</speak>
             <show chara="biankaSneerClose" position="left"/>
             <speak chara="_Bianka">...Откуда у вас взялся этот "корабль-амфибия"?</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
@@ -148,14 +148,14 @@
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">..Итак, откуда взялась эта подводная лодка?</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Судя по твоему платью, ты не из 20-го века, не так ли?!</speak>
+            <speak chara="_Bianka">Судя по твоему наряду, ты не из 20-го века, не так ли?!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="lallaNormalClose" position="right"/>
             <speak chara="_Lalla">Да, верно.</speak>
             <show chara="lallaSighClose" position="right"/>
             <speak chara="_Lalla">Но не стоит так волноваться——</speak>
             <show chara="lallaSmileClose" position="right"/>
-            <speak chara="_Lalla">Капитан сам придет позже чтобы ответить на вопросы, я не могу заставить его прибыть.</speak>
+            <speak chara="_Lalla">Капитан сама придет позже чтобы ответить на вопросы, я не могу поторопить её.</speak>
             <show chara="lallaSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">...</speak>
@@ -175,7 +175,7 @@
         <scene id="110" background="submarineCabinBlur.jpg">
             <bgm src="11_15_shakespeareTheme.mp3" status="continue"></bgm>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">Тск. Пусть ты и пират, но говоришь и ведешь себя как актер.</speak>
+            <speak chara="_Bianka">Тск. Пусть ты и пират, но говоришь и ведешь себя как актрисса.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_ShakespeareBarbarossa">Искренне благодарю вас за добрые слова в адрес "Слуг Короля"</speak>
@@ -227,7 +227,7 @@
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Ого, похоже, наш маленький рыцарь беспокоится о порядке.</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">...точно. Почему бы нам не последовать этикету и не представиться должным образом?</speak>
+            <speak chara="_Shakespeare">...Точно. Почему бы нам не последовать этикету и не представиться должным образом?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">...А?</speak>
@@ -252,7 +252,7 @@
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">(...Джеймс Уатт? Тот, кто создал первый паровой двигатель? Почему он выглядит младше меня...)</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">——"Наутилус" было неплохим названием, но ради того чтобы почтить старания шотландского парня, команда настояла на новом названии.</speak>
+            <speak chara="_Shakespeare">——"Наутилус" — неплохое название, но ради того чтобы почтить старания шотландского парня, команда настояла на новом названии.</speak>
             <show chara="shakesConfidentClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Разве ты не хотела сменить его название?</speak>
@@ -285,7 +285,7 @@
             <speak chara="_Bianka">——Раз уж вы представились, то, полагаю, теперь наша очередь рассказать о себе.</speak>
             <show chara="biankaProudClose" position="left"/>
             <show chara="rita17SquintClose" position="right" opacity="0.8"/>
-            <speak chara="_Bianka">Я Бьянка Атаегина, а она — мой адъютант Рита Россвайс. Мы - валькирии, пришедшие сюда по приказу Шиксала для исследования этого мира.</speak>
+            <speak chara="_Bianka">Я Бьянка Атаэгина, а она — мой адъютант Рита Россвайс. Мы - валькирии, пришедшие сюда по приказу Шиксала для исследования этого мира.</speak>
             <show chara="biankaProudClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
             <speak chara="_Watt">.....?</speak>
@@ -311,7 +311,7 @@
             <speak chara="_Shakespeare">Ахахахахахаха!</speak>
             <show chara="shakesLaughClose" position="right" opacity="0.8"/>
             <show chara="ironRedClose" position="left"/>
-            <speak chara="_Ironface">...Капитан, проявите выдержку</speak>
+            <speak chara="_Ironface">...Капитан, проявите выдержку.</speak>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">Эй!</speak>
             <speak chara="_Bianka">О чем этот красноголовый карлик говорит!?</speak>
@@ -321,7 +321,7 @@
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">...Позвольте я сформулирую это так.</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">Поначалу я не имела ни малейшего понятия, что это за Шиксал</speak>
+            <speak chara="_Shakespeare">Поначалу я не имела ни малейшего понятия, что это за Шиксал.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">...Чего?</speak>
@@ -336,7 +336,7 @@
             <speak chara="_Shakespeare">——Перед лицом этих страданий, первой, кто оказал сопротивление, оказалась организация под названием "Шиксал".</speak>
             <speak chara="_Shakespeare">В наших мирах нет никого, кому был бы известен Шиксал.</speak>
             <speak chara="_Shakespeare">Для сражений с монстрами Шиксал выбирает женщин с потенциалом и превращает их в воинов, которых называют "Валькириями"</speak>
-            <speak chara="_Shakespeare">Эти Валькирии имеют высокую сопротивляемость к Эрозии Хонкая, и, в свою очередь, используют её для борьбы за человечество.</speak>
+            <speak chara="_Shakespeare">Эти Валькирии имеют высокую сопротивляемость к заражению Хонкаем, и, в свою очередь, используют её для борьбы за человечество.</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">——Самопровозглашенные Валькирии, в вашем мире это правда?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
@@ -347,7 +347,7 @@
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">Из твоих уст это звучит странно, но...</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Да. То, что ты сказал... правда.</speak>
+            <speak chara="_Bianka">Да. То, что ты сказала... правда.</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Итак, вы двое—— мой следующий совет должен иметь для вас хоть какое-то значение.</speak>
@@ -366,9 +366,9 @@
             <show chara="shakesColdClose" position="right"/>
             <speak chara="_Shakespeare">Я не имею в виду, что вы не сможете их пополнять, просто скорость пополнения будет раз в сотню медленнее, чем обычно.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Наша Каледония даже после масштабной модификации может нести лишь 6 торпед </speak>
+            <speak chara="_Shakespeare">Наша Каледония даже после масштабной модификации может нести лишь 6 торпед.</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">...или же ваши тренировки сделали так, что вы ни на что не способны без Хонкая?</speak>
+            <speak chara="_Shakespeare">...Или же ваши тренировки сделали так, что вы ни на что не способны без Хонкая?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Не смотри на меня свысока!</speak>
@@ -427,7 +427,7 @@
             <speak chara="_Bianka">Хаа...Хаа...!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">Сильно...</speak>
+            <speak chara="_Rita">Сильны...</speak>
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Нет-нет-нет, вы и правда потрясающие воины.</speak>
             <show chara="shakesColdClose" position="right"/>
@@ -482,16 +482,16 @@
             <speak chara="_Rita">...Хорошо, Бьянка-сама.</speak>
             <show chara="rita17SquintClose" position="right"/>
             <bgm src="11_16_themeOtto.mp3" status="start"></bgm>
-            <speak chara="_Rita">Для начала—— Знаете что такое "Море Кванта"?</speak>
+            <speak chara="_Rita">Для начала—— Знаете что такое "Квантовое Море"?</speak>
             <goto goto="130" clockwise="1"/>
         </scene>
         <scene id="130" background="11_15_gallery.jpg">
             <bgm src="11_16_themeOtto.mp3" status="continue"></bgm>
             <show chara="ottoSuitsKindFar" position="back"/>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <speak chara="_Otto">Простыми словами, ваша задача состоит в том, чтобы отслеживать состояние измерения, называемого "Морем Кванта".</speak>
-            <speak chara="_Otto">А также исследовать структуру, называемую "Эфирным Якорем"</speak>
-            <speak chara="_Otto">С математической точки зрения "Море Кванта" не принадлежит к известным нам 4 измерениям, а представляет собой огромную категорию "складывающихся плоскостей", существующих параллельно нам.</speak>
+            <speak chara="_Otto">Простыми словами, ваша задача состоит в том, чтобы отслеживать состояние измерения, называемого "Квантовым Морем".</speak>
+            <speak chara="_Otto">А также исследовать структуру, называемую "Эфирным Якорем".</speak>
+            <speak chara="_Otto">С математической точки зрения "Квантовое Море" не принадлежит к известным нам 4 измерениям, а представляет собой огромную категорию "складывающихся плоскостей", существующих параллельно нам.</speak>
             <speak chara="_Otto">"Эфирный Якорь" - это топологическое преобразование, существующее между "многообразием пространств".</speak>
             <speak chara="_Otto" remark="next">Также вам предстоит выяснить, естественно его происхождение или же искусственно.</speak>
             <remark post="U2FsdGVkX18NMIcI27DMkplacYO6">
@@ -499,16 +499,16 @@
                 <p class="article-text">Многообразие (Manifold) — пространство, локально сходное с евклидовым. Евклидово пространство является самым простым примером многообразия. Многообразие может быть сформировано путем "склеивания" и "сгибания".</p>
                 <p class="article-text">Бернхард Риман был первым, кто выполнил работу по расширению многообразий до больших размеров. На самом деле, термин "Manifold" происходит от немецкого "Mannigfaltigkeit"("Многообразие" на китайском происходит от творчества г-на Цзяна Цзехана)</p>
             </remark>
-            <speak chara="_Otto">В отличие от классического времени и пространства, в котором мы живем, "Море Кванта" можно описать как масштабное фрагментирование——</speak>
+            <speak chara="_Otto">В отличие от классического времени и пространства, в котором мы живем, "Квантовое Море" можно описать как масштабное фрагментирование——</speak>
             <speak chara="_Otto">Основные законы физики будут продолжать меняться по мере смены координат, в результате чего миры будут нестабильны, как пузыри——</speak>
             <speak chara="_Otto">——Но даже при таком фрагментировании существуют некие "островки стабильности", которые "закреплены" Эфирными Якорями.</speak>
             <speak chara="_Otto">Те миры, также как и наш, имеют свой набор базовых законов физики.</speak>
             <speak chara="_Otto">Давайте я просто скажу вам свой вывод:</speak>
-            <speak chara="_Otto">"Проекция" Солнечной системы на Море Кванта чрезвычайно близка к координатам Эфирного Якоря</speak>
-            <speak chara="_Otto">Это значит, что если мы проследим за генерацией "Проекции", то сможем переместиться в Море Кванта</speak>
+            <speak chara="_Otto">"Проекция" Солнечной системы на Квантовое Море чрезвычайно близка к координатам Эфирного Якоря.</speak>
+            <speak chara="_Otto">Это значит, что если мы проследим за генерацией "Проекции", то сможем переместиться в Квантовое Море.</speak>
             <speak chara="_Otto">...Возможно, мы могли бы увидеть "Клонированную Землю", во многом похожую на нашу.</speak>
             <speak chara="_Otto">——Для нас это будут невероятно ценные данные.</speak>
-            <speak chara="_Otto">К счастью, используя материалы прошлой циливизации, мы смогли создать экспериментальные устройства, позволяющие перемещаться в Море Кванта и из него——</speak>
+            <speak chara="_Otto">К счастью, используя материалы прошлой циливизации, мы смогли создать экспериментальные устройства, позволяющие перемещаться в Квантовое Море и из него——</speak>
             <speak chara="_Otto">——Это устройство называется "Гений".</speak>
             <speak chara="_Otto">Теоретически, с помощью "Гения", человек может в любое время переместиться из Проекции——</speak>
             <speak chara="_Otto">Но если вы захотите перейти в Проекцию со стороны реальности——</speak>
@@ -524,7 +524,7 @@
             <show chara="rita17SquintClose" position="right"/>
             <speak chara="_Rita">...Это если в двух словах.</speak>
             <show chara="rita17SmileClose" position="right"/>
-            <speak chara="_Rita">Наша цель - исследование "Эфирного якоря"—— есть ли у вас что-нибудь о нём?</speak>
+            <speak chara="_Rita">Наша цель - исследование "Эфирного якоря"—— знаете ли вы что-нибудь о нём?</speak>
             <show chara="rita17SmileClose" position="right" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="left"/>
             <speak chara="_Miguel">Ни малейшего понятия... Я не понял и половины из сказанного тобой, ахахаха.</speak>
@@ -537,7 +537,7 @@
             <show chara="ironBlueClose" position="left"/>
             <speak chara="_Ironface">В любом случае, их Епископ знает своё дело.</speak>
             <show chara="ironWhiteClose" position="left"/>
-            <speak chara="_Ironface">Итак... далее позвольте мне взять на себя объяснение ситуации внутри Моря Кванта.</speak>
+            <speak chara="_Ironface">Итак... далее позвольте мне взять на себя объяснение ситуации внутри Квантового Моря.</speak>
             <end post="U2FsdGVkX19isr5qAfmCyerhHwtc"/>
         </scene>
     </story>
