@@ -74,9 +74,9 @@
             <text>На первой странице этого конфиденциального документа написано следующее:</text>
             <text>Сверхсекретная миссия："LONELY PANTHALASSA" </text>
             <text>Время начала: 29 февраля 2012 года</text>
-            <text>Локация: ██████████ - Море Кванта  </text>
+            <text>Локация: ██████████ - Квантовое Море  </text>
             <text>Цель: ██████████</text>
-            <text>Участники: Бьянка "Дюрандаль" Атаегина (12 лет), Рита Россвайс (16 лет)</text>
+            <text>Участники: Бьянка "Дюрандаль" Атаэгина (12 лет), Рита Россвайс (16 лет)</text>
             <text>Статус: Закрыта</text>
             <text>Рассмотрено: Отто Апокалипсисом</text>
             <goto goto="30" change="#ffffff"/>
@@ -85,7 +85,7 @@
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <text>И сейчас...</text>
             <text>История перенесется назад на 1461 день с 29 февраля 2016 года——</text>
-            <text>До того момента, когда Бьянка Атаегина и Рита Россвайс прибыли в 「Море Кванта」.</text>
+            <text>До того момента, когда Бьянка Атаэгина и Рита Россвайс прибыли в 「Квантовое Море」.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="fishingVillage.jpg">
@@ -186,7 +186,7 @@
             <speak chara="_MiguelNoName">——Они не могут сравниться с героями, которые своими глазами узрели ад.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">Откуда ты знаешь...</speak>
+            <speak chara="_Rita">Откуда вы знаете...</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_MiguelNoName">Хахаха, когда ты доживешь до моего возраста, ты сможешь это определить, просто посмотрев кому-нибудь в глаза!</speak>
