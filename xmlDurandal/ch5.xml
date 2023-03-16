@@ -290,7 +290,7 @@
             <speak chara="_Bianka">Кто? Пожалуйста, выражайся яснее——</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="mailboxFar" position="left"/>
-            <speak chara="_mechineRed">Добро пожаловать в Александрию——— Джеймс Уотт-сан и неназванная юная леди.</speak>
+            <speak chara="_mechineRed">Добро пожаловать в Александрию——— Джеймс Уатт-сан и неназванная юная леди.</speak>
             <show chara="mailboxFar" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
