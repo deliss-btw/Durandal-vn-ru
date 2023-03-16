@@ -325,130 +325,129 @@
             <speak chara="_Watt">М-м-м-м-мне так ж-жаль! Э-это было не с-специально.</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Вздох...</speak>
+            <speak chara="_Bianka">Эхх...</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Well, it's no big deal. Don't lose your composure so easily.</speak>
+            <speak chara="_Bianka">Ладно, это не так уж важно. Посмотри, как ты растерялся.</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">And it's not my real birthday anyway... It's what a teacher at the orphanage decided for me.</speak>
+            <speak chara="_Bianka">Кроме того, это не настоящий день рождения... просто врач в санатории заполнил так.</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">T-They decided it without your permission?</speak>
+            <speak chara="_Watt">З-заполнил? Д-дату рождения?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Yes. I don't know when I was born—— And New Year's Day is easy to remember.</speak>
+            <speak chara="_Bianka">Угу. Я все равно не знаю свою точную дату рождения, так что я могу просто взять Новый год и использовать его дату для удобства. Не так ли?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">...Makes sense.</speak>
+            <speak chara="_Watt">...Ну, кажется, это имеет смысл.</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Well? Where are we going now?</speak>
+            <speak chara="_Bianka">Ну что? Куда пойдем дальше?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">Hmmm.</speak>
+            <speak chara="_Watt">Ээ...эмм...</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">Ah, I know!</speak>
+            <speak chara="_Watt">А, точно!</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">W-We could hire a robot guide since the captain said she would pay for it.</speak>
+            <speak chara="_Watt">К-как насчет того, чтобы нанять робота-гида? В любом случае, капитан за нас заплатит.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Please wait. Not only the police are robots, but also the tour guides?</speak>
+            <speak chara="_Bianka">Постой. Роботы выполняют роль не только полиции, но и гидов?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">Y-Yes. Isn't this city amazing?</speak>
+            <speak chara="_Watt">Д-да. Вот почему этот город называют удивительным.</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Hm... I'm curious about who's managing these robots. If it is...</speak>
+            <speak chara="_Bianka">Ну... я немного беспокоюсь о том, кто отвечает за этих роботов... на всякий случай...</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="wattSmileClose" position="left"/>
-            <speak chara="_Watt">The 「City Administration Group」 is in charge of them—— They do it from a place called 「City Hall」—— They also use robots to maintain safety and collect taxes.</speak>
+            <speak chara="_Watt">«Ассоциация городского управления» — также известная как «Мэрия» — они используют роботов для поддержания правопорядка и сбора налогов.</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">...Who are the members of this group?</speak>
+            <speak chara="_Bianka">...Тогда кто же члены этой ассоциации?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">An election is held each year to select people from among the citizens.</speak>
+            <speak chara="_Watt">Они избираются непосредственно гражданами и должны сменяться раз в год.</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Actually, the system is self-maintained so anyone can do it. The job is akin to jury duty in a British court.</speak>
+            <speak chara="_Watt">Фактически, поскольку здешняя машинная система автономная, любой может выполнять необходимые обязанности. Работа сродни "присяжным" британского суда.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">I-Is that so. Surprisingly advanced.</speak>
+            <speak chara="_Bianka">Э-это... на удивление, очень продвинуто.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Shall we move on?</speak>
+            <speak chara="_Bianka">Кстати, когда ты говоришь длинными предложениями, то перестаешь заикаться, да?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">R-Right.</speak>
+            <speak chara="_Watt">Д-да?</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">I-I'm not sure where to go...</speak>
+            <speak chara="_Watt">Я.. Я и сам не знаю.</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">Oh, look! I-It's a guide robot!</speak>
+            <speak chara="_Watt">Ах, смотрите! Э-это робот-экскурсовод!</speak>
             <goto goto="70" change="#ffffff"/>
         </scene>
         <scene id="70" background="alexandriaStreetCenter.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="beaconFar" position="center"/>
-            <speak chara="_guideLighthouse">Welcome to Alexandria.</speak>
+            <speak chara="_guideLighthouse">Добро пожаловать в Александрию.</speak>
             <show chara="beaconFar" position="center"/>
-            <speak chara="_guideLighthouse">Information on basic services is free. If you need a tour guide, please provide your ID and insert 3 Drachma.</speak>
+            <speak chara="_guideLighthouse">Этот робот может предоставить вам основные справочники бесплатно; если вам нужен сопровождающий гид, внесите три драхмы и подтвердите свою личность.</speak>
             <hide position="center"></hide>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Drachma? What's that?</speak>
+            <speak chara="_Bianka">Драхма? Что это?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">M-Money. Money is called 「Drachma」 here, it's a Greek word.</speak>
+            <speak chara="_Watt">Д-деньги. Валюта, выпущенная здесь, называется "драхма". Это с греческого.</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">It may not look like it, but each Drachma is equal to 10 grains of gold—— Surprisingly expensive.</speak>
+            <speak chara="_Watt">Хотя на вид 1 драхма выглядит неважно, на самом деле она эквивалентна 10 гранам золота — содержание золота в валюте довольно велико.</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">And what does this 「10 grain」 refer to?</speak>
+            <speak chara="_Bianka">Тск. Что за “10 гран”?</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_ThalesNoName">「Grain」 is the average weight of 「1 gram of wheat」. Gold is precious so we use small quantities.</speak>
+            <speak chara="_ThalesNoName">"Гран" - средний вес пшеничного зерна. Золото очень ценно, поэтому люди используют такую мелкую единицу: как говорится, «копейка на счету».</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_ThalesNoName">And now... the opportunity to save money has presented itself!</speak>
+            <speak chara="_ThalesNoName">Говоря о копейках... теперь у вас есть шанс сэкономить!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...What do you mean? Rather, who are you?</speak>
+            <speak chara="_Bianka">...Что ты имеешь в виду? Нет, постой, ты вообще кто?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_ThalesNoName">Me? I'm someone who can give you a better tour than any robot—— For the mere price of 2 Drachma!</speak>
+            <speak chara="_ThalesNoName">Я? Я могу провести для вас экскурсию лучше, чем любой робот - всего за две драхмы!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">...So you're also a tour guide?</speak>
+            <speak chara="_Bianka">...То есть вы гид?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_ThalesNoName">Guide? No way, that line of work is too much work for me.</speak>
+            <speak chara="_ThalesNoName">Гид? Нет, нет, нет, я не люблю такую монотонную работу.</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_ThalesNoName">My tour is fundamentally different because my train of thought is fundamentally different than that of a robot.</speak>
+            <speak chara="_ThalesNoName">Между моим объяснением и объяснением робота есть существенная разница, которая заключается в различиях моего образа мышления и образом мышления робота.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_ThalesNoName">In short, I'm a philosopher and I don't see things the same way as them.</speak>
+            <speak chara="_ThalesNoName">Другими словами, я философ, а они нет.</speak>
             <show chara="thalesStoneClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Err... what are you going on about?</speak>
+            <speak chara="_Bianka">Э... о чем ты, черт возьми, говоришь?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_ThalesNoName">Hmph. Seems there is a small difference in our perception——</speak>
+            <speak chara="_ThalesNoName">Что ж, похоже, между нашим пониманием есть большая разница...</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_ThalesNoName">It means I must prove my value for you to recognize it!</speak>
+            <speak chara="_ThalesNoName">Другими словами, мне нужно, чтобы вы получше узнали меня. Тогда я смогу доказать свое хорошее качество!</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Like I'm saying... I don't know where to start with you—— Can't you do something about how you talk!?</speak>
+            <speak chara="_Bianka">В любом случае... Даже не знаю как назвать эту даму, - не могли бы вы перестать говорить таким странным тоном?!</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_ThalesNoName">I know what you mean! But I can't!</speak>
+            <speak chara="_ThalesNoName">Нет проблем! Но это невозможно!</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_ThalesNoName">I am Thales of Miletus, Director of the Metaphysics Institute of the Great Library and Commander of the Three Forces—— A true philosopher.</speak>
+            <speak chara="_ThalesNoName">Здравствуйте, меня зовут Фалес Милетский, я директор Института Метафизики Александрийской библиотеки, а также командующая тремя армиями—— истинный философ.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Here's my business card.</speak>
+            <speak chara="_Thales">Ладно, вот моя визитная карточка.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">...Wow, it's really someone from the 「Great Library」! Awesome!</speak>
+            <speak chara="_Watt">…Ого! И правда сотрудница “Александрийской библиотеки”! Потрясающе!</speak>
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka" remark="next">Great library? You mean the one that was burned several times in history——</speak>
+            <speak chara="_Bianka" remark="next">...Александрийская библиотека? Разве её не сожгли несколько раз——</speak>
             <remark post="U2FsdGVkX19gYEf0Fz9CByG4C5ci">
-                <p class="article-text-h">Note：</p>
-                <!-- TODO -->
-                <p class="article-text">大图书馆在历史上曾遭受过两次灾难性的焚毁：于公元前47年凯撒征服埃及时、以及公元3世纪末叶的内战时期。根据爱德华·吉本 (Edward Gibbon) 的说法，公元391年，大图书馆位于塞拉比斯神庙的分馆也毁于基督徒之手，导致其藏书和建筑最终无一幸存。</p>
+                <p class="article-text-h">Примечание：</p>
+                <p class="article-text">Александрийская библиотека за свою историю перенесла два катастрофических пожара: во время завоевания Египта Цезарем в 47 г. до н.э. и во время гражданской войны в конце 3 века н.э. По словам Эдварда Гиббона, филиал библиотеки в храме Сераписа также был разрушен христианами в 391 году нашей эры, в результате чего не осталось ни одной из его коллекций и зданий.</p>
             </remark>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="wattSchemingClose" position="right"/>
