@@ -22,7 +22,7 @@
         <scene id="30" background="12_12_blackCloud.jpg">
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
             <text>.....</text>
-            <text>Кажется, прошла целая жизнь с тех пор, как он чувствовал свободу</text>
+            <text>Кажется, прошла целая жизнь с тех пор, как он чувствовал свободу.</text>
             <text>Иронично, но сейчас он в некотором смысле "наслаждается" абсолютной "свободой".</text>
             <text>У него нет ни снов, ни желаний. Никакого смысла в жизни, он словно "свободный" ходячий труп.</text>
             <text>Глас разума неоднократно предупреждал его——</text>
@@ -37,7 +37,7 @@
             <text>——«Странные мысли» вечно напоминали ему:</text>
             <text>Твои товарищи мертвы.</text>
             <text>Твоя родина вне этой иллюзии.</text>
-            <text remark="next">Нельзя, как говорил один философ, 「умереть победоносно, окруженным теми, кто на деются и дают священный обет.」</text>
+            <text remark="next">Нельзя, как говорил один философ, 「умереть победоносно, окруженным теми, кто надеются и дают священный обет.」</text>
             <text remark="next">Нельзя, словно воин, 「умереть в борьбе и растратить великую душу」.</text>
             <remark post="U2FsdGVkX19tpsRgT2jPYlGdBeBn">
                 <p class="article-text-h">Примечание：</p>
@@ -109,7 +109,7 @@
             <speak chara="_Shakespeare">О?</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Это одно, это другое.</speak>
+            <speak chara="_Bianka">То одно, это другое.</speak>
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">Т-ты позволила нам плыть на твоем корабле——</speak>
             <show chara="biankaConfidentClose" position="right"/>
@@ -177,7 +177,7 @@
             <speak chara="_Bianka">...Неужели такой человек, как Вы, не насытился бы, просто выпив немного медовой воды?</speak>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Вы сами верите в такую чушь? !.</speak>
+            <speak chara="_Bianka">Вы сами верите в такую чушь?!.</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="manfredSeriousClose" position="left"/>
             <speak chara="_ManfredNoName">...Ничего ты не знаешь, маленькая девочка.</speak>
@@ -217,14 +217,14 @@
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_Manfred">.....</speak>
             <show chara="manfredSeriousClose" position="left"/>
-            <speak chara="_Manfred">Мои товарищи прожили 53 дней без питьевой воды, не ловили рыбу, а для выживания полагались на сырые морские водоросли, мелких креветок и червей.</speak>
+            <speak chara="_Manfred">Мои товарищи прожили 53 дня без питьевой воды, не ловили рыбу, а для выживания полагались на сырые морские водоросли, мелких креветок и червей.</speak>
             <speak chara="_Manfred">Даже в столь ужасные моменты...</speak>
             <speak chara="_Manfred">.....</speak>
             <show chara="manfredAngryClose" position="left"/>
             <speak chara="_Manfred">Никто из них не сдался, но...</speak>
             <show chara="manfredSadClose" position="left"/>
             <speak chara="_Manfred">...Только я, один лишь я, их капитан, выжил.</speak>
-            <speak chara="_Manfred">Я знаю..., попадание в аварию, болезни, все это происходит из-за простой и холодной "удачи"..</speak>
+            <speak chara="_Manfred">Я знаю... Аварии, болезни, все это происходит из-за простой и холодной "удачи"..</speak>
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_Manfred">Но из-за этого...</speak>
             <speak chara="_Manfred">.....</speak>
@@ -241,7 +241,7 @@
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">То, что лежит перед Вами, не что иное, как туша нашего последнего врага.</speak>
             <speak chara="_Bianka">Убийство столь огромного морского чудовища дало нам такие обычные вещи, как мясо и кости. Мясо нельзя съесть сразу, да и хранить его неудобно.</speak>
-            <speak chara="_Bianka">Итак, то, что сейчас перед Вами, это просто кухонные отходы. Ничем не отличается от «морских водорослей» или «креветок».</speak>
+            <speak chara="_Bianka">Так что то, что сейчас перед Вами, это просто кухонные отходы. Ничем не отличается от «морских водорослей» или «креветок».</speak>
             <show chara="biankaSneerClose" position="right"/>
             <speak chara="_Bianka">——Теперь Вы довольны?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
@@ -256,7 +256,7 @@
             <speak chara="_Bianka">...Или Вы предпочли бы продолжить дрейфовать?</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Хотели бы Ваши товарищи видеть, как Вы мучаете себя вот так? !</speak>
+            <speak chara="_Bianka">Хотели бы Ваши товарищи видеть, как Вы мучаете себя вот так?!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="manfredSadClose" position="left"/>
             <speak chara="_Manfred">.....</speak>
@@ -314,8 +314,8 @@
         <scene id="140" background="CG4-2.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <speak chara="_Bianka">В один из не очень хороших, но и не очень плохих дней я встретила кое-кого.</speak>
-            <speak chara="_Bianka">Она волонтер, приехавший в приют в качестве добровольного вожатого——</speak>
-            <speak chara="_Bianka">——А ещё она боевой инструктор непосредственно при штабе и капитан Штурмового Отряда Валькирий, .</speak>
+            <speak chara="_Bianka">Она волонтер, приехавшая в приют в качестве добровольного вожатого——</speak>
+            <speak chara="_Bianka">——А ещё она боевой инструктор непосредственно при штабе и капитан Штурмового Отряда Валькирий.</speak>
             <speak chara="_Bianka">«Штурмовые Отряды» являются спецподразделениями валькирий, созданные для выполнения самых сложный заданий в тяжелых боевых условиях.</speak>
             <speak chara="_Bianka">Мы все думали, что она ужасный солдат, делающий упор лишь на дисциплину и тренировки——</speak>
             <speak chara="_Bianka">——Но, неожиданно, программа капитана Штурмового Отряда была очень мирной и расслабляющей... уроки садоводства.</speak>
@@ -430,7 +430,7 @@
         <scene id="250" background="submarineCabinBlurDeep.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Хей. Вы закончили?</speak>
+            <speak chara="_Shakespeare">Эй. Вы закончили?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">Не знаю.</speak>
@@ -443,7 +443,7 @@
             <speak chara="_Shakespeare">Ясно, ясно, это так называемый "мужской диалог"?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">...мужской?</speak>
+            <speak chara="_Bianka">...Мужской?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
             <speak chara="_Shakespeare">Не беспокойся о мелочах— просто «диалог между двумя доблестными рыцарями» звучит слишком многословно, так что я использовала слово «мужской».</speak>
@@ -457,7 +457,7 @@
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <remark post="U2FsdGVkX1+eKLKx5fPAhMd10Pz0">
                 <p class="article-text-h">Примечание:</p>
-                <p class="article-text">“Александрия“ - это чистый фонетический перевод и написание ”Александрии" (Αλεξάνδρεια).Этот египетский город является одним из десятков “александрийских”, основанных Александром Македонским под его собственным именем в рамках его завоевания, и самым процветающим из них.После смерти Великого императора его министерство назначило Птолемея столицей его собственного раздела Египта; географические преимущества и тщательное строительство династии Птолемеев сделали ее в конечном итоге самым ярким звездным городом за всю историю древнегреческой цивилизации. город.Сегодня порт Александрия по-прежнему является чрезвычайно важным портом в Восточном Средиземноморье, здесь проживает и работает около 3,34 миллиона жителей.</p>
+                <p class="article-text">“Александрия“ - это чистый фонетический перевод и написание ”Александрии" (Αλεξάνδρεια). Этот египетский город является одним из десятков “александрийских”, основанных Александром Македонским под его собственным именем в рамках его завоевания, и самым процветающим из них. После смерти Великого императора его министерство назначило Птолемея столицей его собственного раздела Египта; географические преимущества и тщательное строительство династии Птолемеев сделали ее в конечном итоге самым ярким звездным городом за всю историю древнегреческой цивилизации. город. Сегодня порт Александрия по-прежнему является чрезвычайно важным портом в Восточном Средиземноморье, здесь проживает и работает около 3,34 миллиона жителей.</p>
             </remark>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Верно.</speak>
@@ -488,7 +488,7 @@
             <speak chara="_Bianka">Вы только что сказали что-то не то?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Нет нет. Совсем нет.</speak>
+            <speak chara="_Shakespeare">Нет-нет. Совсем нет.</speak>
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Если ты думаешь, что “убогий” не может сочетаться с "красивым”——</speak>
             <show chara="shakesConfidentClose" position="left"/>
