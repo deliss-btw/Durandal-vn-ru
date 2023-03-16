@@ -8,17 +8,17 @@
         </scene>
         <scene id="10" background="deepWater.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
-            <text>“Море Кванта” - это не водные просторы.</text>
+            <text>“Квантовое Море” - это не водные просторы.</text>
             <text>Оно не принадлежит ни к какой конкретной планете и не состоит из жидкости, подобной воде.</text>
             <text>На самом деле, к нему стоит относиться как к некоему "фундаменту", не принадлежащему ни к какой вселенной, как к среде.</text>
             <text>Его структура не может быть полностью описана в трехмерной или четырехмерной математической системе——</text>
             <text>Мы можем представить множество миров, каждый со своим собственным набором измерений и законов,</text>
             <text>это все - их собственный отдельный "пузырьковый мир"——</text>
-            <text>——Следуя этой метафоре, “Море Кванта” - это “океан”, в котором находится бесчисленное кол-во “пузырьковых миров”</text>
+            <text>——Следуя этой метафоре, “Квантовое Море” - это “океан”, в котором находится бесчисленное кол-во “пузырьковых миров”</text>
             <text>...Конечно, если вам так больше нравится, можете представлять его как ванну.</text>
-            <text>«Мембраны» образуются в колебаниях Эфира, из которого состоит Море Кванта. Упомянутые «мембраны» могут эволюционировать в пузырьковый мир.</text>
+            <text>«Мембраны» образуются в колебаниях Эфира, из которого состоит Квантовое Море. Упомянутые «мембраны» могут эволюционировать в пузырьковый мир.</text>
             <text>Мы знаем, что трехмерный пузырь имеет сферическую поверхность, близкую к двумерной.</text>
-            <text>У этих пузырьковых миров есть выбор для наследования, выбор состит из 11 измерений, принадлежащих «Эфирной Ванне»</text>
+            <text>У этих пузырьковых миров есть выбор для наследования, выбор состит из 11 измерений, принадлежащих «Эфирной Ванне».</text>
             <text>К примеру, известная нам вселенная представляет собой «мембрану», простирающуюся в 4 измерениях и сворачивующуюся в 7 остальных.</text>
             <text>То, что Епископ Отто назвал Эфирным Якорем, относится к специальным структурам, которые могут стабилизировать мембрану в пузырьковый мир.</text>
             <text>Когда "расстояние подобия" между двумя стабильными мембранами достаточно мало, они будут влиять друг на друга, например, обмениваясь материей.</text>
@@ -46,14 +46,14 @@
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <speak chara="_Bianka">Ой...</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Т-ты была тут, Рита.</speak>
+            <speak chara="_Bianka">Т-ты ещё тут, Рита.</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
             <speak chara="_Rita">Беженцы с острова, похоже, уже обустроились.</speak>
             <show chara="rita17SquintClose" position="left"/>
             <speak chara="_Rita">Хоть пираты и жаловались, но все равно освободили места всем для отдыха.</speak>
             <show chara="rita17HesitateClose" position="left"/>
-            <speak chara="_Rita">...Но при этом, большинство людей вряд-ли смогут спокойно поспать у себя в постели.</speak>
+            <speak chara="_Rita">...Но при этом, большинство людей вряд ли смогут спокойно поспать у себя в постели.</speak>
             <show chara="rita17HesitateClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">В любом случае, будь то спасатели, или же транспортировщики, обеим сторонам не на что жаловаться.</speak>
@@ -78,17 +78,17 @@
             <speak chara="_Bianka">Знаешь ли ты, как в приюте вожатая меня критиковала?——</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">“Боже мой！ Идиотка! У тебя совсем мозгов нет?!”</speak>
+            <speak chara="_Bianka">“Боже мой! Идиотка! У тебя совсем мозгов нет?!”</speak>
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">Или же——</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">“Не так быстро! Разве не лучше подумать дважды перед действиями?!”</speak>
+            <speak chara="_Bianka">“Не так быстро! Разве не лучше подумать дважды, прежде чем действовать?!”</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">——Как ни смотри, это недостаток, разве можно его превратить в преимущество?</speak>
+            <speak chara="_Bianka">——Как не смотри, это недостаток, разве можно его превратить в преимущество?</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Хе-хе. Не сказала бы что недостаток полностью можно сделать приемуществом.</speak>
+            <speak chara="_Rita">Хе-хе. Не сказала бы что недостаток можно полностью сделать преимуществом.</speak>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">——Честно говоря, я считаю что лучше быть в меру безрассудным, чем нерешительным или даже бездействующим ради избежания ответственности.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
@@ -149,7 +149,7 @@
             <speak chara="_Bianka">Ой... Извини, я... я не хотела на тебя кричать...</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Хехе. Я знаю, Бьянка-сама</speak>
+            <speak chara="_Rita">Хехе. Я знаю, Бьянка-сама.</speak>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">Однако, хочу спросить...</speak>
             <speak chara="_Rita">...Откуда вы знаете что мой день рождения завтра, 1 марта? </speak>
@@ -172,15 +172,15 @@
             <show chara="shakesSweatyClose" position="left"/>
             <speak chara="_Shakespeare">...Кхм.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Как я уже сказал, в этом мире континент, известный как "Европа" сейчас "заблокирован".</speak>
+            <speak chara="_Shakespeare">Как я уже сказала, в этом мире континент, известный как "Европа" сейчас "заблокирован".</speak>
             <show chara="shakesColdClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">Ага, вы также говорили, что рост числа попаданцев из других миров также, вероятно, связан с правителями Европы.</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Верно. А ещё я сказала, что покажу вам прямые доказательства этого——</speak>
+            <speak chara="_Shakespeare">Верно. А ещё я сказала, что предоставлю вам прямые доказательства——</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">——И сейчас мы в самом подходящем месте, чтобы увидеть это. </speak>
+            <speak chara="_Shakespeare">——И сейчас мы в самом подходящем месте для этого. </speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">...?</speak>
@@ -227,7 +227,7 @@
             <speak chara="_Bianka">...Что ты имеешь в виду?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Помните слова моего адъютанта? Она сказала, что всё здесь можно рассматривать как "проекцию" внешнего мира</speak>
+            <speak chara="_Shakespeare">Помните слова моего адъютанта? Она сказала, что всё здесь можно рассматривать как "проекцию" внешнего мира.</speak>
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Но проекция не может воспроизвести сущность на 100%. Например, в этом мире люди не рождаются.</speak>
             <show chara="shakesConfidentClose" position="left"/>
@@ -282,7 +282,7 @@
             <show chara="shakesPityClose" position="left"/>
             <speak chara="_Shakespeare" remark="next">Гибралтарский пролив... гораздо неспокойнее, чем Ла-Манш, но это лишь вопрос времени, когда его отрежет эта стена.</speak>
             <remark post="U2FsdGVkX18uSb9H1ND0T3Wb7jFr">
-                <p class="article-text-h">Note：</p>
+                <p class="article-text-h">Примечание：</p>
                 <p class="article-text">Усечение проливов и разделение Средиземного и Атлантического океанов - это событие, которое действительно произошло в геологической истории. Нижеследующее цитируется по книге "Древние морские пустыни: великие открытия в истории науки" (автор Сюй Цзинхуа, перевод Чжу Вэньхуа, издательство 天下文化):</p>
                 <br />
                 <p class="article-text">***Превратности Средиземноморья***</p>
@@ -295,7 +295,7 @@
             <show chara="lallaSeriousClose" position="left"/>
             <speak chara="_Lalla">Интересно, как долго Танжер, Сеута и Тетуан продержатся на том берегу?</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">Город Тетуан - родной город мисс Лаллы..</speak>
+            <speak chara="_Shakespeare">Тетуан - родной город мисс Лаллы..</speak>
             <show chara="shakesPityClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -306,7 +306,7 @@
             <speak chara="_Shakespeare">Конечно.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">А эта “Стена Асгарда”... она состоит из Хонкай энергии?</speak>
+            <speak chara="_Bianka">А эта “Стена Асгарда”... она состоит из энергии Хонкая?</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesColdClose" position="left"/>
             <speak chara="_Shakespeare">Судя по наблюдениям моего адъютанта, да, это так.</speak>
@@ -315,10 +315,10 @@
             <speak chara="_Shakespeare">Я не очень хорошо понимаю термины, которые она использует, но это звучит довольно пугающе.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">...Однако даже это не вызвало появление Хонкай зверей, верно?</speak>
+            <speak chara="_Rita">...Однако даже это не вызвало появление зверей Хонкая, верно?</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="left"/>
-            <speak chara="_Shakespeare">Хонкай звери? Что это?</speak>
+            <speak chara="_Shakespeare">Звери Хонкая? Что это?</speak>
             <show chara="shakesQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">Те самые монстры, о которых рассказывала Железная маска.</speak>
@@ -328,12 +328,12 @@
             <show chara="shakesColdClose" position="left"/>
             <speak chara="_Shakespeare">Неа.</speak>
             <show chara="shakesPityClose" position="left"/>
-            <speak chara="_Shakespeare">Но прямой контакт со ”Стеной Асгарда” По-прежнему смертелен... Некоторые беженцы, одержимые своей родиной, уже доказали это собственным пеплом.</speak>
+            <speak chara="_Shakespeare">Но прямой контакт со ”Стеной Асгарда” по-прежнему смертелен... Некоторые беженцы, одержимые своей родиной, уже доказали это собственным пеплом.</speak>
             <show chara="shakesPityClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">Собственным пеплом...</speak>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">Похоже, помимо высокой концентрации Хонкай энергии, есть какой-то иной вид энергии.</speak>
+            <speak chara="_Rita">Похоже, помимо высокой концентрации энергии Хонкая, есть какой-то иной вид энергии.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="shakesPityClose" position="left"/>
             <speak chara="_Shakespeare">...Когда-то я думала, что я могу всё изменить, пыталась это сделать.</speak>
@@ -351,10 +351,10 @@
         </scene>
         <scene id="90" background="CG3-3-2.jpg">
             <bgm src="11_29_themeTesla.mp3" status="continue"></bgm>
-            <speak chara="_Shakespeare">«О храброе оружие, как ты несчастен!»</speak>
-            <speak chara="_Shakespeare">«Сейчас ты бесполезен, но люди все еще любят тебя.»</speak>
+            <speak chara="_Shakespeare">«О храброе оружие, как ты несчастно!»</speak>
+            <speak chara="_Shakespeare">«Сейчас ты бесполезно, но люди все еще любят тебя.»</speak>
             <speak chara="_Shakespeare">«Древние храбрецы использовали тебя, чтобы выиграть множество сражений. Пусть мы и новички, но не трусы!»</speak>
-            <speak chara="_Shakespeare">«Ах, как ослепителен, прекрасен и свят ты на солнце!»</speak>
+            <speak chara="_Shakespeare">«Ах, как ослепительно, прекрасно и свято ты на солнце!»</speak>
             <speak chara="_Shakespeare">«Твоя семицветная рукоять, что полна священных сокровищ, к которым стремится каждый——»</speak>
             <speak chara="_Shakespeare">«Красный - храбрость, оранжевый - уверенность, золотой - человеколюбие, зеленый - доброта, голубой - жизненная сила, синий - спокойствие, фиолетовый - благородство!»</speak>
             <speak chara="_Shakespeare">«Ты самый острый клинок в мире, способный отправить всю грязь в бездонную пропасть.»</speak>
@@ -375,11 +375,11 @@
             <speak chara="_Shakespeare">Как бы сказать...</speak>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Просто однажды я использовала его принудительно...</speak>
-            <speak chara="_Shakespeare">Похоже, в итоге был нарушен какой-то контракт, и особая сила меч рассеялась!</speak>
+            <speak chara="_Shakespeare">Похоже, в итоге был нарушен какой-то контракт, и особая сила меча рассеялась!</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">Ты...</speak>
-            <speak chara="_Bianka">...Хочешь использовать нас, чтобы вернуть эти силы, да?</speak>
+            <speak chara="_Bianka">...Хочешь использовать нас, чтобы вернуть эту силу, да?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Верно.</speak>
@@ -388,7 +388,7 @@
             <speak chara="_Bianka">Эй! Ты думаешь мы согласимся на настолько нелепую вещь?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">...Чтож, учитывая слова моего первого помощника о валькириях, вы или Рита, возможно, являетесь истинными владельцами.</speak>
+            <speak chara="_Shakespeare">...Что ж, учитывая слова моего первого помощника о валькириях, ты или Рита, возможно, являетесь истинными владельцами.</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
             <speak chara="_Bianka">...Что это значит?</speak>
