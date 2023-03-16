@@ -1795,7 +1795,7 @@ function add_record() {
   )
   $('#confirm_1').css(
     'background',
-    "url('/novels/duriduri/en-US/quicksave.png') no-repeat"
+    "url('/Resources/quicksave.png') no-repeat"
   )
   $('#confirm_1').css('background-size', 'auto 100%')
   $('#confirm_1').css('background-position', 'center')
@@ -1809,7 +1809,7 @@ function get_record() {
   )
   $('#confirm_1').css(
     'background',
-    "url('/novels/duriduri/en-US/quickload.png') no-repeat"
+    "url('/Resources/quickload.png') no-repeat"
   )
   $('#confirm_1').css('background-size', 'auto 100%')
   $('#confirm_1').css('background-position', 'center')
