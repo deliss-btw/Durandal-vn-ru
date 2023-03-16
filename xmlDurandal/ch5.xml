@@ -17,14 +17,14 @@
             <text>Как и все бедные, но трудолюбивые люди.</text>
             <text>Пчелы деловито летали вокруг цветов. Ты чувствуешь знакомый запах.</text>
             <text>Не знаю когда. Не знаю где. Может быть, это просто странная иллюзия.</text>
-            <text>Но, по крайней мере, в этом сне ты уверен. Что-то, что сейчас не имеет значение, но все еще волнует тебя, спит на земле, как капсула времени.</text>
+            <text>Но, по крайней мере, в этом сне ты уверен. Что-то, что сейчас не имеет значения, но все еще волнует тебя, спит на земле, как капсула времени.</text>
             <text>Ты стоишь на берегу синего и глубокого Черного моря, а возле тебя проносится пар, принесенный горячими источниками.</text>
             <text remark="next">От экипажа «Аргонавта» до слепого Островского: бесчисленные герои, известные и неизвестные, слушали здесь шум волн.</text>
             <remark post="U2FsdGVkX18Hb7L85UTiSUAt87Ml">
                 <p class="article-text-h">Примечание：</p>
-                <p class="article-text">Николай Алексеевич Островский (Николай Алексеевич Островский, 1904-1936) - легендарный советский писатель.Он вступил в армию в возрасте 15 лет, получил травму головы в бою в возрасте 16 лет, был слеп на правый глаз, а в возрасте 23 лет был парализован и ослеп на оба глаза; однако именно при этом условии он настоял на устном повествовании (организованном его жена) и в возрасте 29 лет завершил автобиографический роман о вере, упорстве и самоидентификации - "Как закалялась сталь".</p>
+                <p class="article-text">Николай Алексеевич Островский (Николай Алексеевич Островский, 1904-1936) - легендарный советский писатель. Он вступил в армию в возрасте 15 лет, получил травму головы в бою в возрасте 16 лет, был слеп на правый глаз, а в возрасте 23 лет был парализован и ослеп на оба глаза; однако именно при этом условии он настоял на устном повествовании (организованном его женой) и в возрасте 29 лет завершил автобиографический роман о вере, упорстве и самоидентификации - "Как закалялась сталь".</p>
             </remark>
-            <text>Буревестники свободно резвились между небом и землей. Ты почувствовал знакомый запах.</text>
+            <text>Буревестники свободно резвились между небом и землей. Ты почувствовала знакомый запах.</text>
             <text>Не знаю когда. Не знаю где. Может быть, это просто странная иллюзия.</text>
             <goto goto="20" change="#000000"/>
         </scene>
@@ -36,204 +36,204 @@
             <speak chara="_Shakespeare">В этом изолированном корабле довольно сложно рано ложиться и рано вставать.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Well, that might be true for the captain who went through 10 alarms before waking up.</speak>
+            <speak chara="_Bianka">Ну, наверное так оно и есть для капитана, которому потребовалось 10 будильников для того, чтобы проснуться.</speak>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">Us Valkyries are trained in a way our life rhythm will not disrupt those around us!</speak>
+            <speak chara="_Bianka">Конечно, ни одна квалифицированная валькирия не может беспокоить своих спутников из-за вредных привычек в работе и отдыхе!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Is that so? Quite different from what Rita-san told me.</speak>
+            <speak chara="_Shakespeare">Вот как? Это разнится со словами Риты-сан.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">...</speak>
             <speak chara="_Bianka">.....</speak>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">...Wait. What did you hear?</speak>
+            <speak chara="_Bianka">...Постой. Что она тебе рассказала?</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Nothing big. Just...</speak>
+            <speak chara="_Shakespeare">Ничего такого. Только то, что...</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">When you sleep you put your head under the pillow——</speak>
+            <speak chara="_Shakespeare">Когда ты спишь, ты кладёшь голову под подушку——</speak>
             <show chara="shakesBagaRightClose" position="left"/>
-            <speak chara="_Shakespeare">You kick the sheets out of the bed at least 5 times throughout the night——</speak>
+            <speak chara="_Shakespeare">Иы сбрасываешь простыни с кровати по крайней мере 5 раз в течение ночи——</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">And when it seems you're done one finds the sheets are drenched in saliva——</speak>
+            <speak chara="_Shakespeare">И когда кажется, что ты закончила, обнаруживаешь, что простыни пропитаны слюной——</speak>
             <show chara="shakesBagaLeftClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Stop! Don't say anything else!!</speak>
+            <speak chara="_Bianka">Хватит! Больше ничего не говори!!</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">Why did she share so—— I mean, why did she tell you so many lies!?</speak>
+            <speak chara="_Bianka">Почему она рассказала тебе о—— Я имею в виду, почему она наговорила тебе так много лжи!?</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Ahahaha! Better ask her yourself!</speak>
+            <speak chara="_Shakespeare">Ахахаха! Лучше спроси её сама!</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">Ugh...!!!</speak>
+            <speak chara="_Bianka">Агх...!!!</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Bianka-sama, Shakespeare-san, I apologize for interrupting your conversation.</speak>
+            <speak chara="_Rita">Бьянка-сама, Шекспир-сан, я прошу прощения за то, что прерываю ваш разговор.</speak>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Today's breakfast is fried bread made with whale fat, bacon egg, fried shrimp and asparagus, apple salad and a mushroom cream soup——</speak>
+            <speak chara="_Rita">Сегодняшний завтрак состоит из поджаренного хлеба с китовым жиром, яйца с беконом, жареных креветок и спаржи, яблочного салата и грибного крем-супа——</speak>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">——Please enjoy.</speak>
+            <speak chara="_Rita">——Пожалуйста, наслаждайтесь.</speak>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">(Grrr... she changed the topic so smoothly! But...)</speak>
+            <speak chara="_Bianka">(Гррр... она так плавно сменила тему! Но...)</speak>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">...this looks delicious!</speak>
+            <speak chara="_Bianka">...это выглядит восхитительно!</speak>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">(munch munch)</speak>
+            <speak chara="_Bianka">(ням ням)</speak>
             <show chara="biankaChayaoClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">T-This fried bread is delicious!!</speak>
+            <speak chara="_Bianka">Э-Этот жареный хлеб очень вкусный!!</speak>
             <show chara="biankaProudClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Rita, aren't you a little too good at this!?</speak>
+            <speak chara="_Bianka">Рита, не слишком ли ты хороша в готовке!?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">I'm honored by your praise, Bianka-sama.</speak>
+            <speak chara="_Rita">Я польщена вашей похвалой, Бьянка-сама.</speak>
             <show chara="rita17SmileClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">...D-Don't think I-I'm letting you off the hook just yet.</speak>
+            <speak chara="_Bianka">......Нет, не думай, что если ты вот так подкупишь меня, то я п-прощу тебя.</speak>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">D-Don't go babbling about your leader's private life to strangers! Is that clear, adjutant?</speak>
+            <speak chara="_Bianka">Нехорошо небрежно говорить с другими о личной жизни капитана! Знаешь ли, адъютант?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Hehe. I will keep it in mind.</speak>
+            <speak chara="_Rita">Хе-хе. Я буду иметь это в виду.</speak>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">...Geez! You have no intention of listening to me!</speak>
+            <speak chara="_Bianka">...Боже! Ты не намерена меня слушать!</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="submarineCabinBlurSunset.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
-            <text>Someone somewhere once said——</text>
-            <text>「The way to someone's heart is through their stomach」</text>
-            <text>Such random thought popped up in my head as I was stuffing breakfast down my mouth.</text>
+            <text>Кто-то где-то однажды сказал——</text>
+            <text>«Путь к чьему-то сердцу лежит через его желудок».</text>
+            <text>Такая случайная мысль пришла мне в голову, когда я запихивала завтрак в рот.</text>
             <show chara="shakesConfidentClose" position="center"/>
-            <speak chara="_Shakespeare">Seems everyone is done eating breakfast. The 「Caledonia」 has surfaced and will soon deck on Alexandria's port.</speak>
+            <speak chara="_Shakespeare">Кажется, все закончили завтракать. «Каледония» всплыла на поверхность и вскоре прибудет в порт Александрии.</speak>
             <show chara="shakesSmileClose" position="center"/>
-            <speak chara="_Shakespeare">On this eventful day your captain has a selfish order for all of you——</speak>
+            <speak chara="_Shakespeare">В этот насыщенный событиями день у вашего капитана есть эгоистичный приказ для всех вас——</speak>
             <show chara="shakesLaughClose" position="center"/>
-            <speak chara="_Shakespeare">——Everyone gets a 24 hours vacation!!</speak>
+            <speak chara="_Shakespeare">——Каждый получает 24-часовой отпуск!!</speak>
             <hide position="center"></hide>
             <show chara="pirateGirlClose" position="left"/>
-            <speak chara="_pirateFollower">Woooah!</speak>
+            <speak chara="_pirateFollower">Уооах!</speak>
             <show chara="pirateGirlClose" position="left" opacity="0.8"/>
             <show chara="pirateBoyClose" position="right"/>
-            <speak chara="_pirateFollower">Heck yeah!!!</speak>
+            <speak chara="_pirateFollower">О да!!!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shakesSmileClose" position="center"/>
-            <speak chara="_Shakespeare">Your dear captain will help those who want to go to Alexandria.</speak>
+            <speak chara="_Shakespeare">Ваш дорогой капитан поможет тем, кто хочет отправиться в Александрию.</speak>
             <show chara="shakesLaughClose" position="center"/>
-            <speak chara="_Shakespeare">Go and have fun! Except gambling I'll cover all the costs!</speak>
+            <speak chara="_Shakespeare">Идите и веселитесь! Я покрою все расходы, не считая азартных игр!</speak>
             <hide position="center"></hide>
             <show chara="pirateGirlClose" position="left"/>
-            <speak chara="_pirateFollower">Long live our captain!!</speak>
+            <speak chara="_pirateFollower">Да здравствует наш капитан!!</speak>
             <show chara="pirateGirlClose" position="left" opacity="0.8"/>
             <show chara="pirateBoyClose" position="right"/>
-            <speak chara="_pirateFollower">Long live vacations!!!</speak>
+            <speak chara="_pirateFollower">Да здравствует отпуск!!!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shakesConfidentClose" position="center"/>
-            <speak chara="_Shakespeare">Cough. Those who have been tagging along with me for a while already know what's going on with the 「locals」, but we got some new people aboard this time.</speak>
+            <speak chara="_Shakespeare">Кашель. Те, кто некоторое время сопровождал меня, уже знают, что происходит с "местными жителями", но на этот раз у нас на борту несколько новых людей.</speak>
             <show chara="shakesSmileClose" position="center"/>
-            <speak chara="_Shakespeare">Thus, I'm giving another order, one of upmost importance——</speak>
+            <speak chara="_Shakespeare">Таким образом, я отдаю ещё один приказ, один из самых важных——</speak>
             <show chara="shakesLaughClose" position="center"/>
-            <speak chara="_Shakespeare">Old and new sailors must form pairs decided by a lottery, and stick together the entire day! Forming groups of three or more people is forbidden. It has to be two! Yes, like a date!</speak>
+            <speak chara="_Shakespeare">Старые и новые моряки должны образовать пары, определяемые с помощью лотереи, и держаться вместе весь день! Формирование групп из трёх и более человек запрещено. Их должно быть двое! Да, как на свидании!</speak>
             <hide position="center"></hide>
             <show chara="lallaSmileClose" position="right"/>
-            <speak chara="_Lalla">Heh.</speak>
+            <speak chara="_Lalla">Хех.</speak>
             <show chara="lallaSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">Huh?</speak>
+            <speak chara="_Bianka">А?</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="wattScaredClose" position="right"/>
-            <speak chara="_Watt">Ehh...</speak>
+            <speak chara="_Watt">Ээ...</speak>
             <show chara="wattScaredClose" position="right" opacity="0.8"/>
             <show chara="ironWhiteClose" position="left"/>
             <speak chara="_Ironface">.....</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shakesSweatyClose" position="center"/>
-            <speak chara="_Shakespeare">Look, the lottery is all ready.</speak>
+            <speak chara="_Shakespeare">Смотрите, лотерея уже подготовлена.</speak>
             <show chara="shakesSmileClose" position="center"/>
-            <speak chara="_Shakespeare">Will you seize your own fate with your own hands—— Or should I do it for you?</speak>
+            <speak chara="_Shakespeare">Возьмете ли вы свою судьбу в свои руки или я должна сделать это за вас?</speak>
             <show chara="shakesBagaLeftClose" position="center"/>
-            <speak chara="_Shakespeare">Don't come crying later if I cheat.</speak>
+            <speak chara="_Shakespeare">Не приходите позже плакать, если я сжульничаю.</speak>
             <hide position="center"></hide>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Sigh... Being the 「Director of a Theater Company」 means you can't behave like a normal person?</speak>
+            <speak chara="_Bianka">Вздох... Быть «директором театральной труппы» означает, что ты не можешь вести себя как нормальный человек?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Hahaha, sounds fun.</speak>
+            <speak chara="_Miguel">Хахаха, звучит забавно.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Since no one wants to go first let this old man take the lead.</speak>
+            <speak chara="_Miguel">Поскольку никто не хочет идти первым, пусть этот старик возьмет инициативу на себя.</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">(Chooses a piece of paper)</speak>
+            <speak chara="_Miguel">(Выбирает листок бумаги)</speak>
             <show chara="cervantesShoutClose" position="right"/>
-            <speak chara="_Miguel">Alright, this one!!</speak>
+            <speak chara="_Miguel">Хорошо, вот этот!!</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">Ohh! It says 「S」! That's you isn't it, captain?</speak>
+            <speak chara="_Miguel">Ооо! Здесь написано «Ш»! Это вы, не так ли, капитан?</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Hahaha, that's me! You're gonna have to wait a little bit until all the pairs are decided, old man.</speak>
+            <speak chara="_Shakespeare">Хахаха, верно! Тебе придется немного подождать, пока не определятся все пары, старина.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">No worries! You're taking care of me, it's the least I can do.</speak>
+            <speak chara="_Miguel">Не беспокойтесь! Вы заботитесь обо мне, это меньшее, что я могу сделать.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Well then... Who's next?</speak>
+            <speak chara="_Miguel">Ну что ж... Кто следующий?</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="manfredSmileClose" position="left"/>
-            <speak chara="_Manfred">...Sorry for the trouble I caused yesterday.</speak>
+            <speak chara="_Manfred">...Извините за неприятности, которые я причинил вчера.</speak>
             <show chara="manfredColdClose" position="left"/>
-            <speak chara="_Manfred">(Chooses a piece of paper)</speak>
+            <speak chara="_Manfred">(Выбирает листок бумаги)</speak>
             <show chara="manfredQuestionClose" position="left"/>
-            <speak chara="_Manfred">「I」...?</speak>
+            <speak chara="_Manfred">«Ж»...?</speak>
             <show chara="manfredQuestionClose" position="left" opacity="0.8"/>
             <show chara="ironWhiteClose" position="right"/>
-            <speak chara="_Ironface">Seems we're a pair.</speak>
+            <speak chara="_Ironface">Кажется, мы пара.</speak>
             <show chara="ironBlueClose" position="right"/>
-            <speak chara="_Ironface">I dislike soldiers—— But our mother tongue is the same. At least I can be your guide.</speak>
+            <speak chara="_Ironface">Я не люблю солдат, но у нас общий родной язык. По крайней мере, я могу быть твоим проводником.</speak>
             <show chara="ironBlueClose" position="right" opacity="0.8"/>
             <show chara="manfredSmileClose" position="left"/>
-            <speak chara="_Manfred">...I'll be counting on you.</speak>
+            <speak chara="_Manfred">...Я буду рассчитывать на тебя.</speak>
             <show chara="manfredSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">(Chooses a piece of paper)</speak>
+            <speak chara="_Bianka">(Выбирает листок бумаги)</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">「W」.</speak>
+            <speak chara="_Bianka">«У».</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">A-Ah... That's me.</speak>
+            <speak chara="_Watt">А-а... Это я.</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">...Hm.</speak>
+            <speak chara="_Bianka">...Хм.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Well, why not. You're kinda irritating, but you don't seem to be the type of person who would cause serious trouble.</speak>
+            <speak chara="_Bianka">Ну, почему бы и нет. Ты немного раздражаешь, но, похоже, ты не из тех людей, которые могут доставить серьёзные неприятности.</speak>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">A pleasure to be your partner.</speak>
+            <speak chara="_Bianka">Приятно быть твоим партнёром.</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">Umm... thank you? That was a compliment, wasn't it...?</speak>
+            <speak chara="_Watt">Эмм... спасибо? Это был комплимент, да?..</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="right"/>
-            <speak chara="_Shakespeare">Heh... You're too much of a good boy, engineer.</speak>
+            <speak chara="_Shakespeare">Хех... Ты слишком хороший мальчик, инженер.</speak>
             <show chara="shakesSweatyClose" position="right" opacity="0.8"/>
             <show chara="lallaSmileClose" position="left"/>
-            <speak chara="_Lalla">...Then only Rita and me are left.</speak>
+            <speak chara="_Lalla">...Тогда остаёмся только мы с Ритой.</speak>
             <show chara="lallaSmileClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_Rita">It seems so. Do you have any recommendation regarding souvenirs?</speak>
+            <speak chara="_Rita">Похоже на то. Есть ли у вас какие-либо рекомендации относительно сувениров?</speak>
             <show chara="lallaSighClose" position="left"/>
-            <speak chara="_Lalla">Mmm... a souvenir... Hard question.</speak>
+            <speak chara="_Lalla">Ммм... сувенир... Трудный вопрос.</speak>
             <show chara="lallaSmileClose" position="left"/>
-            <speak chara="_Lalla">I can think of many I can't decide which one.</speak>
+            <speak chara="_Lalla">Много чего приходит в голову, но я не могу выбрать какой-то определённый.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="alexandriaHarbor.jpg">
@@ -242,91 +242,90 @@
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Well? What do you think of the world's largest city?</speak>
+            <speak chara="_Shakespeare">Ну? Что думаете о самом большом городе в мире?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Hm. For a big city it has a retro feel, kinda like Aden or Kolkata.</speak>
+            <speak chara="_Bianka">Хм. Для большого города здесь царит ретро атмосфера, как в Адене или Калькутте.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">Oh, those are places I've never been to—— In any world.</speak>
+            <speak chara="_Shakespeare">О, это места, в которых я никогда не была ни в одном мире..</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Then... What about Florence or Istanbul?</speak>
+            <speak chara="_Bianka">Тогда... Что насчёт Флоренции или Стамбула?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">...Haven't been there either, but I get your point.</speak>
+            <speak chara="_Shakespeare">...Я тоже там не была, но я поняла о чём ты.</speak>
             <show chara="shakesLaughClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Shakespeare">Ahh—— The information society of the 21st century must be wonderful. You can know all about the beautiful history of past civilizations!</speak>
+            <speak chara="_Shakespeare">Аах—— Информационное общество 21 века, должно быть, прекрасно. Вы можете узнать всё о прекрасной истории прошлых цивилизаций!</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">I'm so jealous! Can you take me there someday?</speak>
+            <speak chara="_Shakespeare">Я так завидую.! Ты можешь отвезти меня туда когда-нибудь?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">Um, that's...</speak>
+            <speak chara="_Bianka">Эм, это...</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Hahaha, don't take it so seriously! Let this person from the past envy you earnestly!</speak>
+            <speak chara="_Shakespeare">Хахаха, не воспринимай это так серьёзно! Дай этому человеку из прошлого искренне позавидовать вам!</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Anyway—— Today is your day off!</speak>
+            <speak chara="_Shakespeare">В любом случае—— сегодня у тебя выходной!</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Don't stand there! Everyone, get out of here! Hahaha!</speak>
+            <speak chara="_Shakespeare">Не стойте там! Все, убирайтесь отсюда! Хахаха!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <text>The captain of the Caledonia laughed as she pushed her crew members and guests out of the ship.</text>
-            <speak chara="_Shakespeare">Each group must be of two people! Prepare to receive the captain's 「special punishment」 later if you don't comply with this 「forced date」! Hahaha!</speak>
+            <text>Капитан «Каледонии» рассмеялась, выталкивая членов своей команды и гостей с корабля.</text>
+            <speak chara="_Shakespeare">Каждая группа должна состоять из двух человек! Приготовьтесь позже получить "особое наказание" капитана, если вы не согласитесь на это "принудительное свидание"! Хахаха!</speak>
             <goto goto="60" clockwise="1"/>
         </scene>
         <scene id="60" background="alexandriaLighthouse.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">We're finally on land again. The management of this place is sloppy, no one asked us for clearance.</speak>
+            <speak chara="_Bianka">Наконец-то мы снова на суше. Управление этого города действительно небрежное, здесь нет даже таможни.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">U-Umm... about the management——</speak>
+            <speak chara="_Watt">Э-эмм... Об управлении——</speak>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">——Ah, they're here.</speak>
+            <speak chara="_Watt">——Ах, они уже здесь.</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">What came here? Please be clear——</speak>
+            <speak chara="_Bianka">Кто? Пожалуйста, выражайся яснее——</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="mailboxFar" position="left"/>
-            <speak chara="_mechineRed">Welcome to Alexandria—— James Watt-san and unnamed young lady.</speak>
+            <speak chara="_mechineRed">Добро пожаловать в Александрию——— Джеймс Уотт-сан и неназванная юная леди.</speak>
             <show chara="mailboxFar" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="mailboxClose" position="left"/>
-            <speak chara="_mechineRed">Young lady, I am the police of this city. For your first visit you are required to enter various basic information.</speak>
+            <speak chara="_mechineRed">Юная леди, я - полиция этого города. Для вашего первого визита вам необходимо ввести различную базовую информацию.</speak>
             <show chara="mailboxClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">Oh, so this is what you were talking about, Jimmy.</speak>
+            <speak chara="_Bianka">О, так вот о чём ты говорил, Джимми.</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Y-Yeah! Amazing, isn't it!?</speak>
+            <speak chara="_Watt">Д-да! Удивительно, не правда ли!?</speak>
             <show chara="mailboxClose" position="left"/>
-            <speak chara="_policeRed">Please enter the required information.</speak>
+            <speak chara="_policeRed">Пожалуйста, введите необходимую информацию.</speak>
             <show chara="mailboxClose" position="left" opacity="0.8"/>
             <show chara="biankaConfidentClose" position="right"/>
-            <!-- RENAME: Name: Bianka Atagina -->
-            <speak chara="_Bianka">Name: Bianka Ataegina</speak>
-            <speak chara="_Bianka">Gender: Female</speak>
-            <speak chara="_Bianka">Age: 12</speak>
-            <speak chara="_Bianka">Birthday: January 1st ...not that I know what calendar system this places is using.</speak>
-            <speak chara="_Bianka">And lastly a fingerprint. Is that enough?</speak>
+            <speak chara="_Bianka">Имя: Бьянка Атаэгина</speak>
+            <speak chara="_Bianka">Пол: Женский</speak>
+            <speak chara="_Bianka">Возраст: 12 лет</speak>
+            <speak chara="_Bianka">Дата рождения: 1 января... не то чтобы я знала, какую календарную систему использует это место.</speak>
+            <speak chara="_Bianka">И, наконец, отпечаток пальца. Этого достаточно?</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="mailboxClose" position="left"/>
-            <speak chara="_policeRed">Yes. Thank you for your cooperation. Have a nice trip!</speak>
+            <speak chara="_policeRed">Да. Спасибо за сотрудничество. Удачного путешествия!</speak>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">Even though a year only has 365 days... this is the first time I see someone born on New Year's Day....</speak>
+            <speak chara="_Watt">Несмотря на то, что в году всего 365 дней... Я впервые вижу, чтобы кто-то родился в день Нового года....</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">Gosh, it's not good manners to peek at a lady's private information, you know!?</speak>
+            <speak chara="_Bianka">Божечки, нехорошо это - заглядывать в личную информацию леди, ты же знаешь!?</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">I-I-I-I-I'm so s-sorry! I-It wasn't on p-purpose.</speak>
+            <speak chara="_Watt">М-м-м-м-мне так ж-жаль! Э-это было не с-специально.</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">Sigh...</speak>
+            <speak chara="_Bianka">Вздох...</speak>
             <show chara="biankaSneerClose" position="right"/>
             <speak chara="_Bianka">Well, it's no big deal. Don't lose your composure so easily.</speak>
             <show chara="biankaConfidentClose" position="right"/>
