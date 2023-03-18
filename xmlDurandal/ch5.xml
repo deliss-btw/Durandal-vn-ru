@@ -441,7 +441,7 @@
             <speak chara="_Thales">Ладно, вот моя визитная карточка.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">…Ого! И правда сотрудница “Александрийской библиотеки”! Потрясающе!</speak>
+            <speak chara="_Watt">…Ого! И правда сотрудница «Александрийской библиотеки»! Потрясающе!</speak>
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
             <speak chara="_Bianka" remark="next">...Александрийская библиотека? Разве её не сожгли несколько раз——</speak>
@@ -451,258 +451,255 @@
             </remark>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="wattSchemingClose" position="right"/>
-            <speak chara="_Watt">That's not the case here! The 「Great Library」 is the best research institute in the world! It is said it has been active for over 2000 years!</speak>
+            <speak chara="_Watt">Здесь дело не в этом! «Великая библиотека» - лучший научно-исследовательский институт в мире! Говорят, что он активен уже более 2000 лет!</speak>
             <show chara="wattJihuatongClose" position="right"/>
-            <speak chara="_Watt">Also, all the robots in the city are manufactured by the 「Great Library」!</speak>
+            <speak chara="_Watt">Кроме того, все роботы в городе производятся «Великой библиотекой»!</speak>
             <show chara="wattJihuatongClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Oh my, there sure is a lot of rumors about us.</speak>
+            <speak chara="_Thales">Ох боже, о нас, конечно, ходит много слухов.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">The 「Great Library」 has only existed for less than 200 years—— Sorry to disappoint, boy.</speak>
+            <speak chara="_Thales">«Великая библиотека» существует всего менее 200 лет - жаль разочаровывать, мальчик.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="wattScaredClose" position="right"/>
-            <speak chara="_Watt">S-Still, studying m-metaphysics at the Great Library is a-awesome!</speak>
+            <speak chara="_Watt">Т-тем не менее, изучать м-метафизику в Великой библиотеке - это п-потрясающе!</speak>
             <show chara="wattScaredClose" position="right" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="left"/>
-            <speak chara="_Bianka">...By the way, what is 「metaphysics」? Is it something that important that you praise it so much?</speak>
+            <speak chara="_Bianka">...Кстати, что такое метафизика? Это что-то настолько важное, что ты так сильно восхищаешься?</speak>
             <show chara="biankaHesitateClose" position="left" opacity="0.8"/>
             <show chara="wattSmileClose" position="right"/>
-            <speak chara="_Watt">Umm, if the engineering science I'm studying is 「learning to deal with limited material」...</speak>
+            <speak chara="_Watt">Хм, если инженерная наука, которую я изучаю, - это умение работать с ограниченным материалом...</speak>
             <show chara="wattInspiredClose" position="right"/>
-            <speak chara="_Watt">...then 「metaphysics」 is the study of 「something infinite」. Philosophy within philosophy!</speak>
+            <speak chara="_Watt">...Тогда метафизика - это изучение чего-то бесконечного. Философия внутри философии!</speak>
             <show chara="wattInspiredClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
-            <speak chara="_Bianka">...I didn't understand a word of that.</speak>
+            <speak chara="_Bianka">...Я не поняла ни слова из этого.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">In general science studies things and their behavior in the real world, while 「metaphysics」 studies abstract concepts and their relationships.</speak>
-            <speak chara="_Thales">Because reality is ultimately limited and the potential of the abstract is limitless, that's the best analogy he could think of.</speak>
+            <speak chara="_Thales">В целом наука изучает вещи и их поведение в реальном мире, в то время как метафизика изучает абстрактные понятия и их взаимосвязи.</speak>
+            <speak chara="_Thales">Поскольку реальность в конечном счёте ограничена, а потенциал абстрактного безграничен, это лучшая аналогия, которую он мог придумать.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">Incidentally, I don't agree with 「metaphysics」 being a 「philosophy within a philosophy」.</speak>
-            <speak chara="_Thales">That is a prejudice made by our predecessors who's development level was too low and brought in non-philosophy into philosophy.</speak>
+            <speak chara="_Thales">Кстати, я не согласна с тем, что метафизика - это философия внутри философии.</speak>
+            <speak chara="_Thales">Это предубеждение, созданное нашими предшественниками, уровень развития которых был слишком низок и которые привнесли в философию нефилософию..</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Which is why I think 「philosophy is a part of metaphysics that cannot be proved by a logical argument」.</speak>
-            <speak chara="_Thales">In terms of subset, it's actually the opposite of what he said.</speak>
+            <speak chara="_Thales">Вот почему я думаю, что философия - это часть метафизики, которая не может быть доказана логическим аргументом.</speak>
+            <speak chara="_Thales">С точки зрения подмножества, на самом деле это противоположно его заявлению.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">As science gains ground, the 「position」 of 「philosophy」 shrinks. You could say it's proof of the development of science and mankind's progress.</speak>
+            <speak chara="_Thales">По мере того как наука набирает обороты, положение философии сокращается. Можно сказать, что это доказательство развития науки и прогресса человечества.</speak>
             <show chara="thalesStoneClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">The more you explain the less I understand!</speak>
+            <speak chara="_Bianka">Чем больше ты объясняешь, тем меньше я понимаю!</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">More importantly, I'm curious about something you said earlier—— 「Commander of the Three Forces」 was it? Are you a 「philosopher」 but also in the military?</speak>
+            <speak chara="_Bianka">Что ещё более важно, мне любопытно кое-что из того, что вы сказали ранее—— Командующий тремя силами? Вы философ, но при этом служите в армии?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Ah, that. It was a joke.</speak>
+            <speak chara="_Thales">Ах, это. Это была шутка.</speak>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">The 「Metaphysics Institute」 only has 3 members, thus 「Commander of the Three Forces」.</speak>
+            <speak chara="_Thales">В Институте метафизики всего 3 члена, а потому "Командующий тремя силами".</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">If I phrase it like that I sound important! Hahaha!</speak>
+            <speak chara="_Thales">С такой формулировкой это звучит важно! Хахаха!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Only 「3 members」 you say—— It must be tough. Is that's why you're making money by working as a tour guide?</speak>
+            <speak chara="_Bianka">Вы говорите только 3 члена—— это, должно быть, тяжело. Так вот почему вы зарабатываете деньги, работая гидом?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
             <speak chara="_Thales">.....</speak>
             <show chara="thalesProudClose" position="left"/>
-            <!-- GRAMMAR: you that -> you think that (guessing this is what was meant?) -->
-            <speak chara="_Thales">Boy, you think that you're familiar with this city, do us a favor——</speak>
+            <speak chara="_Thales">Парнишка, ты, кажется, лучше знаком с этим городом, чем она——</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">——Tell us what you can buy with 100 Drachma.</speak>
+            <speak chara="_Thales">——Расскажи нам, что можно купить за 100 драхм.</speak>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">Umm, with 100 Drachma...</speak>
+            <speak chara="_Watt">Эмм, за 100 драхм...</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">P-Probably a drum oil! One big enough that needs to be carried by two strong sailors!</speak>
+            <speak chara="_Watt">...Вероятно, достаточно, чтобы купить целую бочку машинного масла! Нужны два сильных моряка, чтобы унести её!</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">T-That example is hard to follow...</speak>
+            <speak chara="_Bianka">Э-этому примеру трудно следовать...</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">Umm... T-Then if I use food...</speak>
+            <speak chara="_Watt">Эмм... Т-Тогда, если я впоспользуюсь пищей...</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">M-Maybe half a cow... I think? Or a pig?</speak>
+            <speak chara="_Watt">М-может быть, половину коровы... Я думаю? Или свинья?</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">(So approximately 2000 Euros? Or maybe a little less?)</speak>
+            <speak chara="_Bianka">(Так, примерно 2000 евро? Или, может быть, немного меньше?)</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">That's certainly 「a lot of money」. How long does it take to get 「100 Drachma」? One week?</speak>
+            <speak chara="_Bianka">Это, безусловно, большие деньги. Сколько времени требуется, чтобы получить 100 драхм? Неделя?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">One week?</speak>
+            <speak chara="_Thales">Неделя?</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">At the Great Library you can make that in half a day.</speak>
+            <speak chara="_Thales">В Великой библиотеке вы можете заработать столько за полдня.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
             <speak chara="_Bianka">...?</speak>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">100 Drachma in half a day, 200 per day, that's 4000 Euros...</speak>
-            <speak chara="_Bianka">Your monthly income is 120.000 Euros and your yearly income is...</speak>
+            <speak chara="_Bianka">100 драхм за полдня, 200 в день, это 4000 евро...</speak>
+            <speak chara="_Bianka">Ваш ежемесячный доход составляет 120 000 евро, а ваш годовой доход составляет...</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">1.44 million Euros!? But that's even higher than the salary of a Rank A Valkyrie!</speak>
+            <speak chara="_Bianka">1,44 миллиона евро!? Но это даже выше, чем зарплата Валькирии А ранга!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">A Rank Valkyrie? 「Valkyries」 have a rank?</speak>
+            <speak chara="_Watt">Валькирия А ранга? У Валькирий есть ранг?</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">A-Apologies, I lost my composure. Please forget I mentioned any rank.</speak>
+            <speak chara="_Bianka">П-Прошу прощения, я потеряла самообладание. Пожалуйста, забудьте, что я упоминала о каком-либо ранге.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Cough. Now I see, Thales-san, you didn't approach us because you were in need of money.</speak>
+            <speak chara="_Bianka">Кхм. Теперь я вижу, Фалес-сан, вы обратились к нам не потому, что нуждались в деньгах.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">Now you get it! I wanted to talk with you because you seemed interesting!</speak>
+            <speak chara="_Thales">Теперь ты понимаешь! Я хотела поговорить с тобой, потому что ты показалась мне интересной!</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">What do you say? You don't get the chance to explore the city guided by a 「philosopher」 often.</speak>
+            <speak chara="_Thales">Что скажешь? Не часто выпадает возможность исследовать город в сопровождении "философа".</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">It certainly doesn't sound like a bad idea but——</speak>
+            <speak chara="_Bianka">Это, конечно, не звучит как плохая идея, но——</speak>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">——If you're so rich, why did you want to charge us for your services?</speak>
+            <speak chara="_Bianka">——Если вы так богаты, почему вы захотели взять с нас плату за свои услуги?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
             <speak chara="_Thales">.....</speak>
             <show chara="thalesLaughClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Thales">Hahaha! You're an interesting one!</speak>
+            <speak chara="_Thales">Хахаха! А ты интересная!</speak>
             <goto goto="80" change="#ffffff"/>
         </scene>
         <scene id="80" background="CG5-1.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
-            <speak chara="_guideLighthouse">Fingerprint confirmed.</speak>
-            <speak chara="_guideLighthouse">Thank you for choosing the 「Lighthouse」 guide system, Director Thales of the Great Library.</speak>
-            <speak chara="_Thales">Interesting kids——</speak>
-            <speak chara="_Thales">——I will take over as your tour guide.</speak>
+            <speak chara="_guideLighthouse">Отпечаток пальца подтверждён.</speak>
+            <speak chara="_guideLighthouse">Благодарим вас за выбор системы путеводителей «Маяк», директор Фалес из Великой библиотеки.</speak>
+            <speak chara="_Thales">Интересные детки——</speak>
+            <speak chara="_Thales">——Я возьму на себя обязанности вашего гида./speak>
             <goto goto="90" change="#ffffff"/>
         </scene>
         <scene id="90" background="alexandriaStreetCenter.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">Huh...? You paid the robot yourself?</speak>
+            <speak chara="_Bianka">А...? Вы сами заплатили роботу?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales" remark="next">「Rational thinking is trapped in contradictions and as such it will lead to its own denial」.</speak>
+            <speak chara="_Thales" remark="next">"Мышление запутывается в противоречиях, то есть, теряет себя в постоянной нетождественности мысли и, таким образом, не доходит до самого себя, а, наоборот, остается в плену у своей противоположности".</speak>
             <remark post="U2FsdGVkX1+1SGRcprmKJPs15qgC">
-                <p class="article-text-h">Note：</p>
-                <!-- TODO -->
-                <p class="article-text">出自黑格尔 (G. W. F. Hegel) 《哲学全书》的《逻辑学》分册。因作者早年还出版过同名的另一本书，故此册俗称《小逻辑》。</p>
+                <p class="article-text-h">Примечание:</p>
+                <p class="article-text">Цитата взята из книги Г.В.Ф. Гегеля «Энциклопедия философских наук», раздел «Наука логики». Поскольку автор также опубликовал другую книгу с таким же названием в ранние годы своей жизни, этот том широко известен как «Малая логика».</p>
             </remark>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">When you reach a dead end reverse your line of thinking to see what both parties really want.</speak>
+            <speak chara="_Thales">Когда вы зайдёте в тупик, измените ход своих мыслей, чтобы увидеть, чего на самом деле хотят обе стороны.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">In our current situation—— You want a guide, but you don't want to be deceived. I want to talk with you, but you don't know me.</speak>
-            <speak chara="_Thales">Basically, since if you hire me or not is irrelevant, there is a way for me to leave this predicament.</speak>
+            <speak chara="_Thales">В нашей нынешней ситуации вам нужен проводник, но вы не хотите быть обманутым. Я хочу поговорить с тобой, но ты меня не знаешь.</speak>
+            <speak chara="_Thales">В принципе, поскольку не имеет значения, наймёте вы меня или нет, у меня есть способ выйти из этого затруднительного положения.</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">I must reverse 「receiving money」 to 「paying money」. That way, both parties get what they want!</speak>
+            <speak chara="_Thales">Я должна поменять местами "получение денег" на "выплату денег". Таким образом, обе стороны получают то, что они хотят!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...We can be friends. As long as you pay, that is.</speak>
+            <speak chara="_Bianka">...Мы можем быть друзьями. То есть до тех пор, пока вы платите.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Heh, look at you. You look so 「serious」 but you can joke too.</speak>
+            <speak chara="_Thales">Хех, посмотри на себя. Ты выглядишь такой серьёзной, но ты тоже можешь шутить.</speak>
             <show chara="thalesEmbarrassedClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">...Hey! Aren't you being a little rude?</speak>
+            <speak chara="_Bianka">...Эй! Тебе не кажется, что ты немного груба?</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Anyway, 「metaphysics」 is the study of the nature of reality. It examines thinking itself, its ability and limits to grasp the 「truth」. It would take an entire semester of classes to explain it in detail so let's not go there now.</speak>
+            <speak chara="_Thales">Как бы то ни было,"метафизика - это изучение природы реальности. Она исследует само мышление, его способность и пределы постижения "истины". Потребовался бы целый семестр занятий, чтобы объяснить это подробно, так что давайте не будем сейчас вдаваться в подробности.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">(Enters commands into the robot)</speak>
+            <speak chara="_Thales">(Вводит команды в робота)</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="beaconClose" position="center"/>
-            <speak chara="_guideLighthouse">Input confirmed. Starting tour.</speak>
+            <speak chara="_guideLighthouse">Ввод подтверждён. Начинаем тур.</speak>
             <show chara="beaconFar" position="center"/>
-            <speak chara="_guideLighthouse">This is the central square of the Harbor District. It's a great place for travelers to buy souvenirs.</speak>
-            <speak chara="_guideLighthouse">Many different stores can be found here and this zone is also a tax-free area. You will be able to find high quality products at a reasonable price.</speak>
-            <speak chara="_guideLighthouse">Today we recommend Rice Flour Chiffon Cake from 「Nile River Orchard」, canned Sea Urchin from 「Memories of Nicosia」, and glass art from 「Copenhagen's Mermaid」.</speak>
+            <speak chara="_guideLighthouse">Это центральная площадь Портового района. Отличное место для путешественников, чтобы купить сувениры.</speak>
+            <speak chara="_guideLighthouse">Здесь можно найти множество различных магазинов, и эта зона также является зоной, свободной от налогов. Вы сможете найти продукцию высокого качества по разумной цене.</speak>
+            <speak chara="_guideLighthouse">Сегодня мы рекомендуем шифоновый пирог из рисовой муки от «Nile River Orchard», консервированного морского ежа от «Memories of Nicosia» и изделия из стекла от «Copenhagen's Mermaid».</speak>
             <hide position="center"></hide>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">He... sounds like a salesman.</speak>
+            <speak chara="_Bianka">Он... звучит как продавец.</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Well, this is a commercial city after all, please overlook it.</speak>
+            <speak chara="_Thales">Ну, в конце концов, это коммерческий город, пожалуйста, не обращайте на это внимания.</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Speaking of products—— Do you know what's the aesthetic difference between food, clothing and buildings?</speak>
+            <speak chara="_Thales">Кстати, о продуктах—— знаете ли вы, в чём эстетическая разница между едой, одеждой и зданиями?</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">...I-I don't know.</speak>
+            <speak chara="_Watt">...Я-Я не знаю.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <!-- RENAME: Seriously—— If it isn't the 「Bishop」 it's you—— Do all 「philosophers」 take pleasure in presenting a question they themselves can answer? -->
-            <speak chara="_Bianka">Seriously—— If it isn't the 「Overseer」 it's you—— Do all 「philosophers」 take pleasure in presenting a question they themselves can answer?</speak>
+            <speak chara="_Bianka">Позвольте сказать— будь то Епископ, которого я встречала, или вы — разве не все философы любят использовать вопросы, чтобы убедиться, прежде чем говорить об этом?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">Haha, you presented an interesting idea. Well done, kid.</speak>
+            <speak chara="_Thales">Ха-ха, ты подала интересную идею. Молодец, малышка.</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">P-Please don't treat me like a child! I must let you know I'm a great Valkyrie!</speak>
+            <speak chara="_Bianka">П-пожалуйста, не обращайтесь со мной как с ребёнком! Я должна сообщить вам, что я великая Валькирия!</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">A-And you don't look too much like an adult yourself, shorty Director-san.</speak>
+            <speak chara="_Bianka">И-И вы сами не слишком похожи на взрослого, коротышка директор.</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Yes yes, I got it——</speak>
+            <speak chara="_Thales">Да-да, я поняла——</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">——Let's get back on track. I will teach you the difference between food, clothing and buildings.</speak>
+            <speak chara="_Thales">——Давайте вернёмся к теме. Я научу вас различию между едой, одеждой и зданиями.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Cough. The answer is their 「shelf life」.</speak>
+            <speak chara="_Thales">Кхм. Ответ заключается в их "сроке годности".</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">...S-Shelf life?</speak>
+            <speak chara="_Watt">...С-сроке годности?</speak>
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Yes. Food has the shortest shelf life, it doesn't last very long and once you eat it it's gone.</speak>
-            <speak chara="_Thales">Clothing is the middle ground. They can be used for several years, even decades. If preserved well enough, they can be passed down from a generation to another.</speak>
-            <speak chara="_Thales">Buildings, of course, have the longest shelf life. The cost of making one is high, but once built it can be used for centuries.</speak>
+            <speak chara="_Thales">Да. У продуктов самый короткий срок годности, они хранятся не очень долго, и как только вы их съедите, они исчезнут.</speak>
+            <speak chara="_Thales">Одежда - это золотая середина. Её можно использовать в течение нескольких лет, даже десятилетий. Если она достаточно хорошо сохранились, её можно передавать из поколения в поколение.</speak>
+            <speak chara="_Thales">Здания, конечно, имеют самый длительный срок годности. Стоимость его изготовления высока, но однажды построенное, оно может использоваться веками.</speak>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">In short, you can eat 3 meals a day, wear a different piece of clothing each day, but if the building you live in is old, there is no choice but to endure it.</speak>
+            <speak chara="_Thales">Короче говоря, вы можете питаться 3 раза в день, каждый день носить разную одежду, но если здание, в котором вы живете, старое, у вас нет другого выбора, кроме как терпеть.</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Unlike food or fashion trends that change in a short time or in spiral,</speak>
-            <speak chara="_Thales">Architecture represent the transition of aesthetics in history. 「Revolutions」 are 「changes」 that come at the price of destroying the previous history.</speak>
+            <speak chara="_Thales">В отличие от тенденций в еде или моде, которые меняются за короткое время или по спирали,</speak>
+            <speak chara="_Thales">Архитектура представляет собой переход эстетики в истории. Революции - это изменения, которые происходят ценой уничтожения прошлой истории.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Those who are aware of history's value will only repurpose the inside of a historical building while preserving its appearance and value.</speak>
+            <speak chara="_Thales">Те, кто осознаёт ценность истории, будут перепрофилировать историческое здание только изнутри, сохраняя при этом его внешний вид и ценность.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">For example, this central square—— Until 200 years ago it was a 「slave market」 and not the 「tax-free area」 that is today.</speak>
+            <speak chara="_Thales">Например, эта центральная площадь—— ещё 200 лет назад это был рынок рабов, а не зона, свободная от налогов, как сегодня.</speak>
             <show chara="thalesStoneClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">...Slave market!?</speak>
+            <speak chara="_Bianka">...Рынок рабов!?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Yes, a place to buy and sell living humans.</speak>
+            <speak chara="_Thales">Да, место, где можно покупать и продавать живых людей.</speak>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">You probably don't know about it, but this city still has a certain degree of slavery in the form of liabilities.</speak>
+            <speak chara="_Thales">Ты, вероятно, не знаешь об этом, но в этом городе всё ещё существует определённая степень рабства в виде обязательств.</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">...What did you say?</speak>
+            <speak chara="_Bianka">...Что вы сказали?</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="right"/>
-            <speak chara="_Watt">I-It's true. If you go bankrupt in Alexandria you'll be listed as a 「Community Contracted Slave」 by the government.</speak>
+            <speak chara="_Watt">Э-Это правда. Если вы обанкротитесь в Александрии, правительство внесёт вас в список "Рабов по контракту с сообществом".</speak>
             <show chara="wattScaredClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">Well, you could call them free prisoners—— In the case of bankruptcy, the government will pay the money including interests.</speak>
-            <speak chara="_Thales">——Your salary during the duration of the contract will be used to repay your debt, or you can get someone else to pay it for you.</speak>
+            <speak chara="_Thales">Что ж, ты могла бы назвать их свободными заключёнными - в случае банкротства правительство выплатит деньги, включая проценты.</speak>
+            <speak chara="_Thales">——Зарплата в течение срока действия контракта будет использована для погашения долга, или можно попросить кого-то другого оплатить его.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">If the parents can't pay it during their lifetime, their children will take over their debt. And the interest rate is barely 7.5%, not too high.</speak>
+            <speak chara="_Thales">Если родители не смогут выплатить его в течение своей жизни, их дети возьмут на себя их долг. И процентная ставка составляет всего 7,5%, не слишком высокая.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">...Isn't it too much of a tyranny?</speak>
+            <speak chara="_Bianka">...Не слишком ли это похоже на тиранию?</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Tyranny, huh. From your point of view it might look like that.</speak>
+            <speak chara="_Thales">Тирания, хах. С твоей точки зрения это может выглядеть примерно так.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">But this city has no prison or death penalty, there is only 「confiscation of property」 and 「complete exile」.</speak>
+            <speak chara="_Thales">Но в этом городе нет тюрьмы или смертной казни, есть только конфискация имущества и полное изгнание.</speak>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">Looking at the history of this place, slavery was inevitable. The fact that slavery has been reduced to 「Community Contracted Slaves」 is already a huge improvement.</speak>
+            <speak chara="_Thales">Глядя на историю этого места, рабство было неизбежно. Тот факт, что рабство было сведено к рабам по контракту с сообществом, уже является огромным улучшением.</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">...I can't accept it. I have been taught that slavery and joint and several liability are unacceptable barbaric laws.</speak>
+            <speak chara="_Bianka">...Я не могу этого принять. Меня учили, что рабство и солидарная ответственность - это неприемлемые варварские законы.</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Yes. It's obvious someone from a more advanced society wouldn't agree with it.</speak>
+            <speak chara="_Thales">Да. Очевидно, что кто-то из более развитого общества не согласился бы с этим.</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">But you're here today as a tourist to enjoy the city, don't worry about those things right now!</speak>
+            <speak chara="_Thales">Но сегодня ты здесь как турист, чтобы насладиться городом, не беспокойся об этих вещах сейчас!</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">——You can't judge this city without knowing every aspect of it.</speak>
+            <speak chara="_Thales">——Ты не можешь судить об этом городе, не зная каждого его аспекта.</speak>
             <goto goto="100" clockwise="1"/>
         </scene>
         <scene id="100" background="alexandriaCityHall.jpg">
