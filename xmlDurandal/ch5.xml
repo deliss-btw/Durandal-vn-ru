@@ -572,7 +572,7 @@
             <speak chara="_guideLighthouse">Отпечаток пальца подтверждён.</speak>
             <speak chara="_guideLighthouse">Благодарим вас за выбор системы путеводителей «Маяк», директор Фалес из Великой библиотеки.</speak>
             <speak chara="_Thales">Интересные детки——</speak>
-            <speak chara="_Thales">——Я возьму на себя обязанности вашего гида./speak>
+            <speak chara="_Thales">——Я возьму на себя обязанности вашего гида.</speak>
             <goto goto="90" change="#ffffff"/>
         </scene>
         <scene id="90" background="alexandriaStreetCenter.jpg">
