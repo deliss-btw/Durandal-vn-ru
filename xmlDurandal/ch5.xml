@@ -705,142 +705,142 @@
         <scene id="100" background="alexandriaCityHall.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="thalesSmileClose" position="right"/>
-            <speak chara="_Thales">This is the 「City Hall」 mentioned earlier. Hear more about it from the robot.</speak>
+            <speak chara="_Thales">Это и есть упомянутая ранее Мэрия. Узнайте больше об этом от робота.</speak>
             <show chara="thalesSmileClose" position="right" opacity="0.8"/>
             <show chara="beaconFar" position="left"/>
-            <speak chara="_guideLighthouse">The City Hall of Alexandria was established 165 years ago in the Year 1 of the Republic Calendar, it was confiscated from its previous owner by a group of revolutionaries. Since then the building has been the headquarters of the legislature 「Public Council」 and the executive branch 「City Administration Group」.</speak>
-            <speak chara="_guideLighthouse">It was built with a Greek style in mind, and both sides of the arch are decorated with statues of important figures of the outside world such as Aristotle, Alexander The Great, Solon, Pericles, Leonidas I, Spartacus, Gracchus, Caesar, Cicero and Augustus.</speak>
-            <speak chara="_guideLighthouse">Those who wish to hear a more detailed explanation about any of them, please input the number below the statue.</speak>
+            <speak chara="_guideLighthouse">Ратуша Александрии была основана 165 лет назад в 1-й год республиканского календаря, она была конфискована у своего предыдущего владельца группой революционеров. С тех пор здание стало штаб-квартирой законодательной власти «Общественный совет» и исполнительной власти «Группа городской администрации».</speak>
+            <speak chara="_guideLighthouse">Он был построен с учётом греческого стиля, и обе стороны арки украшены статуями важных фигур внешнего мира, таких как Аристотель, Александр Македонский, Солон, Перикл, Леонид I, Спартак, Гракх, Цезарь, Цицерон и Август.</speak>
+            <speak chara="_guideLighthouse">Те, кто хочет услышать более подробное объяснение о любом из них, пожалуйста, введите номер под статуей.</speak>
             <show chara="beaconFar" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
-            <speak chara="_Bianka">I'm more interested in that 「Public Council」 rather than in those extraordinary people right now. Such a strange name.</speak>
+            <speak chara="_Bianka">Прямо сейчас меня больше интересует этот «Общественный совет», чем эти экстраординарные люди. Такое странное название.</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">Basically, it's an organization in charge of making all citizens vote to change or enact laws.</speak>
+            <speak chara="_Thales">По сути, это организация, отвечающая за то, чтобы заставить всех граждан голосовать за изменение или принятие законов.</speak>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Just in case I'll clarify, 「slaves」 and 「outsiders」 don't posses citizenship so they can't participate in this vote.</speak>
+            <speak chara="_Thales">На всякий случай я уточню, что рабы и аутсайдеры не имеют гражданства, поэтому они не могут участвовать в голосовании.</speak>
             <show chara="thalesEmbarrassedClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">A group of revolutionaries 100 years ago took control from a 「Tyrant」 pirate.</speak>
+            <speak chara="_Thales">Группа революционеров 100 лет назад захватила власть у пирата-тирана.</speak>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">But the revolutionaries were pirates themselves, so a war between 「Commoner Pirates」 and 「Aristocrat Pirates」 broke out.</speak>
+            <speak chara="_Thales">Но революционеры сами были пиратами, поэтому разразилась война между пиратами-простолюдинами и пиратами-аристократами.</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">That's...</speak>
+            <speak chara="_Bianka">Это...</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">The city has a deep trench at the North, an oasis at the South, and an affluent of the Nile River flowing from East to West—— Which means it's easy to defend, so many people were interested in controlling it.</speak>
+            <speak chara="_Thales">Город имеет глубокую траншею на севере, оазис на юге и приток реки Нил, текущей с востока на Запад, что означает, что его легко оборонять, поэтому многие люди были заинтересованы в его контроле.</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">S-So how did it become a commercial city and not a military stronghold?</speak>
+            <speak chara="_Watt">Т-Так как же это получилось, что он стал коммерческим городом, а не военным оплотом?</speak>
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">Haha, that's because the location was perfect to be a commercial hub. Merchants aren't afraid of pirates—— As long as the other party likes money!</speak>
+            <speak chara="_Thales">Ха-ха, это потому, что место было идеальным для того, чтобы стать коммерческим центром. Торговцы не боятся пиратов—— до тех пор, пока другая сторона любит деньги!</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">In the end it all came down to a 「government」, a 「state」, or you could call it 「a tool to let one class exploit another」 as well.</speak>
+            <speak chara="_Thales">В конце концов всё свелось к правительству, государству, или вы могли бы назвать это «инструментом, позволяющим одному классу эксплуатировать другой».</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">The self imposed 「peace」 of a 「barbaric society」 is a social auto regression. While it's a good thing, often enough it leaves bad customs in that society's culture.</speak>
+            <speak chara="_Thales">Добровольно навязанный мир варварского общества - это социальная авторегрессия. Хотя это и хорошо, достаточно часто это оставляет плохие обычаи в культуре этого общества.</speak>
             <show chara="thalesStoneClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">...You mean slavery.</speak>
+            <speak chara="_Bianka">...Вы имеете ввиду рабство.</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Exactly. Ironically, due to the high level of development of this city—— Even slaves are living better than anywhere else.</speak>
+            <speak chara="_Thales">Точно. По иронии судьбы, из-за высокого уровня развития этого города даже рабы живут лучше, чем где-либо ещё.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Public baths, flushing toilets, basic medical insurance, social security. These are things you can't get anywhere else.</speak>
+            <speak chara="_Thales">Общественные бани, туалеты со смывом, базовая медицинская страховка, социальное обеспечение. Это то, что вы больше нигде не сможете получить.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaHesitateClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">Ah, my workplace is nearby! Why don't we visit the Great Library next?</speak>
+            <speak chara="_Thales">А, моё рабочее место рядом! Почему бы нам в следующий раз не посетить Великую библиотеку?</speak>
             <goto goto="110" clockwise="1"/>
         </scene>
         <scene id="110" background="alexandriaLibraryYard.jpg">
             <bgm src="12_29_street.mp3" status="start"></bgm>
             <show chara="beaconClose" position="center"/>
-            <speak chara="_guideLighthouse">The 「Great Library」 was once the personal museum of a previous ruler. Its origin can be traced back to an ancient temple. In the Year 2 of the Republic Calendar it was rebuilt as a scientific research institute.</speak>
-            <speak chara="_guideLighthouse">The citizens of Alexandria believe science to be very important. For that reason the 「Great Library」 has been given the same social status as the 「Public Council」 and the 「City Administration Group」. Thanks to the widespread use of robots as public servants, the 「Great Library」 has taken over the duties of the 「courtroom」 and has become a pillar of society as a legal institution.</speak>
-            <speak chara="_guideLighthouse">The external side of the building has been heavily influenced by Asian culture, but the interior remains Greek in style, similar to the 「City Hall」.</speak>
-            <speak chara="_guideLighthouse">The interior and exterior belong to different cultures, but their nature matches so well it can be seen as a rare example of architectural transformation.</speak>
-            <speak chara="_guideLighthouse">Use of the Great Library is free to those registered in the city. Outsiders must provide a citizen guarantee or make a payment in advance.</speak>
+            <speak chara="_guideLighthouse">«Великая библиотека» когда-то была личным музеем предыдущего правителя. Его происхождение можно проследить до древнего храма. Во 2-м году по республиканскому календарю он был перестроен в научно-исследовательский институт.</speak>
+            <speak chara="_guideLighthouse">Жители Александрии считают науку очень важной. По этой причине «Великой библиотеке» был присвоен тот же социальный статус, что и «Общественному совету» и «Группе городской администрации». Благодаря широкому использованию роботов в качестве государственных служащих «Великая библиотека» взяла на себя обязанности зала суда и стала опорой общества как правового института.</speak>
+            <speak chara="_guideLighthouse">Внешняя сторона здания подверглась сильному влиянию азиатской культуры, но интерьер остается греческим по стилю, похожим на Мэрию.</speak>
+            <speak chara="_guideLighthouse">Интерьер и экстерьер принадлежат разным культурам, но их природа настолько хорошо сочетается, что это можно рассматривать как редкий пример архитектурной трансформации.</speak>
+            <speak chara="_guideLighthouse">Пользование Великой библиотекой бесплатно для тех, кто зарегистрирован в городе. Посторонние лица должны предоставить гражданскую гарантию или внести предоплату.</speak>
             <hide position="center"></hide>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">——Do you understand what the robot meant by that?</speak>
+            <speak chara="_Thales">——Вы понимаете, что робот имеет в виду под этим?</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">You mean the difference between a 「person registered in the city」 and a 「citizen」?</speak>
+            <speak chara="_Watt">Вы имеете в виду разницу между «лицом, зарегистрированным в городе» и «гражданином»?</speak>
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">That's right. The former includes slaves without citizenship, and the later is limited to citizens with citizenship.</speak>
+            <speak chara="_Thales">Верно. Первое включает рабов без гражданства, а второе ограничено гражданами с гражданством.</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">But don't get hung up on those social issues! Let's go inside!</speak>
+            <speak chara="_Thales">Но не зацикливайтесь на этих социальных проблемах! Давайте зайдём внутрь!</speak>
             <goto goto="120" clockwise="1"/>
         </scene>
         <scene id="120" background="alexandriaLibraryInside.jpg">
             <bgm src="12_29_street.mp3" status="continue"></bgm>
             <show chara="wattSmileClose" position="left"/>
-            <speak chara="_Watt">A-Amazing...</speak>
+            <speak chara="_Watt">П-потрясающе...</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">I-Impressive... Does it go 10 layers underground?</speak>
+            <speak chara="_Bianka">В-Впечатляет... Уходит ли она на 10 слоев под землю?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">The underground segment was recently built while the upper segment was the personal collections of the tyrants of the past—— Nothing but a storage.</speak>
+            <speak chara="_Thales">Подземный сегмент был недавно построен, в то время как верхний сегмент представлял собой личные коллекции тиранов прошлого - не что иное, как хранилище.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">That said, not everything disappeared along with them. For example, the 『Greek Military Junta』 and the 『Complete Comedy Works of Aristophanes』.</speak>
+            <speak chara="_Thales">Тем не менее, не всё исчезло вместе с ними. Например, «Греческая военная хунта» и «Полное собрание комедийных произведений Аристофана».</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Of course, we also have titles such as 『Homu's Hyper Adventure』 and 『Records of the Three Homu Kingdoms』.</speak>
+            <speak chara="_Thales">Конечно, у нас также есть такие названия, как «Гипер-приключение Хому» и «Записи трёх королевств Хому».</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...Why is there a 「Homu」 in their names!?</speak>
+            <speak chara="_Bianka">...Почему в их названиях есть «Хому»!?</speak>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">——And does this say 「novel edition」!?</speak>
+            <speak chara="_Bianka">——И здесь написано «новое издание»!?</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">They are works reproduced by 「outsiders」. Most of the works here are 「memoirs」 rather than the 「originals」.</speak>
+            <speak chara="_Thales">Это работы, воспроизведённые аутсайдерами по их воспоминаниям и рассказам. Большинство представленных здесь работ являются скорее мемуарами, чем оригиналами.</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">If you spot any inconsistency with the version you know please point it out! With any luck you'll get rewarded!</speak>
+            <speak chara="_Thales">Если вы обнаружите какое-либо несоответствие с известной вам версией, пожалуйста, укажите на это! Если повезёт, вы получите вознаграждение!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Heh... There are two great writers aboard my ship, Shakespeare and Cervantes—— Maybe I'll tell them to drop by later.</speak>
+            <speak chara="_Bianka">Хех... На борту моего корабля есть два великих писателя, Шекспир и Сервантес—— Может быть, я скажу им, чтобы они заглянули позже.</speak>
             <goto goto="130" clockwise="1"/>
         </scene>
         <scene id="130" background="alexandriaCityLandscape.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Oh, the scenery from the back side is wonderful.</speak>
+            <speak chara="_Bianka">О, пейзаж с обратной стороны чудесный.</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Haha, it's a nice place to relax and cool down your head.</speak>
+            <speak chara="_Thales">Хаха, это хорошее место, чтобы расслабиться и остудить голову.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Well, have you managed to grasp the beauty of 「civilization」?</speak>
+            <speak chara="_Thales">Ну что, удалось ли вам постичь красоту цивилизации?</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">...You mean 「architectural art」?</speak>
+            <speak chara="_Bianka">...Вы имеете в виду архитектурное искусство?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">...Not only that.</speak>
+            <speak chara="_Thales">...Не только.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">If it wasn't for humanity's constant 「living」, the pyramids or the Parthenon would be meaningless geometric figures.</speak>
+            <speak chara="_Thales">Если бы не постоянное проживание человечества, пирамиды или Парфенон были бы бессмысленными геометрическими фигурами.</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">And let me add, aesthetics is a process in which free will is self sublimated by emotion.</speak>
+            <speak chara="_Thales">И позвольте мне добавить, эстетика - это процесс, в котором свободная воля самосублимируется эмоциями.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Deep in one's heart all external information comes together transcending spacetime, and synchronizes with a 「mental wavelength」, giving birth to a profound emotion.</speak>
+            <speak chara="_Thales">Глубоко в сердце человека вся внешняя информация собирается воедино, выходя за пределы пространства-времени, и синхронизируется с ментальной длиной волны, рождая глубокую эмоцию.</speak>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">The beauty of 「civilization」 lies within little countless things that interwoven to form a larger and complex picture. Each free will is one line, one point of color in that picture.</speak>
+            <speak chara="_Thales">Красота цивилизации заключается в бесчисленных мелочах, которые переплетаются, образуя большую и сложную картину. Каждая свободная воля - это одна линия, одна цветная точка на этой картинке.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">Apart it may be ugly, but pieced together it can form something beautiful.</speak>
+            <speak chara="_Thales">По отдельности это может быть уродливо, но, собравшись воедино, может образовать нечто прекрасное.</speak>
             <show chara="thalesStoneClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...Yes yes, there you go again with the complicated talk. Jimmy, it's about time we——</speak>
+            <speak chara="_Bianka">...Да, да, вот вы снова начинаете этот сложный разговор. Джимми, самое время нам——</speak>
             <bgm src="noise.mp3" status="start"></bgm>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">——He's gone! Jimmy, where are you!?</speak>
+            <speak chara="_Bianka">——Он пропал! Джимми, где ты?!</speak>
             <end post="U2FsdGVkX1+HS4JRVLrlm+kkEYhn"/>
         </scene>
     </story>
