@@ -52,17 +52,17 @@
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Ничего такого. Только то, что...</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">Когда ты спишь, ты кладёшь голову под подушку——</speak>
+            <speak chara="_Shakespeare">Ты спишь, уткнувшись лицом в подушку——</speak>
             <show chara="shakesBagaRightClose" position="left"/>
-            <speak chara="_Shakespeare">Иы сбрасываешь простыни с кровати по крайней мере 5 раз в течение ночи——</speak>
+            <speak chara="_Shakespeare">Ты сбрасываешь простыни с кровати по крайней мере 5 раз в течение ночи——</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">И когда кажется, что ты закончила, обнаруживаешь, что простыни пропитаны слюной——</speak>
+            <speak chara="_Shakespeare">И когда кажется, что ты перестала ворочаться, обнаруживается, что простыни пропитаны слюной——</speak>
             <show chara="shakesBagaLeftClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
             <speak chara="_Bianka">Хватит! Больше ничего не говори!!</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">Почему она рассказала тебе о—— Я имею в виду, почему она наговорила тебе так много лжи!?</speak>
+            <speak chara="_Bianka">Почему она рассказала тебе о—— То есть, почему она наговорила тебе так много лжи!?</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Ахахаха! Лучше спроси её сама!</speak>
@@ -104,7 +104,7 @@
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">...Боже! Ты не намерена меня слушать!</speak>
+            <speak chara="_Bianka">...Боже! Ты совсем не слушаешь!</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="submarineCabinBlurSunset.jpg">
