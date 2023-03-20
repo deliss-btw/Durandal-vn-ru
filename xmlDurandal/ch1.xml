@@ -27,7 +27,7 @@
             <speak chara="_Durandal">Средняя частота биения сердца составляет 125... Окей, идеально.</speak>
             <show chara="biankaSportSmileClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidSmileClose" position="left"/>
-            <speak chara="_Rita">В таком случае, Бьянка-сама, не позавтракать ли нам?</speak>
+            <speak chara="_Rita">В таком случае, госпожа Бьянка, не позавтракать ли нам?</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
             <speak chara="_Rita" remark="next">Сегодняшний десерт - свежеиспеченный сыр Мильфей.</speak>
             <remark post="U2FsdGVkX18du3l7nMcHK1ORJgIy">
@@ -114,7 +114,7 @@
             <speak chara="_BiankaNoName">...Что?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_RitaNoName">Бьянка-сама, "обычный человек" пессимистичен и реалистичен. Прежде чем они даже начнут размышлять о вознаграждении, они смотрят на последствия своей неудачи.</speak>
+            <speak chara="_RitaNoName">Госпожа Бьянка, "обычный человек" пессимистичен и реалистичен. Прежде чем они даже начнут размышлять о вознаграждении, они смотрят на последствия своей неудачи.</speak>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_RitaNoName">Если такого человека поставить против моря в совершенно незнакомом ему мире... Он не сможет бороться со своими страхами.</speak>
             <show chara="rita17HesitateClose" position="right"/>
@@ -130,14 +130,14 @@
             <speak chara="_Bianka">К тому же——</speak>
             <show chara="biankaSneerClose" position="left"/>
             <speak chara="_Bianka">——Рита, сколько раз я тебе говорила?</speak>
-            <speak chara="_Bianka">Перестань добавлять "-сама" к моему имени... Это жутко.</speak>
+            <speak chara="_Bianka">Перестань добавлять "госпожа" к моему имени... Это жутко.</speak>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">Я Валькирия, которая встретила тебя только перед началом этой миссии, и ты стала моим адъютантом только благодаря чьей-то настойчивости.</speak>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">—— Пожалуйста, перестань разговаривать со мной так же, как ты разговариваешь с Епископом!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
-            <speak chara="_Rita">Поняла, Бьянка-сама.</speak>
+            <speak chara="_Rita">Поняла, госпожа Бьянка.</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
@@ -317,7 +317,7 @@
             <show chara="rita17SmileClose" position="left"/>
             <speak chara="_Rita">Боже мой. Кстати...</speak>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">...Сервантес-сан, как мы распределим наши роли после отплытия?</speak>
+            <speak chara="_Rita">...Мистер Сервантес, как мы распределим наши роли после отплытия?</speak>
             <show chara="rita17SquintClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Cervantes">Хаха, не будьте такой скованной, мисс. Можете называть меня просто Мигель.</speak>
