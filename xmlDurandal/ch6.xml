@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <data>
     <story>
         <scene id="0" background="bg.jpg">
@@ -8,37 +8,37 @@
         </scene>
         <scene id="10" background="libraryBasement.jpg">
             <bgm src="12_14_Sonnet_18.mp3" status="start"></bgm>
-            <text>Library.</text>
-            <text>For those without the proper knowledge, bookshelves are a cultural cemetery made by boring people.</text>
-            <text>For those who have the knowledge to understand what they say, a library is a roaring Valhalla, a spiritual hall for communication across time and space.</text>
+            <text>Библиотека.</text>
+            <text>Для тех, кто не обладает соответствующими знаниями, книжные полки - не более чем культурное кладбище, созданное скучными людьми.</text>
+            <text>Но для тех, кто понимает, о чем идет речь, библиотека - это шумная Вальхалла, зал героев, которые передают мудрость через время и пространство.</text>
             <text article="1">
-                <p class="article-text">「I propose to consider the question, "Can machines think?"」</p>
-                <p class="article-text">「This should begin with definitions of the meaning of the terms "machine" and "think."」</p>
+                <p class="article-text">«Я предлагаю рассмотреть следующий вопрос: "Могут ли машины думать?"»</p>
+                <p class="article-text">«Это рассуждение стоит начать с определения "машины" и "мышления". Эти определения можно сформулировать в рамках повседневного употребления этих слов - но такой подход опасен».</p>
             </text>
             <text article="1">
-                <p class="article-text">「The definitions might be framed so as to reflect so far as possible the normal use of the words, but this attitude is dangerous, If the meaning of the words "machine" and "think" are to be found by examining how they are commonly used it is difficult to escape the conclusion that the meaning and the answer to the question, "Can machines think?" is to be sought in a statistical survey such as a Gallup poll.」</p>
-                <p class="article-text">「But this is absurd.」</p>
+                <p class="article-text">«Если определения слов "машина" и "мышление" основаны на их повседневном употреблении, трудно избежать вывода, что ответ на вопрос "могут ли машины мыслить?" можно найти только среди уже предопределенных вариантов, словно в "опросах" всяких компаний».</p>
+                <p class="article-text">«Это нелепо».</p>
             </text>
             <text article="1">
-                <p class="article-text">「Instead of attempting such a definition I shall replace the question by another, which is closely related to it and is expressed in relatively unambiguous words.」</p>
-                <p class="article-text">「The new form of the problem can be described in terms of a game which we call——」</p>
+                <p class="article-text">«Вместо того, чтобы пытаться дать такое определение, я заменю сам вопрос другим вопросом - тем, который тесно связан с ним и который в сравнении может быть однозначно выражен словами».</p>
+                <p class="article-text">«Новая форма этого вопроса может быть описана игрой, определяемой явными терминами…»</p>
             </text>
-            <text remark="next">「——The 'imitation game.'」</text>
+            <text remark="next">«——Мы называем её "игрой-имитацией"».</text>
             <remark post="U2FsdGVkX18PHNWizGemutQ7hqod">
-                <p class="article-text-h">Note：</p>
-                <p class="article-text">此段文字翻译自阿兰·图灵（Alan Mathison Turing）于1950年发表的论文《计算机器与智能》（Computing Machinery and Intelligence）。</p>
-                <p class="article-text">这里的“模仿游戏”（后世称之为“图灵测验”）是指：一个人（代号C）使用他和测试对象皆理解的语言，去询问两个他不能直接感知的对象（一台机器，代号A；一个思维正常的人，代号B）任意一串问题——如果经过足够长的问答后，C仍不能准确判断出A与B谁是机器、谁是人，则称此机器A赢得“模仿游戏”（即“通过图灵测验”）。</p>
-                <p class="article-text">图灵测验的理论价值在于提出了一种切实可行的评判标准：如果一台机器能够稳定赢得“模仿游戏”，那么从客观的角度出发，这台机器在“心智能力”上和“人”就是没有区别的。</p>
+                <p class="article-text-h">Примечание：</p>
+                <p class="article-text">Этот текст переведен из статьи Алана Мэтисона Тьюринга "Вычислительная техника и интеллект", опубликованной в 1950 году.</p>
+                <p class="article-text">"Игра-имитация" (позже названная "тестом Тьюринга") - это когда человек (кодовое имя C) задает двум объектам (машине, кодовое имя A, и мыслящему человеку, кодовое имя B), которых он не может воспринимать непосредственно, ряд вопросов на понятном ему и испытуемым языке. Если после достаточно длительной серии вопросов и ответов объект C не может точно определить, кто из A и B является машиной, а кто человеком, то машина A побеждает в "игре-имитации" (т.е. "проходит тест Тьюринга").</p>
+                <p class="article-text">Теоретическая ценность теста Тьюринга заключается в том, что он предлагает практический критерий: если машина может последовательно побеждать в "игре-имитации", то с объективной точки зрения она неотличима от "человека" с точки зрения "умственных способностей".</p>
             </remark>
-            <text>I got separated from my two partners while I was immersed in Alan Turing's thoughts.</text>
-            <text>Partners I say—— But those two were too busy talking to each other they probably didn't notice I wasn't there anymore.</text>
-            <text>I'm feeling sleepy, maybe Turing's paper is too complicated.</text>
-            <text>I can't. If I stop reading now I'll lose track of what I've read so far. At least I need to finish this chapter...</text>
-            <text>Eh? I feel like... I'm forgetting something important...</text>
-            <text>It's useless, my eyes...</text>
-            <text>I'm... sleepy...</text>
+            <text>Ты настолько поглощен чтением сборника работ Алана Тьюринга, что не замечаешь, что два твоих спутника покинули это место.</text>
+            <text>Впрочем, виноваты они и в том, что по дороге разговаривают друг с другом — незнающие люди и не подумают, что эти две «хвастунишки» на самом деле твои спутники.</text>
+            <text>Возможно, эта диссертация Тьюринга слишком сложна, подступает сонливость.</text>
+            <text>Нет, если ты остановишься здесь, то потеряешь ход мысли. Прочитай хотя бы этот абзац, прежде чем сделать перерыв.</text>
+            <text>А? Я... забыл что-то очень важное...</text>
+            <text>Нет, я больше не могу держать глаза открытыми...</text>
+            <text>Так... хочется спать...</text>
             <text>.....</text>
-            <text>Before losing consciousness, I smelled something akin to a perfume.</text>
+            <text>Перед потерей сознания тебе почуялся слабый запах духов.</text>
             <goto goto="20" clockwise="1"/>
         </scene>
         <scene id="20" background="libraryCenter.jpg">
