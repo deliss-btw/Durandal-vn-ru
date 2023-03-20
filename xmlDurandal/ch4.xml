@@ -136,7 +136,7 @@
             <speak chara="_Bianka">Рита, приготовь что-нибудь вкусненькое для этого парня! Какое-нибудь высококалорийное блюдо, от взгляда на которое у любого слюнки потекут!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Как прикажете, Бьянка-сама.</speak>
+            <speak chara="_Rita">Как прикажете, госпожа Бьянка.</speak>
             <goto goto="60" clockwise="1"/>
         </scene>
         <scene id="60" background="submarineCabinBlurDeep.jpg">
