@@ -81,7 +81,7 @@
         <character name="Рита" color="#ddcab3" id="ritaVestTearClose-up" src="06_01_ritaVestTearClose-up.png"/>
         <character name="Девочка" color="#ffffff" id="_BiankaNoName" src=""/>
         <character name="Бьянка" color="#ffffff" id="_Bianka" src=""/>
-        <character name="??? (Bianka)" color="#ffffff" id="_BiankaVeniceNoName" src=""/>
+        <character name="??? (Бьянка)" color="#ffffff" id="_BiankaVeniceNoName" src=""/>
         <character name="Bassanio" color="#ffffff" id="_BiankaVenice" src=""/>
         <character name="Bassanio (?)" color="#ffffff" id="_BiankaVeniceQ" src=""/>
         <character name="Bassanio (Bianka)" color="#ffffff" id="_BiankaVeniceSelf" src=""/>
@@ -199,7 +199,7 @@
         <character name="Красноволосая Женщина" color="#d25242" id="_ShakespeareNoName" src=""/>
         <character name="“Барбаросса”" color="#d25242" id="_ShakespeareBarbarossa" src=""/>
         <character name="Шекспир" color="#d25242" id="_Shakespeare" src=""/>
-        <character name="??? (Shakespeare)" color="#d25242" id="_ShakespeareVeniceNoName" src=""/>
+        <character name="??? (Шекспир)" color="#d25242" id="_ShakespeareVeniceNoName" src=""/>
         <character name="Shylock" color="#d25242" id="_ShakespeareVeniceFather" src=""/>
         <character name="Jessica" color="#d25242" id="_ShakespeareVeniceDaughter" src=""/>
         <character name="Jessica" color="#d25242" id="JessicaLaugh" src="JessicaLaugh.png"/>
@@ -263,22 +263,22 @@
         <character name="“Железная Маска”" color="#8a58f0" id="ironRedClose" src="11_15_ironRedClose.png"/>
         <character name="“Железная Маска”" color="#8a58f0" id="ironWhiteSwordFar" src="02_22_ironWhiteSwordFar.png"/>
         <character name="???" color="#8a58f0" id="_SchrodingerNoName" src=""/>
-        <character name="Schrodinger" color="#8a58f0" id="_Schrodinger" src=""/>
-        <character name="Schrodinger" color="#8a58f0" id="schroNoSwordTalkClose" src="12_21_schroNoSwordTalkClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroNoSwordSmileClose" src="12_21_schroNoSwordSmileClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroNoSwordCalmClose" src="12_21_schroNoSwordCalmClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroNoSwordSeriousClose" src="12_21_schroNoSwordSeriousClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroCalmClose" src="02_21_schroCalmClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroCalmFar" src="02_21_schroCalmFar.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroMemoryFar" src="02_21_schroMemoryFar.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroScornfulFar" src="02_21_schroScornfulFar.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroSeriousClose" src="02_21_schroSeriousClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroSeriousFar" src="02_21_schroSeriousFar.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroSmileClose" src="02_21_schroSmileClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroSmileFar" src="02_21_schroSmileFar.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroTalkClose" src="02_21_schroTalkClose.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroTalkFar" src="02_21_schroTalkFar.png"/>
-        <character name="Schrodinger" color="#8a58f0" id="schroMemoryClose" src="05_01_schroMemoryClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="_Schrodinger" src=""/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroNoSwordTalkClose" src="12_21_schroNoSwordTalkClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroNoSwordSmileClose" src="12_21_schroNoSwordSmileClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroNoSwordCalmClose" src="12_21_schroNoSwordCalmClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroNoSwordSeriousClose" src="12_21_schroNoSwordSeriousClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroCalmClose" src="02_21_schroCalmClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroCalmFar" src="02_21_schroCalmFar.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroMemoryFar" src="02_21_schroMemoryFar.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroScornfulFar" src="02_21_schroScornfulFar.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroSeriousClose" src="02_21_schroSeriousClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroSeriousFar" src="02_21_schroSeriousFar.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroSmileClose" src="02_21_schroSmileClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroSmileFar" src="02_21_schroSmileFar.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroTalkClose" src="02_21_schroTalkClose.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroTalkFar" src="02_21_schroTalkFar.png"/>
+        <character name="Шрёдингер" color="#8a58f0" id="schroMemoryClose" src="05_01_schroMemoryClose.png"/>
         <character name="Епископ Шиксала" color="#fff7cd" id="_Otto" src=""/>
         <character name="Епископ Отто" color="#fff7cd" id="_OttoPapa" src=""/>
         <character name="Доктор Отто" color="#fff7cd" id="_OttoDr" src=""/>
@@ -305,7 +305,7 @@
         <character name="Манфред" color="#ccc8b5" id="manfredSadClose" src="12_13_manfredSadClose.png"/>
         <character name="Манфред" color="#ccc8b5" id="manfredSmileClose" src="12_28_manfredSmileClose.png"/>
         <character name="Рагна" color="#cb958b" id="_Ragna" src=""/>
-        <character name="Maid (?)" color="#cb958b" id="_RagnaNoName" src=""/>
+        <character name="Горничная (?)" color="#cb958b" id="_RagnaNoName" src=""/>
         <character name="Aslaug (?)" color="#cb958b" id="_RagnaFalseName" src=""/>
         <character name="Рагна" color="#cb958b" id="ragnaMaidNormalClose" src="08_03_ragnaMaidNormalClose.png"/>
         <character name="Рагна" color="#cb958b" id="ragnaMaidCareClose" src="08_03_ragnaMaidCareClose.png"/>
