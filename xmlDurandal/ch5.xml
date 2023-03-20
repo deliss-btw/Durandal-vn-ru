@@ -50,19 +50,19 @@
             <speak chara="_Bianka">...Постой. Что она тебе рассказала?</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Ничего такого. Только то, что...</speak>
+            <speak chara="_Shakespeare">Ничего такого. Всего лишь...</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">Ты спишь, уткнувшись лицом в подушку——</speak>
+            <speak chara="_Shakespeare">“Заснула уткнувшись лицом в подушку”——</speak>
             <show chara="shakesBagaRightClose" position="left"/>
-            <speak chara="_Shakespeare">Ты сбрасываешь простыни с кровати по крайней мере 5 раз в течение ночи——</speak>
+            <speak chara="_Shakespeare">“Пять раз сбросила одеяло с кровати”——</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">И когда кажется, что ты перестала ворочаться, обнаруживается, что простыни пропитаны слюной——</speak>
+            <speak chara="_Shakespeare">“Наконец перестала ворочаться, но обслюнявила простыню”——</speak>
             <show chara="shakesBagaLeftClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Хватит! Больше ничего не говори!!</speak>
+            <speak chara="_Bianka">Хватит! Замолчи!!</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">Почему она рассказала тебе о—— То есть, почему она наговорила тебе так много лжи!?</speak>
+            <speak chara="_Bianka">Почему она рассказала тебе—— То есть, почему она наговорила тебе так много лжи!?</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Ахахаха! Лучше спроси её сама!</speak>
@@ -97,7 +97,7 @@
             <speak chara="_Bianka">......Нет, не думай, что если ты вот так подкупишь меня, то я п-прощу тебя.</speak>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Нехорошо небрежно говорить с другими о личной жизни капитана! Знаешь ли, адъютант?!</speak>
+            <speak chara="_Bianka">Нехорошо небрежно говорить с другими о личной жизни капитана! Ясно, адъютант?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
             <speak chara="_Rita">Хе-хе. Я буду иметь это в виду.</speak>
@@ -139,7 +139,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shakesConfidentClose" position="center"/>
-            <speak chara="_Shakespeare">Кашель. Те, кто некоторое время сопровождал меня, уже знают, что происходит с "местными жителями", но на этот раз у нас на борту несколько новых людей.</speak>
+            <speak chara="_Shakespeare">Кхм. Те, кто некоторое время сопровождал меня, уже знают, что происходит с "местными жителями", но на этот раз у нас на борту несколько новых людей.</speak>
             <show chara="shakesSmileClose" position="center"/>
             <speak chara="_Shakespeare">Таким образом, я отдаю ещё один приказ, один из самых важных——</speak>
             <show chara="shakesLaughClose" position="center"/>
@@ -166,7 +166,7 @@
             <speak chara="_Shakespeare">Не приходите позже плакать, если я сжульничаю.</speak>
             <hide position="center"></hide>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Вздох... Быть «директором театральной труппы» означает, что ты не можешь вести себя как нормальный человек?</speak>
+            <speak chara="_Bianka">Тск... Быть «директором театральной труппы» означает, что ты не можешь вести себя как нормальный человек?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">Хахаха, звучит забавно.</speak>
@@ -195,7 +195,7 @@
             <speak chara="_Manfred">«Ж»...?</speak>
             <show chara="manfredQuestionClose" position="left" opacity="0.8"/>
             <show chara="ironWhiteClose" position="right"/>
-            <speak chara="_Ironface">Кажется, мы пара.</speak>
+            <speak chara="_Ironface">Кажется, теперь мы команда.</speak>
             <show chara="ironBlueClose" position="right"/>
             <speak chara="_Ironface">Я не люблю солдат, но у нас общий родной язык. По крайней мере, я могу быть твоим проводником.</speak>
             <show chara="ironBlueClose" position="right" opacity="0.8"/>
@@ -226,7 +226,7 @@
             <speak chara="_Shakespeare">Хех... Ты слишком хороший мальчик, инженер.</speak>
             <show chara="shakesSweatyClose" position="right" opacity="0.8"/>
             <show chara="lallaSmileClose" position="left"/>
-            <speak chara="_Lalla">...Тогда остаёмся только мы с Ритой.</speak>
+            <speak chara="_Lalla">...Тогда остаёмся только мы с мисс Ритой, верно?</speak>
             <show chara="lallaSmileClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
             <speak chara="_Rita">Похоже на то. Есть ли у вас какие-либо рекомендации относительно сувениров?</speak>
@@ -265,7 +265,7 @@
             <speak chara="_Bianka">Эм, это...</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Хахаха, не воспринимай это так серьёзно! Дай этому человеку из прошлого искренне позавидовать вам!</speak>
+            <speak chara="_Shakespeare">Хахаха, не воспринимай это всерьёз! Дай человеку из прошлого искренне позавидовать вам!</speak>
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">В любом случае—— сегодня у тебя выходной!</speak>
             <show chara="shakesLaughClose" position="left"/>
@@ -273,13 +273,13 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <text>Капитан «Каледонии» рассмеялась, выталкивая членов своей команды и гостей с корабля.</text>
-            <speak chara="_Shakespeare">Каждая группа должна состоять из двух человек! Приготовьтесь позже получить "особое наказание" капитана, если вы не согласитесь на это "принудительное свидание"! Хахаха!</speak>
+            <speak chara="_Shakespeare">Каждая группа должна состоять из двух человек! Будьте готовы получить "особое наказание" капитана, если не согласитесь на это "принудительное свидание"! Хахаха!</speak>
             <goto goto="60" clockwise="1"/>
         </scene>
         <scene id="60" background="alexandriaLighthouse.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Наконец-то мы снова на суше. Управление этого города действительно небрежное, здесь нет даже таможни.</speak>
+            <speak chara="_Bianka">Наконец-то мы снова на суше. Управление этого города конечно так себе, здесь нет даже таможни.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Э-эмм... Об управлении——</speak>
@@ -516,10 +516,10 @@
             <speak chara="_Watt">...Вероятно, достаточно, чтобы купить целую бочку машинного масла! Нужны два сильных моряка, чтобы унести её!</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Э-этому примеру трудно следовать...</speak>
+            <speak chara="_Bianka">Ч-что это за сравнение такое?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">Эмм... Т-Тогда, если я впоспользуюсь пищей...</speak>
+            <speak chara="_Watt">Эмм... Т-тогда, если сравнивать с пищей...</speak>
             <show chara="wattRelievedClose" position="left"/>
             <speak chara="_Watt">М-может быть, половину коровы... Я думаю? Или свинья?</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
@@ -546,7 +546,7 @@
             <speak chara="_Watt">Валькирия А ранга? У Валькирий есть ранг?</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
-            <speak chara="_Bianka">П-Прошу прощения, я потеряла самообладание. Пожалуйста, забудьте, что я упоминала о каком-либо ранге.</speak>
+            <speak chara="_Bianka">П-прошу прощения, я потеряла самообладание. Пожалуйста, забудьте, что я упоминала о каком-либо ранге.</speak>
             <show chara="biankaSneerClose" position="right"/>
             <speak chara="_Bianka">Кхм. Теперь я вижу, Фалес-сан, вы обратились к нам не потому, что нуждались в деньгах.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
@@ -556,9 +556,9 @@
             <speak chara="_Thales">Что скажешь? Не часто выпадает возможность исследовать город в сопровождении "философа".</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Это, конечно, не звучит как плохая идея, но——</speak>
+            <speak chara="_Bianka">Это, конечно, звучит как неплохая идея, но——</speak>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">——Если вы так богаты, почему вы захотели взять с нас плату за свои услуги?</speak>
+            <speak chara="_Bianka">——Если вы так богаты, почему захотели взять с нас плату за свои услуги?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
             <speak chara="_Thales">.....</speak>
@@ -595,16 +595,16 @@
             <speak chara="_Thales">Я должна поменять местами "получение денег" на "выплату денег". Таким образом, обе стороны получают то, что они хотят!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">...Мы можем быть друзьями. То есть до тех пор, пока вы платите.</speak>
+            <speak chara="_Bianka">...Мы можем быть друзьями. То есть до тех пор, пока вы платите за нас.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Хех, посмотри на себя. Ты выглядишь такой серьёзной, но ты тоже можешь шутить.</speak>
+            <speak chara="_Thales">Пфф, неожиданно, что ты, столь прямолинейная девочка, умеешь шутить.</speak>
             <show chara="thalesEmbarrassedClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">...Эй! Тебе не кажется, что ты немного груба?</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Как бы то ни было,"метафизика - это изучение природы реальности. Она исследует само мышление, его способность и пределы постижения "истины". Потребовался бы целый семестр занятий, чтобы объяснить это подробно, так что давайте не будем сейчас вдаваться в подробности.</speak>
+            <speak chara="_Thales">Как бы то ни было, "метафизика - это изучение природы реальности. Она исследует само мышление, его способность и пределы постижения "истины". Потребовался бы целый семестр занятий, чтобы объяснить это подробно, так что давайте не будем сейчас вдаваться в подробности.</speak>
             <show chara="thalesSmileClose" position="left"/>
             <speak chara="_Thales">(Вводит команды в робота)</speak>
             <hide position="left"></hide>
@@ -627,15 +627,15 @@
             <show chara="wattSurpriseClose" position="right"/>
             <speak chara="_Watt">...Я-Я не знаю.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Позвольте сказать— будь то Епископ, которого я встречала, или вы — разве не все философы любят использовать вопросы, чтобы убедиться, прежде чем говорить об этом?</speak>
+            <speak chara="_Bianka">Позвольте сказать— будь то Епископ, которого я встречала, или вы — разве не все философы любят самоудовлетворяться вопросами, прежде чем говорить об этом?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
             <speak chara="_Thales">Ха-ха, ты подала интересную идею. Молодец, малышка.</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">П-пожалуйста, не обращайтесь со мной как с ребёнком! Я должна сообщить вам, что я великая Валькирия!</speak>
+            <speak chara="_Bianka">Какая малышка! Я-я действующая валькирия, понимаете?</speak>
             <show chara="biankaChayaoClose" position="right"/>
-            <speak chara="_Bianka">И-И вы сами не слишком похожи на взрослого, коротышка директор.</speak>
+            <speak chara="_Bianka">И-и вы сами не слишком похожи на взрослого, коротышка директор.</speak>
             <show chara="biankaChayaoClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
             <speak chara="_Thales">Да-да, я поняла——</speak>
@@ -697,9 +697,9 @@
             <show chara="thalesSmileClose" position="left"/>
             <speak chara="_Thales">Да. Очевидно, что кто-то из более развитого общества не согласился бы с этим.</speak>
             <show chara="thalesLaughClose" position="left"/>
-            <speak chara="_Thales">Но сегодня ты здесь как турист, чтобы насладиться городом, не беспокойся об этих вещах сейчас!</speak>
+            <speak chara="_Thales">Но твоя главная цель на сегодня - осмотр достопримечательностей, верно? Тогда лучше забыть обо всём этом!</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">——Ты не можешь судить об этом городе, не зная каждого его аспекта.</speak>
+            <speak chara="_Thales">——Прежде чем судить о городе, нужно узнать каждый его аспект.</speak>
             <goto goto="100" clockwise="1"/>
         </scene>
         <scene id="100" background="alexandriaCityHall.jpg">
@@ -786,12 +786,12 @@
             <speak chara="_Watt">П-потрясающе...</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
-            <speak chara="_Bianka">В-Впечатляет... Уходит ли она на 10 слоев под землю?</speak>
+            <speak chara="_Bianka">В-Впечатляет... Она уходит на 10 этажей под землю, верно?</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesStoneClose" position="left"/>
             <speak chara="_Thales">Подземный сегмент был недавно построен, в то время как верхний сегмент представлял собой личные коллекции тиранов прошлого - не что иное, как хранилище.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">Тем не менее, не всё исчезло вместе с ними. Например, «Греческая военная хунта» и «Полное собрание комедийных произведений Аристофана».</speak>
+            <speak chara="_Thales">Тем не менее, не всё исчезло вместе с ними. Например, «Греческая военная хунта» и «Ахарняне Аристофана».</speak>
             <show chara="thalesProudClose" position="left"/>
             <speak chara="_Thales">Конечно, у нас также есть такие названия, как «Гипер-приключение Хому» и «Записи трёх королевств Хому».</speak>
             <show chara="thalesProudClose" position="left" opacity="0.8"/>
@@ -801,7 +801,7 @@
             <speak chara="_Bianka">——И здесь написано «новое издание»!?</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">Это работы, воспроизведённые аутсайдерами по их воспоминаниям и рассказам. Большинство представленных здесь работ являются скорее мемуарами, чем оригиналами.</speak>
+            <speak chara="_Thales">Это работы, воспроизведённые иностранцами по их воспоминаниям и рассказам. Большинство представленных здесь работ являются скорее мемуарами, чем оригиналами.</speak>
             <show chara="thalesLaughClose" position="left"/>
             <speak chara="_Thales">Если вы обнаружите какое-либо несоответствие с известной вам версией, пожалуйста, укажите на это! Если повезёт, вы получите вознаграждение!</speak>
             <show chara="thalesLaughClose" position="left" opacity="0.8"/>
