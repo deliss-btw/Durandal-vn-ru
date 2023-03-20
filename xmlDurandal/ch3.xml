@@ -64,7 +64,7 @@
             <speak chara="_Rita">И правда..</speak>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">.....</speak>
-            <speak chara="_Rita">Если честно, то я восхищаюсь этим в Бьянке-сама.</speak>
+            <speak chara="_Rita">Если честно, то я восхищаюсь этим в госпоже Бьянке.</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">А? Чем именно?</speak>
@@ -127,7 +127,7 @@
             <show chara="ritaSpecialRightSquint" position="center"/>
             <speak chara="_Rita">.....</speak>
             <show chara="ritaSpecialRightSmile" position="center"/>
-            <speak chara="_Rita">Конечно. Я буду дорожить подарком Бьянки-сама.</speak>
+            <speak chara="_Rita">Конечно. Я буду дорожить подарком госпожи Бьянки.</speak>
             <hide position="back"></hide>
             <hide position="center"></hide>
             <goto goto="60" change="0"/>
@@ -140,7 +140,7 @@
             <speak chara="_Bianka">Т-тебе не нужно так оберегать его!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="rita17NaughtyClose" position="left"/>
-            <speak chara="_Rita">Эхехе... Не стесняйтесь, Бьянка-сама.</speak>
+            <speak chara="_Rita">Эхехе... Не стесняйтесь, госпожа Бьянка.</speak>
             <show chara="rita17NaughtyClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
@@ -149,7 +149,7 @@
             <speak chara="_Bianka">Ой... Извини, я... я не хотела на тебя кричать...</speak>
             <show chara="biancaShyClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Хехе. Я знаю, Бьянка-сама.</speak>
+            <speak chara="_Rita">Хехе. Я знаю, госпожа Бьянка.</speak>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">Однако, хочу спросить...</speak>
             <speak chara="_Rita">...Откуда вы знаете что мой день рождения завтра, 1 марта? </speak>
