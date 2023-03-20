@@ -15,7 +15,7 @@
                 <p class="article-text">Появившееся из ниоткуда таинственное подводное судно теперь спокойно плавает на поверхности моря после того, как утопила троих людей в тростниковой лодке.</p>
                 <p class="article-text">Лишь крики бедного Левиафана были слышны под голубым небом.</p>
             </text>
-            <speak chara="_Rita">Вы в порядке, Бьянка-сама?</speak>
+            <speak chara="_Rita">Вы в порядке, госпожа Бьянка?</speak>
             <speak chara="_Bianka">Д-да, конечно. Я всего лишь промокла с ног до головы, это пустяки.</speak>
             <speak chara="_Bianka">——Ох, спасибо за полотенце.</speak>
             <goto goto="15" change="0"/>
@@ -406,9 +406,9 @@
             <speak chara="_Bianka">?</speak>
             <show chara="biankaSeriousClose" position="back" opacity="0.8"/>
             <show chara="rita17NaughtyClose" position="left"/>
-            <speak chara="_Rita">Если Шекспир-сан отправляет своего адъютанта на соревнование——</speak>
+            <speak chara="_Rita">Если капитан Шекспир отправляет своего адъютанта на соревнование——</speak>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">——Тогда, я, как адъютант, надеюсь, что смогу пойти вместо Бьянки-сама.</speak>
+            <speak chara="_Rita">——Тогда, я, как адъютант, надеюсь, что смогу пойти вместо госпожи Бьянки.</speak>
             <show chara="rita17NaughtyClose" position="left"/>
             <speak chara="_Rita">Как-никак, в этом заключается правильная конкуренция, не так ли?</speak>
             <show chara="rita17NaughtyClose" position="left" opacity="0.8"/>
@@ -479,7 +479,7 @@
             <speak chara="_Bianka">Какова цель нашей экспедиции.</speak>
             <show chara="biankaConfidentClose" position="left" opacity="0.8"/>
             <show chara="rita17SmileClose" position="right"/>
-            <speak chara="_Rita">...Хорошо, Бьянка-сама.</speak>
+            <speak chara="_Rita">...Хорошо, госпожа Бьянка.</speak>
             <show chara="rita17SquintClose" position="right"/>
             <bgm src="11_16_themeOtto.mp3" status="start"></bgm>
             <speak chara="_Rita">Для начала—— Знаете что такое "Квантовое Море"?</speak>
