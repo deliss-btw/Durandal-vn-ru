@@ -41,7 +41,7 @@
             <speak chara="_Bianka">Конечно, ни одна квалифицированная валькирия не может беспокоить своих спутников из-за вредных привычек в работе и отдыхе!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Вот как? Это разнится со словами Риты-сан.</speak>
+            <speak chara="_Shakespeare">Вот как? Это разнится со словами мисс Риты.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">...</speak>
@@ -71,7 +71,7 @@
             <speak chara="_Bianka">Агх...!!!</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="rita17SquintClose" position="left"/>
-            <speak chara="_Rita">Бьянка-сама, Шекспир-сан, я прошу прощения за то, что прерываю ваш разговор.</speak>
+            <speak chara="_Rita">Госпожа Бьянка, капитан Шекспир, я прошу прощения за то, что прерываю ваш разговор.</speak>
             <show chara="rita17SmileClose" position="left"/>
             <speak chara="_Rita">Сегодняшний завтрак состоит из поджаренного хлеба с китовым жиром, яйца с беконом, жареных креветок и спаржи, яблочного салата и грибного крем-супа——</speak>
             <show chara="rita17SquintClose" position="left"/>
@@ -91,7 +91,7 @@
             <speak chara="_Bianka">Рита, не слишком ли ты хороша в готовке!?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">Я польщена вашей похвалой, Бьянка-сама.</speak>
+            <speak chara="_Rita">Я польщена вашей похвалой, госпожа Бьянка.</speak>
             <show chara="rita17SmileClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">......Нет, не думай, что если ты вот так подкупишь меня, то я п-прощу тебя.</speak>
@@ -290,7 +290,7 @@
             <speak chara="_Bianka">Кто? Пожалуйста, выражайся яснее——</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="mailboxFar" position="left"/>
-            <speak chara="_mechineRed">Добро пожаловать в Александрию——— Джеймс Уатт-сан и неназванная юная леди.</speak>
+            <speak chara="_mechineRed">Добро пожаловать в Александрию——— Мистер Джеймс Уатт и неназванная юная леди.</speak>
             <show chara="mailboxFar" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -548,7 +548,7 @@
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">П-прошу прощения, я потеряла самообладание. Пожалуйста, забудьте, что я упоминала о каком-либо ранге.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Кхм. Теперь я вижу, Фалес-сан, вы обратились к нам не потому, что нуждались в деньгах.</speak>
+            <speak chara="_Bianka">Кхм. Теперь я вижу, мисс Фалес, вы обратились к нам не потому, что нуждались в деньгах.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="thalesLaughClose" position="left"/>
             <speak chara="_Thales">Теперь ты понимаешь! Я хотела поговорить с тобой, потому что ты показалась мне интересной!</speak>
