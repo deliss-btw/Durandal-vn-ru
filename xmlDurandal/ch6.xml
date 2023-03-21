@@ -45,35 +45,35 @@
             <bgm src="noise.mp3" status="start"></bgm>
             <show chara="biankaShoutClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">What is the meaning of this!?</speak>
+            <speak chara="_Bianka">Что происходит!?</speak>
             <show chara="biankaBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">He should be somewhere in this「postmodern scientific museum」!</speak>
+            <speak chara="_Bianka">Разве вы не сказали, что он, все еще в этом вашем «Музее постмодернистской науки»?!</speak>
             <show chara="biankaShoutClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">We even searched the bathroom but he's nowhere to be found!</speak>
+            <speak chara="_Bianka">И каков результат? Мы обыскали даже ванную!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">It's strange, that geek boy shouldn't have been able to go too far...</speak>
-            <speak chara="_Thales">We were together for sure at the lobby... where I introduced you two to 「Postmodern Science」—— The knowledge of the external world we haven't mastered yet.</speak>
-            <speak chara="_Thales">Afterwards we climbed the stairs, left the building through the back door and looked at the scenery...</speak>
-            <speak chara="_Thales">If we got separated at any point, him 「being immersed reading a book here」would be the most likely cause, but...</speak>
+            <speak chara="_Thales">Странно, куда мог бы убежать ботаник...</speak>
+            <speak chara="_Thales">Мы были вместе в вестибюле... где я познакомила вас двоих с "постмодернистской наукой" - знанием внешнего мира, которым мы еще не овладели.</speak>
+            <speak chara="_Thales">После этого мы поднялись по лестнице в холл, вышли с черного хода и посмотрели на пейзаж...</speak>
+            <speak chara="_Thales">Наиболее вероятно то, что он потерялся где-то по дороге и погрузился в чтение какой-то книги...</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">This is not the time for a carefree analysis!</speak>
+            <speak chara="_Bianka">Сейчас не время для анализов!</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Call him through the radio! Close all doors! Search every corner of this place!</speak>
+            <speak chara="_Bianka">Вызовите его по радио! Заблокируйте ворота! Обыщите каждый уголок!</speak>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">This city used to dabble in slave trading. Knowing that a timid boy like him would never leave on his own!</speak>
+            <speak chara="_Bianka">Разве вы не говорили, что история этого города полна порочной торговлей людьми? Куда такой трус мог пойти в одиночку?!</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">He didn't get lost—— He must have been kidnapped or something!</speak>
+            <speak chara="_Bianka">Он определенно не просто потерялся—— это похищение, похищение человека!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
             <speak chara="_Thales">...</speak>
             <speak chara="_Thales">.....</speak>
-            <speak chara="_Thales">That 「worse case scenario」 is not entirely impossible. I'll admit that much.</speak>
+            <speak chara="_Thales">Я допускаю, что описанный тобой «наихудший сценарий» возможен.</speak>
             <show chara="thalesEmbarrassedClose" position="right"/>
-            <speak chara="_Thales">I will arrange immediately the use of the radio. However, the other two actions will disrupt the order of the library. First we need the permission of the Curator.</speak>
+            <speak chara="_Thales">Для вещания не нужны никакие формальности; однако две другие меры, о которых ты упоминала, являются действиями, которые серьезно нарушат работу библиотеки, для их осуществления требуется личное одобрение директора.</speak>
             <show chara="thalesEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">——Then let's go see the Curator! Right now!</speak>
