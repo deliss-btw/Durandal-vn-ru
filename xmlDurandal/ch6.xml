@@ -76,207 +76,207 @@
             <speak chara="_Thales">Для вещания не нужны никакие формальности; однако две другие меры, о которых ты упоминала, являются действиями, которые серьезно нарушат работу библиотеки, для их осуществления требуется личное одобрение директора.</speak>
             <show chara="thalesEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">——Then let's go see the Curator! Right now!</speak>
+            <speak chara="_Bianka">——Тогда пойдём к директору! Прямо сейчас!</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">If he doesn't show up——</speak>
+            <speak chara="_Bianka">Если он не появится——</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">I will take matters into my own hands and thoroughly investigate everyone here!</speak>
+            <speak chara="_Bianka">Я возьму дело в свои руки и тщательно расследую всех присутствующих здесь!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="thalesAngryClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Thales">Calm down!</speak>
+            <speak chara="_Thales">Успокойся!</speak>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">The Curator is a reasonable person, but right now you look like you're trying to pick a fight.</speak>
+            <speak chara="_Thales">Директор - разумный человек, но прямо сейчас ты выглядишь так, словно пытаешься затеять драку.</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">W-What did you say!?</speak>
+            <speak chara="_Bianka">Ч-что ты сказала!?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">I understand well you feel anxious about what happened to your friend, but there is an order for everything. Don't throw it away and cause trouble for everyone else here.</speak>
+            <speak chara="_Thales">Я знаю, что ты спешишь с поиском партнёра, но всё должно быть сделано шаг за шагом. Ты не можешь пропустить необходимые шаги и перейти непосредственно к тому, чтобы доставить неприятности всем, кто здесь учится.</speak>
             <show chara="thalesAngryClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Thales">Rules and systems are only effective because people adhere to them!</speak>
+            <speak chara="_Thales">Правила и системы эффективны только потому, что люди их придерживаются!</speak>
             <show chara="thalesAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">Also... if you know violence is not good, suppress that aggressive attitude of yours until we confirm whether it was really a kidnapping or not.</speak>
-            <speak chara="_Thales">Or else you'll bring shame upon yourself.</speak>
+            <speak chara="_Thales">А ещё... если ты знаешь, что насилие это нехорошо, подавляй своё агрессивное отношение, пока мы не подтвердим, действительно ли это было похищение или нет.</speak>
+            <speak chara="_Thales">Иначе ты навлечешь на себя позор.</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="libraryOfficeDavid.jpg">
             <bgm src="bigTask.mp3" status="start"></bgm>
             <sound src="01_18_knock_door.mp3"/>
-            <text>Knock, knock——</text>
+            <text>Тук, тук——</text>
             <show chara="micheArrogantClose" position="left"/>
-            <speak chara="_MichelNoName">Come in.</speak>
+            <speak chara="_MichelNoName">Входите.</speak>
             <show chara="micheArrogantClose" position="left" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="right"/>
-            <speak chara="_Thales">Curator. It's about the broadcast I made earlier—— You probably heard it already.</speak>
+            <speak chara="_Thales">Директор. Речь идёт о передаче, которую я сделала ранее—— вы, вероятно, её уже слышали.</speak>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">We searched every place we could think of but couldn't find a single clue.</speak>
+            <speak chara="_Thales">Мы обыскали все места, какие только пришли в голову, но не смогли найти ни единой зацепки.</speak>
             <show chara="biankaShoutClose" position="right"/>
-            <speak chara="_Bianka">It's impossible someone disappeared without any witness! Please at least contact the police!</speak>
+            <speak chara="_Bianka">Это невозможно, чтобы кто-то исчез без каких-либо свидетелей! Пожалуйста, по крайней мере, свяжитесь с полицией!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">I already did. I said it before, didn't I? The library acts as a legal institution too.</speak>
+            <speak chara="_Thales">Я уже. Я говорила об этом раньше, не так ли? Библиотека также действует как юридическое учреждение.</speak>
             <show chara="thalesEmbarrassedClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="micheFocusClose" position="left"/>
-            <speak chara="_MichelNoName">...Thales. Basically, you are saying someone disappeared inside the library—— And they didn't leave any trace behind?</speak>
+            <speak chara="_MichelNoName">...Фалес. По сути, вы говорите, что кто-то исчез внутри библиотеки—— и они не оставили после себя никаких следов?</speak>
             <show chara="micheFocusClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">Yes. I also took a look at the surveillance cameras but there was no footage of anyone similar to him leaving the building.</speak>
+            <speak chara="_Thales">Да. Я также взглянула на камеры наблюдения, но там не было записей о том, как кто-то, похожий на него, покидал здание.</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">You have surveillance cameras? Makes sense, since there are robots too——</speak>
+            <speak chara="_Bianka">У вас есть камеры наблюдения? Это имеет смысл, поскольку роботы тоже——</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="right"/>
-            <speak chara="_Thales">Don't interrupt me, Valkyrie.</speak>
+            <speak chara="_Thales">Не прерывай меня, Валькирия.</speak>
             <show chara="micheFocusClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">Curator, the surveillance footage tell us the missing boy hasn't left the building and he isn't responding to the radio message.</speak>
-            <speak chara="_Thales">Can I ask for a complete lockdown and a thorough search?</speak>
+            <speak chara="_Thales">Директор, записи с камер наблюдения показывают нам, что пропавший мальчик не покидал здание и не отвечает на радиосообщение.</speak>
+            <speak chara="_Thales">Могу ли я попросить о полной изоляции и тщательном обыске?</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="micheSeriousClose" position="left"/>
-            <speak chara="_MichelNoName">Do we need to go that far?</speak>
+            <speak chara="_MichelNoName">Нужно ли нам заходить так далеко?</speak>
             <show chara="micheSeriousClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">...I think we do. There is a chance this incident is connected to the recent 「missing outsiders case」.</speak>
+            <speak chara="_Thales">...Я думаю, что да. Есть вероятность, что этот инцидент связан с недавним «делом о пропавших аутсайдерах».</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="micheFocusClose" position="left"/>
             <speak chara="_MichelNoName">...!</speak>
             <show chara="micheSeriousClose" position="left"/>
-            <speak chara="_MichelNoName">What makes you think that?</speak>
+            <speak chara="_MichelNoName">Почему ты так думаешь?</speak>
             <show chara="micheSeriousClose" position="left" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="right"/>
-            <speak chara="_Thales">It's difficult to make a person 「disappear」. The culprit being the same person is more likely than there being two criminals with the same MO active at the same time.</speak>
+            <speak chara="_Thales">Трудно заставить человека исчезнуть. Вероятность того, что преступником является один и тот же человек, выше, чем вероятность того, что в одно и то же время действуют два преступника с одними и теми же способностями.</speak>
             <show chara="thalesEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="micheSeriousClose" position="left"/>
             <speak chara="_MichelNoName">.....</speak>
-            <speak chara="_MichelNoName">Very well. The library will remain closed for 2 hours. Anyone entering or leaving will need my permission.</speak>
-            <speak chara="_MichelNoName">During that time, the entire staff and robots will search for the missing boy—— Are you okay with that, young lady?</speak>
+            <speak chara="_MichelNoName">Очень хорошо. Библиотека будет закрыта в течение 2 часов. Любому, кто захочет войти или выйти, потребуется моё разрешение.</speak>
+            <speak chara="_MichelNoName">В течение этого времени весь персонал и роботы будут искать пропавшего мальчика—— вы не против, юная леди?</speak>
             <show chara="micheSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
-            <!-- RENAME: I'm Bianka. Bianka Atagina. Rank A Valkyrie. -->
-            <speak chara="_Bianka">I'm Bianka. Bianka Ataegina. Rank A Valkyrie.</speak>
+            <speak chara="_Bianka">Я Бьянка. Бьянка Атаэгина. Валькирия А ранга.</speak>
             <show chara="biankaAngryClose" position="right" opacity="0.8"/>
             <show chara="micheArrogantClose" position="left"/>
-            <speak chara="_MichelNoName">I'm the Curator of the Great Library, Caterina Michelangelo Buonarroti. You can call me Michelangelo.</speak>
+            <speak chara="_MichelNoName">Я директор Великой библиотеки, Катерина Микеланджело Буонарроти. Ты можешь звать меня Микеланджело.</speak>
             <show chara="micheFocusClose" position="left"/>
-            <speak chara="_Michel">Thales, would you please tell the 「Consultant Detective」 to come here? We need to settle this as soon as possible.</speak>
+            <speak chara="_Michel">Фалес, не могла бы ты, пожалуйста, сказать детективу-консультанту, чтобы он пришёл сюда? Нам нужно уладить это как можно скорее.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="libraryCenter.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="micheDrySmileClose" position="left"/>
-            <speak chara="_Michel">The library has 227 reading rooms, 39 laboratories, 86 offices and 45 warehouses. It will take too much time to search everything.</speak>
+            <speak chara="_Michel">Библиотека располагает 227 читальными залами, 39 лабораториями, 86 офисами и 45 складами. На поиск всего уйдёт слишком много времени.</speak>
             <show chara="micheDrySmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">The staff and the robots are running around looking for him—— Shouldn't we be doing something too?</speak>
+            <speak chara="_Bianka">Персонал и роботы бегают вокруг в поисках его—— разве мы тоже не должны что-то делать?</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="micheRelaxClose" position="left"/>
-            <speak chara="_Michel">I'm not doing 「nothing」 here, I'm 「waiting」 for that person thinking over there.</speak>
+            <speak chara="_Michel">Я не делаю ничего, я жду, пока этот человек подумает вон там.</speak>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="CG6-1.jpg">
             <bgm src="01_18_tango.mp3" status="continue"></bgm>
-            <text>The Curator pointed her finger at a person sitting in a chair. She seemed to be busy thinking while assuming a strange pose like Holmes.</text>
-            <speak chara="_ThinkerChampollion">Seems everyone can't wait any longer, I'll start sharing my deductions while we wait for my trusted assistant to come.</speak>
-            <speak chara="_Bianka">W-Wait a moment—— Who are you?</speak>
-            <speak chara="_ThinkerChampollion">I'm an archeologist—— And a consultant detective.</speak>
+            <text>Директор указала пальцем на человека, сидящего в кресле. Она, казалось, была занята размышлениями, принимая странную позу, как Холмс.</text>
+            <speak chara="_ThinkerChampollion">Кажется, все больше не могут ждать. Я начну делиться своими выводами, пока мы ждём прихода моего доверенного помощника.</speak>
+            <speak chara="_Bianka">П-погодите—— Ты кто такая?</speak>
+            <speak chara="_ThinkerChampollion">Я археолог—— И детектив-консультант.</speak>
             <speak chara="_ThinkerChampollion">.....</speak>
-            <speak chara="_Bianka">...Anything else?</speak>
-            <speak chara="_ThinkerChampollion">Oh, did I forget something?</speak>
+            <speak chara="_Bianka">...И всё?</speak>
+            <speak chara="_ThinkerChampollion">О, я о чём-то забыла?</speak>
             <speak chara="_Bianka">.....</speak>
-            <speak chara="_Bianka">Why yes! Perhaps your name!? Are you not going to introduce yourself, like, properly?</speak>
-            <speak chara="_ThinkerChampollion">...Hmm. It's not like knowing my name would change our current situation.</speak>
-            <speak chara="_ThinkerChampollion">...But oh well. Call me Champollion. Jeanna François Champollion, archeology expert.</speak>
+            <speak chara="_Bianka">Ну конечно! Возможно, имя!? Ты что, не собираешься представиться как следует?</speak>
+            <speak chara="_ThinkerChampollion">...Хмм. Не похоже, что знание моего имени изменило бы нашу нынешнюю ситуацию.</speak>
+            <speak chara="_ThinkerChampollion">...Но ладно. Зови меня Шампольон. Жанна Франсуа Шампольон, эксперт по археологии.</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="libraryCenter.jpg">
             <bgm src="01_18_tango.mp3" status="continue"></bgm>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">I'll go straight to the point. The person you're looking for is not in this library.</speak>
+            <speak chara="_Champollion">Я перейду прямо к делу. Человека, которого вы ищете, нет в этой библиотеке.</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">What? But the camera footage...</speak>
+            <speak chara="_Bianka">Что? Но записи с камер...</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">The reason is simple.</speak>
-            <speak chara="_Champollion">If the boy was here, why isn't he showing himself? There is a huge commotion going on because of him.</speak>
+            <speak chara="_Champollion">Причина проста.</speak>
+            <speak chara="_Champollion">Если мальчик здесь, почему он не показывается? Из-за него сейчас огромный переполох.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">H-He must have been locked up by someone! They must be waiting for the commotion to cease before sneaking him out!</speak>
+            <speak chara="_Bianka">Должно быть, е-его кто-то запер! Они, должно быть, ждут, пока утихнет суматоха, прежде чем тайком вывести его!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Your first idea has a point... but the second one is too unreasonable.</speak>
-            <speak chara="_Champollion">If the target has been secured without anyone noticing, why would the kidnapper purposely take a risk and wait for the uncertain moment when 「the commotion ceases」?</speak>
-            <speak chara="_Champollion">And it's strange we haven't found any trace of him if he was hidden in a hurry.</speak>
-            <speak chara="_Champollion">Conversely, if this crime was premeditated, would the culprit stay here with the hostage or would they try to leave right away—— Which course of action do you think it's the best?</speak>
+            <speak chara="_Champollion">В твоей первой идее есть смысл... но вот вторая слишком неразумна.</speak>
+            <speak chara="_Champollion">Если цель была захвачена так, что никто этого не заметил, зачем похитителю намеренно рисковать и ждать неопределённого момента, когда суматоха прекратится?</speak>
+            <speak chara="_Champollion">И странно, что мы не нашли никаких его следов, если его спрятали в спешке.</speak>
+            <speak chara="_Champollion">И наоборот, если бы это преступление было преднамеренным, остался бы преступник здесь с заложником или попытался бы сразу уйти—— какой вариант действий, по твоему мнению, наилучший?</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
-            <speak chara="_Bianka">I get that...</speak>
+            <speak chara="_Bianka">Я поняла...</speak>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">But Jimmy didn't show up in any surveillance footage! There wasn't anyone who looked like him either!</speak>
+            <speak chara="_Bianka">Но Джимми не появился ни на одной записи с камер наблюдения! Там тоже не было никого, кто был бы похож на него!</speak>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">——C-Could it be Jimmy is...</speak>
+            <speak chara="_Bianka">——Б-быть может Джимми...</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">Don't let your imagination run wild. I doubt anyone had a grudge against him, and it didn't seem like he had a lot of money. The possibility that someone would try to assassinate him is small.</speak>
+            <speak chara="_Champollion">Не позволяй своему воображению разыграться. Я сомневаюсь, что кто-то имел на него зуб, и не похоже, чтобы у него было много денег. Вероятность того, что кто-то попытается его убить, невелика.</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="left"/>
-            <speak chara="_Bianka">But then...</speak>
+            <speak chara="_Bianka">Но тогда...</speak>
             <show chara="biankaHesitateClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">It's simple. He was put inside something and was escorted out of the library.</speak>
+            <speak chara="_Champollion">Это просто. Его поместили во что-то и вывели из библиотеки.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">But even if someone were to hide him in one of the boxes we use to carry books they would be thoroughly inspected at the exit. They would be found out immediately.</speak>
+            <speak chara="_Thales">Но даже если бы кто-то спрятал его в одной из коробок, которые мы используем для перевозки книг, они были бы тщательно проверены на выходе. Их бы немедленно обнаружили.</speak>
             <show chara="thalesEmbarrassedClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">...Director Thales, I never said anything about books.</speak>
+            <speak chara="_Champollion">...Директор Фалес, я ни разу не упоминала книги.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">I know... but it's not time for cleaning yet, he couldn't had been hidden together with the trash. Besides those boxes I'm not sure if there is something else where you can hide someone. Even personal luggage is stored away before entering the library...</speak>
+            <speak chara="_Thales">Я знаю... но время для уборки ещё не пришло, он не мог быть спрятан вместе с мусором. Кроме этих коробок, я не уверена, есть ли что-то ещё, где можно кого-то спрятать. Даже личный багаж сдается на хранение перед входом в библиотеку...</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Hehe, it's right under your nose.</speak>
+            <speak chara="_Champollion">Хехе, это прямо у тебя под носом.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">...What do you mean?</speak>
+            <speak chara="_Thales">...О чём ты?</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">What's the best tool of transportation that was made using that 「Gem of Reason」 you and your library are so proud of?</speak>
+            <speak chara="_Champollion">Какое лучшее средство передвижения было создано с использованием этой "Жемчужины разума", которой вы и ваша библиотека так гордитесь?</speak>
+            <!-- П/п: В ен именуется как Камень Разума, в сн 智慧结晶. Сомневаюсь, что это именно Ядро, поэтому оставила как "жемчужину" -->
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">Ah—— I see——</speak>
+            <speak chara="_Thales">А—— Вот оно что——</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Exactly. Robots with large torsos are excellent tools to carry people.</speak>
+            <speak chara="_Champollion">Точно. Роботы с большими туловищами - отличные инструменты для перевозки людей.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">But the robots are full of electronic components inside, you can't——</speak>
+            <speak chara="_Thales">Но внутри роботов полно электронных компонентов, нельзя——</speak>
             <show chara="thalesAngryClose" position="left"/>
-            <speak chara="_Thales">——Ah!</speak>
+            <speak chara="_Thales">——А!</speak>
             <show chara="thalesAngryClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">You noticed it, didn't you?</speak>
+            <speak chara="_Champollion">Ты заметила это, ага?</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">P-Please explain it so that I can understand it too!</speak>
+            <speak chara="_Bianka">П-Пожалуйста, объясните это так, чтобы я тоже могла это понять!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">...If you remove the autonomous control unit of the robot and switch to remote control you can fit a person inside.</speak>
+            <speak chara="_Thales">...Если снять автономный блок управления роботом и переключится на дистанционное управление, то можно поместить внутрь человека.</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="micheSeriousClose" position="left"/>
-            <speak chara="_Michel">...Any solid proof of that?</speak>
+            <speak chara="_Michel">...Есть какие-нибудь веские доказательства этого?</speak>
             <show chara="micheSeriousClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">From what I've heard the robots have a 「heartbeat」 system that automatically sends a signal back to HQ at regular intervals.</speak>
+            <speak chara="_Champollion">Из того, что я слышала, у роботов есть система «сердцебиения», которая автоматически отправляет сигнал обратно в штаб-квартиру через регулярные промежутки времени.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="micheFocusClose" position="left"/>
             <speak chara="_Michel">They do. It's a system we use to see the active area of each robot in real time so that we can optimize their deployment zone.</speak>
