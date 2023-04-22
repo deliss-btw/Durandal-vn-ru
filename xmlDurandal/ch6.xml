@@ -279,61 +279,61 @@
             <speak chara="_Champollion">Из того, что я слышала, у роботов есть система «сердцебиения», которая автоматически отправляет сигнал обратно в штаб-квартиру через регулярные промежутки времени.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="micheFocusClose" position="left"/>
-            <speak chara="_Michel">They do. It's a system we use to see the active area of each robot in real time so that we can optimize their deployment zone.</speak>
+            <speak chara="_Michel">Верно. Это система, которую мы используем, чтобы видеть активную область каждого робота в режиме реального времени, чтобы мы могли оптимизировать зону их развёртывания.</speak>
             <show chara="micheFocusClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Anyone planning to use a robot for a crime will definitely remove its transmitter, otherwise the risk of being found out is too great.</speak>
+            <speak chara="_Champollion">Любой, кто захочет использовать робота для совершения преступления, обязательно уберёт его передатчик, иначе риск быть обнаруженным слишком велик.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">The staff in charge of the system are now comparing the 「heartbeat」 system records with the camera footage. The results should be coming in soon.</speak>
+            <speak chara="_Champollion">Сотрудники, отвечающие за систему, сейчас сравнивают записи системы «сердцебиения» с записями с камер. Результаты должны быть получены в ближайшее время.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="cowGirlLibrarian" position="left"/>
-            <speak chara="_Librarian">Professor Champollion!</speak>
-            <speak chara="_Librarian">There is a discrepancy between the number of robots that left the building and the system's records. It's 3 of them!</speak>
+            <speak chara="_Librarian">Профессор Шампольон!</speak>
+            <speak chara="_Librarian">Существует несоответствие между количеством роботов, покинувших здание, и записями системы. Их 3!</speak>
             <show chara="cowGirlLibrarian" position="left" opacity="0.8"/>
             <show chara="micheColdClose" position="right"/>
             <speak chara="_Michel">...3?</speak>
             <show chara="micheColdClose" position="left" opacity="0.8"/>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">Hmph. There might be more victims we're not aware of yet.</speak>
+            <speak chara="_Champollion">Хм. Возможно, есть ещё жертвы, о которых мы пока не знаем.</speak>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Or perhaps the culprit used the same method to escape.</speak>
+            <speak chara="_Champollion">Или, возможно, преступник воспользовался тем же методом, чтобы сбежать.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">In any case, finding those robots will get us closer to solving this case.</speak>
+            <speak chara="_Champollion">В любом случае, поиск этих роботов приблизит нас к раскрытию этого дела.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">...You sure sound confident for what it is essentially looking for a needle in the ocean.</speak>
+            <speak chara="_Bianka">...Вы, конечно, звучите уверенно, хотя, по сути, ищете иголку в океане.</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">I have a very talented assistant, you see.</speak>
+            <speak chara="_Champollion">Видишь ли, у меня очень талантливый асисстент.</speak>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">She should be arriving in any moment—— She better had not stopped to eat something on the way here...</speak>
+            <speak chara="_Champollion">Она должна прибыть с минуты на минуту—— Лучше бы ей не останавливаться, чтобы что-нибудь съесть по дороге сюда...</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">...Is she really as reliable as you say she is?</speak>
+            <speak chara="_Bianka">...Она правда такая надёжная, как вы о ней говорите?</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Whatever, let's go to the entrance.</speak>
+            <speak chara="_Champollion">Как бы то ни было, давайте пойдём ко входу.</speak>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Even if the culprit is still inside they would be no different than a cornered rat, the library's staff will be able to deal with them easily.</speak>
+            <speak chara="_Champollion">Даже если преступник всё ещё находится внутри, он ничем не будет отличаться от загнанной в угол крысы, сотрудники библиотеки легко смогут с ним справиться.</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="01_18_secretRoom.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
-            <text>At the same time, somewhere in the city——</text>
-            <speak chara="_ShadowA">I already used the drug. He should be waking up shortly. Will he really help us, though?</speak>
-            <speak chara="_ShadowB">Don't worry. We kidnapped him, but he seems to be too much of a good boy. There is no way he would let 「Unit 4」 die.</speak>
-            <speak chara="_ShadowA">If that hadn't happened to the Professor, we wouldn't had resorted to this.</speak>
-            <speak chara="_ShadowA">We kidnapped 3 other scholars, it's just a matter of time until the authorities realize what we're doing.</speak>
-            <speak chara="_ShadowB">It'll be alright. The Professor is no longer with us, but the 「assets」 he left behind are more than enough to make this experiment succeed.</speak>
-            <speak chara="_ShadowB">Not even the 「Great Library」 will be able to oppose us.</speak>
-            <speak chara="_ShadowC">Yes. And justice is in our side. Countless people who lost their freedom are waiting for us.</speak>
-            <speak chara="_ShadowC">It's time to turn off the lights of the 「Great Library」 that calls itself the Lighthouse of this city.</speak>
+            <text>В это же время, где-то в городе——</text>
+            <speak chara="_ShadowA">Я уже использовал лекарство. Он скоро должен проснуться. Но действительно ли он нам поможет?</speak>
+            <speak chara="_ShadowB">Не волнуйся. Несмотря на то, что он перенес унижение от того, что его похитили... Такой добродушный ботаник не будет просто сидеть сложа руки и смотреть, как «Подразделение 4» умирает.</speak>
+            <speak chara="_ShadowA">Если бы этого не случилось с профессором, мы бы не прибегли к этому.</speak>
+            <speak chara="_ShadowA">Мы похитили ещё трех учёных, и это всего лишь вопрос времени, когда власти поймут, что мы делаем.</speak>
+            <speak chara="_ShadowB">Всё будет хорошо. Профессора больше нет с нами, но активов, которые он оставил после себя, более чем достаточно, чтобы этот эксперимент увенчался успехом.</speak>
+            <speak chara="_ShadowB">Даже Великая библиотека не сможет нам противостоять.</speak>
+            <speak chara="_ShadowC">Да. И справедливость на нашей стороне. Бесчисленное множество людей, потерявших свою свободу, ждут нас.</speak>
+            <speak chara="_ShadowC">Пришло время выключить свет Великой библиотеки, которая называет себя маяком этого города.</speak>
             <goto goto="80" clockwise="1"/>
         </scene>
         <scene id="80" background="alexandriaLibraryYard.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="neithLaughClose" position="left"/>
-            <speak chara="_NeithNoName">Sup, Professor! The cake from the 「Nile River Orchard」 was so delicious I had to buy another one!</speak>
+            <speak chara="_NeithNoName">Йо, профессор! Торт из «Нильского сада» был таким вкусным, что мне пришлось купить ещё один!</speak>
             <show chara="neithLaughClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
             <speak chara="_Champollion">...Hahaha, is there anything else besides food in that little head of yours? We can't have that hindering our investigation, Neith.</speak>
