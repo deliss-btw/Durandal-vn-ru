@@ -336,10 +336,10 @@
             <speak chara="_NeithNoName">Йо, профессор! Торт из «Нильского сада» был таким вкусным, что мне пришлось купить ещё один!</speak>
             <show chara="neithLaughClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">...Хахаха, а есть ли в твоей маленькой головушке что-то кроме еды?? Мы не можем позволить этому помешать нашему исследованию, Нит.</speak>
+            <speak chara="_Champollion">...Хахаха, а есть ли в твоей маленькой головушке что-то кроме еды?? Мы не можем позволить этому помешать нашему расследованию, Нит.</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="neithSmileClose" position="left"/>
-            <speak chara="_Neith">Эхехе, но я не сильно опоздал, не так ли?...</speak>
+            <speak chara="_Neith">Эхехе, но я не сильно опоздала, не так ли?...</speak>
             <show chara="neithSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -351,7 +351,7 @@
             <speak chara="_Champollion">Да. Ее зовут Нит. Она не выглядит надежной, но у нее нюх лучше, чем у собаки.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="neithComplainClose" position="left"/>
-            <speak chara="_Neith">Я надежная!! Я опоздала только из-за тог, что торт пах так вкусно! Это не моя вина!</speak>
+            <speak chara="_Neith">Я надежная! Я опоздала только из-за того, что торт пах так вкусно! Это не моя вина!</speak>
             <show chara="neithComplainClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -363,10 +363,10 @@
             <speak chara="_Champollion">Не зови ее так. Она - сокровище, котоое я нашел на рынке.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">Рынке? Не говори. что она——</speak>
+            <speak chara="_Bianka">Рынке? Не говори, что она——</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Давайте начнем. Отведи нас в комнату потерянного мальчика. Нам нужно, чтобы Нит уловила запах Джимми 「smell」.</speak>
+            <speak chara="_Champollion">Давайте начнем. Отведи нас в комнату потерянного мальчика. Нам нужно, чтобы Нит уловила「запах」 Джимми .</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
             <speak chara="_Bianka">...Ты сменил тему очень быстро. Как подозрительно.</speak>
@@ -402,7 +402,7 @@
             <speak chara="_Lalla">Что стряслось? Вы должно быть спешите...</speak>
             <show chara="lallaQuestionClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Джимми пропал! Я пытаюсь улочить частичку его запаха, чтобы найти его!</speak>
+            <speak chara="_Bianka">Джимми пропал! Я пытаюсь уловить частичку его запаха, чтобы найти его!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="lallaSeriousClose" position="right"/>
             <speak chara="_Lalla">...!?</speak>
@@ -419,7 +419,7 @@
         <scene id="100" background="alexandriaLighthouse.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">...Прошу, пеодождите, Госпожа Бьянка.</speak>
+            <speak chara="_Rita">...Прошу, подождите, Госпожа Бьянка.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
             <speak chara="_Bianka">——Что такоеt, Рита?</speak>
