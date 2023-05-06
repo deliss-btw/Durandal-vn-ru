@@ -364,7 +364,7 @@
             <show chara="durandalClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Haha. She's a very serious girl, but she's also 「interesting and cute」. Those qualities don't contradict each other.</speak>
-            <show chara="shakesConfidentClose" position="left"/>
+            <show chara="shakesConfidentClose" position="left"/> 
             <speak chara="_Shakespeare">You'll see in due time.</speak>
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Ah, right. I wanted to ask you something——</speak>
