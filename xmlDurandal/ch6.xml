@@ -336,7 +336,7 @@
             <speak chara="_NeithNoName">Йо, профессор! Торт из «Нильского сада» был таким вкусным, что мне пришлось купить ещё один!</speak>
             <show chara="neithLaughClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">...Хахаха, а есть ли в твоей маленькой головушке что-то кроме еды?? Мы не можем позволить этому помешать нашему расследованию, Нит.</speak>
+            <speak chara="_Champollion">...Хахаха, а есть ли в твоей маленькой головушке что-то кроме еды? Мы не можем позволить этому помешать нашему расследованию, Нейт.</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="neithSmileClose" position="left"/>
             <speak chara="_Neith">Эхехе, но я не сильно опоздала, не так ли?...</speak>
@@ -345,40 +345,40 @@
             <speak chara="_Bianka">.....</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Этот ребенок - твой ассистент?</speak>
+            <speak chara="_Bianka">Этот ребёнок - твой ассистент?</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Да. Ее зовут Нит. Она не выглядит надежной, но у нее нюх лучше, чем у собаки.</speak>
+            <speak chara="_Champollion">Да. Её зовут Нейт. Она не выглядит надёжной, но у неё нюх лучше, чем у собаки.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="neithComplainClose" position="left"/>
-            <speak chara="_Neith">Я надежная! Я опоздала только из-за того, что торт пах так вкусно! Это не моя вина!</speak>
+            <speak chara="_Neith">Я надёжная! Я опоздала только из-за того, что торт пах так вкусно! Это не моя вина!</speak>
             <show chara="neithComplainClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Так этот ребенок... твоя ищейка?</speak>
+            <speak chara="_Bianka">Так этот ребёнок... твоя ищейка?</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Не зови ее так. Она - сокровище, котоое я нашел на рынке.</speak>
+            <speak chara="_Champollion">Не зови её так. Она - сокровище, которое я нашла на рынке.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
             <speak chara="_Bianka">Рынке? Не говори, что она——</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Давайте начнем. Отведи нас в комнату потерянного мальчика. Нам нужно, чтобы Нит уловила「запах」 Джимми .</speak>
+            <speak chara="_Champollion">Давайте начнём. Отведи нас в комнату потерянного мальчика. Нам нужно, чтобы Нейт уловила「запах」 Джимми .</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">...Ты сменил тему очень быстро. Как подозрительно.</speak>
+            <speak chara="_Bianka">...Ты сменила тему очень быстро. Как подозрительно.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="micheArrogantClose" position="right"/>
-            <speak chara="_Michel">Иднажды, Нит нашла Артура, который убежал из дома. Я могу поручиться за ее способности.</speak>
+            <speak chara="_Michel">Однажды, Нейт нашла Артура, который убежал из дома. Я могу поручиться за её способности.</speak>
             <show chara="micheArrogantClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">...Артура?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="thalesEmbarrassedClose" position="right"/>
-            <speak chara="_Thales">Попугайчик Куратора(?). Было сложно поймать его. Все работали сообща. чтобы зараться на дерево, где он сидел... мой драгоценный шелковый плащ порвался в тот день.</speak>
+            <speak chara="_Thales">Попугайчик Куратора. Было сложно поймать его. Все работали сообща, чтобы забраться на дерево, где он сидел... Мой драгоценный шёлковый плащ порвался в тот день.</speak>
             <show chara="thalesEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
@@ -388,7 +388,7 @@
             <show chara="micheDrySmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">В-верно! Если мы действительно можем положиться на Нит, то должны поторопиться!</speak>
+            <speak chara="_Bianka">В-верно! Если мы действительно можем положиться на Нейт, то должны поторопиться!</speak>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Комната Джимми в Каледонии!</speak>
             <goto goto="90" clockwise="1"/>
@@ -399,7 +399,7 @@
             <speak chara="_Rita">Госпожа Бьянка?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="lallaQuestionClose" position="right"/>
-            <speak chara="_Lalla">Что стряслось? Вы должно быть спешите...</speak>
+            <speak chara="_Lalla">Что стряслось? Вы, должно быть, спешите...</speak>
             <show chara="lallaQuestionClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Джимми пропал! Я пытаюсь уловить частичку его запаха, чтобы найти его!</speak>
@@ -413,24 +413,24 @@
             <speak chara="_Bianka">Лалла, ты в ответе за кабину тоже, верно? Можешь открыть комнату Джимми, пожалуйста?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="lallaSeriousClose" position="right"/>
-            <speak chara="_Lalla">...Да. Идемте за мной.</speak>
+            <speak chara="_Lalla">...Да. Идёмте за мной.</speak>
             <goto goto="100" change="#ffffff"/>
         </scene>
         <scene id="100" background="alexandriaLighthouse.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">...Прошу, подождите, Госпожа Бьянка.</speak>
+            <speak chara="_Rita">...Прошу, подождите, госпожа Бьянка.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">——Что такоеt, Рита?</speak>
+            <speak chara="_Bianka">——Что такое, Рита?</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_Rita">Вы сказали, Джимми исчез... Что действительно произошло?</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="left"/>
-            <speak chara="_Bianka">...Верно, ты еще не знаешь.</speak>
+            <speak chara="_Bianka">...Верно, ты ещё не знаешь.</speak>
             <show chara="biankaAngryClose" position="left"/>
-            <speak chara="_Bianka">Хорошо. Позволь мне все объяснить.</speak>
+            <speak chara="_Bianka">Хорошо. Позволь мне всё объяснить.</speak>
             <goto goto="110" clockwise="1"/>
         </scene>
         <scene id="110" background="alexandriaLighthouse.jpg">
@@ -446,45 +446,44 @@
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_Rita">Я знаю, вы хотите помочь Джимми.</speak>
-            <speak chara="_Rita">Однако, нам следует помнить о нашей миссии... 「мы」, в особенности 「вы」, не должны ыть в это вовлечены.</speak>
+            <speak chara="_Rita">Однако, нам следует помнить о нашей миссии... 「мы」, в особенности 「вы」, не должны быть в это вовлечены.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Я правильно поняла?</speak>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">Ты говоришь, что мне не следует вмешиваться в происшествие, которое случилось в мой караул? Ты серьезно!?</speak>
+            <speak chara="_Bianka">Ты говоришь, что мне не следует вмешиваться в происшествие, которое случилось в мою смену? Ты серьёзно!?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17AngryEmClose" position="right"/>
-            <speak chara="_Rita">...Очень, Госпожа Бьянка.</speak>
-            <speak chara="_Rita">Вмешательство во внутренние дела этого города может повлечь за собой серьезные последствия.</speak>
-            <speak chara="_Rita">Одной из нас лучше остаться на бортуЮ дабы избежать худшего развития событий.</speak>
+            <speak chara="_Rita">...Очень, госпожа Бьянка.</speak>
+            <speak chara="_Rita">Вмешательство во внутренние дела этого города может повлечь за собой серьёзные последствия.</speak>
+            <speak chara="_Rita">Одной из нас лучше остаться на борту, дабы избежать худшего развития событий.</speak>
             <show chara="rita17AngryEmClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">...Тогда будет лучше, если я пойду, а ты останешься на корабле! IЯ была его партнером. Ответственность лежит на мне (Это моя ответственность)!</speak>
+            <speak chara="_Bianka">...Тогда будет лучше, если я пойду, а ты останешься на корабле! Я была его партнёром. Ответственность лежит на мне!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="rita17AngryClose" position="right"/>
-            <speak chara="_Rita">「Есть пять опасных ошибок, которые могут повлиять на все:」</speak>
-            <speak chara="_Rita">「Безрассудство, что ведет к рассеянности;」</speak>
+            <speak chara="_Rita">「Есть пять опасных ошибок, которые могут повлиять на всё:」</speak>
+            <speak chara="_Rita">「Безрассудство, что ведёт к рассеянности;」</speak>
             <speak chara="_Rita">「Трусость, что приводит к плену;」</speak>
             <speak chara="_Rita">「Вспыльчивость, которая порождается оскорблениями;」</speak>
             <speak chara="_Rita">「Сладость чести, уязвимой к позору;」</speak>
-            <speak chara="_Rita">「Чрезмерная забота о своих подчиненных, что подвергает его беспокойству и неприятностям.」</speak>
-            <speak chara="_Rita">「Эо пять грехов, преследующих командира, разрушительных при ведении войны.」</speak>
-            <speak chara="_Rita" remark="next">「Когда армия разбита, а лидер ее убит, причина обязательно найдется среди этих пяти ошибок. Позвольте им быть предметом медитации.」</speak>
+            <speak chara="_Rita">「Чрезмерная забота о своих подчиненных, что подвергает беспокойству и неприятностям.」</speak>
+            <speak chara="_Rita">「Это пять грехов, преследующих командира, разрушительных при ведении войны.」</speak>
+            <speak chara="_Rita" remark="next">「Когда армия разбита, а лидер её убит, причина обязательно найдется среди этих пяти ошибок. Позвольте им быть предметом медитации.」</speak>
             <remark post="U2FsdGVkX1+jgMcjNXOIjAJdTnV6">
-                <p class="article-text-h">Note：</p>
-                <!-- TODO -->
+                <p class="article-text-h">Примечание：</p>
                 <p class="article-text">Этот абзац является содержанием восьмой главы «Девять перемен» «Искусства войны Сунь-Цзы». Перевод на английский за авторством Лайонела Джайлса 1910 год（ИСКУССТВО ВОЙНЫ: СТАРЕЙШИЙ ВОЕННЫЙ ТРАКТАТ В МИРЕ）。</p>
             </remark>
             <show chara="rita17AngryEmClose" position="right"/>
             <speak chara="_Rita">Госпожа Бьянка, с военной точки зрения, ваше моральное состояние является неподходящим для ведения расследования.</speak>
-            <speak chara="_Rita">Сколь долго риски нам неизвестны, мы не можем действовать безрассудно.</speak>
+            <speak chara="_Rita">Сталкиваясь с рисками, которые были одновременно ненужными и непредсказуемыми, я не могу одобрить никаких безрассудных, опрометчивых поступков.</speak>
             <show chara="rita17AngryEmClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Я не безрассудна! Ни у кого не будет в меня веры, если я отправлю своего адьютанта заместо себя!</speak>
+            <speak chara="_Bianka">Я не безрассудна! О какой честности мастера может речь идти, если я позволю адъютанту взять на себя ответственность за место себя?!</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">И все что мне надобно сделать - поймать похитителей! Где тут риски? Я - Валькирия "А"-Ранга, Я могу справиться с подобным без всяких трудностей!</speak>
+            <speak chara="_Bianka">И всё что мне надобно сделать - поймать похитителей! Где тут риски? Я - Валькирия А ранга, я могу справиться с подобным без всяких трудностей!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_Rita">.....</speak>
@@ -495,7 +494,7 @@
             <show chara="neithLaughClose" position="left"/>
             <speak chara="_Neith">Поняла! Mой нос готов!</speak>
             <show chara="neithSmileClose" position="left"/>
-            <speak chara="_Neith">Те. кто хотят знать, где преступники - следуйте за мной!</speak>
+            <speak chara="_Neith">Те, кто хотят знать, где преступники - следуйте за мной!</speak>
             <show chara="neithSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">Хорошая работа! Выдвигаюсь!</speak>
@@ -504,7 +503,7 @@
             <speak chara="_Rita">Госпожа!</speak>
             <show chara="rita17AngryClose" position="right" opacity="0.8"/>
             <show chara="champoSmileClose" position="left"/>
-            <speak chara="_Champollion">Не волнуйся, служанка. Я пригляжу ха этой 「упрямой」 девушкой за тебя.</speak>
+            <speak chara="_Champollion">Не волнуйся, служанка. Я пригляжу за этой 「упрямой」 девушкой за тебя.</speak>
             <show chara="champoSmileClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">П-премного благодарна...</speak>
