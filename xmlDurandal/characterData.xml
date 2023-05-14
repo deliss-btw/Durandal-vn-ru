@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
     <characters>
-        <character name="画外音" color="#8F8F8F" id="0" src=""/>
-        <character name="睁眼" color="#ffffff" id="eyeOpening" src="x_eyeOpening.png"/>
-        <character name="冰霜特效" color="#ffffff" id="iceFrozen" src="x_iceFrozen.png"/>
+        <character name="Внешний звук" color="#8F8F8F" id="0" src=""/>
+        <character name="Открой глаза" color="#ffffff" id="eyeOpening" src="x_eyeOpening.png"/>
+        <character name="Эффект замерзания" color="#ffffff" id="iceFrozen" src="x_iceFrozen.png"/>
         <character name="Механический звук" color="#dddddd" id="_mechanicalSound" src=""/>
-        <character name="Narrator" color="#dddddd" id="_NarrationVenice" src=""/>
-        <character name="Curtain" color="#dddddd" id="0curtain" src="0curtain.png"/>
-        <character name="Other Maid" color="#dddddd" id="_NPCMaidNoName" src=""/>
-        <character name="速度线" color="#dddddd" id="speedLine" src="06_01_speedLine.png"/>
-        <character name="Worried Voice" color="#dddddd" id="_ShadowA" src=""/>
-        <character name="Reassuring Voice" color="#dddddd" id="_ShadowB" src=""/>
-        <character name="Angry Voice" color="#dddddd" id="_ShadowC" src=""/>
-        <character name="Audience" color="#dddddd" id="_AudienceLot" src=""/>
-        <character name="Librarian" color="#dddddd" id="_Librarian" src=""/>
-        <character name="Librarian" color="#dddddd" id="cowGirlLibrarian" src="01_18_cowGirlLibrarian.png"/>
-        <character name="回忆" color="#dddddd" id="memoryLoading" src="11_16_memoryLoading.png"/>
-        <character name="黑" color="#dddddd" id="black" src="11_29_black.png"/>
-        <character name="触腕" color="#dddddd" id="wristClose-up" src="wristClose-up.png"/>
+        <character name="Рассказчик" color="#dddddd" id="_NarrationVenice" src=""/>
+        <character name="Занавес" color="#dddddd" id="0curtain" src="0curtain.png"/>
+        <character name="Другая горничная" color="#dddddd" id="_NPCMaidNoName" src=""/>
+        <character name="Скоростная линия" color="#dddddd" id="speedLine" src="06_01_speedLine.png"/>
+        <character name="Взволнованный голос" color="#dddddd" id="_ShadowA" src=""/>
+        <character name="Ободряющий голос" color="#dddddd" id="_ShadowB" src=""/>
+        <character name="Сердитый голос" color="#dddddd" id="_ShadowC" src=""/>
+        <character name="Аудитория" color="#dddddd" id="_AudienceLot" src=""/>
+        <character name="Библиотекарь" color="#dddddd" id="_Librarian" src=""/>
+        <character name="Библиотекарь" color="#dddddd" id="cowGirlLibrarian" src="01_18_cowGirlLibrarian.png"/>
+        <character name="Воспоминание" color="#dddddd" id="memoryLoading" src="11_16_memoryLoading.png"/>
+        <character name="Чёрное" color="#dddddd" id="black" src="11_29_black.png"/>
+        <character name="Лодыжка" color="#dddddd" id="wristClose-up" src="wristClose-up.png"/>
         <character name="Дюрандаль" color="#ffffff" id="_Durandal" src=""/>
         <character name="Дюрандаль" color="#ffffff" id="biankaSportSmileClose" src="biankaSportSmileClose.png"/>
         <character name="Дюрандаль" color="#ffffff" id="biankaSportSurprisedClose" src="biankaSportSurprisedClose.png"/>
         <character name="Дюрандаль" color="#ffffff" id="biankaSportHesitateClose" src="biankaSportHesitateClose.png"/>
-        <character name="Sword" color="#ffffff" id="swordRedClose-up" src="11_29_swordRedClose-up.png"/>
+        <character name="Меч" color="#ffffff" id="swordRedClose-up" src="11_29_swordRedClose-up.png"/>
         <character name="Рита" color="#ddcab3" id="_Rita" src=""/>
-        <character name="Portia" color="#ddcab3" id="_RitaVeniceM" src=""/>
-        <character name="Portia (Rita)" color="#ddcab3" id="_RitaVeniceMSelf" src=""/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaSmile" src="PortiaSmile.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaNormal" src="PortiaNormal.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaThink" src="PortiaThink.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaPersuade" src="PortiaPersuade.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaSerious" src="PortiaSerious.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaSneer" src="PortiaSneer.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaShock" src="PortiaShock.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="PortiaAngry" src="PortiaAngry.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaShock" src="DressPortiaShock.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaFalseShock" src="DressPortiaFalseShock.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaThink" src="DressPortiaThink.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaSmile" src="DressPortiaSmile.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaHappy" src="DressPortiaHappy.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaSneer" src="DressPortiaSneer.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaAngry" src="DressPortiaAngry.png"/>
-        <character name="Portia (Rita)" color="#ddcab3" id="DressPortiaSerious" src="DressPortiaSerious.png"/>
+        <character name="Порция" color="#ddcab3" id="_RitaVeniceM" src=""/>
+        <character name="Порция (Рита)" color="#ddcab3" id="_RitaVeniceMSelf" src=""/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaSmile" src="PortiaSmile.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaNormal" src="PortiaNormal.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaThink" src="PortiaThink.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaPersuade" src="PortiaPersuade.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaSerious" src="PortiaSerious.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaSneer" src="PortiaSneer.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaShock" src="PortiaShock.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="PortiaAngry" src="PortiaAngry.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaShock" src="DressPortiaShock.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaFalseShock" src="DressPortiaFalseShock.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaThink" src="DressPortiaThink.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaSmile" src="DressPortiaSmile.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaHappy" src="DressPortiaHappy.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaSneer" src="DressPortiaSneer.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaAngry" src="DressPortiaAngry.png"/>
+        <character name="Порция (Рита)" color="#ddcab3" id="DressPortiaSerious" src="DressPortiaSerious.png"/>
         <character name="Девочка" color="#ddcab3" id="_RitaChildNoName" src=""/>
         <character name="Девочка" color="#ddcab3" id="ritaChildShyClose" src="08_03_ritaChildShyClose.png"/>
         <character name="Девочка" color="#ddcab3" id="ritaChildShyMoreClose" src="08_03_ritaChildShyMoreClose.png"/>
@@ -82,22 +82,22 @@
         <character name="Девочка" color="#ffffff" id="_BiankaNoName" src=""/>
         <character name="Бьянка" color="#ffffff" id="_Bianka" src=""/>
         <character name="??? (Бьянка)" color="#ffffff" id="_BiankaVeniceNoName" src=""/>
-        <character name="Bassanio" color="#ffffff" id="_BiankaVenice" src=""/>
-        <character name="Bassanio (?)" color="#ffffff" id="_BiankaVeniceQ" src=""/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="_BiankaVeniceSelf" src=""/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioShock" src="BassanioShock.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioDissatisfied" src="BassanioDissatisfied.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioPrudish" src="BassanioPrudish.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioHelpless" src="BassanioHelpless.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioSmile" src="BassanioSmile.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioConfident" src="BassanioConfident.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioScold" src="BassanioScold.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioTeeth" src="BassanioTeeth.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioFindOthersUnreasonable" src="BassanioFindOthersUnreasonable.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioInspireOthers" src="BassanioInspireOthers.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioTangled" src="BassanioTangled.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioShy" src="BassanioShy.png"/>
-        <character name="Bassanio (Bianka)" color="#ffffff" id="BassanioRegret" src="BassanioRegret.png"/>
+        <character name="Бассанио" color="#ffffff" id="_BiankaVenice" src=""/>
+        <character name="Бассанио (?)" color="#ffffff" id="_BiankaVeniceQ" src=""/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="_BiankaVeniceSelf" src=""/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioShock" src="BassanioShock.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioDissatisfied" src="BassanioDissatisfied.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioPrudish" src="BassanioPrudish.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioHelpless" src="BassanioHelpless.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioSmile" src="BassanioSmile.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioConfident" src="BassanioConfident.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioScold" src="BassanioScold.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioTeeth" src="BassanioTeeth.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioFindOthersUnreasonable" src="BassanioFindOthersUnreasonable.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioInspireOthers" src="BassanioInspireOthers.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioTangled" src="BassanioTangled.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioShy" src="BassanioShy.png"/>
+        <character name="Бассанио (Бьянка)" color="#ffffff" id="BassanioRegret" src="BassanioRegret.png"/>
         <character name="Бьянка" color="#ffffff" id="biankaDressSorrowClose" src="08_03_biankaDressSorrowClose.png"/>
         <character name="Бьянка" color="#ffffff" id="biankaHand" src="08_03_biankaHand.png"/>
         <character name="Бьянка" color="#ffffff" id="biankaBiteClose" src="biankaBiteClose.png"/>
@@ -147,14 +147,14 @@
         <character name="Мигель" color="#d0c8c4" id="_Miguel" src=""/>
         <character name="Подсказка" color="#dc143c" id="_Texts" src=""/>
         <character name="Сервантес" color="#d0c8c4" id="_Cervantes" src=""/>
-        <character name="Duke" color="#d0c8c4" id="_CervantesVenice" src=""/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSad" src="DogeSad.png"/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSerious" src="DogeSerious.png"/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
-        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
+        <character name="Герцог" color="#d0c8c4" id="_CervantesVenice" src=""/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="DogeSad" src="DogeSad.png"/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="DogeSerious" src="DogeSerious.png"/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
+        <character name="Герцог (Мигель)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
         <character name="Мигель" color="#d0c8c4" id="cervantesSmileClose" src="cervantesSmileClose.png"/>
         <character name="Мигель" color="#d0c8c4" id="cervantesLaughClose" src="cervantesLaughClose.png"/>
         <character name="Мигель" color="#d0c8c4" id="cervantesNormalClose" src="cervantesNormalClose.png"/>
@@ -171,15 +171,15 @@
         <character name="Мигель" color="#d0c8c4" id="cervantesSailorUnhappyClose" src="05_31_cervantesSailorUnhappyClose.png"/>
         <character name="Ребенок" color="#93ae75" id="_WattNoName" src=""/>
         <character name="Джимми" color="#93ae75" id="_Watt" src=""/>
-        <character name="Gratiano" color="#93ae75" id="_WattVenice" src=""/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="_WattVeniceSelf" src=""/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoAngry" src="GratianoAngry.png"/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoTeeth" src="GratianoTeeth.png"/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoFindOthersUnreasonable" src="GratianoFindOthersUnreasonable.png"/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoSorry" src="GratianoSorry.png"/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoNervous" src="GratianoNervous.png"/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoExcited" src="GratianoExcited.png"/>
-        <character name="Gratiano (Jimmy)" color="#93ae75" id="GratianoNormal" src="GratianoNormal.png"/>
+        <character name="Грациано" color="#93ae75" id="_WattVenice" src=""/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="_WattVeniceSelf" src=""/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoAngry" src="GratianoAngry.png"/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoTeeth" src="GratianoTeeth.png"/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoFindOthersUnreasonable" src="GratianoFindOthersUnreasonable.png"/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoSorry" src="GratianoSorry.png"/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoNervous" src="GratianoNervous.png"/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoExcited" src="GratianoExcited.png"/>
+        <character name="Грациано (Джимми)" color="#93ae75" id="GratianoNormal" src="GratianoNormal.png"/>
         <character name="Джимми" color="#93ae75" id="wattShyClose" src="11_15_wattShyClose.png"/>
         <character name="Джимми" color="#93ae75" id="wattScaredClose" src="11_15_wattScaredClose.png"/>
         <character name="Джимми" color="#93ae75" id="wattSighClose" src="11_15_wattSighClose.png"/>
@@ -200,30 +200,30 @@
         <character name="“Барбаросса”" color="#d25242" id="_ShakespeareBarbarossa" src=""/>
         <character name="Шекспир" color="#d25242" id="_Shakespeare" src=""/>
         <character name="??? (Шекспир)" color="#d25242" id="_ShakespeareVeniceNoName" src=""/>
-        <character name="Shylock" color="#d25242" id="_ShakespeareVeniceFather" src=""/>
-        <character name="Jessica" color="#d25242" id="_ShakespeareVeniceDaughter" src=""/>
-        <character name="Jessica" color="#d25242" id="JessicaLaugh" src="JessicaLaugh.png"/>
-        <character name="Jessica" color="#d25242" id="JessicaFalseShock" src="JessicaFalseShock.png"/>
-        <character name="Jessica" color="#d25242" id="JessicaConfident" src="JessicaConfident.png"/>
-        <character name="Jessica" color="#d25242" id="JessicaVigilant" src="JessicaVigilant.png"/>
-        <character name="Jessica" color="#d25242" id="JessicaSurprised" src="JessicaSurprised.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="_ShakespeareVeniceFatherSelf" src=""/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockLaugh" src="ShylockLaugh.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockConfident" src="ShylockConfident.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockSmile" src="ShylockSmile.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockPleased" src="ShylockPleased.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockProvocative" src="ShylockProvocative.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockHelplessSmile" src="ShylockHelplessSmile.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockNormal" src="ShylockNormal.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockFalseShock" src="ShylockFalseShock.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockCold" src="ShylockCold.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockShock" src="ShylockShock.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockDissatisfied" src="ShylockDissatisfied.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockFury" src="ShylockFury.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockHysteria" src="ShylockHysteria.png"/>
-        <character name="Shylock (Shakespeare)" color="#d25242" id="ShylockDisheartened" src="ShylockDisheartened.png"/>
-        <character name="Strange Red-Haired Captain" color="#d25242" id="_ShakespeareCareer" src=""/>
-        <character name="Shakespeare (Radio)" color="#d25242" id="_ShakespeareRadio" src=""/>
+        <character name="Шейлок" color="#d25242" id="_ShakespeareVeniceFather" src=""/>
+        <character name="Джессика" color="#d25242" id="_ShakespeareVeniceDaughter" src=""/>
+        <character name="Джессика" color="#d25242" id="JessicaLaugh" src="JessicaLaugh.png"/>
+        <character name="Джессика" color="#d25242" id="JessicaFalseShock" src="JessicaFalseShock.png"/>
+        <character name="Джессика" color="#d25242" id="JessicaConfident" src="JessicaConfident.png"/>
+        <character name="Джессика" color="#d25242" id="JessicaVigilant" src="JessicaVigilant.png"/>
+        <character name="Джессика" color="#d25242" id="JessicaSurprised" src="JessicaSurprised.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="_ShakespeareVeniceFatherSelf" src=""/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockLaugh" src="ShylockLaugh.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockConfident" src="ShylockConfident.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockSmile" src="ShylockSmile.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockPleased" src="ShylockPleased.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockProvocative" src="ShylockProvocative.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockHelplessSmile" src="ShylockHelplessSmile.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockNormal" src="ShylockNormal.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockFalseShock" src="ShylockFalseShock.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockCold" src="ShylockCold.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockShock" src="ShylockShock.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockDissatisfied" src="ShylockDissatisfied.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockFury" src="ShylockFury.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockHysteria" src="ShylockHysteria.png"/>
+        <character name="Шейлок (Шекспир)" color="#d25242" id="ShylockDisheartened" src="ShylockDisheartened.png"/>
+        <character name="Странный рыжеволосый капитан" color="#d25242" id="_ShakespeareCareer" src=""/>
+        <character name="Шекспир (Радио)" color="#d25242" id="_ShakespeareRadio" src=""/>
         <character name="Шекспир" color="#d25242" id="shakesSmileClose" src="11_15_shakesSmileClose.png"/>
         <character name="Шекспир" color="#d25242" id="shakesConfidentClose" src="11_15_shakesConfidentClose.png"/>
         <character name="Шекспир" color="#d25242" id="shakesQuestionClose" src="11_15_shakesQuestionClose.png"/>
@@ -257,7 +257,7 @@
         <character name="Шекспир" color="#d25242" id="shakesCasualQuestionClose-up" src="05_31_shakesCasualQuestionClose-up.png"/>
         <character name="Шекспир" color="#d25242" id="shakesCasualDislikeClose-up" src="05_31_shakesCasualDislikeClose-up.png"/>
         <character name="“Железная Маска”" color="#8a58f0" id="_Ironface" src=""/>
-        <character name="Iron Mask (Radio)" color="#8a58f0" id="_IronfaceRadio" src=""/>
+        <character name="Железная Маска (Радио)" color="#8a58f0" id="_IronfaceRadio" src=""/>
         <character name="“Железная Маска”" color="#8a58f0" id="ironWhiteClose" src="11_15_ironWhiteClose.png"/>
         <character name="“Железная Маска”" color="#8a58f0" id="ironBlueClose" src="11_15_ironBlueClose.png"/>
         <character name="“Железная Маска”" color="#8a58f0" id="ironRedClose" src="11_15_ironRedClose.png"/>
@@ -295,9 +295,9 @@
         <character name="Мужчина" color="#ccc8b5" id="_ManfredNoName" src=""/>
         <character name="Манфред" color="#ccc8b5" id="_Manfred" src=""/>
         <character name="??? (Манфред)" color="#ccc8b5" id="_ManfredVeniceNoName" src=""/>
-        <character name="Solanio" color="#ccc8b5" id="_ManfredVenice" src=""/>
-        <character name="Solanio" color="#ccc8b5" id="SolanioSmile" src="SolanioSmile.png"/>
-        <character name="Solanio" color="#ccc8b5" id="SolanioNormal" src="SolanioNormal.png"/>
+        <character name="Соланио" color="#ccc8b5" id="_ManfredVenice" src=""/>
+        <character name="Соланио" color="#ccc8b5" id="SolanioSmile" src="SolanioSmile.png"/>
+        <character name="Соланио" color="#ccc8b5" id="SolanioNormal" src="SolanioNormal.png"/>
         <character name="Манфред" color="#ccc8b5" id="manfredQuestionClose" src="12_13_manfredQuestionClose.png"/>
         <character name="Манфред" color="#ccc8b5" id="manfredColdClose" src="12_13_manfredColdClose.png"/>
         <character name="Манфред" color="#ccc8b5" id="manfredSeriousClose" src="12_13_manfredSeriousClose.png"/>
@@ -306,7 +306,7 @@
         <character name="Манфред" color="#ccc8b5" id="manfredSmileClose" src="12_28_manfredSmileClose.png"/>
         <character name="Рагна" color="#cb958b" id="_Ragna" src=""/>
         <character name="Горничная (?)" color="#cb958b" id="_RagnaNoName" src=""/>
-        <character name="Aslaug (?)" color="#cb958b" id="_RagnaFalseName" src=""/>
+        <character name="Аслауг (?)" color="#cb958b" id="_RagnaFalseName" src=""/>
         <character name="Рагна" color="#cb958b" id="ragnaMaidNormalClose" src="08_03_ragnaMaidNormalClose.png"/>
         <character name="Рагна" color="#cb958b" id="ragnaMaidCareClose" src="08_03_ragnaMaidCareClose.png"/>
         <character name="Рагна" color="#cb958b" id="ragnaMaidLaughClose" src="08_03_ragnaMaidLaughClose.png"/>
@@ -314,29 +314,29 @@
         <character name="Рагна" color="#cb958b" id="ragnaMaidHoweverClose" src="08_03_ragnaMaidHoweverClose.png"/>
         <character name="Рагна" color="#cb958b" id="ragnaMaidThinkClose" src="08_03_ragnaMaidThinkClose.png"/>
         <character name="Химеко" color="#b23b3d" id="_Hemiko" src=""/>
-        <character name="Pirates" color="#dddddd" id="_pirateFollower" src=""/>
-        <character name="海盗男" color="#dddddd" id="pirateBoyClose" src="12_28_pirateBoyClose.png"/>
-        <character name="海盗女" color="#dddddd" id="pirateGirlClose" src="12_28_pirateGirlClose.png"/>
-        <character name="Red Machine" color="#cf3d48" id="_mechineRed" src=""/>
-        <character name="Policeman" color="#cf3d48" id="_policeRed" src=""/>
-        <character name="Policeman" color="#cf3d48" id="mailboxFar" src="12_28_mailboxFar.png"/>
-        <character name="Policeman" color="#cf3d48" id="mailboxClose" src="12_28_mailboxClose.png"/>
-        <character name="Guide" color="#dbd9dc" id="_guideLighthouse" src=""/>
-        <character name="Guide" color="#dbd9dc" id="beaconFar" src="12_28_beaconFar.png"/>
-        <character name="Guide" color="#dbd9dc" id="beaconClose" src="12_28_beaconClose.png"/>
+        <character name="Пираты" color="#dddddd" id="_pirateFollower" src=""/>
+        <character name="Парень-пират" color="#dddddd" id="pirateBoyClose" src="12_28_pirateBoyClose.png"/>
+        <character name="Девушка-пират" color="#dddddd" id="pirateGirlClose" src="12_28_pirateGirlClose.png"/>
+        <character name="Красная Машина" color="#cf3d48" id="_mechineRed" src=""/>
+        <character name="Полицейский" color="#cf3d48" id="_policeRed" src=""/>
+        <character name="Полицейский" color="#cf3d48" id="mailboxFar" src="12_28_mailboxFar.png"/>
+        <character name="Полицейский" color="#cf3d48" id="mailboxClose" src="12_28_mailboxClose.png"/>
+        <character name="Гид" color="#dbd9dc" id="_guideLighthouse" src=""/>
+        <character name="Гид" color="#dbd9dc" id="beaconFar" src="12_28_beaconFar.png"/>
+        <character name="Гид" color="#dbd9dc" id="beaconClose" src="12_28_beaconClose.png"/>
         <character name="???" color="#f3d789" id="_ThalesNoName" src=""/>
         <character name="Фалес" color="#f3d789" id="_Thales" src=""/>
-        <character name="Antonio" color="#f3d789" id="_ThalesVenice" src=""/>
-        <character name="Antonio" color="#f3d789" id="AntonioNormal" src="AntonioNormal.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioHelpless" src="AntonioHelpless.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioDismay" src="AntonioDismay.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioShout" src="AntonioShout.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioDisheartened" src="AntonioDisheartened.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioLaugh" src="AntonioLaugh.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioSmile" src="AntonioSmile.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioSmileCloseEye" src="AntonioSmileCloseEye.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioSwear" src="AntonioSwear.png"/>
-        <character name="Antonio" color="#f3d789" id="AntonioShock" src="AntonioShock.png"/>
+        <character name="Антонио" color="#f3d789" id="_ThalesVenice" src=""/>
+        <character name="Антонио" color="#f3d789" id="AntonioNormal" src="AntonioNormal.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioHelpless" src="AntonioHelpless.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioDismay" src="AntonioDismay.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioShout" src="AntonioShout.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioDisheartened" src="AntonioDisheartened.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioLaugh" src="AntonioLaugh.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioSmile" src="AntonioSmile.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioSmileCloseEye" src="AntonioSmileCloseEye.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioSwear" src="AntonioSwear.png"/>
+        <character name="Антонио" color="#f3d789" id="AntonioShock" src="AntonioShock.png"/>
         <character name="Фалес" color="#f3d789" id="thalesProudClose" src="12_28_thalesProudClose.png"/>
         <character name="Фалес" color="#f3d789" id="thalesLaughClose" src="12_28_thalesLaughClose.png"/>
         <character name="Фалес" color="#f3d789" id="thalesSeriousClose" src="12_28_thalesSeriousClose.png"/>
@@ -345,348 +345,348 @@
         <character name="Фалес" color="#f3d789" id="thalesEmbarrassedClose" src="12_28_thalesEmbarrassedClose.png"/>
         <character name="Фалес" color="#f3d789" id="thalesAngryClose" src="01_17_thalesAngryClose.png"/>
         <character name="???" color="#e7dedb" id="_MichelNoName" src=""/>
-        <character name="Michelangelo" color="#e7dedb" id="_Michel" src=""/>
-        <character name="Curator of the Great Library" color="#e7dedb" id="_MichelCareer" src=""/>
-        <character name="Michelangelo" color="#e7dedb" id="micheArrogantClose" src="01_17_micheArrogantClose.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheFocusClose" src="01_17_micheFocusClose.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheSeriousClose" src="01_17_micheSeriousClose.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheDrySmileClose" src="01_17_micheDrySmileClose.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheRelaxClose" src="01_17_micheRelaxClose.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheColdClose" src="01_17_micheColdClose.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheFocusFar" src="02_21_micheFocusFar.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheSeriousFar" src="02_21_micheSeriousFar.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheDrySmileCloseE" src="08_29_micheDrySmileCloseE.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheArrogantCloseE" src="08_29_micheArrogantCloseE.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheRelaxCloseE" src="08_29_micheRelaxCloseE.png"/>
-        <character name="Michelangelo" color="#e7dedb" id="micheFocusCloseE" src="08_29_micheFocusCloseE.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="_Michel" src=""/>
+        <character name="Куратор Великой Библиотеки" color="#e7dedb" id="_MichelCareer" src=""/>
+        <character name="Микеланджело" color="#e7dedb" id="micheArrogantClose" src="01_17_micheArrogantClose.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheFocusClose" src="01_17_micheFocusClose.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheSeriousClose" src="01_17_micheSeriousClose.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheDrySmileClose" src="01_17_micheDrySmileClose.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheRelaxClose" src="01_17_micheRelaxClose.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheColdClose" src="01_17_micheColdClose.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheFocusFar" src="02_21_micheFocusFar.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheSeriousFar" src="02_21_micheSeriousFar.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheDrySmileCloseE" src="08_29_micheDrySmileCloseE.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheArrogantCloseE" src="08_29_micheArrogantCloseE.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheRelaxCloseE" src="08_29_micheRelaxCloseE.png"/>
+        <character name="Микеланджело" color="#e7dedb" id="micheFocusCloseE" src="08_29_micheFocusCloseE.png"/>
         <character name="???" color="#97a7ff" id="_ThinkerChampollion" src=""/>
-        <character name="Champollion" color="#97a7ff" id="_Champollion" src=""/>
-        <character name="Champollion (?)" color="#97a7ff" id="_ChampollionNotSure" src=""/>
-        <character name="Napoleon (?)" color="#97a7ff" id="_NapoleonNotSure" src=""/>
-        <character name="Champollion" color="#97a7ff" id="champoColdClose" src="01_17_champoColdClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoNormalClose" src="01_17_champoNormalClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoSweatyClose" src="01_17_champoSweatyClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoSmileClose" src="01_17_champoSmileClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoDisgustedClose" src="02_02_champoDisgustedClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoQuestionClose" src="02_02_champoQuestionClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoSmileClose-up" src="05_16_champoSmileClose-up.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoNormalClose-up" src="05_16_champoNormalClose-up.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoSweatyClose-up" src="05_16_champoSweatyClose-up.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoColdClose-up" src="05_16_champoColdClose-up.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoBlanketLaughClose" src="10_11_champoBlanketLaughClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoBlanketSmileClose" src="10_25_champoBlanketSmileClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoBlanketNormalClose" src="10_25_champoBlanketNormalClose.png"/>
-        <character name="Champollion" color="#97a7ff" id="champoBlanketEmbarrassClose" src="10_25_champoBlanketEmbarrassClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="_Champollion" src=""/>
+        <character name="Шампольон (?)" color="#97a7ff" id="_ChampollionNotSure" src=""/>
+        <character name="Наполеон (?)" color="#97a7ff" id="_NapoleonNotSure" src=""/>
+        <character name="Шампольон" color="#97a7ff" id="champoColdClose" src="01_17_champoColdClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoNormalClose" src="01_17_champoNormalClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoSweatyClose" src="01_17_champoSweatyClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoSmileClose" src="01_17_champoSmileClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoDisgustedClose" src="02_02_champoDisgustedClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoQuestionClose" src="02_02_champoQuestionClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoSmileClose-up" src="05_16_champoSmileClose-up.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoNormalClose-up" src="05_16_champoNormalClose-up.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoSweatyClose-up" src="05_16_champoSweatyClose-up.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoColdClose-up" src="05_16_champoColdClose-up.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoBlanketLaughClose" src="10_11_champoBlanketLaughClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoBlanketSmileClose" src="10_25_champoBlanketSmileClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoBlanketNormalClose" src="10_25_champoBlanketNormalClose.png"/>
+        <character name="Шампольон" color="#97a7ff" id="champoBlanketEmbarrassClose" src="10_25_champoBlanketEmbarrassClose.png"/>
         <character name="???" color="#adbfb9" id="_NeithNoName" src=""/>
-        <character name="Neith" color="#adbfb9" id="_Neith" src=""/>
-        <character name="Neith" color="#adbfb9" id="neithLaughClose" src="01_18_neithLaughClose.png"/>
-        <character name="Neith" color="#adbfb9" id="neithSmileClose" src="01_18_neithSmileClose.png"/>
-        <character name="Neith" color="#adbfb9" id="neithComplainClose" src="01_18_neithComplainClose.png"/>
-        <character name="Neith" color="#adbfb9" id="neithSmileFar" src="02_02_neithSmileFar.png"/>
-        <character name="Neith" color="#adbfb9" id="neithLaughFar" src="02_02_neithLaughFar.png"/>
-        <character name="Neith" color="#adbfb9" id="neithComplainFar" src="02_02_neithComplainFar.png"/>
-        <character name="Neith" color="#adbfb9" id="neithSeriousClose" src="02_02_neithSeriousClose.png"/>
-        <character name="Neith" color="#adbfb9" id="neithScaredClose" src="02_21_neithScaredClose.png"/>
-        <character name="Neith" color="#adbfb9" id="neithScaredFar" src="02_21_neithScaredFar.png"/>
-        <character name="Neith" color="#adbfb9" id="neithShockClose" src="02_21_neithShockClose.png"/>
+        <character name="Нейт" color="#adbfb9" id="_Neith" src=""/>
+        <character name="Нейт" color="#adbfb9" id="neithLaughClose" src="01_18_neithLaughClose.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithSmileClose" src="01_18_neithSmileClose.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithComplainClose" src="01_18_neithComplainClose.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithSmileFar" src="02_02_neithSmileFar.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithLaughFar" src="02_02_neithLaughFar.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithComplainFar" src="02_02_neithComplainFar.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithSeriousClose" src="02_02_neithSeriousClose.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithScaredClose" src="02_21_neithScaredClose.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithScaredFar" src="02_21_neithScaredFar.png"/>
+        <character name="Нейт" color="#adbfb9" id="neithShockClose" src="02_21_neithShockClose.png"/>
         <character name="???" color="#ffd0d1" id="_AliceNoName" src=""/>
-        <character name="Alice" color="#ffd0d1" id="_Alice" src=""/>
-        <character name="Nerissa" color="#ffd0d1" id="_AliceVeniceM" src=""/>
-        <character name="Nerissa" color="#ffd0d1" id="NerissaSmile" src="NerissaSmile.png"/>
-        <character name="Nerissa" color="#ffd0d1" id="NerissaDespise" src="NerissaDespise.png"/>
-        <character name="Nerissa" color="#ffd0d1" id="NerissaSneer" src="NerissaSneer.png"/>
-        <character name="Nerissa" color="#ffd0d1" id="NerissaSurprised" src="NerissaSurprised.png"/>
-        <character name="Alice" color="#4cd760" id="_AliceGreen" src=""/>
-        <character name="Alice" color="#ffd0d1" id="AliceStandBlackClose" src="02_01_AliceStandBlackClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSilentFar" src="02_01_AliceSilentFar.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceDeclineFar" src="02_01_AliceDeclineFar.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceCalmFar" src="02_01_AliceCalmFar.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceBitterFar" src="02_01_AliceBitterFar.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceDeterminedFar" src="02_01_AliceDeterminedFar.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceShyFar" src="02_02_AliceShyFar.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceDeterminedClose" src="02_02_AliceDeterminedClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSilentClose" src="02_02_AliceSilentClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceShyClose" src="02_02_AliceShyClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceDeclineClose" src="02_02_AliceDeclineClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceCalmClose" src="02_02_AliceCalmClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceBitterClose" src="02_02_AliceBitterClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSmileClose" src="02_02_AliceSmileClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceThinkClose" src="02_02_AliceThinkClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSurprisedClose" src="02_02_AliceSurprisedClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSmileClose-up" src="02_03_AliceSmileClose-up.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSurprisedClose-up" src="02_03_AliceSurprisedClose-up.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceShyClose-up" src="02_03_AliceShyClose-up.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceHmClose" src="02_03_AliceHmClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceCalmClose-up" src="02_03_AliceCalmClose-up.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceDigitalClose" src="02_21_AliceDigitalClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceShockClose" src="02_21_AliceShockClose.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSurprisedCloseE" src="05_01_AliceSurprisedCloseE.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceSmileCloseE" src="05_01_AliceSmileCloseE.png"/>
-        <character name="Alice" color="#ffd0d1" id="AliceShyCloseE" src="08_17_AliceShyCloseE.png"/>
-        <character name="Shelley" color="#9f732b" id="_Shelley" src=""/>
-        <character name="Head of the City Administration Group" color="#9f732b" id="_ShelleyCareer" src=""/>
-        <character name="Shelley" color="#9f732b" id="shelleyAngryClose" src="02_22_shelleyAngryClose.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyAngryFar" src="02_22_shelleyAngryFar.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyArrogantFar" src="02_22_shelleyArrogantFar.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyBoredFar" src="02_22_shelleyBoredFar.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyColdFar" src="02_22_shelleyColdFar.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyShockedClose" src="02_22_shelleyShockedClose.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyShockedFar" src="02_22_shelleyShockedFar.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleySmileFar" src="02_22_shelleySmileFar.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyColdClose" src="02_22_shelleyColdClose.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleySmileClose" src="02_22_shelleySmileClose.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyBoredClose" src="03_08_shelleyBoredClose.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyArrogantClose" src="03_08_shelleyArrogantClose.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyBoredCloseE" src="08_29_shelleyBoredCloseE.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyShockedCloseE" src="08_29_shelleyShockedCloseE.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyColdCloseE" src="08_29_shelleyColdCloseE.png"/>
-        <character name="Shelley" color="#9f732b" id="shelleyArrogantCloseE" src="08_29_shelleyArrogantCloseE.png"/>
-        <character name="棋盘" color="#ffffff" id="chess1" src="chessboard_01.png"/>
-        <character name="棋盘" color="#ffffff" id="chess2" src="chessboard_02.png"/>
-        <character name="棋盘" color="#ffffff" id="chess3" src="chessboard_03.png"/>
-        <character name="棋盘" color="#ffffff" id="chess4" src="chessboard_04.png"/>
-        <character name="棋盘" color="#ffffff" id="chess5" src="chessboard_05.png"/>
-        <character name="棋盘" color="#ffffff" id="chess6" src="chessboard_06.png"/>
-        <character name="棋盘" color="#ffffff" id="chess7" src="chessboard_07.png"/>
-        <character name="棋盘" color="#ffffff" id="chess8" src="chessboard_08.png"/>
-        <character name="棋盘" color="#ffffff" id="chess9" src="chessboard_09.png"/>
-        <character name="棋盘" color="#ffffff" id="chess10" src="chessboard_10.png"/>
-        <character name="棋盘" color="#ffffff" id="chess11" src="chessboard_11.png"/>
-        <character name="Exiled Man" color="#b4b4b4" id="_FaustNoName" src=""/>
-        <character name="Exiled Man" color="#b4b4b4" id="faustDisdainClose" src="03_08_faustDisdainClose.png"/>
-        <character name="Exiled Man" color="#b4b4b4" id="faustLaughClose" src="03_08_faustLaughClose.png"/>
-        <character name="Exiled Man" color="#b4b4b4" id="faustQuestionClose" src="03_08_faustQuestionClose.png"/>
-        <character name="Exiled Man" color="#b4b4b4" id="faustSadClose" src="03_08_faustSadClose.png"/>
-        <character name="Exiled Man" color="#b4b4b4" id="faustSmileClose" src="03_08_faustSmileClose.png"/>
-        <character name="Exiled Man" color="#b4b4b4" id="faustTalkClose" src="03_08_faustTalkClose.png"/>
-        <character name="Militia" color="#b49680" id="_militiaA" src=""/>
-        <character name="Militia" color="#b49680" id="cowboy1Close" src="03_08_cowboy1Close.png"/>
-        <character name="Militia" color="#bcbfb0" id="_militiaB" src=""/>
-        <character name="Militia" color="#bcbfb0" id="cowgirl1Close" src="03_08_cowgirl1Close.png"/>
-        <character name="Militia" color="#a97162" id="_militiaC" src=""/>
-        <character name="Militia" color="#a97162" id="cowboy2Close" src="03_08_cowboy2Close.png"/>
-        <character name="Mysterious Object" color="#d4dbec" id="_SwordDurandalQNoName" src=""/>
+        <character name="Алиса" color="#ffd0d1" id="_Alice" src=""/>
+        <character name="Нерисса" color="#ffd0d1" id="_AliceVeniceM" src=""/>
+        <character name="Нерисса" color="#ffd0d1" id="NerissaSmile" src="NerissaSmile.png"/>
+        <character name="Нерисса" color="#ffd0d1" id="NerissaDespise" src="NerissaDespise.png"/>
+        <character name="Нерисса" color="#ffd0d1" id="NerissaSneer" src="NerissaSneer.png"/>
+        <character name="Нерисса" color="#ffd0d1" id="NerissaSurprised" src="NerissaSurprised.png"/>
+        <character name="Алиса" color="#4cd760" id="_AliceGreen" src=""/>
+        <character name="Алиса" color="#ffd0d1" id="AliceStandBlackClose" src="02_01_AliceStandBlackClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSilentFar" src="02_01_AliceSilentFar.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceDeclineFar" src="02_01_AliceDeclineFar.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceCalmFar" src="02_01_AliceCalmFar.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceBitterFar" src="02_01_AliceBitterFar.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceDeterminedFar" src="02_01_AliceDeterminedFar.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceShyFar" src="02_02_AliceShyFar.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceDeterminedClose" src="02_02_AliceDeterminedClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSilentClose" src="02_02_AliceSilentClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceShyClose" src="02_02_AliceShyClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceDeclineClose" src="02_02_AliceDeclineClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceCalmClose" src="02_02_AliceCalmClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceBitterClose" src="02_02_AliceBitterClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSmileClose" src="02_02_AliceSmileClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceThinkClose" src="02_02_AliceThinkClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSurprisedClose" src="02_02_AliceSurprisedClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSmileClose-up" src="02_03_AliceSmileClose-up.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSurprisedClose-up" src="02_03_AliceSurprisedClose-up.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceShyClose-up" src="02_03_AliceShyClose-up.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceHmClose" src="02_03_AliceHmClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceCalmClose-up" src="02_03_AliceCalmClose-up.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceDigitalClose" src="02_21_AliceDigitalClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceShockClose" src="02_21_AliceShockClose.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSurprisedCloseE" src="05_01_AliceSurprisedCloseE.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceSmileCloseE" src="05_01_AliceSmileCloseE.png"/>
+        <character name="Алиса" color="#ffd0d1" id="AliceShyCloseE" src="08_17_AliceShyCloseE.png"/>
+        <character name="Шелли" color="#9f732b" id="_Shelley" src=""/>
+        <character name="Глава группы городской администрации" color="#9f732b" id="_ShelleyCareer" src=""/>
+        <character name="Шелли" color="#9f732b" id="shelleyAngryClose" src="02_22_shelleyAngryClose.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyAngryFar" src="02_22_shelleyAngryFar.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyArrogantFar" src="02_22_shelleyArrogantFar.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyBoredFar" src="02_22_shelleyBoredFar.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyColdFar" src="02_22_shelleyColdFar.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyShockedClose" src="02_22_shelleyShockedClose.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyShockedFar" src="02_22_shelleyShockedFar.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleySmileFar" src="02_22_shelleySmileFar.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyColdClose" src="02_22_shelleyColdClose.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleySmileClose" src="02_22_shelleySmileClose.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyBoredClose" src="03_08_shelleyBoredClose.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyArrogantClose" src="03_08_shelleyArrogantClose.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyBoredCloseE" src="08_29_shelleyBoredCloseE.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyShockedCloseE" src="08_29_shelleyShockedCloseE.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyColdCloseE" src="08_29_shelleyColdCloseE.png"/>
+        <character name="Шелли" color="#9f732b" id="shelleyArrogantCloseE" src="08_29_shelleyArrogantCloseE.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess1" src="chessboard_01.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess2" src="chessboard_02.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess3" src="chessboard_03.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess4" src="chessboard_04.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess5" src="chessboard_05.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess6" src="chessboard_06.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess7" src="chessboard_07.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess8" src="chessboard_08.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess9" src="chessboard_09.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess10" src="chessboard_10.png"/>
+        <character name="Шахматная доска" color="#ffffff" id="chess11" src="chessboard_11.png"/>
+        <character name="Изгнанный" color="#b4b4b4" id="_FaustNoName" src=""/>
+        <character name="Изгнанный" color="#b4b4b4" id="faustDisdainClose" src="03_08_faustDisdainClose.png"/>
+        <character name="Изгнанный" color="#b4b4b4" id="faustLaughClose" src="03_08_faustLaughClose.png"/>
+        <character name="Изгнанный" color="#b4b4b4" id="faustQuestionClose" src="03_08_faustQuestionClose.png"/>
+        <character name="Изгнанный" color="#b4b4b4" id="faustSadClose" src="03_08_faustSadClose.png"/>
+        <character name="Изгнанный" color="#b4b4b4" id="faustSmileClose" src="03_08_faustSmileClose.png"/>
+        <character name="Изгнанный" color="#b4b4b4" id="faustTalkClose" src="03_08_faustTalkClose.png"/>
+        <character name="Милиция" color="#b49680" id="_militiaA" src=""/>
+        <character name="Милиция" color="#b49680" id="cowboy1Close" src="03_08_cowboy1Close.png"/>
+        <character name="Милиция" color="#bcbfb0" id="_militiaB" src=""/>
+        <character name="Милиция" color="#bcbfb0" id="cowgirl1Close" src="03_08_cowgirl1Close.png"/>
+        <character name="Милиция" color="#a97162" id="_militiaC" src=""/>
+        <character name="Милиция" color="#a97162" id="cowboy2Close" src="03_08_cowboy2Close.png"/>
+        <character name="Таинственный объект" color="#d4dbec" id="_SwordDurandalQNoName" src=""/>
         <character name="???" color="#fcf1a2" id="_eyeDurandalQNoName" src=""/>
-        <character name="Dudu" color="#d4dbec" id="_SwordDurandalQ" src=""/>
-        <character name="Holy Sword Durandal" color="#fcf1a2" id="_HolySwordDurandal" src=""/>
-        <character name="Dudu" color="#fcf1a2" id="_eyeDurandalQDurandal" src=""/>
-        <character name="Dudu" color="#fcf1a2" id="eyeSwordShock" src="x_eyeSwordShock.png"/>
-        <character name="Dudu" color="#fcf1a2" id="eyeSwordNormal" src="x_eyeSwordNormal.png"/>
-        <character name="Dudu" color="#fcf1a2" id="eyeSwordSmile" src="x_eyeSwordSmile.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalOpen" src="03_22_durandalOpen.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalOutstretchOpen" src="03_22_durandalOutstretchOpen.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalWhite" src="03_22_durandalWhite.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalOutstretchStare" src="03_22_durandalOutstretchStare.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalStare" src="03_22_durandalStare.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalSquint" src="03_22_durandalSquint.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalDeadfish" src="03_22_durandalDeadfish.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalOutstretchWhite" src="03_22_durandalOutstretchWhite.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalClose" src="04_12_durandalClose.png"/>
-        <character name="Dudu" color="#d4dbec" id="durandalOutstretchSquint" src="04_12_durandalOutstretchSquint.png"/>
+        <character name="Дуду" color="#d4dbec" id="_SwordDurandalQ" src=""/>
+        <character name="Святой Меч Дюрандаль" color="#fcf1a2" id="_HolySwordDurandal" src=""/>
+        <character name="Дуду" color="#fcf1a2" id="_eyeDurandalQDurandal" src=""/>
+        <character name="Дуду" color="#fcf1a2" id="eyeSwordShock" src="x_eyeSwordShock.png"/>
+        <character name="Дуду" color="#fcf1a2" id="eyeSwordNormal" src="x_eyeSwordNormal.png"/>
+        <character name="Дуду" color="#fcf1a2" id="eyeSwordSmile" src="x_eyeSwordSmile.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalOpen" src="03_22_durandalOpen.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalOutstretchOpen" src="03_22_durandalOutstretchOpen.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalWhite" src="03_22_durandalWhite.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalOutstretchStare" src="03_22_durandalOutstretchStare.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalStare" src="03_22_durandalStare.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalSquint" src="03_22_durandalSquint.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalDeadfish" src="03_22_durandalDeadfish.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalOutstretchWhite" src="03_22_durandalOutstretchWhite.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalClose" src="04_12_durandalClose.png"/>
+        <character name="Дуду" color="#d4dbec" id="durandalOutstretchSquint" src="04_12_durandalOutstretchSquint.png"/>
         <character name="???" color="#dddddd" id="_SomeOneTalking" src=""/>
-        <character name="Parrot Helmet Officer" color="#4db766" id="_OfficerNoName" src=""/>
-        <character name="Officer" color="#4db766" id="_OfficerNoNameShort" src=""/>
-        <character name="戴鹦鹉头盔的将军" color="#4db766" id="OfficerClose" src="05_16_OfficerClose.png"/>
-        <character name="Priest-looking Woman" color="#b1a749" id="_PriestNoName" src=""/>
-        <character name="Tazumal" color="#b1a749" id="_PriestTrueName" src=""/>
-        <character name="看起来像祭司的老妇人" color="#b1a749" id="PriestAngryClose" src="05_16_PriestAngryClose.png"/>
-        <character name="看起来像祭司的老妇人" color="#b1a749" id="PriestSeriousClose" src="05_16_PriestSeriousClose.png"/>
-        <character name="看起来像祭司的老妇人" color="#b1a749" id="PriestCalmClose" src="05_16_PriestCalmClose.png"/>
-        <character name="看起来像祭司的老妇人" color="#b1a749" id="PriestSmileClose" src="05_16_PriestSmileClose.png"/>
-        <character name="Demon Mask Warrior" color="#a79f9b" id="_WarriorNoName" src=""/>
-        <character name="Warrior" color="#a79f9b" id="_WarriorNoNameShort" src=""/>
-        <character name="Warrior A" color="#a79f9b" id="_Warrior2PNoNameShort" src=""/>
-        <character name="Warrior B" color="#a79f9b" id="_Warrior3PNoNameShort" src=""/>
-        <character name="戴鬼怪面具的士兵" color="#a79f9b" id="WarriorClose" src="05_16_WarriorClose.png"/>
-        <character name="戴鬼怪面具的士兵" color="#a79f9b" id="Warrior3PClose" src="04_30_WarriorClose.png"/>
-        <character name="戴鬼怪面具的士兵" color="#a79f9b" id="Warrior2PClose" src="05_31_Warrior2PClose.png"/>
-        <character name="Girl in fancy clothes" color="#f6deb8" id="_WitchNoName" src=""/>
-        <character name="Eikenal" color="#f6deb8" id="_WitchTrueName" src=""/>
-        <character name="Eikenal" color="#f6deb8" id="WitchShockClose" src="05_16_WitchShockClose.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchSadClose" src="05_16_WitchSadClose.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchHappyClose" src="05_16_WitchHappyClose.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchSmileClose" src="05_16_WitchSmileClose.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchSeriousClose-up" src="05_16_WitchSeriousClose-up.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchShyClose" src="05_16_WitchShyClose.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchShockClose-up" src="05_16_WitchShockClose-up.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchHappyClose-up" src="05_16_WitchHappyClose-up.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchSmileClose-up" src="05_16_WitchSmileClose-up.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchShyClose-up" src="05_16_WitchShyClose-up.png"/>
-        <character name="Eikenal" color="#f6deb8" id="WitchSadClose-up" src="05_16_WitchSadClose-up.png"/>
-        <character name="穿着华丽的少女" color="#f6deb8" id="WitchSeriousClose" src="05_16_WitchSeriousClose.png"/>
+        <character name="Офицер в шлеме с попугаем" color="#4db766" id="_OfficerNoName" src=""/>
+        <character name="Офицер" color="#4db766" id="_OfficerNoNameShort" src=""/>
+        <character name="Офицер в шлеме с попугаем" color="#4db766" id="OfficerClose" src="05_16_OfficerClose.png"/>
+        <character name="Женщина, похожая на священника" color="#b1a749" id="_PriestNoName" src=""/>
+        <character name="Тазумал" color="#b1a749" id="_PriestTrueName" src=""/>
+        <character name="Женщина, похожая на священника" color="#b1a749" id="PriestAngryClose" src="05_16_PriestAngryClose.png"/>
+        <character name="Женщина, похожая на священника" color="#b1a749" id="PriestSeriousClose" src="05_16_PriestSeriousClose.png"/>
+        <character name="Женщина, похожая на священника" color="#b1a749" id="PriestCalmClose" src="05_16_PriestCalmClose.png"/>
+        <character name="Женщина, похожая на священника" color="#b1a749" id="PriestSmileClose" src="05_16_PriestSmileClose.png"/>
+        <character name="Воин в маске демона" color="#a79f9b" id="_WarriorNoName" src=""/>
+        <character name="Воин" color="#a79f9b" id="_WarriorNoNameShort" src=""/>
+        <character name="Воин А" color="#a79f9b" id="_Warrior2PNoNameShort" src=""/>
+        <character name="Воин Б" color="#a79f9b" id="_Warrior3PNoNameShort" src=""/>
+        <character name="Воин в маске демона" color="#a79f9b" id="WarriorClose" src="05_16_WarriorClose.png"/>
+        <character name="Воин в маске демона" color="#a79f9b" id="Warrior3PClose" src="04_30_WarriorClose.png"/>
+        <character name="Воин в маске демона" color="#a79f9b" id="Warrior2PClose" src="05_31_Warrior2PClose.png"/>
+        <character name="Девушка в модной одежде" color="#f6deb8" id="_WitchNoName" src=""/>
+        <character name="Эйкенал" color="#f6deb8" id="_WitchTrueName" src=""/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchShockClose" src="05_16_WitchShockClose.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchSadClose" src="05_16_WitchSadClose.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchHappyClose" src="05_16_WitchHappyClose.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchSmileClose" src="05_16_WitchSmileClose.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchSeriousClose-up" src="05_16_WitchSeriousClose-up.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchShyClose" src="05_16_WitchShyClose.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchShockClose-up" src="05_16_WitchShockClose-up.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchHappyClose-up" src="05_16_WitchHappyClose-up.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchSmileClose-up" src="05_16_WitchSmileClose-up.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchShyClose-up" src="05_16_WitchShyClose-up.png"/>
+        <character name="Эйкенал" color="#f6deb8" id="WitchSadClose-up" src="05_16_WitchSadClose-up.png"/>
+        <character name="Девушка в модной одежде" color="#f6deb8" id="WitchSeriousClose" src="05_16_WitchSeriousClose.png"/>
         <character name="Таинственная Блондинка" color="#ffffff" id="_BiankaOutsiderNoName" src=""/>
         <character name="Таинственная Рыжеволосая Женщина" color="#d25242" id="_ShakespeareOutsiderNoName" src=""/>
         <character name="Таинственная Горничная-переводчик" color="#ddcab3" id="_RitaOutsiderNoName" src=""/>
-        <character name="Officer" color="#c2b5ff" id="_Officer2PNoNameShort" src=""/>
-        <character name="Cauac" color="#c2b5ff" id="_Officer2P" src=""/>
-        <character name="Cauac" color="#c2b5ff" id="Officer2PClose" src="05_31_Officer2PClose.png"/>
-        <character name="Guide" color="#d2c7c1" id="_vilagerGuide" src=""/>
-        <character name="Guide" color="#d2c7c1" id="vilagerManSmileClose-up" src="05_31_vilagerManSmileClose-up.png"/>
-        <character name="Guide" color="#d2c7c1" id="vilagerSmileClose" src="05_31_vilagerSmileClose.png"/>
-        <character name="Guide" color="#d2c7c1" id="vilagerSeriousClose" src="05_31_vilagerSeriousClose.png"/>
+        <character name="Офицер" color="#c2b5ff" id="_Officer2PNoNameShort" src=""/>
+        <character name="Кауак" color="#c2b5ff" id="_Officer2P" src=""/>
+        <character name="Кауак" color="#c2b5ff" id="Officer2PClose" src="05_31_Officer2PClose.png"/>
+        <character name="Гид" color="#d2c7c1" id="_vilagerGuide" src=""/>
+        <character name="Гид" color="#d2c7c1" id="vilagerManSmileClose-up" src="05_31_vilagerManSmileClose-up.png"/>
+        <character name="Гид" color="#d2c7c1" id="vilagerSmileClose" src="05_31_vilagerSmileClose.png"/>
+        <character name="Гид" color="#d2c7c1" id="vilagerSeriousClose" src="05_31_vilagerSeriousClose.png"/>
         <character name="???" color="#ffc89a" id="_ZarathustraDaughterNoNameZero" src=""/>
-        <character name="High Priestess" color="#ffc89a" id="_ZarathustraDaughterNoName" src=""/>
-        <character name="Esther" color="#ffc89a" id="_ZarathustraDaughter" src=""/>
-        <character name="Esther" color="#ffc89a" id="ZarathustraSmileClose" src="06_01_ZarathustraSmileClose.png"/>
-        <character name="Esther" color="#ffc89a" id="ZarathustraNormalClose" src="06_01_ZarathustraNormalClose.png"/>
-        <character name="Esther" color="#ffc89a" id="ZarathustraSorrowClose" src="06_01_ZarathustraSorrowClose.png"/>
-        <character name="Esther" color="#ffc89a" id="ZarathustraThinkClose" src="06_01_ZarathustraThinkClose.png"/>
-        <character name="Esther" color="#ffc89a" id="ZarathustraAngerClose" src="06_01_ZarathustraAngerClose.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakYoung" src="06_14_zahhakYoung.png"/>
-        <character name="Silhouette" color="#000000" id="graySnakeNormal" src="06_14_graySnakeNormal.png"/>
-        <character name="Silhouette" color="#000000" id="graySnakeSmile" src="06_14_graySnakeSmile.png"/>
-        <character name="Silhouette" color="#000000" id="oldKingMoon" src="06_14_oldKingMoon.png"/>
-        <character name="Silhouette" color="#000000" id="oldKingNormal" src="06_14_oldKingNormal.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakNormal" src="06_14_zahhakNormal.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakSword" src="06_14_zahhakSword.png"/>
-        <character name="Silhouette" color="#000000" id="bloodStain" src="06_14_bloodStain.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakSmile" src="06_14_zahhakSmile.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakAxe" src="06_14_zahhakAxe.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakShah" src="06_14_zahhakShah.png"/>
-        <character name="Silhouette" color="#000000" id="zahhakNoHead" src="06_14_zahhakNoHead.png"/>
-        <character name="Silhouette" color="#000000" id="graySnakeSilence" src="06_14_graySnakeSilence.png"/>
-        <character name="Silhouette" color="#000000" id="graySnakeSpeak" src="06_14_graySnakeSpeak.png"/>
-        <character name="Silhouette" color="#000000" id="oldZaraNormal" src="06_14_oldZaraNormal.png"/>
-        <character name="Silhouette" color="#000000" id="oldZaraAngry" src="06_14_oldZaraAngry.png"/>
-        <character name="Silhouette" color="#000000" id="oldZaraInjector" src="06_14_oldZaraInjector.png"/>
-        <character name="Silhouette" color="#000000" id="oldZaraGenius" src="06_14_oldZaraGenius.png"/>
-        <character name="Zaratustra" color="#dddddd" id="_oldZara" src=""/>
-        <character name="Gray Serpent" color="#dddddd" id="_graySnake" src=""/>
-        <character name="Zahhak" color="#b6dcb5" id="_zahhak" src=""/>
-        <character name="Old Dragon" color="#aeb5ae" id="_bertrand" src=""/>
+        <character name="Верховная жрица" color="#ffc89a" id="_ZarathustraDaughterNoName" src=""/>
+        <character name="Эстер" color="#ffc89a" id="_ZarathustraDaughter" src=""/>
+        <character name="Эстер" color="#ffc89a" id="ZarathustraSmileClose" src="06_01_ZarathustraSmileClose.png"/>
+        <character name="Эстер" color="#ffc89a" id="ZarathustraNormalClose" src="06_01_ZarathustraNormalClose.png"/>
+        <character name="Эстер" color="#ffc89a" id="ZarathustraSorrowClose" src="06_01_ZarathustraSorrowClose.png"/>
+        <character name="Эстер" color="#ffc89a" id="ZarathustraThinkClose" src="06_01_ZarathustraThinkClose.png"/>
+        <character name="Эстер" color="#ffc89a" id="ZarathustraAngerClose" src="06_01_ZarathustraAngerClose.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakYoung" src="06_14_zahhakYoung.png"/>
+        <character name="Силуэт" color="#000000" id="graySnakeNormal" src="06_14_graySnakeNormal.png"/>
+        <character name="Силуэт" color="#000000" id="graySnakeSmile" src="06_14_graySnakeSmile.png"/>
+        <character name="Силуэт" color="#000000" id="oldKingMoon" src="06_14_oldKingMoon.png"/>
+        <character name="Силуэт" color="#000000" id="oldKingNormal" src="06_14_oldKingNormal.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakNormal" src="06_14_zahhakNormal.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakSword" src="06_14_zahhakSword.png"/>
+        <character name="Силуэт" color="#000000" id="bloodStain" src="06_14_bloodStain.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakSmile" src="06_14_zahhakSmile.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakAxe" src="06_14_zahhakAxe.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakShah" src="06_14_zahhakShah.png"/>
+        <character name="Силуэт" color="#000000" id="zahhakNoHead" src="06_14_zahhakNoHead.png"/>
+        <character name="Силуэт" color="#000000" id="graySnakeSilence" src="06_14_graySnakeSilence.png"/>
+        <character name="Силуэт" color="#000000" id="graySnakeSpeak" src="06_14_graySnakeSpeak.png"/>
+        <character name="Силуэт" color="#000000" id="oldZaraNormal" src="06_14_oldZaraNormal.png"/>
+        <character name="Силуэт" color="#000000" id="oldZaraAngry" src="06_14_oldZaraAngry.png"/>
+        <character name="Силуэт" color="#000000" id="oldZaraInjector" src="06_14_oldZaraInjector.png"/>
+        <character name="Силуэт" color="#000000" id="oldZaraGenius" src="06_14_oldZaraGenius.png"/>
+        <character name="Заратустра" color="#dddddd" id="_oldZara" src=""/>
+        <character name="Серый Змей" color="#dddddd" id="_graySnake" src=""/>
+        <character name="Заххак" color="#b6dcb5" id="_zahhak" src=""/>
+        <character name="Старый Дракон" color="#aeb5ae" id="_bertrand" src=""/>
         <character name="???" color="#aeb5ae" id="_bertrandYNoName" src=""/>
-        <character name="Bertrand" color="#aeb5ae" id="_bertrandY" src=""/>
-        <character name="Old Dragon" color="#aeb5ae" id="BertrandSmile" src="07_05_BertrandSmile.png"/>
-        <character name="Old Dragon" color="#aeb5ae" id="BertrandAnger" src="07_05_BertrandAnger.png"/>
-        <character name="Old Dragon" color="#aeb5ae" id="BertrandNormal" src="07_05_BertrandNormal.png"/>
-        <character name="Old Dragon" color="#aeb5ae" id="BertrandThink" src="07_05_BertrandThink.png"/>
-        <character name="Citizen (Man)" color="#d2c7c1" id="_citizenChichenItzaMan" src=""/>
-        <character name="Citizen (Woman)" color="#d2c7c1" id="vilagerWomanSmileClose" src="07_19_vilagerWomanSmileClose.png"/>
-        <character name="Citizen (Woman)" color="#d2c7c1" id="_citizenChichenItzaWoman" src=""/>
-        <character name="Spectator" color="#d2c7c1" id="_citizenChichenItzaFan" src=""/>
-        <character name="Newly Hired Sailor" color="#a4aca4" id="_Officer3PNoName" src=""/>
-        <character name="Ketuya" color="#a4aca4" id="_Officer3PKetuya" src=""/>
-        <character name="Ketuya" color="#a4aca4" id="Officer3PClose" src="08_17_Officer3PClose.png"/>
-        <character name="Armed Officer" color="#99b6a7" id="_incaSoldierGarcilasoNoName" src=""/>
-        <character name="Armed Officer" color="#99b6a7" id="soldierGarcilasoClose" src="08_16_soldierGarcilasoClose.png"/>
-        <character name="Armed Officer" color="#d1bbbb" id="_incaSoldierDeLaVegaNoName" src=""/>
-        <character name="Armed Officer" color="#d1bbbb" id="soldierDeLaVegaClose" src="08_16_soldierDeLaVegaClose.png"/>
-        <character name="Armed Officer" color="#fff5e8" id="_rolandIncaNoName" src=""/>
-        <character name="Rowland" color="#fff5e8" id="_Roland" src=""/>
-        <character name="Messenger" color="#fff5e8" id="_RolandVenice" src=""/>
-        <character name="Messenger" color="#fff5e8" id="StephanoSincere" src="StephanoSincere.png"/>
-        <character name="Messenger" color="#fff5e8" id="StephanoTender" src="StephanoTender.png"/>
+        <character name="Бертран" color="#aeb5ae" id="_bertrandY" src=""/>
+        <character name="Старый Дракон" color="#aeb5ae" id="BertrandSmile" src="07_05_BertrandSmile.png"/>
+        <character name="Старый Дракон" color="#aeb5ae" id="BertrandAnger" src="07_05_BertrandAnger.png"/>
+        <character name="Старый Дракон" color="#aeb5ae" id="BertrandNormal" src="07_05_BertrandNormal.png"/>
+        <character name="Старый Дракон" color="#aeb5ae" id="BertrandThink" src="07_05_BertrandThink.png"/>
+        <character name="Гражданин" color="#d2c7c1" id="_citizenChichenItzaMan" src=""/>
+        <character name="Гражданка" color="#d2c7c1" id="vilagerWomanSmileClose" src="07_19_vilagerWomanSmileClose.png"/>
+        <character name="Гражданка" color="#d2c7c1" id="_citizenChichenItzaWoman" src=""/>
+        <character name="Наблюдатель" color="#d2c7c1" id="_citizenChichenItzaFan" src=""/>
+        <character name="Недавно нанятый матрос" color="#a4aca4" id="_Officer3PNoName" src=""/>
+        <character name="Кетуя" color="#a4aca4" id="_Officer3PKetuya" src=""/>
+        <character name="Кетуя" color="#a4aca4" id="Officer3PClose" src="08_17_Officer3PClose.png"/>
+        <character name="Вооружённый офицер" color="#99b6a7" id="_incaSoldierGarcilasoNoName" src=""/>
+        <character name="Вооружённый офицер" color="#99b6a7" id="soldierGarcilasoClose" src="08_16_soldierGarcilasoClose.png"/>
+        <character name="Вооружённый офицер" color="#d1bbbb" id="_incaSoldierDeLaVegaNoName" src=""/>
+        <character name="Вооружённый офицер" color="#d1bbbb" id="soldierDeLaVegaClose" src="08_16_soldierDeLaVegaClose.png"/>
+        <character name="Вооружённый офицер" color="#fff5e8" id="_rolandIncaNoName" src=""/>
+        <character name="Роуланд" color="#fff5e8" id="_Roland" src=""/>
+        <character name="Посланник" color="#fff5e8" id="_RolandVenice" src=""/>
+        <character name="Посланник" color="#fff5e8" id="StephanoSincere" src="StephanoSincere.png"/>
+        <character name="Посланник" color="#fff5e8" id="StephanoTender" src="StephanoTender.png"/>
         <character name="???" color="#fff5e8" id="_RolandNoName" src=""/>
-        <character name="Rowland (?)" color="#fff5e8" id="_RolandNina" src=""/>
-        <character name="Rowland (?)" color="#fff5e8" id="rolandLNLaughClose" src="x_rolandLNLaughClose.png"/>
-        <character name="Rowland (?)" color="#fff5e8" id="rolandLNEmbarrassClose" src="x_rolandLNEmbarrassClose.png"/>
-        <character name="Rowland (?)" color="#fff5e8" id="rolandLNSmileClose" src="x_rolandLNSmileClose.png"/>
-        <character name="Rowland (?)" color="#fff5e8" id="rolandLNNormalClose" src="x_rolandLNNormalClose.png"/>
-        <character name="Rowland (?)" color="#fff5e8" id="rolandLNShockClose" src="x_rolandLNShockClose.png"/>
-        <character name="Rowland (?)" color="#fff5e8" id="rolandLNSeriousClose" src="x_rolandLNSeriousClose.png"/>
+        <character name="Роуланд (?)" color="#fff5e8" id="_RolandNina" src=""/>
+        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNLaughClose" src="x_rolandLNLaughClose.png"/>
+        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNEmbarrassClose" src="x_rolandLNEmbarrassClose.png"/>
+        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNSmileClose" src="x_rolandLNSmileClose.png"/>
+        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNNormalClose" src="x_rolandLNNormalClose.png"/>
+        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNShockClose" src="x_rolandLNShockClose.png"/>
+        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNSeriousClose" src="x_rolandLNSeriousClose.png"/>
         <character name="???" color="#fff5e8" id="_laNinaNoName" src=""/>
-        <character name="“La Nina”" color="#fff5e8" id="_laNina" src=""/>
-        <character name="“La Nina”" color="#fff5e8" id="RolandBSKSmile" src="x_RolandBSKSmile.png"/>
-        <character name="“La Nina”" color="#fff5e8" id="RolandBSKNormal" src="x_RolandBSKNormal.png"/>
-        <character name="“La Nina”" color="#fff5e8" id="RolandBSKBark" src="x_RolandBSKBark.png"/>
-        <character name="“La Nina”" color="#fff5e8" id="RolandBSKDis" src="x_RolandBSKDis.png"/>
-        <character name="“La Nina”" color="#fff5e8" id="RolandBSKSerious" src="x_RolandBSKSerious.png"/>
-        <character name="“La Nina”" color="#fff5e8" id="RolandBSKSeriousTalk" src="x_RolandBSKSeriousTalk.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorSmileClose" src="08_17_rolandArmorSmileClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorSeriousClose" src="08_17_rolandArmorSeriousClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorQuestionClose" src="08_17_rolandArmorQuestionClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorNormalClose" src="08_17_rolandArmorNormalClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorLaughClose" src="08_17_rolandArmorLaughClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorHelmetClose" src="08_17_rolandArmorHelmetClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandArmorEmbarrassClose" src="08_17_rolandArmorEmbarrassClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandNormalClose" src="09_13_rolandNormalClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandEmbarrassClose" src="09_13_rolandEmbarrassClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandLaughClose" src="09_13_rolandLaughClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandSmileClose" src="09_13_rolandSmileClose.png"/>
-        <character name="Rowland" color="#fff5e8" id="rolandSeriousClose" src="09_13_rolandSeriousClose.png"/>
+        <character name="“Ла Нина”" color="#fff5e8" id="_laNina" src=""/>
+        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKSmile" src="x_RolandBSKSmile.png"/>
+        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKNormal" src="x_RolandBSKNormal.png"/>
+        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKBark" src="x_RolandBSKBark.png"/>
+        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKDis" src="x_RolandBSKDis.png"/>
+        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKSerious" src="x_RolandBSKSerious.png"/>
+        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKSeriousTalk" src="x_RolandBSKSeriousTalk.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorSmileClose" src="08_17_rolandArmorSmileClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorSeriousClose" src="08_17_rolandArmorSeriousClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorQuestionClose" src="08_17_rolandArmorQuestionClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorNormalClose" src="08_17_rolandArmorNormalClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorLaughClose" src="08_17_rolandArmorLaughClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorHelmetClose" src="08_17_rolandArmorHelmetClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandArmorEmbarrassClose" src="08_17_rolandArmorEmbarrassClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandNormalClose" src="09_13_rolandNormalClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandEmbarrassClose" src="09_13_rolandEmbarrassClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandLaughClose" src="09_13_rolandLaughClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandSmileClose" src="09_13_rolandSmileClose.png"/>
+        <character name="Роуланд" color="#fff5e8" id="rolandSeriousClose" src="09_13_rolandSeriousClose.png"/>
         <character name="???" color="#79d2e2" id="_DarwinNoName" src=""/>
-        <character name="Darwin" color="#79d2e2" id="_Darwin" src=""/>
-        <character name="Darwin (?)" color="#c786c8" id="_DarwinError" src=""/>
-        <character name="Darwin (?)" color="#c786c8" id="darwinHonkai" src="x_darwinHonkai.png"/>
-        <character name="Soldier D (?)" color="#c786c8" id="_soldierDeLaVegaError" src=""/>
-        <character name="Soldier D (?)" color="#c786c8" id="soldierDeLaVegaHonkai" src="x_soldierDeLaVegaHonkai.png"/>
-        <character name="Soldier G (?)" color="#c786c8" id="_soldierGarcilasoError" src=""/>
-        <character name="Soldier G (?)" color="#c786c8" id="soldierGarcilasoHonkai" src="x_soldierGarcilasoHonkai.png"/>
-        <character name="Darwin" color="#79d2e2" id="DarwinFunnyClose" src="09_12_DarwinFunnyClose.png"/>
-        <character name="Darwin" color="#79d2e2" id="DarwinSmileClose" src="09_12_DarwinSmileClose.png"/>
-        <character name="Darwin" color="#79d2e2" id="DarwinEmbarrassedClose" src="09_12_DarwinEmbarrassedClose.png"/>
-        <character name="Darwin" color="#79d2e2" id="DarwinNormalClose" src="09_12_DarwinNormalClose.png"/>
-        <character name="Darwin" color="#79d2e2" id="DarwinSeriousClose" src="09_12_DarwinSeriousClose.png"/>
+        <character name="Дарвин" color="#79d2e2" id="_Darwin" src=""/>
+        <character name="Дарвин (?)" color="#c786c8" id="_DarwinError" src=""/>
+        <character name="Дарвин (?)" color="#c786c8" id="darwinHonkai" src="x_darwinHonkai.png"/>
+        <character name="Солдат Д (?)" color="#c786c8" id="_soldierDeLaVegaError" src=""/>
+        <character name="Солдат Д (?)" color="#c786c8" id="soldierDeLaVegaHonkai" src="x_soldierDeLaVegaHonkai.png"/>
+        <character name="Солдат Г (?)" color="#c786c8" id="_soldierGarcilasoError" src=""/>
+        <character name="Солдат Г (?)" color="#c786c8" id="soldierGarcilasoHonkai" src="x_soldierGarcilasoHonkai.png"/>
+        <character name="Дарвин" color="#79d2e2" id="DarwinFunnyClose" src="09_12_DarwinFunnyClose.png"/>
+        <character name="Дарвин" color="#79d2e2" id="DarwinSmileClose" src="09_12_DarwinSmileClose.png"/>
+        <character name="Дарвин" color="#79d2e2" id="DarwinEmbarrassedClose" src="09_12_DarwinEmbarrassedClose.png"/>
+        <character name="Дарвин" color="#79d2e2" id="DarwinNormalClose" src="09_12_DarwinNormalClose.png"/>
+        <character name="Дарвин" color="#79d2e2" id="DarwinSeriousClose" src="09_12_DarwinSeriousClose.png"/>
         <character name="???" color="#ca3433" id="_DraculaNoName" src=""/>
-        <character name="Dracula" color="#ca3433" id="_Dracula" src=""/>
-        <character name="Dracula" color="#ca3433" id="DraculaLaughClose" src="09_12_DraculaLaughClose.png"/>
-        <character name="Dracula" color="#ca3433" id="DraculaFunnyClose" src="09_12_DraculaFunnyClose.png"/>
-        <character name="Dracula" color="#ca3433" id="DraculaSmileClose" src="09_12_DraculaSmileClose.png"/>
-        <character name="Dracula" color="#ca3433" id="DraculaNormalClose" src="09_12_DraculaNormalClose.png"/>
-        <character name="Dracula" color="#ca3433" id="DraculaSeriousClose" src="09_12_DraculaSeriousClose.png"/>
-        <character name="Dracula" color="#ca3433" id="DraculaThinkClose" src="11_22_DraculaThinkClose.png"/>
-        <character name="Dracula" color="#ca3433" id="DraculaQuestionClose" src="11_22_DraculaQuestionClose.png"/>
+        <character name="Дракула" color="#ca3433" id="_Dracula" src=""/>
+        <character name="Дракула" color="#ca3433" id="DraculaLaughClose" src="09_12_DraculaLaughClose.png"/>
+        <character name="Дракула" color="#ca3433" id="DraculaFunnyClose" src="09_12_DraculaFunnyClose.png"/>
+        <character name="Дракула" color="#ca3433" id="DraculaSmileClose" src="09_12_DraculaSmileClose.png"/>
+        <character name="Дракула" color="#ca3433" id="DraculaNormalClose" src="09_12_DraculaNormalClose.png"/>
+        <character name="Дракула" color="#ca3433" id="DraculaSeriousClose" src="09_12_DraculaSeriousClose.png"/>
+        <character name="Дракула" color="#ca3433" id="DraculaThinkClose" src="11_22_DraculaThinkClose.png"/>
+        <character name="Дракула" color="#ca3433" id="DraculaQuestionClose" src="11_22_DraculaQuestionClose.png"/>
         <character name="???" color="#82f1ff" id="_ShigureKiraNoName" src=""/>
-        <character name="Shigure Kira" color="#82f1ff" id="_ShigureKira" src=""/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraVNShockClose" src="x_ShigureKiraVNShockClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraVNNormalClose" src="x_ShigureKiraVNNormalClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraVNTalkClose" src="x_ShigureKiraVNTalkClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraVNThinkClose" src="x_ShigureKiraVNThinkClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraVNSadClose" src="x_ShigureKiraVNSadClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraVNSeriousClose" src="x_ShigureKiraVNSeriousClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSingingCloseEyeFar" src="09_12_ShigureKiraSingingCloseEyeFar.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSingingLyricalFar" src="09_12_ShigureKiraSingingLyricalFar.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSingingPassionFar" src="09_12_ShigureKiraSingingPassionFar.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraQuestionClose" src="10_11_ShigureKiraQuestionClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraAngryClose" src="10_11_ShigureKiraAngryClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSneerClose" src="10_11_ShigureKiraSneerClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraCuteFar" src="10_11_ShigureKiraCuteFar.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraCuteClose" src="10_11_ShigureKiraCuteClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraThinkClose" src="10_11_ShigureKiraThinkClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraConfidentClose" src="10_11_ShigureKiraConfidentClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesConfidentClose" src="10_25_ShigureKiraSunGlassesConfidentClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesLaughClose" src="10_25_ShigureKiraSunGlassesLaughClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffSmileClose" src="10_25_ShigureKiraSunGlassesOffSmileClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffConfidentClose" src="10_25_ShigureKiraSunGlassesOffConfidentClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffThinkClose" src="10_25_ShigureKiraSunGlassesOffThinkClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffSunshineClose" src="10_25_ShigureKiraSunGlassesOffSunshineClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffColdClose" src="10_25_ShigureKiraSunGlassesOffColdClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffTalkingClose" src="10_25_ShigureKiraSunGlassesOffTalkingClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesOffShockClose" src="10_25_ShigureKiraSunGlassesOffShockClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesThinkClose" src="10_25_ShigureKiraSunGlassesThinkClose.png"/>
-        <character name="Shigure Kira" color="#82f1ff" id="ShigureKiraSunGlassesSmileClose" src="10_25_ShigureKiraSunGlassesSmileClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="_ShigureKira" src=""/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNShockClose" src="x_ShigureKiraVNShockClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNNormalClose" src="x_ShigureKiraVNNormalClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNTalkClose" src="x_ShigureKiraVNTalkClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNThinkClose" src="x_ShigureKiraVNThinkClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNSadClose" src="x_ShigureKiraVNSadClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNSeriousClose" src="x_ShigureKiraVNSeriousClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSingingCloseEyeFar" src="09_12_ShigureKiraSingingCloseEyeFar.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSingingLyricalFar" src="09_12_ShigureKiraSingingLyricalFar.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSingingPassionFar" src="09_12_ShigureKiraSingingPassionFar.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraQuestionClose" src="10_11_ShigureKiraQuestionClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraAngryClose" src="10_11_ShigureKiraAngryClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSneerClose" src="10_11_ShigureKiraSneerClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraCuteFar" src="10_11_ShigureKiraCuteFar.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraCuteClose" src="10_11_ShigureKiraCuteClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraThinkClose" src="10_11_ShigureKiraThinkClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraConfidentClose" src="10_11_ShigureKiraConfidentClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesConfidentClose" src="10_25_ShigureKiraSunGlassesConfidentClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesLaughClose" src="10_25_ShigureKiraSunGlassesLaughClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffSmileClose" src="10_25_ShigureKiraSunGlassesOffSmileClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffConfidentClose" src="10_25_ShigureKiraSunGlassesOffConfidentClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffThinkClose" src="10_25_ShigureKiraSunGlassesOffThinkClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffSunshineClose" src="10_25_ShigureKiraSunGlassesOffSunshineClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffColdClose" src="10_25_ShigureKiraSunGlassesOffColdClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffTalkingClose" src="10_25_ShigureKiraSunGlassesOffTalkingClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffShockClose" src="10_25_ShigureKiraSunGlassesOffShockClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesThinkClose" src="10_25_ShigureKiraSunGlassesThinkClose.png"/>
+        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesSmileClose" src="10_25_ShigureKiraSunGlassesSmileClose.png"/>
         <character name="???" color="#c3df9c" id="_ThoreauNoName" src=""/>
-        <character name="Thoreau" color="#c3df9c" id="_Thoreau" src=""/>
-        <character name="Thoreau" color="#c3df9c" id="thorSmileCloseE" src="10_11_thorSmileCloseE.png"/>
-        <character name="Thoreau" color="#c3df9c" id="thorConfidentCloseE" src="10_11_thorConfidentCloseE.png"/>
-        <character name="Thoreau" color="#c3df9c" id="thorSmileClose" src="11_08_thorSmileClose.png"/>
-        <character name="Thoreau" color="#c3df9c" id="thorNormalClose" src="11_08_thorNormalClose.png"/>
-        <character name="Thoreau" color="#c3df9c" id="thorSighClose" src="11_08_thorSighClose.png"/>
-        <character name="Thoreau" color="#c3df9c" id="thorConfidentClose" src="11_08_thorConfidentClose.png"/>
-        <character name="Thoreau" color="#c3df9c" id="thorAngryClose" src="11_22_thorAngryClose.png"/>
+        <character name="Торо" color="#c3df9c" id="_Thoreau" src=""/>
+        <character name="Торо" color="#c3df9c" id="thorSmileCloseE" src="10_11_thorSmileCloseE.png"/>
+        <character name="Торо" color="#c3df9c" id="thorConfidentCloseE" src="10_11_thorConfidentCloseE.png"/>
+        <character name="Торо" color="#c3df9c" id="thorSmileClose" src="11_08_thorSmileClose.png"/>
+        <character name="Торо" color="#c3df9c" id="thorNormalClose" src="11_08_thorNormalClose.png"/>
+        <character name="Торо" color="#c3df9c" id="thorSighClose" src="11_08_thorSighClose.png"/>
+        <character name="Торо" color="#c3df9c" id="thorConfidentClose" src="11_08_thorConfidentClose.png"/>
+        <character name="Торо" color="#c3df9c" id="thorAngryClose" src="11_22_thorAngryClose.png"/>
         <character name="???" color="#dea1ff" id="_CaravaggioNoName" src=""/>
-        <character name="Caravaggio" color="#dea1ff" id="_Caravaggio" src=""/>
-        <character name="Another Messenger" color="#dea1ff" id="_CaravaggioVenice" src=""/>
-        <character name="Another Messenger" color="#dea1ff" id="GobboTalk" src="GobboTalk.png"/>
-        <character name="Another Messenger" color="#dea1ff" id="GobboSmile" src="GobboSmile.png"/>
-        <character name="Caravaggio" color="#dea1ff" id="caravaArrogantClose" src="11_08_caravaArrogantClose.png"/>
-        <character name="Caravaggio" color="#dea1ff" id="caravaFocusClose" src="11_08_caravaFocusClose.png"/>
-        <character name="Caravaggio" color="#dea1ff" id="caravaColdClose" src="11_08_caravaColdClose.png"/>
-        <character name="Caravaggio" color="#dea1ff" id="caravaSurpriseClose" src="11_08_caravaSurpriseClose.png"/>
-        <character name="Caravaggio" color="#dea1ff" id="caravaDisgustedClose" src="11_08_caravaDisgustedClose.png"/>
-        <character name="Yukimura" color="#fee0c6" id="_Yukimura" src=""/>
-        <character name="??? (Yukimura)" color="#fee0c6" id="_YukimuraVeniceNoName" src=""/>
-        <character name="Lorenzo" color="#fee0c6" id="_YukimuraVenice" src=""/>
-        <character name="Lorenzo" color="#fee0c6" id="LorenzoTender" src="LorenzoTender.png"/>
-        <character name="Lorenzo" color="#fee0c6" id="LorenzoVigilant" src="LorenzoVigilant.png"/>
-        <character name="Lorenzo" color="#fee0c6" id="LorenzoSurprised" src="LorenzoSurprised.png"/>
-        <character name="Lorenzo" color="#fee0c6" id="LorenzoHelpless" src="LorenzoHelpless.png"/>
-        <character name="Lorenzo" color="#fee0c6" id="LorenzoSmile" src="LorenzoSmile.png"/>
-        <character name="Lorenzo" color="#fee0c6" id="LorenzoHappy" src="LorenzoHappy.png"/>
-        <character name="Yukimura" color="#fee0c6" id="yukimuraTalkClose" src="11_22_yukimuraTalkClose.png"/>
-        <character name="Yukimura" color="#fee0c6" id="yukimuraColdClose" src="11_22_yukimuraColdClose.png"/>
-        <character name="Yukimura" color="#fee0c6" id="yukimuraSeriousClose" src="11_22_yukimuraSeriousClose.png"/>
-        <character name="Yukimura" color="#fee0c6" id="yukimuraSmileClose" src="11_22_yukimuraSmileClose.png"/>
+        <character name="Караваджо" color="#dea1ff" id="_Caravaggio" src=""/>
+        <character name="Другой посланник" color="#dea1ff" id="_CaravaggioVenice" src=""/>
+        <character name="Другой посланник" color="#dea1ff" id="GobboTalk" src="GobboTalk.png"/>
+        <character name="Другой посланник" color="#dea1ff" id="GobboSmile" src="GobboSmile.png"/>
+        <character name="Караваджо" color="#dea1ff" id="caravaArrogantClose" src="11_08_caravaArrogantClose.png"/>
+        <character name="Караваджо" color="#dea1ff" id="caravaFocusClose" src="11_08_caravaFocusClose.png"/>
+        <character name="Караваджо" color="#dea1ff" id="caravaColdClose" src="11_08_caravaColdClose.png"/>
+        <character name="Караваджо" color="#dea1ff" id="caravaSurpriseClose" src="11_08_caravaSurpriseClose.png"/>
+        <character name="Караваджо" color="#dea1ff" id="caravaDisgustedClose" src="11_08_caravaDisgustedClose.png"/>
+        <character name="Юкимура" color="#fee0c6" id="_Yukimura" src=""/>
+        <character name="??? (Юкимура)" color="#fee0c6" id="_YukimuraVeniceNoName" src=""/>
+        <character name="Лорензо" color="#fee0c6" id="_YukimuraVenice" src=""/>
+        <character name="Лорензо" color="#fee0c6" id="LorenzoTender" src="LorenzoTender.png"/>
+        <character name="Лорензо" color="#fee0c6" id="LorenzoVigilant" src="LorenzoVigilant.png"/>
+        <character name="Лорензо" color="#fee0c6" id="LorenzoSurprised" src="LorenzoSurprised.png"/>
+        <character name="Лорензо" color="#fee0c6" id="LorenzoHelpless" src="LorenzoHelpless.png"/>
+        <character name="Лорензо" color="#fee0c6" id="LorenzoSmile" src="LorenzoSmile.png"/>
+        <character name="Лорензо" color="#fee0c6" id="LorenzoHappy" src="LorenzoHappy.png"/>
+        <character name="Юкимура" color="#fee0c6" id="yukimuraTalkClose" src="11_22_yukimuraTalkClose.png"/>
+        <character name="Юкимура" color="#fee0c6" id="yukimuraColdClose" src="11_22_yukimuraColdClose.png"/>
+        <character name="Юкимура" color="#fee0c6" id="yukimuraSeriousClose" src="11_22_yukimuraSeriousClose.png"/>
+        <character name="Юкимура" color="#fee0c6" id="yukimuraSmileClose" src="11_22_yukimuraSmileClose.png"/>
     </characters>
 </root>
 
