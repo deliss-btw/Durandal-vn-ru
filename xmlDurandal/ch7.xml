@@ -9,86 +9,86 @@
         <scene id="10" background="jailCell.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <text>В отчаяньи, Джими Ватт начал вспоминать, что просиходило с ним до того, как он потерял сознание.</text>
-            <text>I was in the Great Library when I passed out... Next thing I knew I was already inside this prison cell.</text>
-            <text>The door is locked and no one is answering to my screams.</text>
-            <text>Bianka... Captain Shakespeare... Director Thales...</text>
-            <text>I can only fantasize about someone coming to my rescue.</text>
+            <text>Я был в Великой Библиотеке, когда потерял сознание... Следующее, что я узнал - то, что нахожусь в тюремной камере.</text>
+            <text>Дверь заперта и никто не отвечает на мои крики.</text>
+            <text>Бьянка... Капитан Шекспир... Директор Фалес...</text>
+            <text>Я могу лишь мечтать о том, что кто-то спасет меня.</text>
             <sound src="02_03_highheels.mp3"/>
-            <text>...Are those footsteps?</text>
+            <text>...Эти шаги?</text>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="black">
             <bgm src="01_18_horror.mp3" status="stop"></bgm>
-            <text>I put my ear on the door. The footsteps stopped right in front of the door.</text>
+            <text>Я прислонил ухо к двери. Шаги прервались прямо перед ней.</text>
             <sound src="02_03_key.mp3"/>
-            <text>Someone inserted a key. The door is opening.</text>
+            <text>Кто-то вставил ключ. Дверь открывается.</text>
             <goto goto="30" change="#ffffff"/>
         </scene>
         <scene id="30" background="jailCell.jpg">
             <bgm src="12_14_fadeAway.mp3" status="start"></bgm>
             <sound src="02_03_door.mp3"/>
             <show chara="AliceStandBlackClose" position="center"/>
-            <speak chara="_AliceNoName">Scholar-sama, I'm very sorry for the trouble I've caused you.</speak>
-            <speak chara="_Watt">U-Umm... who are you...?</speak>
-            <speak chara="_AliceNoName">...My apologies for the late introduction.</speak>
-            <speak chara="_AliceNoName">My name is Alice. Right now... I am in charge of this facility.</speak>
-            <speak chara="_Alice">Come this way. We can talk as we walk.</speak>
+            <speak chara="_AliceNoName">Господин-ученый, Приношу глубочайшие извинения за проблемы, что причинил вам.</speak>
+            <speak chara="_Watt">Ммм-ммм... Кто вы...?</speak>
+            <speak chara="_AliceNoName">...Приношу извинения за столь позднее знакомство.</speak>
+            <speak chara="_AliceNoName">Меня зовут Алиса. Сейчас... Я отвечаю за этот объект.</speak>
+            <speak chara="_Alice">Пойдемте. Мы можем говорить, пока идем.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="jailBridge.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">...This facility belonged to a certain Professor.</speak>
+            <speak chara="_Alice">...Этот объект принадлежал некоему Профессору.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">The Professor was a peculiar person. He not only was a recluse—— His way of thinking was completely different from everyone else in the city.</speak>
-            <speak chara="_Alice">The people of the city not only were against his plans for social development, but they also thought his ideas were too dangerous and exiled him from the city.</speak>
+            <speak chara="_Alice">Профессор был своебразной личностью. Он не был лишь затворником —— Его стиль мышления был абсолютно иным относительно других жителей.</speak>
+            <speak chara="_Alice">Жителям претили не только его планы касательно социального управления, кроме того, они думали, что он был опасен и изгнали его из города.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">...But even so, the Professor didn't give up.</speak>
+            <speak chara="_Alice">...Но даже так, Профессор не сдался.</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">Using his vast knowledge, he began trading with people from outside the city, built this facility from nothing and lived a self-sufficient life.</speak>
+            <speak chara="_Alice">Используя свои обширные знания, он начал торговать с людьми будучи не в городе, построил это учреждение и жил самодостаточной жизнью.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">All to make an existence like me.</speak>
-            <speak chara="_Watt">To 「make you」?</speak>
+            <speak chara="_Alice">Все, чтобы создать сущность вроде меня.</speak>
+            <speak chara="_Watt">「Создать вас」?</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice">...Yes.</speak>
+            <speak chara="_Alice">...Да.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">This might be hard to believe but...</speak>
+            <speak chara="_Alice">В это сложно поверить, но...</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">I am... not human.</speak>
-            <speak chara="_Watt">...Literally? Not in a metaphorical sense?</speak>
+            <speak chara="_Alice">Я... не человек.</speak>
+            <speak chara="_Watt">...Действительно? Не в переносном смысле?</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">Yes. Please don't be startled.</speak>
+            <speak chara="_Alice">Да. Прошу, не пугайтесь.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">It's not my intention to deceive you. I'm 「Unit 4」, a machine made by the Professor.</speak>
+            <speak chara="_Alice">Я не намереваюсь лгать вам. Я「Звено 4 (или "Единица")」, машина, созданная Профессором.</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">The 「Alice」 in front of you is one of many interfaces of that machine.</speak>
+            <speak chara="_Alice">The 「Alice」 Перед вами один из множества интерфейсов этой машины.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">...One resembling the human body.</speak>
+            <speak chara="_Alice">...Есдинственный, напоминающий человека.</speak>
             <speak chara="_Watt">.....</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">...I understand you might not believe me right away.</speak>
+            <speak chara="_Alice">...Я понимаю, что вы не можете поверить мне сейчас.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">But this is... just the beginning of my story.</speak>
+            <speak chara="_Alice">Но это лишь.. начало моей истории.</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice">I'd like to answer all your questions right away...</speak>
+            <speak chara="_Alice">Я бы жилала ответить на все ваши вопросы прямо сейчас...</speak>
             <show chara="" position="center"/>
-            <speak chara="_Alice">But before that... before you see a certain something... I want you to be mentally prepared.</speak>
-            <speak chara="_Watt">...M-Mentally prepared?</speak>
-            <speak chara="_Watt">W-Where are you taking me?</speak>
+            <speak chara="_Alice">Но перед этим... перед тем как вы увидите нечто... Я хочу, чтобы вы морально подготовились.</speak>
+            <speak chara="_Watt">...М-морально?</speak>
+            <speak chara="_Watt">К-куда вы меня ведете?</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">The place the Professor is the most proud of.</speak>
+            <speak chara="_Alice">В место, коим Профессор гордился больше всего.</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">The place where my 「brain」 is.</speak>
-            <speak chara="_Watt">...Your... brain...</speak>
+            <speak chara="_Alice">Место, где находится мой 「мозг」 is.</speak>
+            <speak chara="_Watt">...Ваш... мозг...</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">The Professor's assistants brought two other scholars here besides you, but the moment they saw 「that」 they refused to help them.</speak>
+            <speak chara="_Alice">Ассистенты Профессора доставили сюда двух других ученых до вас, но в момент, когда они увиделиw 「это」 они отказали в помощи.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">One didn't want to hear the rest and tried to escape.</speak>
+            <speak chara="_Alice">Один не пожелал слушать до конца и попытался бежать.</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice">The other one shut down and began praying nonstop.</speak>
+            <speak chara="_Alice">Другой ушел в себя и начал безостановочно молиться.</speak>
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">.....</speak>
-            <speak chara="_Alice">And now they're all dead.</speak>
+            <speak chara="_Alice">И теперь они оба мертвы.</speak>
             <speak chara="_Watt">D-Dead...?</speak>
             <show chara="AliceDeterminedFar" position="center"/>
             <speak chara="_Alice">Yes. You're Alice's last hope.</speak>
