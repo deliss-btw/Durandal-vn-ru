@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-    <story>
+    <story> 
         <scene id="0" background="dashboard.jpg">
             <bgm src="morning.mp3" status="start"></bgm>
             <text>5 часов утра.</text>
