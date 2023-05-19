@@ -8,7 +8,7 @@
         </scene>
         <scene id="10" background="jailCell.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
-            <text>As he despaired, Jimmy Watt began to remember what happened moments before he lost consciousness.</text>
+            <text>В отчаяньи, Джими Ватт начал вспоминать, что просиходило с ним до того, как он потерял сознание.</text>
             <text>I was in the Great Library when I passed out... Next thing I knew I was already inside this prison cell.</text>
             <text>The door is locked and no one is answering to my screams.</text>
             <text>Bianka... Captain Shakespeare... Director Thales...</text>
