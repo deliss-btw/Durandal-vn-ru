@@ -87,40 +87,40 @@
             <show chara="AliceBitterFar" position="center"/>
             <speak chara="_Alice">Другой ушел в себя и начал безостановочно молиться.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">.....</speak>
+            <speak chara="_Alice">...</speak>
             <speak chara="_Alice">И теперь они оба мертвы.</speak>
-            <speak chara="_Watt">D-Dead...?</speak>
+            <speak chara="_Watt">М-мертвы...?</speak>
             <show chara="AliceDeterminedFar" position="center"/>
-            <speak chara="_Alice">Yes. You're Alice's last hope.</speak>
-            <speak chara="_Watt">W-What do you all want from me...</speak>
+            <speak chara="_Alice">Да. Вы - последняя надежда Алисы.</speak>
+            <speak chara="_Watt">Ч-что вам всем от меня нужно...</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">You're mistaken.</speak>
+            <speak chara="_Alice">Вы ошиблись.</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice">There is no 「we」 anymore.</speak>
+            <speak chara="_Alice"Нет никаких 「мы」 более.</speak>
             <speak chara="_Watt">...?</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">Only you and me are left.</speak>
+            <speak chara="_Alice">Остались лишь вы и я.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">The Professor, his assistants and the scholars they kidnapped, they're all dead.</speak>
+            <speak chara="_Alice">Профессор, его ассистенты и ученые похищены, они все мертвы.</speak>
             <speak chara="_Watt">...!</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">The first death happened approximately 50 hours ago——</speak>
-            <speak chara="_Alice">The Professor... worked for 20 hours straight and suddenly collapsed.</speak>
+            <speak chara="_Alice">Первая смерть произошла приблизительно 50 часов назад——</speak>
+            <speak chara="_Alice">Профессор... работал 20 часов не прерываяси и неожиданно рухнул без чувств.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">His assistants tried to perform 「first aid」 on him but alas, it was all for nothing...</speak>
-            <speak chara="_Alice">By the time I got to him...</speak>
+            <speak chara="_Alice">Его ассистенты пытались оказать ему「первую помощь」, но, увы, это было без толку...</speak>
+            <speak chara="_Alice">К моменту. когда я оказалась рядом...</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">...He had passed away.</speak>
+            <speak chara="_Alice">...Он покинул нас.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">Having lost the Professor, the assistants kidnapped you and two other scholars to keep working on me.</speak>
+            <speak chara="_Alice">Потеряв Профессора, ассистенты похитили вас и еще двух ученых, чтобы продолжать работу со мной.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">Like I mentioned earlier, there was a disagreement between the scholars and the assistants...</speak>
+            <speak chara="_Alice">Как я заметила ранее, было разногласие между ассистентами и учеными...</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice">And now I'm the only one left...</speak>
+            <speak chara="_Alice">И теперь, остался лишь я...</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">Fortunately for you, you were still sleeping in your cell when it happened.</speak>
-            <speak chara="_Watt">U-Um... You can call me Jimmy.</speak>
-            <speak chara="_Alice">Jimmy-sama. You're Alice's only hope for salvation.</speak>
+            <speak chara="_Alice">К счастью для вас, вы все еще спали в своей камере, когда это произошло.</speak>
+            <speak chara="_Watt">Эмм... Вы можете звать меня Джимми.</speak>
+            <speak chara="_Alice">Господин Джимми. Вы - единственная надежда Алисы на спасение.</speak>
             <speak chara="_Watt">.....</speak>
             <speak chara="_Watt">W-What do you want me to do?</speak>
             <show chara="AliceSilentFar" position="center"/>
