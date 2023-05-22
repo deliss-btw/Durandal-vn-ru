@@ -122,24 +122,24 @@
             <speak chara="_Watt">Эмм... Вы можете звать меня Джимми.</speak>
             <speak chara="_Alice">Господин Джимми. Вы - единственная надежда Алисы на спасение.</speak>
             <speak chara="_Watt">.....</speak>
-            <speak chara="_Watt">W-What do you want me to do?</speak>
+            <speak chara="_Watt">Ч-что вам от меня нужно?</speak>
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">.....</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">Take the stairs to the right.</speak>
+            <speak chara="_Alice">Поднимитесь по лестнице направо.</speak>
             <show chara="AliceDeterminedFar" position="center"/>
-            <speak chara="_Alice">...We'll be there shortly.</speak>
+            <speak chara="_Alice">...Мы доберемся тyда быстрее.</speak>
             <goto goto="50" change="#000000"/>
         </scene>
         <scene id="50" background="CG7-1-1.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
-            <text>After I climbed the stairs I saw a door with no special features.</text>
-            <text>Alice put her hand on the door. It seemed to tremble a little.</text>
-            <speak chara="_Alice">Once this door is open...</speak>
-            <speak chara="_Alice">I hope you can remain calm and collected.</speak>
-            <speak chara="_Alice">No matter how unethical this experiment was——</speak>
-            <speak chara="_Alice">The life that was born from it...</speak>
-            <speak chara="_Alice">Wants to live...</speak>
+            <text>После того как я взобрался по лестнице, я увидел дверь ничем не примечательную дверь.</text>
+            <text>Алиса положила свою руку на дверь. Кажется, она немного задрожала.</text>
+            <speak chara="_Alice">Когда откроется эта дверь...</speak>
+            <speak chara="_Alice">Я надеюсь, ты останешься спокойным и собранным.</speak>
+            <speak chara="_Alice">Вне зависимости от  того, сколь неэтичным был эксперимент——</speak>
+            <speak chara="_Alice">Создание, им порожденное...</speak>
+            <speak chara="_Alice">Хочет жить...</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="CG7-1-2.jpg">
@@ -151,21 +151,21 @@
         <scene id="70" background="jailComputerRoom.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">T-This is...</speak>
+            <speak chara="_Watt">Э-это...</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="AliceDeterminedClose" position="right"/>
-            <speak chara="_Alice">...My central thinking processor.</speak>
+            <speak chara="_Alice">...Мой центральный процессор.</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">I lack the necessary permissions to view documents related to my own maintenance. Without the Professor I had no choice but to search for someone who can learn them to have them teach them to me.</speak>
+            <speak chara="_Alice">Я не имею допуска к документам, относящимся к моему обслуживанию. Без Профессора мне не оставалось ничего. кроме как найти того, кто сможет изучить эти документы и передать мне эти знания.</speak>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">To be precise, I don't need to know how. I just...</speak>
+            <speak chara="_Alice">Точнее, Мне не нужно знать "как". Я лишь...</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">I just need to receive regular maintenance.</speak>
-            <speak chara="_Alice">Because if I don't, I... will stop functioning in 200 hours.</speak>
+            <speak chara="_Alice">Я лишь нуждаюсь в регулярном техническом обслуживании.</speak>
+            <speak chara="_Alice">Потому что если нет, то Я... прекращу функционировать через 200 часов.</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">G-Give me a moment to organize my thoughts...</speak>
-            <speak chara="_Watt">Basically, you are... a machine capable of thought, and this is your brain?</speak>
+            <speak chara="_Watt">Д-дай мне время собраться с мыслями...</speak>
+            <speak chara="_Watt">В принципе, ты...машина, способная мыслить, а это - твой мозг?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceDeclineClose" position="right"/>
             <speak chara="_Alice">...Yes. That would be the simpler version of it.</speak>
