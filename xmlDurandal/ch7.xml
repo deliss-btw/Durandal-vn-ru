@@ -168,34 +168,34 @@
             <speak chara="_Watt">В принципе, ты...машина, способная мыслить, а это - твой мозг?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">...Yes. That would be the simpler version of it.</speak>
+            <speak chara="_Alice">...Да. Это будет самым простым объяснением.</speak>
             <show chara="AliceDeclineClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">And... your 「brain」 needs maintenance at regular intervals, just like how the human brain need rest?</speak>
+            <speak chara="_Watt">И... твой 「мозг」 нуждается в периодическом обслуживании, так же как людской в отдыхе?</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="AliceCalmClose" position="right"/>
-            <speak chara="_Alice">Yes.</speak>
+            <speak chara="_Alice">Да.</speak>
             <show chara="AliceCalmClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">The Professor who made you wanted 「full control」 of your actions...</speak>
-            <speak chara="_Watt">So he didn't give you the necessary permissions to view maintenance related documents, which resulted in you not being able to perform maintenance on yourself.</speak>
+            <speak chara="_Watt">Профессор который тебя создал, желал 「полного контроля」 над твоими действиями...</speak>
+            <speak chara="_Watt">Так он не выдал тебе необходимых разрешений для просмотра нужных документов, В результате чего ты не имеешь возможности самостоятельно себя обслуживать.</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="AliceDeterminedClose" position="right"/>
-            <speak chara="_Alice">Yes.</speak>
+            <speak chara="_Alice">Да.</speak>
             <show chara="AliceDeterminedClose" position="right" opacity="0.8"/>
             <show chara="wattSadClose" position="left"/>
-            <speak chara="_Watt">...T-That's strange. Why would he do that?</speak>
+            <speak chara="_Watt">...Э-это странно. Почему он сделал так?</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">...I don't know.</speak>
+            <speak chara="_Alice">...Я не знаю.</speak>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">I think that maybe, the Professor wanted the means to control me in case of emergency.</speak>
+            <speak chara="_Alice">Я думаю, это потому что, Профессор хотел контролировать меня в экстренной ситуации.</speak>
             <show chara="AliceDeclineClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">E-Emergency? Why would there be one?</speak>
+            <speak chara="_Watt">Э-экстренной? Почему так должно быть?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceBitterClose" position="right"/>
-            <speak chara="_Alice">...Because I'm not a 「pure」 machine.</speak>
+            <speak chara="_Alice">...Потому что я не  「чистая」 машина.</speak>
             <show chara="AliceBitterClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
             <speak chara="_Watt">...?</speak>
@@ -203,46 +203,46 @@
             <show chara="AliceSilentClose" position="right"/>
             <speak chara="_Alice">.....</speak>
             <show chara="AliceBitterClose" position="right"/>
-            <speak chara="_Alice">Those cabinets near the wall—— You are thinking there are complex electronic circuits inside them, don't you?</speak>
+            <speak chara="_Alice">Эти кабинеты вдоль стены —— Ты думаешь, что внутри них коммлекс электронных схем, не так ли?</speak>
             <show chara="AliceBitterClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Y-You said you were a 「machine」, so it would be natural to think that.</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">I call myself a 「machine」 due to 「lack of a better word」.</speak>
+            <speak chara="_Alice">Я зову себя 「машиной」 за 「неимением лучшего слова」.</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">...What do you mean by that?</speak>
+            <speak chara="_Watt">...Что ты имеешь в виду?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">If I were to make up a word that could properly convey what I am, that would be——</speak>
+            <speak chara="_Alice">Если бы я могла придумать лучшее объяснение, это было бы——</speak>
             <show chara="AliceCalmClose" position="right"/>
-            <speak chara="_Alice">——「Brain Engine」.</speak>
+            <speak chara="_Alice">——「Мозговой Двигатель」.</speak>
             <show chara="AliceCalmClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
             <speak chara="_Watt">...!</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">I'm 「Unit 4」.</speak>
+            <speak chara="_Alice">Я 「Звено 4」.</speak>
             <show chara="AliceCalmClose" position="right"/>
-            <speak chara="_Alice">Unit 1 was a simple computer. Unit 2 was given artificially made neurons. Unit 3 used the brain of an octopus, and——</speak>
+            <speak chara="_Alice">Звено 1 было простым компьютером. Звено 2 было наделено искусственными нейронами. Звень 3 использовало мозг осьминога, и——</speak>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">——I am a 「Hybrid Super Bio Computer」, and the reason he was exiled from the city.</speak>
+            <speak chara="_Alice">——Я 「Гибридный Био Суперкомпьютер」, и причина, почему он был изгнан из города.</speak>
             <show chara="AliceDeclineClose" position="right" opacity="0.8"/>
             <show chara="wattSadClose" position="left"/>
             <speak chara="_Watt">.....</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceDeterminedClose" position="right"/>
-            <speak chara="_Alice">I believe that to get your help, I must confront this inescapable 「sin」.</speak>
+            <speak chara="_Alice">Я считаю, что получив вашу помощь, Я неизбежно должна это преодолеть 「sin」.</speak>
             <hide position="right"></hide>
             <hide position="left"></hide>
-            <text>The girl's slender finger pointed at a metal box.</text>
-            <text>I can feel the tension in the air.</text>
-            <text>If I open that box, I feel like something inside me... will immediately shatter, as if it were a glass vase falling to the ground.</text>
-            <text>In that moment, I realized——</text>
-            <text>I am nothing but a 「gel-like something」 that exists inside a container called skull.</text>
-            <text>「I think, therefore I am」</text>
-            <text>The true nature of an individual who posses 「I」 lies in the psyche, and it fundamentally rejects any non-aesthetic 「impurities」.</text>
+            <text>Тонкий девичий палец указал на металлическую коробку.</text>
+            <text>Я могу чувствовать напряжение воздуха.</text>
+            <text>Если я открою эту коробку, я чувствую, что что-то внутри меня будто бы... немедленно разрушится, как если бы это была стеклянная ваза, упавшая на землю.</text>
+            <text>В тот момент, Я поняла——</text>
+            <text>Я не более чем 「желеподобное нечто」 которое существует внутри контейнера, именуемого черепом.</text>
+            <text>「Я мысслю, следовательно существую」</text>
+            <text>Истинная природа человека, обладающего 「Я」 лежит в душе, и это фундаментально отвергает все неэстетичное 「impurities」.</text>
             <text>Paradoxically, 「aesthetic」 is something that only exists thanks to the impurities of other individuals.</text>
             <text>It's impossible for humans to completely detach themselves from their own objectivity and subjectivity.</text>
             <text>For starters, our soul is the result of a neurotransmitter and feeble electric currents working as intended.</text>
