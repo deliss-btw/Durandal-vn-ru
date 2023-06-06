@@ -253,25 +253,25 @@
             <text>Я случайно прикоснулся к ее холодным кончикам пальцев. Ее пальцы быстро втянулись сразу после прикосновения.</text>
             <text>В этот момент хрупкая 「стеклянная ваза」 внутни меня исчезла. Без колебаний я повернул ключ и открыл коробку.</text>
             <text article="1">
-                <p class="article-text">In the center of the culture tank, which was connected to various electronic devices, there was a 「gel-like something」. I'm sure it used to be the body part of a living being, however for someone like me who doesn't have the necessary biological knowledge I can't even start guessing to which creature it belonged to.</p>
+                <p class="article-text">В центре емкости с культурой, которая была соединена с различными электронными устройствами, было 「желеподобное нечто」. Я уверен, оно было частью чего-то живого,однако, для кого-то вроде меня кто не обладает должными познаниями в биологии, Я не мог даже и предположить о том, кому же оно принадлежало.</p>
                 <p class="article-text"></p>
             </text>
             <text article="1">
-                <p class="article-text">The inside of the culture tank was dim, and an orange light was flashing from the vacuum tubes.</p>
-                <p class="article-text">I tried putting my palm on the surface of the culture tank. It felt warm, no different than how a normal person would feel, unlike her cold fingertips.</p>
+                <p class="article-text">Внутри емкости был тусклый, и оранжевый свет исходящий от вакуумных трубок.</p>
+                <p class="article-text">Я попробовал положить мою ладно на поверхность ёмкости. Она была теплой, без разницы, как нормальный человек может ее ощутить, но не ее холодные пальцы.</p>
             </text>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">I'll be honest with you. I thought I could force you to perform maintenance like the Professor's assistants wanted.</speak>
+            <speak chara="_Alice">Буду честной с тобой. Я думала, я смогла бы заставить тебя осуществить техническое обслуживание, как и хотели ассистенты Профессора.</speak>
             <show chara="AliceDeterminedClose" position="right"/>
-            <speak chara="_Alice">——But that's not the right thing to do. I don't want to commit any more sins.</speak>
+            <speak chara="_Alice">——Но это неправильно. Я не хочу больше брать на себя грех.</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Actually, I like...</speak>
+            <speak chara="_Alice">Actually, Я...</speak>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">I'm sorry, I got distracted by thinking about unimportant things.</speak>
-            <text>She took a bunch of keys from a pocket in her skirt and gave them to me.</text>
+            <speak chara="_Alice">Извини, Я сбилась, думая о ненужных вещах.</speak>
+            <text>Она достала из кармана юбки связку ключей и передала мне.</text>
             <show chara="AliceThinkClose" position="right"/>
-            <speak chara="_Alice">These keys will open all doors in the facility. How to proceed... is up to you, Jimmy-sama.</speak>
+            <speak chara="_Alice">Эти ключи откроют все двери в объекте. Как продолжить... заваисит от вас, Господин Джимми.</speak>
             <show chara="AliceSmileClose" position="right"/>
             <speak chara="_Alice">I'll make sure to return you to the surface, to the world where you belong. I promise you.</speak>
             <show chara="AliceDeclineClose" position="right"/>
