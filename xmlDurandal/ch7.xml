@@ -273,78 +273,78 @@
             <show chara="AliceThinkClose" position="right"/>
             <speak chara="_Alice">Эти ключи откроют все двери в объекте. Как продолжить... заваисит от вас, Господин Джимми.</speak>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">I'll make sure to return you to the surface, to the world where you belong. I promise you.</speak>
+            <speak chara="_Alice">Я обязательно верну тебя на поверхность - в мир, которому ты принадлежишь, я обещаю.</speak>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">Even if you think of my existence as heretic, as something that shouldn't exist... I——</speak>
+            <speak chara="_Alice">даже если ты думаешь о моем существовании, как о ереси. что не должна существовать... I——</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG7-2.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <speak chara="_Watt">D-Don't say that!</speak>
-            <speak chara="_Watt">The Professor and his assistants might had done bad things... b-but you haven't done anything wrong, Alice!</speak>
+            <speak chara="_Watt">Профессор и его ассистенты делали плохие вещи... н-но ты не сделала ничего плохого, Алиса!</speak>
             <speak chara="_Alice">...!</speak>
-            <speak chara="_Alice">But... you don't... know anything about me...</speak>
+            <speak chara="_Alice">Но... ты не... знаешь ничего обо мне...</speak>
             <speak chara="_Watt">.....</speak>
-            <speak chara="_Watt">T-This might sound dumb.</speak>
-            <speak chara="_Watt">But——</speak>
-            <speak chara="_Watt">——Wanting to live is not wrong!</speak>
-            <speak chara="_Watt">You're not a normal person like me, which is why...</speak>
-            <speak chara="_Watt">I can't forgive those who tried to use you and abandoned you!</speak>
+            <speak chara="_Watt">это возможно прозвучит глупо.</speak>
+            <speak chara="_Watt">Но——</speak>
+            <speak chara="_Watt">——Желание жить это не отклонение!</speak>
+            <speak chara="_Watt">Ты не обычный человек, вроде меня, поэтому...</speak>
+            <speak chara="_Watt">Я не мсогу простить тех, кто бросил и пытался использовать тебя!</speak>
             <speak chara="_Alice">...!!</speak>
-            <speak chara="_Alice">I-I...</speak>
-            <speak chara="_Watt">...Though I have a place to return,</speak>
-            <speak chara="_Watt">...I was forced to come here,</speak>
-            <speak chara="_Watt">...And I don't know anything about you,</speak>
-            <speak chara="_Watt">As an engineer——</speak>
-            <speak chara="_Watt">No, as a person——</speak>
-            <speak chara="_Watt">——I can't let you die!</speak>
-            <speak chara="_Alice">...Jimmy...-sama...</speak>
-            <speak chara="_Watt">Alice, your life won't end in 200 hours.</speak>
-            <speak chara="_Watt">I swear it!</speak>
+            <speak chara="_Alice">Я...</speak>
+            <speak chara="_Watt">...Хотя мне есть куда вернуться,</speak>
+            <speak chara="_Watt">...Я был вынужден явиться сюда,</speak>
+            <speak chara="_Watt">...И ничего о тебе не знаю,</speak>
+            <speak chara="_Watt">Как инженер——</speak>
+            <speak chara="_Watt">Нет, как личность——</speak>
+            <speak chara="_Watt">——Я не могу позволить тебе умереть!</speak>
+            <speak chara="_Alice">...Г-господин...Джимми...</speak>
+            <speak chara="_Watt">Алиса, твоя жизнь не прервется через 200 часов.</speak>
+            <speak chara="_Watt">Клянусь!</speak>
             <goto goto="90" clockwise="1"/>
         </scene>
         <scene id="90" background="alexandriaCityHall.jpg">
             <bgm src="bigTask.mp3" status="start"></bgm>
             <text>At the same time——</text>
             <show chara="neithSmileFar" position="center"/>
-            <speak chara="_Neith">Right at the next intersection!</speak>
+            <speak chara="_Neith">Направо на следующем перекрестке!</speak>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="alexandriaFair.jpg">
             <bgm src="bigTask.mp3" status="continue"></bgm>
             <show chara="neithLaughFar" position="center"/>
-            <speak chara="_Neith">Straight and then left!</speak>
+            <speak chara="_Neith">Прямо и налево!</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="alexandriaSlum.jpg">
             <bgm src="bigTask.mp3" status="continue"></bgm>
             <show chara="neithComplainFar" position="center"/>
-            <speak chara="_Neith">Run past the slums! We're not there yet! Keep going!</speak>
+            <speak chara="_Neith">Пройти через трущобы! Мы еще не прибыли! Продолжай идти!</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="alexandriaWild.jpg">
             <bgm src="bigTask.mp3" status="continue"></bgm>
             <show chara="neithSmileFar" position="center"/>
-            <speak chara="_Neith">This way!</speak>
+            <speak chara="_Neith">Сюда!</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="alexandriaOasis.jpg">
             <bgm src="bigTask.mp3" status="continue"></bgm>
             <show chara="neithLaughFar" position="center"/>
-            <speak chara="_Neith">Forward! Keep going!</speak>
+            <speak chara="_Neith">Вперед! Продолжай идти!</speak>
             <hide position="center"></hide>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">Aren't we—— In the outskirts of the city?</speak>
+            <speak chara="_Bianka">Мы на окраинах города... не так ли?</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">You can trust Neith's nose. Also...</speak>
+            <speak chara="_Champollion">Ты можешь доверять нюху Нейт. к тому же...</speak>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">This bit of sunken sand is characteristic of a three wheeled robot. When their tires go over the sand they leave marks like this one.</speak>
+            <speak chara="_Champollion">Этот участок с примятым песком - признак трехколесного робота. Когда их покрышки проходятся по песку, то оставляют такие следы.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">I see—— These traces tell us we're on the right track.</speak>
+            <speak chara="_Bianka">IЯ вижу... Эти следы указывают нам то, что мы на верном пути.</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Neith, I'm correct to think these tire tracks will guide us to where Jimmy was taken?</speak>
+            <speak chara="_Bianka">Нейт, верны ли мои мысли, что эти следы ведут нас туда, куда овезли Джимми?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="neithSeriousClose" position="right"/>
             <speak chara="_Neith">(sniff)</speak>
