@@ -347,60 +347,60 @@
             <speak chara="_Bianka">Нейт, верны ли мои мысли, что эти следы ведут нас туда, куда овезли Джимми?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="neithSeriousClose" position="right"/>
-            <speak chara="_Neith">(sniff)</speak>
+            <speak chara="_Neith">(нюх)</speak>
             <show chara="neithLaughClose" position="right"/>
-            <speak chara="_Neith">Yeah, it's okay if you follow them!</speak>
+            <speak chara="_Neith">Ага, это номально, если вы будете следовать за ними!</speak>
             <show chara="neithLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">Great!</speak>
+            <speak chara="_Bianka">Здорово!</speak>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Kidnappers, say your prayers！</speak>
+            <speak chara="_Bianka">Молитесь, похитители！</speak>
             <goto goto="140" clockwise="1"/>
         </scene>
         <scene id="140" background="lakeSulfur.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Woah—— This smell! W-What is this!?</speak>
+            <speak chara="_Bianka">Оааа—— Этот запах! Ч-что это!?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">...It's a sulfur lake. They're made by volcanic activity.</speak>
+            <speak chara="_Champollion">...Это озеро из серы. Они - результат вулканической активности.</speak>
             <show chara="champoDisgustedClose" position="right"/>
-            <speak chara="_Champollion">Tch. This is bad news.</speak>
+            <speak chara="_Champollion">Тсч. Это плохо.</speak>
             <show chara="champoDisgustedClose" position="right" opacity="0.8"/>
             <show chara="neithComplainClose" position="left"/>
-            <speak chara="_Neith">Professor! The smell is too strong I can't keep going!</speak>
+            <speak chara="_Neith">Профессор! Этот запах такой сильный, я не могу идти дальше!</speak>
             <show chara="neithComplainClose" position="left" opacity="0.8"/>
             <show chara="champoDisgustedClose" position="right"/>
-            <speak chara="_Champollion">Yes, I know. This smell of rotten eggs...</speak>
+            <speak chara="_Champollion">Да, знаю. Запах тухлых яиц...</speak>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">A large amount of hydrogen sulfide is coming out of the sulfur lake. Hydrogen sulfide is a toxic gas, and when the concentration is too high you stop smelling it. We can't advance recklessly.</speak>
+            <speak chara="_Champollion">Огромное количество сероводорода исходит из этого озера. Сероводород токсичен и когда его концентрация превышает допустимую, ты перестаешь его чувствовать. Мы не можем безрассудно идти вперед.</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="left"/>
-            <speak chara="_Bianka">Then...</speak>
+            <speak chara="_Bianka">Тогда...</speak>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">How did the kidnappers get in there?</speak>
+            <speak chara="_Bianka">Как же похитители туда забрались?</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">I suppose they used gas masks or something similar.</speak>
+            <speak chara="_Champollion">Я полагаю, они использовали защитные маски или что-то подобное.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Look at this point. This part has sunk deeper compared to the tire tracks behind it. It must mean a robot was parked here for a while.</speak>
-            <speak chara="_Champollion">...Which means they prepared their equipment in this spot.</speak>
+            <speak chara="_Champollion">Погляди сюда. Эта часть просела сильнее, значит под ней были следы. Это значит, что робот был здесь когда-то.</speak>
+            <speak chara="_Champollion">...А значит, они подготовили всю экипировку здесь.</speak>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">Neith, go see the Curator and ask her for gas masks and oxygen tanks. Tell her to bring as many people as she can, we need to perform a throughout search. And this time—— Don't get distracted!</speak>
+            <speak chara="_Champollion"Нейт, сходи, проведай Куратора и попроси ее принести нужную экпировку и баллоны с кислородом. Скажи ей привести столь много людей, сколь возможно, нам нужно устроить полный обыск. И на сей раз - не отвлекайся!!</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="neithSmileClose" position="left"/>
-            <speak chara="_Neith">Got it!</speak>
+            <speak chara="_Neith">Поняла!</speak>
             <goto goto="150" change="#ffffff"/>
         </scene>
         <scene id="150" background="alexandriaOasis.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">What should we do in the meantime? Wait here?</speak>
+            <speak chara="_Bianka">Что мы должны делать в это время? Ждать здесь?</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">We'll rest, not wait.</speak>
+            <speak chara="_Champollion">Мы будем отдыхать - не ждать.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Knowing when to rest and wait for the right time to act is one of the keys to victory. By the way Valkyrie, have you ever taken part in a war?</speak>
+            <speak chara="_Champollion">Знать где отдыхать и ждать момента для действия - ключ к победе. Между тем, Валькирия, участвовала ли ты в войне?</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
