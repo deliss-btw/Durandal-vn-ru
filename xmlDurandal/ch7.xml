@@ -404,56 +404,56 @@
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">War? The kind where people kill each other? Valkyries fight to protect humanity, they're not mercenaries who fight for someone's self-interest!</speak>
+            <speak chara="_Bianka">Войне? Где люди убивают друг друга? Валькирии бьются во имя людей, они не наемники, кто воюет за деньги!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Haha, well said!</speak>
+            <speak chara="_Champollion">Хаха, отлично сказано!</speak>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">I envy your era... Most people must know how foolish war is.</speak>
+            <speak chara="_Champollion">Завидую твоей эпохе... Большинство не понимает, сколь глупа война.</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaHesitateClose" position="left"/>
             <speak chara="_Bianka">...?</speak>
             <show chara="biankaHesitateClose" position="left" opacity="0.8"/>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">War is glory to the uncivilized and shame to the civilized. You can't understand its cruelty without experiencing it yourself.</speak>
-            <speak chara="_Champollion">You can get angry, but in time you'll be happy again. You can get anxious, but in time you'll be calm again—— But countries destroyed and people killed will not come back.</speak>
+            <speak chara="_Champollion">Война есть слава для варваров и позор для цивилизованных. Тебе не понять жестокости войны, не пройдя ее.</speak>
+            <speak chara="_Champollion">Можешь злиться, но потом ты вновь обретешь счастье. Ты можешь тревожиться, но потом ты  вновь успокоишься —— Но руины и погибшие останутся таковыми.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Your ally today may be your enemy tomorrow. Your enemy today may be your ally tomorrow. Everyone fights for profit and nothing else.</speak>
+            <speak chara="_Champollion">Союзник сегодня, враг завтра. Враг сегодняшний может стать союзников завтра. Все сражаются лишь ради выгоды - ни для чего более.</speak>
             <show chara="champoNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Then you're right in being envious... Because us Valkyries don't fight for self-interest unlike many military leaders in history.</speak>
+            <speak chara="_Bianka">Тогда ты прав в зависти... Потому что мы, Валькирии, не сражаемся ради собственного интереса, как большинство военных, не можем.</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">...No, what you're saying is not possible.</speak>
+            <speak chara="_Champollion">...Но ты говоришь невозможное.(Все эти глаголы чувств в континиусе имеют иной смысл втч 'Saying' - нести чушь)(</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Hmph! What do you mean by that? Are you saying I'm wrong!?</speak>
+            <speak chara="_Bianka">Пффф! Что ты имеешь в виду? Говоришь, я не права!?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Not really, just in theory.</speak>
+            <speak chara="_Champollion">Не фактически, лишь в теории.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">The so called 「battle」 is at its core the redistribution of profit through violent means.</speak>
+            <speak chara="_Champollion">Так называемое 「сражение」 суть - перераспределение благ посредством жестокости.</speak>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">Even hunting, regardless of the reason behind it, has the act of peeling away a prey's fur or eating its meat.</speak>
+            <speak chara="_Champollion">Даже охота, вне зависимости от причин, несет в себе свежевание или съедение мяса жертвы.</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Something changes in the world when a battle occurs. It may be something someone wants, or it may be something someone doesn't want.</speak>
+            <speak chara="_Champollion">Что-то меняется в мире, когда случается битва. Это может быть нечто желаемое всеми или обратное тому.</speak>
             <show chara="champoQuestionClose" position="right"/>
-            <speak chara="_Champollion">Which is why those who take part in a battle must take responsibility for the 「change」 they're causing.</speak>
+            <speak chara="_Champollion">Вот почему те, кто принимают участие в сражении должны нести ответственность за 「перемену」ими причиняемую.</speak>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion">Only those who have that sense of responsibility can call themselves a soldier. Otherwise, they're just a machine following orders.</speak>
+            <speak chara="_Champollion">Лишь обладающие чувством ответственности могут зваться солдатами. В противногм случае, они лишь машины, которые исполняют приказы.</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Are you really an archeologist?</speak>
+            <speak chara="_Bianka">Вы действительно археолог?</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion" remark="next">Hehe, what else could I be? The 「Commander-in-Chief of the Eastern Expedition Force」 perhaps?</speak>
+            <speak chara="_Champollion" remark="next">Хех, а кем еще я могу быть?  「Главнокомандующим Восточными Экспедиционными Силами」 возможно?</speak>
             <remark post="U2FsdGVkX19MFk8yugUqbbug2iS2">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">1798年，拿破仑率领法兰西第一共和国的“东方远征军”入侵英国的盟友、奥斯曼帝国的附庸——马穆鲁克治下的埃及。此举意在打通由英国及其盟友控制的、联通欧亚大陆的交通线，并最终帮助印度的提普苏丹等人成功反抗英国的统治，以动摇英国的国本。</p>
-                <p class="article-text">这场“埃及-叙利亚战役”的战略目的虽然没有实现，但拿破仑通过在埃及打出的一系列以少胜多的战果，极大地提高了自身的声望。</p>
-                <p class="article-text">p.s. 在同马穆鲁克军于金字塔之下决战之前，时年29岁的拿破仑这样开始了他的战前演讲：“士兵们，请记住——在这些金字塔的顶端之上，四十个世纪的历史正在默默注视着你们。”。</p>
+                <p class="article-text-h">Справка：</p>
+                <p class="article-text">В 1798 году，Наполеон во главе Восточных Экспедиционных Сил Первой Французской Республики, вторгся в Египет, управляемый тогда мамлюками - союзниками Брританской Империи и вассалами османской. Это должно было открыть пути сообщения между Азией и Европой, контролируемые тогда  Великобританией и ее союзниками. Как итог - поддержать индийского султана Типа и его союзников в их восстании против метрополии, что должно было дестабилизировать британское государство.</p>
+                <p class="article-text">Хотя стратегическая цель Египетско-Сирийской кампании не была достигнута, Наполеон укрепил свою репутацию благодаря серии побед в Египте при значительном перевесе сил противника.</p>
+                <p class="article-text">В заключение: Перед поединком с мамлюками во время сражения под пирамидами, двадцатидевятилетний Наполеон начал свою предбоевую речь со слов: "Солдаты! Вы пришли в эти края, чтобы вырвать их из варварства, нести цивилизацию на восток. И спасти эту прекрасную часть света от ярма Англии. Мы собираемся вести бой. Думайте, что эти памятники с высоты сорока веков смотрят на вас".</p>
             </remark>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
@@ -463,32 +463,32 @@
         <scene id="160" background="jailComputerRoom.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">Then I have to do this...</speak>
+            <speak chara="_Watt">Тогда я должен сделать это...</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">I get it now.</speak>
+            <speak chara="_Watt">Я понимаю это сейчас.</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Alice! W-We can start whenever you want.</speak>
+            <speak chara="_Watt">Алиса!М-мы можем начать когда ты хочешь.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">Really? It's amazing how you were able to understand it so quickly!</speak>
+            <speak chara="_Alice">Правда? Это удивительно, что ты так быстро все понял!</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">The maintenance itself is not a difficult job, it's just the procedure that is slightly complicated.</speak>
+            <speak chara="_Watt">Само по себе, техобслуживание не самый сложный процесс, просто процедура немного сложная.</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">That said, I don't have the authority to change your reading rights. It's a bit roundabout, but I'll have to learn it well myself first to teach you later.</speak>
+            <speak chara="_Watt">Тем не менее, у меня нет допуска к изменению твоих прав на чтение. Это немного запутанно, но мне надо сначала научиться самому, чтобы потом научить вас.</speak>
             <show chara="wattSadClose" position="left"/>
-            <speak chara="_Watt">...Sorry.</speak>
+            <speak chara="_Watt">...Извините.</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">No, it's not a problem at all! I don't mind... studying together with you.</speak>
+            <speak chara="_Alice">Нет, это вовсе не проблема! Я не против... учиться вместе с вами.</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
             <speak chara="_Watt">.....</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">T-Then let's start from box 1. And... s-stop adding -sama to my name... it doesn't sound right.</speak>
+            <speak chara="_Watt">Т-тогда начнем с бокса 1. И прекратите называть меня "господин"... это звучит неправильно.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">Y-Yes!</speak>
+            <speak chara="_Alice">Д-да!</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_Watt">P-Pull out the culture tank and press the b-button according to the status shown.</speak>
