@@ -491,148 +491,148 @@
             <speak chara="_Alice">Д-да!</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">P-Pull out the culture tank and press the b-button according to the status shown.</speak>
+            <speak chara="_Watt">Выньте емкоть с культурой и нажмите к-кнопку, соответствующую указанному статусу.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">I see. Simple enough.</speak>
+            <speak chara="_Alice">Поняла. Достаточно просто.</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">No wonder the Professor never let me see him working.</speak>
+            <speak chara="_Alice">Неуидивительно, что Профессор никогда не позволял мне видеть, как он работает.</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
             <speak chara="_Watt">.....</speak>
             <show chara="wattSadClose" position="left"/>
-            <speak chara="_Watt">The Professor... I wonder what you were to him.</speak>
+            <speak chara="_Watt">Профессор... Интересно, кем вы были для него.</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">That's something... not even I know.</speak>
+            <speak chara="_Alice">Это нечто... чего даже я не знаю.</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">He was the one who named me Alice... maybe you'll be able to see the contradiction behind that.</speak>
+            <speak chara="_Alice">Он был тем. кто назвал меня Алисой... может быть, вы не сможете увидеть противоречия в этом.</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
             <speak chara="_Watt">...?</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">Did you know? 「Alice」 is the protagonist of a certain fairy tale.</speak>
+            <speak chara="_Alice">Знаете ли вы? 「Алиса」 протагонист в некоей истории.</speak>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">In the story... she met a rabbit and together they climbed a beanstalk.</speak>
+            <speak chara="_Alice">В той истории... она встретилась с кроликом и они вместе карабкались по бобовому стеблю.</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">...Beanstalk?</speak>
+            <speak chara="_Watt">...Бобовому стеблю?</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">S-Sorry, never heard of it before...</speak>
+            <speak chara="_Watt">П-простите, никогда не слышал про нее ранее...</speak>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">S-So she followed a rabbit, but wouldn't it be hard for her to fit in a rabbit hole?</speak>
+            <speak chara="_Watt">Т-так она следовала за кроликом, но не было ли бля нее сложно влезть в кроличью нору?</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">Ummm... I guess... she can because the rabbit was special...?</speak>
+            <speak chara="_Alice">Ммм... Полагаю... Она может, потому что кролик был особенный...?</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">Anyway, the protagonist Alice followed the tuxedo wearing rabbit until she arrived at the base of the beanstalk.</speak>
+            <speak chara="_Alice">Тем не менее, Аоиса следовала за кроликом в смокинге пока не достигла основания ростка.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">There was a hole in the beanstalk—— The rabbit jumped into it and disappeared. When Alice got close to it she felt a strong wind current!</speak>
+            <speak chara="_Alice">В ростке была дыра —— кролик прыгнул в нее и исчез. Когда Алиса подошла ближе к ней, она почувствовала сильный порыв ветра!</speak>
             <show chara="AliceShyClose-up" position="center"/>
             <!-- GRAMMAR: What I'm gonna -> What am I gonna -->
-            <speak chara="_Alice">「What am I gonna do about my skirt if I end up flying like the rabbit?」, Alice pondered.</speak>
+            <speak chara="_Alice">「Что же делать с моей юбкой, если закочу тем, что полечу как колик?」, Alice pondered.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">That's when a single leaf fell off the beanstalk and landed next to her—— It was carrying a bottle with a label that said 「please drink it」.</speak>
+            <speak chara="_Alice">И на последнем лепестке. который упал перед ней была бутылка с надписью 「выпей это」.</speak>
             <hide position="center"></hide>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">Isn't that too suspicious...?</speak>
+            <speak chara="_Watt">Не слишком ли это подозрительно...?</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">Box 5 is next. Want to press the buttons yourself?</speak>
+            <speak chara="_Watt">Бокс 5 - следующий. Хотите попробовать сами?</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">Y-Yes! I think I can do it!</speak>
+            <speak chara="_Alice">Д-да! Думаю, что смогу!</speak>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">Pull it out... the status display says 3, so I need to press the green button, correct?</speak>
+            <speak chara="_Alice">Выньте его... стутус-дисплей показывает: 3, так что я должна нажать зеленую кнопку, верно?</speak>
             <show chara="AliceSmileClose" position="right" opacity="0.8"/>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">Yes, well done.</speak>
+            <speak chara="_Watt">Да, прекрасно.</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Onto box 6... So, did the 「Alice」 from the story drink it?</speak>
+            <speak chara="_Watt">На бокс 6... Так той истории 「Алиса」 выпила из бутылки?</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">She did. Then... her soul jumped out of her body.</speak>
+            <speak chara="_Alice">Да. После... ее душа покинула тело.</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">H-Her soul!?</speak>
+            <speak chara="_Watt">Ее д-душа!?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">...Must be some kind of magic.</speak>
-            <speak chara="_Alice">Alice's soul made it to the top of the beanstalk. When she looked back——</speak>
+            <speak chara="_Alice">...Должно быть какая-то магия.</speak>
+            <speak chara="_Alice">Ее душа поднялась до вершины бобового стебля. Когда она посмотрела вниз——</speak>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">——Her own body was being carried by a pod!</speak>
+            <speak chara="_Alice">——Ее тело нес стручок!</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">T-This turned into a scary story...</speak>
+            <speak chara="_Watt">Э-это превратилось в страшилку...</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">A scary story?</speak>
+            <speak chara="_Alice">Страшилку?</speak>
             <show chara="AliceThinkClose" position="right"/>
-            <speak chara="_Alice">The Professor once said humans are afraid of having their souls leave their bodies... I guess it was true...</speak>
+            <speak chara="_Alice">Профессор однажды сказал, что люди боятся потерять свои души... Полагаю, это было правдой...</speak>
             <show chara="AliceThinkClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">Rather than fearing that, what they fear is death.</speak>
+            <speak chara="_Watt">Вместо этого они боятся смерти.</speak>
             <show chara="wattSadClose" position="left"/>
-            <speak chara="_Watt">Nobody has ever experienced what is like to have their 「soul leave their body」... because when that happens, that person is 「dead」.</speak>
+            <speak chara="_Watt">Никто не пережил  「выхода души из тела」... потому что когда это случается, человек 「умирает」.</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceHmClose" position="right"/>
-            <speak chara="_Alice">...I understand. But the Alice in the story didn't die!</speak>
+            <speak chara="_Alice">...Я понимаю. Но Алиса из истории не умерла!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">Alice reached out to her body and when she touched it, her body and soul were one once again.</speak>
+            <speak chara="_Alice">Алиса добралась до своего тела и дотронулась до него и стала с ним единым.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">「How far can this pod take me?」 she thought.</speak>
+            <speak chara="_Alice">「Как далеко этот стручок унес меня?」 думала она.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">As if understanding what she was thinking, the pod flew Alice over the clouds.</speak>
+            <speak chara="_Alice">Если я правильно понимаю ее мысли, стручок унес ее за облака.</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">The pod started growing and become as big as a ship.</speak>
+            <speak chara="_Alice">Она начал расти и стал размером с корабль.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">A door suddenly appeared on the 「deck」 of the pod, the words 「to the world of miracles」 were written on it.</speak>
+            <speak chara="_Alice">Внезапно на 「палубе」 стручка появилась дверь со словами 「Мир Чудес」 на ней.</speak>
             <show chara="AliceCalmClose-up" position="center"/>
             <speak chara="_Alice">Alice went through the door and carefully went down the stairs.</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">At the bottom she found another door. The following words were written in a corner:</speak>
+            <speak chara="_Alice">Внизу она нашла другую дверь. Следующее было написано в углу:</speak>
             <show chara="AliceCalmClose-up" position="center"/>
-            <speak chara="_Alice">「Abandon all common sense, ye who enter here」</speak>
+            <speak chara="_Alice">「Отринь здравый смысл, всяк входящий」</speak>
             <hide position="center"></hide>
             <show chara="AliceSmileClose" position="right" opacity="0.8"/>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">...Sounds like a reference to the 『Divine Comedy』.</speak>
+            <speak chara="_Watt">...Похоже на отсылку к 『Божественной Комедии』.</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">『Divine Comedy』?</speak>
+            <speak chara="_Alice">『Божественной Комедии』?</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">I-It's similar to what's written in the 「gate of hell」.</speak>
+            <speak chara="_Watt">Это схоже с надписью над 「Вратами в Ад」.</speak>
             <show chara="wattSadClose" position="left"/>
-            <speak chara="_Watt">「Abandon all hope, ye who enter here」.</speak>
+            <speak chara="_Watt">「Оставь надежду, всяк сюда входящий」.</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">...Quite the ominous phrase.</speak>
+            <speak chara="_Alice">...Достаточно зловещая фраза.</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">W-Well, it's the gate of hell after all.</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">S-So did Alice go through that 「abandon all common sense」 gate?</speak>
+            <speak chara="_Watt">Т-так Алиса прошла в эти「отринь здравый смысл」 ворота?</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">Yes. Alice was a curious girl so 「abandoning common sense」 was an easy task for her, or so the Professor said.</speak>
+            <speak chara="_Alice">Да. Алиса была любопытной, поэтому 「отринуть здравый смысл」 ей было нетрудно, как сказал Профессор.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">When Alice went through the second door, her field of vision expanded.</speak>
+            <speak chara="_Alice">Когда Алиса прошла во вторую дверь, ее поле зрения стало больше.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">She could see a huge snowy mountain in the distance, and a large river near her. There was a small train station near the river, so Alice head there and saw a boy chugging an apple inside an office.</speak>
+            <speak chara="_Alice">Она разглядела большую заснеженную гору и большую реку неподалеку. Рядом с рекой была маленькая железнодорожная станция, поэтому, Алиса направилась тда и увидела мальчика, который жевал яблоко в офисе.</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">「When does the train arrive?」, Alice asked.</speak>
+            <speak chara="_Alice">「Когда прибудет поезд?」, спросила Алиса.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">「It left 3 minutes ago」, the boy answered.</speak>
+            <speak chara="_Alice">「Убыл три минуты назад」, ответил мальчишка.</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">Alice was bewildered. 「Thank you. I will wait for the next one, can't ride on a train that already left」, she said.</speak>
+            <speak chara="_Alice">Алиса была растеряна. 「Спасибо. Я подожду другой, нельзя уехать на поезде, который ушел」, she said.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
             <speak chara="_Alice">The boy shook his head and put away his half eaten apple. 「Throw away your 『common sense』. In here if you have a mirror—— You can go back in time」.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
