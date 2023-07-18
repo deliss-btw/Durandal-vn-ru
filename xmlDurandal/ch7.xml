@@ -593,7 +593,7 @@
             <show chara="AliceSurprisedClose-up" position="center"/>
             <speak chara="_Alice">Внезапно на 「палубе」 стручка появилась дверь со словами 「Мир Чудес」 на ней.</speak>
             <show chara="AliceCalmClose-up" position="center"/>
-            <speak chara="_Alice">Alice went through the door and carefully went down the stairs.</speak>
+            <speak chara="_Alice">Алиса вошла в дверь и осторожно спустилась по лестнице.</speak>
             <show chara="AliceShyClose-up" position="center"/>
             <speak chara="_Alice">Внизу она нашла другую дверь. Следующее было написано в углу:</speak>
             <show chara="AliceCalmClose-up" position="center"/>
@@ -632,89 +632,89 @@
             <show chara="AliceSmileClose-up" position="center"/>
             <speak chara="_Alice">「Убыл три минуты назад」, ответил мальчишка.</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">Алиса была растеряна. 「Спасибо. Я подожду другой, нельзя уехать на поезде, который ушел」, she said.</speak>
+            <speak chara="_Alice">Алиса была растеряна. 「Спасибо. Я подожду другой, нельзя уехать на поезде, который ушел」, скащала она.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">The boy shook his head and put away his half eaten apple. 「Throw away your 『common sense』. In here if you have a mirror—— You can go back in time」.</speak>
+            <speak chara="_Alice">Мальчишка потряс головой и выбросил свое недоеденное яблоко. 「Отбрось свой 『здравый свысл』. Если у тебя есть зеркало——ты можешь вернуться назад во времени」.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">Saying that, the boy put a small mirror on top of his desk and widened it until it was as big as a door.</speak>
+            <speak chara="_Alice">Говоря это, мальчик положил на стол маленькое зеркальне и увеличил его до размеров двери.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">「There you go, the station from 5 minutes ago it's on the other side」</speak>
+            <speak chara="_Alice">「Вот тебе и станция пять минут назад в отражении」</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">Everything inside the mirror was upside down. When Alice poked the mirror it caused ripples that spread like a spider's web.</speak>
+            <speak chara="_Alice">В зеркале все было вверх ногами. Когда Алиса заедал заеркло, по нему пошли, подобно паутине, трещины.</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">A girl dressed in boy's clothes appeared on the other side, and waved at Alice as if telling her to cross over there.</speak>
+            <speak chara="_Alice">Девочка в мальчишеских вещах была по ту сторону, и взмахами рук звала Алису к себе.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">Fearfully, Alice lifted her feet——</speak>
-            <speak chara="_Alice">——And when the tip of her shoe went through the mirror, both worlds switched places at once. In the end Alice was able to go through the mirror without much difficulty.</speak>
+            <speak chara="_Alice">В страхе, Аоиса подняла свою ногу——</speak>
+            <speak chara="_Alice">——И когда госок ее туфли кослнулся зеркала, миры поменялись местами. В конце концов, Алиса смогла пройти сквозь зеркалао без слоностей.</speak>
             <hide position="center"></hide>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">An upside down mirror... Newton's reflector?</speak>
+            <speak chara="_Watt">Перевернутое зеркало... Ньютоновский отражатель?</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">Newton's reflector? The first reflecting telescope?</speak>
+            <speak chara="_Alice">Ньютоновский отражатель? Первый отражающий телескоп?</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Yes. What you see is upside down because it uses the principle of reflection of a concave mirror. Also, a 「second reflector」 is needed to reflect the image at a certain angle which creates a spiderweb-like pattern.</speak>
+            <speak chara="_Watt">Да. Ты видишь все вверх ногами, потому что используется вогнутое зеркало. Также, 「второй отражатель」 нужен, чтобы отразить изображение под нужным углом и имеет вид паучьей сети.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">...Sounds similar to what the Professor told me!</speak>
+            <speak chara="_Alice">...Звучит как то, что мне говорил Профессор!</speak>
             <show chara="AliceHmClose" position="right"/>
-            <speak chara="_Alice">Ah! Could it be the boy that was eating an apple was actually Newton?</speak>
+            <speak chara="_Alice">Ах! Мог ли быть мальчик, поедавший яблоко, Ньютоном?</speak>
             <show chara="AliceHmClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">I-I'm not sure about that...</speak>
+            <speak chara="_Watt">Я-я не уверен насчет этого...</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">B-But it's a fairy tale so anything goes I guess?</speak>
+            <speak chara="_Watt">Н-но это сказка, так что все может быть?</speak>
             <show chara="wattSurpriseClose" position="left"/>
-            <speak chara="_Watt">...Oh, we're already at box 17. That was fast.</speak>
+            <speak chara="_Watt">...О, мы уже на боксе 17. Быстро.</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">You're getting better at this, Alice!</speak>
+            <speak chara="_Watt">Ты становишься все лучше, Алиса!</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">It wasn't much. More importantly, Jimmy-sama——Ah, no, Jimmy... Aren't you pushing yourself too hard?</speak>
+            <speak chara="_Alice">Это не было сложно. Важнее, Госп... Джимми, нет, Джимми... Не слишком ли вы напрягаетесь?</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSmileClose" position="left"/>
-            <speak chara="_Watt">...I-I don't know what you're talking about.</speak>
+            <speak chara="_Watt">...Я-я не понимаю, о чем ты.</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Every time we open a box, you take many deep breaths...</speak>
+            <speak chara="_Alice">Каждый раз, когда вы открываете бокс, ваше дыхание учащается...</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">...I-It's just a psychological reaction...</speak>
+            <speak chara="_Watt">...Э-это лишь физиологическая реакция...</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceHmClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Alice">Don't try to downplay it!</speak>
-            <speak chara="_Alice">Even psychological reactions can have a negative impact on the body.</speak>
+            <speak chara="_Alice">Не преуменьшайте!</speak>
+            <speak chara="_Alice">Даже физиологические реакции могут наносить вред организму.</speak>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">...I know doing this would make any ordinary person feel uncomfortable——</speak>
+            <speak chara="_Alice">...Я знаю, что подобное может заставить обычного человека чувствовать себя некомфортно——</speak>
             <show chara="AliceDeterminedClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Alice">——So please don't pretend everything is okay!</speak>
+            <speak chara="_Alice">——Так что, пожалуйста, не привыйкайте к подобному!</speak>
             <show chara="AliceDeterminedClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
-            <speak chara="_Watt">...S-Sorry.</speak>
+            <speak chara="_Watt">...И-извините.</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">...No... It's me the one who should apologize. You're doing your best for me...</speak>
+            <speak chara="_Alice">...Нет... Лишь я должна приносить извенения. Вы все делаете для меня...</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_Watt">.....</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_Alice">Don't worry! Now I know how to perform maintenance myself.</speak>
+            <speak chara="_Alice">Не волнуйтесь! Теперь я знаю, как самостоятельно проводить техническое обслуживание.</speak>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">So it would make me very happy if you could be my conversation partner instead.</speak>
+            <speak chara="_Alice">И мне приносит счастье иметь вас своим собеседником.</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_Watt">...!</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Where did we left off again?</speak>
+            <speak chara="_Alice">Где мы опять остановились?</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">「Alice」... went through the mirror.</speak>
+            <speak chara="_Watt">「Алиса」... просшла сквозь зеркало.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
             <speak chara="_Alice">R-Right!</speak>
