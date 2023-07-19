@@ -717,45 +717,45 @@
             <speak chara="_Watt">「Алиса」... просшла сквозь зеркало.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">R-Right!</speak>
+            <speak chara="_Alice">В-верно!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">After Alice went through the mirror, a train made out of chocolate that exhaled creamy white clouds arrived at the station.</speak>
+            <speak chara="_Alice">После этого прибыл поезд, который извергал сливочной белизны облака.</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">A squirrel wearing a work uniform left the driver's seat to yell 「Train to Cheese Archipelago! Train to Cheese Archipelago!」.</speak>
+            <speak chara="_Alice">Белка, одетая в униформу, покинула свое место, чтобы выкрикнуть 「Поезд до Сырного Ахипелага! Поезд до Сырного Ахипелага!」.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">Alice didn't know what kind of place 「Cheese Archipelago」 was and asked a girl at the station 「what's Cheese Archipelago like? Tons of islands made of cheese?」</speak>
+            <speak chara="_Alice">Алисе бло невдомек, что за 「Сырный Архипелаг」  И она спросила девочку, которая была рядом, -  「Что такое Сырный Архипелаг? Куча островов из сыра?」</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">The girl answered smiling. 「That's right. The Cheese Archipelago is the most beautiful place in the entire Milky Way. The golden sandy beach is made out of Gouda cheese, and there is a castle made of Blue cheese! There are cake trees, candy flowers and much more—— It's an all you can eat buffet!」</speak>
+            <speak chara="_Alice">Улыбаяс, девочка ответила ей. 「Так и есть. Сырный Архипелаг - прекраснейшее место во всем Млечном Пути. Золотистый пляж из Гауда Фета и замок из Голубого сыра! Там песочные деревья, карамельные цветы и более того—— это все вы можете съесть!」</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <speak chara="_Alice">Alice was a curious person but she had a realist side to her. Thus, she asked. 「Wouldn't all that cheese, cake and candy be gone if everyone keeps eating them?」</speak>
+            <speak chara="_Alice">Алиса была любопытной, но в то же время оставалась реалистом. Она спросила, - 「А не пропадут ли все эти сыры и конфеты, коли их едят?」</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">The girl at the station laughed. 「Haven't you heard this before? 『Midnight is when miracles occur』. Come on, the train is leaving soon. Get on!」</speak>
+            <speak chara="_Alice">Девочка со станции засмеялась. 「Неужто ты не слыжала раньше? 『Чудеса происходят в полночь!』. Пойдем. поезд скоро отправляется. Залазь!」</speak>
             <hide position="center"></hide>
             <show chara="AliceSmileClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">The story became quite girlish all of the sudden.</speak>
+            <speak chara="_Watt">История стала совсем девчачьей.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">Eh? Really?</speak>
+            <speak chara="_Alice">Ээ? Правда?</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">I wouldn't know myself, I can't eat chocolate, cheese or cake.</speak>
+            <speak chara="_Alice">Я не могу знать, не ем шоколада, сыра и печенья.</speak>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">...Do humans consider high calorie foods 「girlish」?</speak>
+            <speak chara="_Alice">...Люди расценивают высококалорийную пищу как 「девчачью」?</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">N-No, I don't mean it like that.</speak>
+            <speak chara="_Watt">Н-нет, Я не про это.</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Is that so...? Humans are complicated.</speak>
+            <speak chara="_Alice">Вот оно что...? Люди сложные.</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
-            <speak chara="_Watt">W-Well, don't let it get to you. Mankind is known for its contradictions.</speak>
+            <speak chara="_Watt">Н-ну, не принимай это близко. Человечество известно своими противоречиями.</speak>
             <show chara="wattSighClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
             <speak chara="_Alice">.....</speak>
-            <speak chara="_Alice">The Professor said the same thing once...</speak>
+            <speak chara="_Alice">Профессор говорил то же самое однажды...</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
             <speak chara="_Watt">Humans want to profit above all, but they aren't willing to take risks. If they can't do that—— They maintain an image that they do.</speak>
