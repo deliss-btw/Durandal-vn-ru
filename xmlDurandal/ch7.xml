@@ -758,48 +758,48 @@
             <speak chara="_Alice">Профессор говорил то же самое однажды...</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Humans want to profit above all, but they aren't willing to take risks. If they can't do that—— They maintain an image that they do.</speak>
+            <speak chara="_Watt">Люди превыше всего жаждут выгоды, но не хотят никаких рисков. Если они не могут этого сделать —— они создают видимость этого.</speak>
             <show chara="wattSmileClose" position="left"/>
-            <speak chara="_Watt">Humans are good at deceiving themselves.</speak>
+            <speak chara="_Watt">Люди хороши в самообмане.</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">Deceiving themselves... you say?</speak>
+            <speak chara="_Alice">Самообмане... говоришь?</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">...For example, just as an example... Alice claiming to be a girl because of this interface—— Something like that?</speak>
+            <speak chara="_Alice">...Для примера, просто в качестве оного... Алиса выдает себя за девушку при помощи этого интерфейса, как то так?</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Hmmm. I wouldn't call that self-deception.</speak>
+            <speak chara="_Watt">Хммм. Я бы не назвал это самообманом.</speak>
             <show chara="wattInspiredClose" position="left"/>
-            <speak chara="_Watt">Even if you are truly this many thinking processors... If you think of yourself as a girl, then you're a girl.</speak>
+            <speak chara="_Watt">Даже если ты есть множество мыслящих процессоров... Если ты осознаешь себя девушкой - ты и есть девушка.</speak>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">Moreover, if you don't consider yourself as part of mankind, then human concepts don't exactly apply to you, so it's more like a mental thing I guess?</speak>
+            <speak chara="_Watt">Более того, если ты не относишь себя к человечеству, тогда наши стандарты для тебя не подходят, я думаю, это ментальное. Не так ли?</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">I see. It never occurred to me to think about it that way...</speak>
+            <speak chara="_Alice">Понимаю. Никогда ранее не думала в полобном ключе...</speak>
             <show chara="AliceSmileClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Alice">It's settled. I will keep referring to myself as a girl. Hehe!</speak>
+            <speak chara="_Alice">Решено. Продолжу называть себя девушкой. хе-хе!</speak>
             <show chara="AliceHmClose" position="right"/>
-            <speak chara="_Alice">...Status 4, press the yellow button. Box 32 done. We have 26 left.</speak>
+            <speak chara="_Alice">...Статус 4, pнажмите желтую кнопку. Бокс 32 завершен. Осталось 26.</speak>
             <show chara="AliceHmClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Seems maintenance will end before the story.</speak>
+            <speak chara="_Watt">Похоже, техническое обслуживание завершится раньше чем история.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
             <speak chara="_Alice">.....</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Will you leave once the maintenance is done?</speak>
+            <speak chara="_Alice">Вы уйдете по его завершении?</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">R-Right... I should get going——</speak>
+            <speak chara="_Watt">Д-да... Я должен идти——</speak>
             <show chara="wattSchemingClose" position="left"/>
-            <speak chara="_Watt">——But！</speak>
+            <speak chara="_Watt">——Но!</speak>
             <show chara="wattSchemingClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
-            <speak chara="_Alice">...But?</speak>
+            <speak chara="_Alice">...Но?</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSmileClose" position="left"/>
-            <speak chara="_Watt">「This time」 I'll stay. I want to hear 「Alice」's story—— To the very end!</speak>
+            <speak chara="_Watt">「В этот раз」 Я останусь. Я хочу достушать историю 「Алисы」до самого конца!</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
             <speak chara="_Alice">...!</speak>
