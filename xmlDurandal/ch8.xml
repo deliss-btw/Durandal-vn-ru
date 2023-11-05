@@ -9,81 +9,81 @@
         <scene id="10" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="neithLaughFar" position="center"/>
-            <speak chara="_Neith">President, I'm coming in!</speak>
+            <speak chara="_Neith">Президент, я вхожу!</speak>
             <hide position="center"></hide>
             <show chara="shelleyBoredFar" position="left"/>
-            <speak chara="_ShelleyCareer">And you were...?</speak>
+            <speak chara="_ShelleyCareer">И ты была...?</speak>
             <show chara="shelleyBoredFar" position="left" opacity="0.8"/>
             <show chara="micheFocusFar" position="right"/>
-            <speak chara="_MichelCareer">Neith?</speak>
+            <speak chara="_MichelCareer">Нейт?</speak>
             <show chara="micheSeriousFar" position="right"/>
-            <speak chara="_MichelCareer">...Did something happen to Champollion?</speak>
+            <speak chara="_MichelCareer">...С Шамполлионом что-то произошло?</speak>
             <show chara="micheSeriousFar" position="right" opacity="0.8"/>
             <show chara="neithComplainFar" position="left"/>
             <speak chara="_Neith">Please listen!</speak>
             <show chara="neithScaredFar" position="left"/>
-            <speak chara="_Neith">We chased the kidnappers to the West and found out their hideout is in a sulfur lake!</speak>
+            <speak chara="_Neith">Мы преследовали похитителей в западном направлении и нашли их укрытие у Сернистого озера!</speak>
             <show chara="neithComplainFar" position="left"/>
-            <speak chara="_Neith">Sulfur lake! Poison gas! Hydrogen sulfide!</speak>
+            <speak chara="_Neith">Сернистое озеро! Ядовитый газ! Сульфид водорода!</speak>
             <show chara="neithComplainFar" position="left" opacity="0.8"/>
             <show chara="micheSeriousFar" position="right"/>
             <speak chara="_MichelCareer">...!</speak>
             <show chara="micheSeriousFar" position="right" opacity="0.8"/>
             <show chara="shelleyShockedFar" position="left"/>
-            <speak chara="_ShelleyCareer">Must be the volcanic area near El-Alamein.</speak>
+            <speak chara="_ShelleyCareer">Должно быть, рядом с Эль-Аламейном есть вулканическая зона.</speak>
             <show chara="shelleyColdFar" position="left"/>
-            <speak chara="_ShelleyCareer">It sounds like something that person who had his 「records erased」 would do.</speak>
+            <speak chara="_ShelleyCareer">Звучит как что-то, что этот человек 「записи стерты」 должен сделать.</speak>
             <show chara="shelleyArrogantFar" position="left"/>
-            <speak chara="_ShelleyCareer">Kid... Neith, was it?</speak>
+            <speak chara="_ShelleyCareer">Дитя... Нейт, так ведь?</speak>
             <show chara="shelleyArrogantFar" position="left" opacity="0.8"/>
             <show chara="neithSmileFar" position="right"/>
-            <speak chara="_Neith">Yup!</speak>
+            <speak chara="_Neith">Угумс!</speak>
             <show chara="neithSmileFar" position="right" opacity="0.8"/>
             <show chara="shelleySmileFar" position="left"/>
-            <speak chara="_ShelleyCareer">...Take this document and give it to Commander Hussein of the Reserve Command, and give this other one to Director Ptolemy of the Municipal Equipment Department. They'll give you the personnel and equipment you need.</speak>
+            <speak chara="_ShelleyCareer">...Отнеси этот документ Командиру Хуссейну из Тылового Коммандования, а другую Птолемею - Управлюящему Областного Отдела Снабжения. Они выдадут тебе все необходимое снаряжение.</speak>
             <show chara="shelleySmileFar" position="left" opacity="0.8"/>
             <show chara="neithScaredFar" position="right"/>
-            <speak chara="_Neith">Oh, nice! You understood quickly!</speak>
+            <speak chara="_Neith">О, чудно! До вас быстро дошло!</speak>
             <show chara="neithLaughFar" position="right"/>
-            <speak chara="_Neith">Thanks!</speak>
+            <speak chara="_Neith">Спасибо!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="neithSmileFar" position="center"/>
-            <speak chara="_Neith">See ya later!</speak>
+            <speak chara="_Neith">Увидимся позже!</speak>
             <goto goto="15" change="#000000"/>
         </scene>
         <scene id="15" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="continue"></bgm>
             <show chara="shakesLaughFar" position="center"/>
-            <speak chara="_ShakespeareCareer">What a lively kid.</speak>
+            <speak chara="_ShakespeareCareer">Какой активный ребенок.</speak>
             <show chara="shakesSmileFar" position="center"/>
-            <speak chara="_ShakespeareCareer">...But shouldn't the 「leader」 of this scientific city be using her trustworthy robot units instead? Care to comment, President Shelley?</speak>
+            <speak chara="_ShakespeareCareer">...Но не должно ли 「лидеру」 этого научного города использовать своих роботов вместо этого? Прокомментируете, Президент Шелли?</speak>
             <hide position="center"></hide>
             <show chara="shelleyBoredFar" position="left"/>
-            <speak chara="_Shelley">...You're here, Shakespeare.</speak>
+            <speak chara="_Shelley">...Ты и так тут, Шекспир.</speak>
             <show chara="shelleyColdFar" position="left"/>
-            <speak chara="_Shelley">Do you really have time for this? I heard one of your crew members was kidnapped.</speak>
+            <speak chara="_Shelley">У тебя правда есть для этого время? Слышала, одного из твоих похитили.</speak>
             <show chara="shelleyColdFar" position="left" opacity="0.8"/>
             <show chara="shakesSmileFar" position="right"/>
-            <speak chara="_Shakespeare">If the security system of this city is to be trusted—— There's nothing to be worried about.</speak>
+            <speak chara="_Shakespeare">Если система безопасности этого города надежна —— беспокоиться не о чем.</speak>
             <show chara="shakesSmileFar" position="right" opacity="0.8"/>
             <show chara="shelleyColdFar" position="left"/>
-            <speak chara="_Shelley">...Tch. What are you getting it?</speak>
+            <speak chara="_Shelley">...Тч. Что ты понимешь?</speak>
             <show chara="shelleyColdFar" position="left" opacity="0.8"/>
             <show chara="shakesSweatyFar" position="right"/>
-            <speak chara="_Shakespeare">...Are you really going to make me say it?</speak>
+            <speak chara="_Shakespeare">...Ты действительно собираешься завтавить меня сказзать это??</speak>
             <show chara="shakesConfidentFar" position="right"/>
-            <speak chara="_Shakespeare">If you insist, I suppose I should.</speak>
+            <speak chara="_Shakespeare">Если настаиваешь, полагаю, что должен.</speak>
             <show chara="shakesConfidentFar" position="right" opacity="0.8"/>
             <show chara="shelleyBoredFar" position="left"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyBoredFar" position="left" opacity="0.8"/>
             <show chara="shakesColdFar" position="right"/>
-            <speak chara="_Shakespeare">You, and Curator over there too predicted something like this was going to happen.</speak>
+            <speak chara="_Shakespeare">Ты и Куратор, в том числе, предсказали что случится нечто подобное.</speak>
             <show chara="shakesQuestionFar" position="right"/>
-            <speak chara="_Shakespeare">Otherwise, you wouldn't have 「real people」 ready on stand-by to catch the kidnappers. When you won the election 20 years ago, you told the public you would 「make advances in artificial intelligence and pass laws that will keep citizens away from dangerous work」.</speak>
+            <speak chara="_Shakespeare">В противном случае, у вас не должно быть 「настоящих людей」 готовых по щелчку найти похитителей. Когда вы одержали поеду на выборах 20 лет назад, вы сказали общественности 「усовершенствовать искуственный интеллект и соблюдать законыЮ которые пресекут вовлечение людей в опасные предприятия」.</speak>
             <show chara="shakesDisgustedFar" position="right"/>
-            <speak chara="_Shakespeare">Leaving aside that those 「real people」 are in danger now, they haven't seen any actual combat in a long time—— And despite knowing that, you decided they were fit to handle this case.</speak>
+            <speak chara="_Shakespeare">Оставляя это в стороне, 「настоящие люди」 теперь в опасности, они не знали реальных сражний в течение долгого вреемени —— И несмотрян а это, вы решили. что он готовы вынести это.</speak>
             <show chara="shakesDisgustedFar" position="right" opacity="0.8"/>
             <show chara="micheFocusFar" position="left"/>
             <speak chara="_Michel">.....</speak>
