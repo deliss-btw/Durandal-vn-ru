@@ -88,15 +88,15 @@
             <show chara="micheFocusFar" position="left"/>
             <speak chara="_Michel">.....</speak>
             <show chara="micheSeriousFar" position="left"/>
-            <speak chara="_Michel">Will you get over it and tell us why you came here instead of meeting up with Champollion and the rest?</speak>
+            <speak chara="_Michel">Можешь ты преодоллеть это и рассказать, зачем ты здесь, вместо того, чтобы встретиться с Шамполлионом и остальными?</speak>
             <show chara="micheSeriousFar" position="left" opacity="0.8"/>
             <show chara="shelleyColdFar" position="left"/>
-            <speak chara="_Shelley">This is not a theater. I'd like for you to stop talking in such a roundabout way.</speak>
+            <speak chara="_Shelley">Это не театр. Я бы предпочла. чтобы ты перестал заходить издалека.</speak>
             <show chara="shelleyColdFar" position="left" opacity="0.8"/>
             <show chara="shakesLaughFar" position="right"/>
-            <speak chara="_Shakespeare">Hahahaha! Fine, fine.</speak>
+            <speak chara="_Shakespeare">Хахахаха! Хорошо, хорошо.</speak>
             <show chara="shakesSmileFar" position="right"/>
-            <speak chara="_Shakespeare">In that case... I'll let the expert handle this.</speak>
+            <speak chara="_Shakespeare">В таком случае... Я предоставлю это эксперту.</speak>
             <show chara="shakesSmileFar" position="right" opacity="0.8"/>
             <show chara="shelleyShockedFar" position="left"/>
             <speak chara="_Shelley">...?</speak>
@@ -106,18 +106,18 @@
             <bgm src="02_22_amazingGrace.mp3" status="start"></bgm>
             <sound src="02_03_highheels.mp3"/>
             <show chara="ironWhiteSwordFar" position="center"/>
-            <speak chara="_SchrodingerNoName">The task is, not so much to see what no one has yet seen——</speak>
+            <speak chara="_SchrodingerNoName">Задача не только в том, nчтобы увидеть то, чего никто не видел——</speak>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="CG8-1-2.jpg">
             <bgm src="02_22_amazingGrace.mp3" status="continue"></bgm>
-            <speak chara="_SchrodingerNoName">But to think what nobody has yet thought——</speak>
+            <speak chara="_SchrodingerNoName">Но подумать о том. о чем никто не думал——</speak>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="CG8-1-3.jpg">
             <bgm src="02_22_amazingGrace.mp3" status="continue"></bgm>
-            <speak chara="_SchrodingerNoName">About that which everybody sees.</speak>
-            <speak chara="_Schrodinger">——I am Erwin Reanna Schrodinger, a dimensional traveler from beyond the abyss.</speak>
+            <speak chara="_SchrodingerNoName">О том, что каждый видит.</speak>
+            <speak chara="_Schrodinger">——Я - Эрвин Реана Шрёдингер, межпространственный странник из бездны.</speak>
             <goto goto="50" clockwise="1"/>
         </scene>
         <scene id="50" background="alexandriaPalace.jpg">
@@ -126,28 +126,28 @@
             <speak chara="_Michel">.....</speak>
             <show chara="micheSeriousFar" position="left" opacity="0.8"/>
             <show chara="shelleyShockedFar" position="right"/>
-            <speak chara="_Shelley">Dimensional traveler? Who are you?</speak>
+            <speak chara="_Shelley">Межпространственный странник? Кто вы?</speak>
             <show chara="shelleyAngryFar" position="right"/>
-            <speak chara="_Shelley">...No, 「what」 are you?</speak>
+            <speak chara="_Shelley">...Нет, 「что」 вы?</speak>
             <show chara="shelleyAngryFar" position="right" opacity="0.8"/>
             <show chara="schroSeriousFar" position="left"/>
-            <speak chara="_Schrodinger">...Human.</speak>
+            <speak chara="_Schrodinger">...Человек.</speak>
             <show chara="schroTalkFar" position="left"/>
-            <speak chara="_Schrodinger">To be specific, a being that had the unitarity of its quantum distribution altered.</speak>
+            <speak chara="_Schrodinger">Конкретизируя, сущность у которой была нарушена целостность квантового рнаспределения.</speak>
             <show chara="schroSmileFar" position="left"/>
-            <speak chara="_Schrodinger">Well, it's fine if you think of me as a ghost who 「leapt」 here from another world.</speak>
+            <speak chara="_Schrodinger">Ну, это нормально, думать обо мне, как о призраке 「проникшем」 сюда из другого мира.</speak>
             <show chara="schroSmileFar" position="left" opacity="0.8"/>
             <show chara="shelleyShockedFar" position="right"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyShockedFar" position="right" opacity="0.8"/>
             <show chara="schroTalkFar" position="left"/>
-            <speak chara="_Schrodinger">Have you heard about this sword before? It's called 「Durandal」.</speak>
+            <speak chara="_Schrodinger">Слышала ли ты об этом мече? Он назван「Дюрандаль」.</speak>
             <show chara="schroTalkFar" position="left" opacity="0.8"/>
             <show chara="shelleyBoredFar" position="right"/>
             <speak chara="_Shelley">...?</speak>
             <show chara="shelleyBoredFar" position="right" opacity="0.8"/>
             <show chara="schroSmileFar" position="left"/>
-            <speak chara="_Schrodinger">It's no surprise the sword itself means nothing to you.</speak>
+            <speak chara="_Schrodinger">Не удивительно, что меч для тебя не представляет интереса сам по себе.</speak>
             <show chara="schroCalmFar" position="left"/>
             <speak chara="_Schrodinger">But—— The following story may change your reaction. An urban legend says that somewhere in this city there is a 「Philosopher's Stone」, a 「tesseract that gives all your robots the ability to think」.</speak>
             <show chara="schroCalmFar" position="left" opacity="0.8"/>
