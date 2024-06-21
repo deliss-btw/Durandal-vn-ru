@@ -149,95 +149,95 @@
             <show chara="schroSmileFar" position="left"/>
             <speak chara="_Schrodinger">Не удивительно, что меч для тебя не представляет интереса сам по себе.</speak>
             <show chara="schroCalmFar" position="left"/>
-            <speak chara="_Schrodinger">But—— The following story may change your reaction. An urban legend says that somewhere in this city there is a 「Philosopher's Stone」, a 「tesseract that gives all your robots the ability to think」.</speak>
+            <speak chara="_Schrodinger">Но - следующая история может изменить твою реакцию. Городская легенда гласит, что где-то в этом городе「Философский Камень」, 「тессеракт, которыйдает твоим роботам возможность думать」.</speak>
             <show chara="schroCalmFar" position="left" opacity="0.8"/>
             <show chara="shelleySmileFar" position="right"/>
-            <speak chara="_Shelley">...Hmph. And here I thought you were going to say something interesting, but it's just the 「Philosopher's Stone」. Do you really believe in that nonsense?</speak>
-            <speak chara="_Shelley">Did you know? According to some urban legends, I'm actually dead and I was replaced by a robot replica.</speak>
+            <speak chara="_Shelley">...Хмпф. И только я подумала, что ты расскажешь что-то интересное, ф это всего-лишь 「Философский Камень」. Ты правда веришь в этот бред?</speak>
+            <speak chara="_Shelley">Знала ли ты? Согласно некоторым легендам, я, на самом деле. мертва и заменена роботом.</speak>
             <show chara="shelleySmileFar" position="right" opacity="0.8"/>
             <show chara="schroSeriousFar" position="left"/>
-            <speak chara="_Schrodinger">Indeed. Urban legends are often nonsense far from the truth. Even the 「Philosopher's Stone」 it's just an old 「universal」 legend.</speak>
+            <speak chara="_Schrodinger">Действительно. Городские легенды, обычно - чушь, далекая от правды. Даже 「Философский Камень」 - лишь старая 「всеобщая」 легенда.</speak>
             <show chara="schroSmileFar" position="left"/>
-            <speak chara="_Schrodinger" remark="next">But I also believe—— 「Any sufficiently advanced technology is indistinguishable from magic」.</speak>
+            <speak chara="_Schrodinger" remark="next">Но еще я верю, что —— 「любая достаточно продвинутая технология неотличима от магии」.</speak>
             <remark post="U2FsdGVkX1+9YlENGNASDdIYCoDF">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">“克拉克基本定律”（Clarke's three laws）——</p>
-                <p class="article-text">1. 如果一个杰出但年事已高的科学家说，某件事情是可能的，那他几乎就是正确的；但如果他说，某件事情是不可能的，那他很可能是错误的。</p>
-                <p class="article-text">2. 发现“可能”的界限的唯一途径，就是冒险跨出既有的“可能”，进入“不可能”的领域。</p>
-                <p class="article-text">3. 任何一项足够先进的技术，对受众来说都将与魔法无异。</p>
+                <p class="article-text-h">Примечание：</p>
+                <p class="article-text">"Три закона Кларка"——</p>
+                <p class="article-text">1. Если выдающийся, но пожилой ученый говорит, что что-то возможно, он почти наверняка прав, но если он говорит, что что-то невозможно, то он, вероятно, ошибается;</p>
+                <p class="article-text">2. Единственный способ обнаружить границы «возможности» — это выйти за пределы существующей «возможности» и войти в царство «невозможности». </p>
+                <p class="article-text">3. Любая достаточно продвинутая технология будет для аудитории неотличима от магии.。</p>
             </remark>
             <show chara="schroSmileFar" position="left"/>
-            <speak chara="_Schrodinger">It wouldn't be strange if a chemist who traveled back in time to the stone age were revered as a 「godly shaman」 after performing a couple of experiments.</speak>
+            <speak chara="_Schrodinger">Не было бы странным. если химик, вернувшийся в каменный век был назван 「божественным шаманом」 после пары экспериментов.</speak>
             <show chara="schroSmileFar" position="left" opacity="0.8"/>
             <show chara="shelleyAngryFar" position="right"/>
-            <speak chara="_Shelley">...Are you just throwing ideas around fishing for information?</speak>
+            <speak chara="_Shelley">...Ты просто вбрасываешь идеи с целью выудить информацию?</speak>
             <show chara="shelleyAngryFar" position="right" opacity="0.8"/>
             <show chara="schroTalkFar" position="left"/>
-            <speak chara="_Schrodinger">No, that's not my intention. To get my point across I need to build a foundation first.</speak>
+            <speak chara="_Schrodinger">Нет, не моя цель. Чтобы донести мою точку зрения, мне, для начала, нужна основа.</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="12_12_blackCloud.jpg">
             <bgm src="02_22_amazingGrace.mp3" status="continue"></bgm>
-            <speak chara="_Schrodinger">Let me tell you a story about a certain 「magic sword」.</speak>
-            <speak chara="_Schrodinger">The name of that sword is 「Durandal」. This sword, capable of creating the heavens and earth, was made by a certain 「God」 to be used by one of its apostles. The seven rainbow colored gems on its hilt are proof of its power.</speak>
-            <speak chara="_Schrodinger">For instance... the Red Gem of Courage is able to track a specific kind of wavelength, which can serve as a guide during a search.</speak>
-            <speak chara="_Schrodinger">The Blue Gem of Reason has powerful information processing capabilities, which allows for instant data analysis of any kind.</speak>
-            <speak chara="_Schrodinger">Even separated each one of them has an immeasurable value.</speak>
-            <speak chara="_Schrodinger">...Among them, the most 「useful」 one is the 「Gem of Reason」 due to its ability to imitate human cognition.</speak>
+            <speak chara="_Schrodinger">Позволь мне поведать тебе легенду о некоем 「Волшебном мече」.</speak>
+            <speak chara="_Schrodinger">Имя ему 「Дюрандаль」. Этот меч, способный сотворить Небеса и Землю, выкован неким 「Богом」 для одного из Апостолов. Семь радужных камней на эфесе его есть доказательство его силы.</speak> 
+            <speak chara="_Schrodinger">Например... Красный Самоцвет Храбрости может отслеживать определенную длину волны, которая может служить ориентиром в поиске.</speak>
+            <speak chara="_Schrodinger">Синий Самоцвет Разума имеет огромные вычислительные мощности, которые позволяют мгновенно получить данные анализа любой сложности.</speak>
+            <speak chara="_Schrodinger">Даже по отдельности каждый из них имеет огромную значимость.</speak>
+            <speak chara="_Schrodinger">...реди них самый 「полезный」 「Самоцвет Разума」 из-за его способности имитировать человеческое сознание.</speak>
             <goto goto="70" change="0"/>
         </scene>
         <scene id="70" background="alexandriaPalace.jpg">
             <bgm src="02_22_amazingGrace.mp3" status="continue"></bgm>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">I realized this after carefully observing your city.</speak>
+            <speak chara="_Schrodinger">Я обнаружила это после тщательного исследования твоего города.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">There is nothing special about its combustion engines and vacuum tubes——</speak>
+            <speak chara="_Schrodinger">Ничего особенного в двигателях внутреннего сгорания и лектронных лампах нет——</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">——And yet the robots can perform police, guide and household work. Even their artificial intelligence is good enough to simplify the process of legislation and law enforcement.</speak>
+            <speak chara="_Schrodinger">——И все же, роботы могут работать полицейскими, проводниками и домработниками. Даже их искусственный интеллект достаточно хорош для упрощения законодательной и и исполнительской деятельности.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">These machines aren't simple automatons, they think like people do, and solve problems like people do.</speak>
+            <speak chara="_Schrodinger">Эти машины - не просто автоматы: они думают и решают проблемы как люди.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">They posses a genuine artificial intelligence of a level that can pass the Turing Test.</speak>
+            <speak chara="_Schrodinger">Они обладают гениальным искусственным интеллектом, способным пройти Тест Тьюринга.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">This is, without doubt, a remarkable accomplishment... but at the same time, a suspicious one.</speak>
+            <speak chara="_Schrodinger">Это есть, без сомнения. выдающееся достижение... но и подозрительное в том числе.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">As you should know already, brain cells are a complex and delicate structure. Trying to imitate them using common electronic devices would consume a huge amount of power.</speak>
+            <speak chara="_Schrodinger">Как тебе уже известно, сложная и нежная вещь. Попытка их имитации электронными устройствами ведет к огромным затратам энергии.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">The reason why humans can function with only 「three meals a day」 is because the human body is well optimized.</speak>
+            <speak chara="_Schrodinger">Люди могут выжить 「питаясь трижды в день」только потому что человеческий организм хорошо оптимизирован.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">Each cell is similar to a nanorobot. They record information on their own chemical structure rather than relying on electromagnetic fields that consume vast amounts of energy.</speak>
+            <speak chara="_Schrodinger">Каждая клетка тождественнна нанороботу. они записывают информацию о собственной химической структуре, а не полагаются на электромагнитные поля, которые потребляют уйму энергии.</speak>
             <show chara="schroSmileFar" position="center"/>
-            <speak chara="_Schrodinger">And these cells posses blueprints called DNA, and can replicate themselves by performing a 「3D printing」 process called cell division.</speak>
+            <speak chara="_Schrodinger">И эти клетки содержат чертежи, названные ДНК, и могут саморелицироваться подобно  「Трехмерной печати」 в процессе клеточного деления.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">My point is—— Replicating the most complex and esoteric system in the world, the human brain—— Is theoretically impossible using common 「hardware」 such as vacuum tubes and combustion engines.</speak>
+            <speak chara="_Schrodinger">Мое утверждение —— репликация есть сложный и эзотерический процесс, людской мозг —— теоритически невозможен 「сымитирован аппаратно」 с помощью электронных ламп и двигателей сгорния.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">There are trillions of neuronal connections in a single human brain——</speak>
-            <speak chara="_Schrodinger">——If one were to use vacuum tubes, it would be like lighting up a trillion light bulbs.</speak>
+            <speak chara="_Schrodinger">Человеческий моз содержит триллионы нейронных связей——</speak>
+            <speak chara="_Schrodinger">——Если бы кто-то использовал лампы, то эло бы подобно включению триллиона.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">Even if we ignore the physical space needed and excess heat from them, you would need hundreds if not thousands of fully operational Hoover Dams to supply enough power to light up a 「trillion light bulbs」.</speak>
+            <speak chara="_Schrodinger">Исключая количество место и отвод тепла, тебе понадобятся сотни, если не тысячи ГЭС для подвода достаточного количества питания「триллиону ламп」.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">Only then someone would be able to recreate 「a single human brain」.</speak>
+            <speak chara="_Schrodinger">Только тогда кто-то сможет воссоздать 「человеческий мозг」.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">When you see it like this, the fact that this city has a 「genuine artificial intelligence」 sounds like a scenario taken from a fantasy novel.</speak>
+            <speak chara="_Schrodinger">Когда ты смотришь на это так, факто того, что в твоем городе есть 「гениальный Искусственный Интеллект」 звучит как сюжет из фентези-романа.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">——And yet it exists. Everywhere in this city there are 「machines」 performing difficult tasks only a 「human」 should be able to do.</speak>
+            <speak chara="_Schrodinger">——И все же оно существует. Везде в этом городе 「машины」 выполняют сложные задачи, которые  лишь「человек」 должен быть способен.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">After I inspected discarded robots I noticed they are nothing but terminals following orders—— Which made this strange situation even more suspicious.</speak>
+            <speak chara="_Schrodinger">После того, как я осмотрела выброшенных роботов, я заметила, что они не более чем терминалы, которые исполняют приказы —— это делало ситуацию еще более подозрительной.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">Who is the 「main brain」 behind them that imitates 「tens of thousands」 of humans brains every single day?</speak>
+            <speak chara="_Schrodinger">Кто же「основной мозг」 за ними, имитирующий  「десятки тысяч」 людских мозгов каждый день?</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">And what kind of 「cheat」 did you use to pull it off?</speak>
+            <speak chara="_Schrodinger">И что за 「уловку」 ты использовала, чтобы вытащить это?</speak>
             <show chara="schroScornfulFar" position="center"/>
-            <speak chara="_Schrodinger">If such technological leap were possible thanks to a mere 「invention」—— Any shaman from the past would had been able to build a spaceship using a revelation from God.</speak>
+            <speak chara="_Schrodinger">Если подобный технологический скачок возможен благодаря простому 「изобретению」—— любой шаман был бы способен собрать космический корабль с Божественной Помощью.</speak>
             <hide position="center"></hide>
             <show chara="micheSeriousFar" position="left"/>
             <speak chara="_Michel">.....</speak>
             <show chara="micheSeriousFar" position="left" opacity="0.8"/>
             <show chara="shelleyShockedFar" position="right"/>
-            <speak chara="_Shelley">...You are free to mock us, but let me tell you I don't believe the development of my city has been unethical or immoral.</speak>
+            <speak chara="_Shelley">...Можешь смеяться над нами, но позволь мне сказать, что я не считаю разщвитие моего города неэтичным и аморальным.</speak>
             <show chara="shelleyShockedFar" position="right" opacity="0.8"/>
             <show chara="schroMemoryFar" position="left"/>
-            <speak chara="_Schrodinger">Yes, I understand how you feel. I used to feel the same way when I worked at a certain institution.</speak>
+            <speak chara="_Schrodinger">Да, я понимаю, что ты чувствуешь. Со мной было так же. когда я работала в некоем Учреждении.</speak>
             <show chara="schroSeriousFar" position="left"/>
             <speak chara="_Schrodinger">That's why I have to tell you clearly what vulnerabilities the technology you 「borrowed」 has.</speak>
             <show chara="schroTalkFar" position="left"/>
