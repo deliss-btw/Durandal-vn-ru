@@ -239,173 +239,173 @@
             <show chara="schroMemoryFar" position="left"/>
             <speak chara="_Schrodinger">Да, я понимаю, что ты чувствуешь. Со мной было так же. когда я работала в некоем Учреждении.</speak>
             <show chara="schroSeriousFar" position="left"/>
-            <speak chara="_Schrodinger">That's why I have to tell you clearly what vulnerabilities the technology you 「borrowed」 has.</speak>
+            <speak chara="_Schrodinger">Вот почему я должна рассказать тебе об уязвимостях технологий, которые ты 「позаимствовала.</speak>
             <show chara="schroTalkFar" position="left"/>
-            <speak chara="_Schrodinger">For instance, the most relevant to you right now—— The 「safety of the communication equipment」.</speak>
+            <speak chara="_Schrodinger">Для начала, самое важное для тебя сейчас —— 「безопасность оборудования связи」.</speak>
             <goto goto="80" clockwise="1"/>
         </scene>
         <scene id="80" background="alexandriaOasisNight.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="chess1" position="center"/>
-            <speak chara="_Champollion">Bishop to D6.</speak>
+            <speak chara="_Champollion">Слон на D6.</speak>
             <show chara="chess2" position="center"/>
-            <speak chara="_Bianka">Queen to A1. Check.</speak>
+            <speak chara="_Bianka">Ферзь на A1. Шах.</speak>
             <hide position="center"></hide>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">If you want to take back now this is the time, or else say goodbye to your Rooks.</speak>
+            <speak chara="_Bianka">Если хочешь вернуться, то сейчас самое время, или попращайся со своими ладьями.</speak>
             <show chara="biankaProudClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">...Like I told you before, talking during chess will only distract yourself.</speak>
+            <speak chara="_Champollion">...Как и я говорила ранее, разговоры во время шахмат отвлекают.</speak>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Besides, I never take back my moves.</speak>
+            <speak chara="_Champollion">Кроме того, я никогда не хожу назад.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="chess3" position="center"/>
-            <speak chara="_Champollion">King to E2.</speak>
+            <speak chara="_Champollion">Король на E2.</speak>
             <hide position="center"></hide>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Heh, so stubborn.</speak>
+            <speak chara="_Bianka">Хех, такая упрямая.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="chess4" position="center"/>
-            <speak chara="_Bianka">Bishop to G1.</speak>
+            <speak chara="_Bianka">Слон на G1.</speak>
             <show chara="chess5" position="center"/>
-            <speak chara="_Champollion">Pawn to E5.</speak>
+            <speak chara="_Champollion">Пешка на E5.</speak>
             <show chara="chess6" position="center"/>
-            <speak chara="_Bianka">Knight to A6.</speak>
+            <speak chara="_Bianka">Конь на A6.</speak>
             <show chara="chess7" position="center"/>
-            <speak chara="_Champollion">Knight to G7. Check.</speak>
+            <speak chara="_Champollion">Конь на G7. Шах.</speak>
             <show chara="chess8" position="center"/>
-            <speak chara="_Bianka">King to D8.</speak>
+            <speak chara="_Bianka">Король на D8.</speak>
             <hide position="center"></hide>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">You should just admit defeat already.</speak>
+            <speak chara="_Bianka">Ты лишь должна признать поражение.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="chess9" position="center"/>
-            <speak chara="_Champollion">Queen to F6. Check.</speak>
+            <speak chara="_Champollion">Ферзь на F6. Check.</speak>
             <hide position="center"></hide>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Oh my... making a break for it?</speak>
+            <speak chara="_Bianka">О, Боже... прервемся для этого?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Heh. Stop talking and make your next move.</speak>
+            <speak chara="_Champollion">Хех. Замолчи и делай следующий ход.</speak>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">This match is over.</speak>
+            <speak chara="_Champollion">Матч окончен.</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">(...What did she mean by that? Was it a trap?)</speak>
+            <speak chara="_Bianka">(...Что она хотел этим сказать? Была ли это ловушка?)</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="chess10" position="center"/>
-            <speak chara="_Bianka">Knight to F6.</speak>
+            <speak chara="_Bianka">Конь на F6.</speak>
             <show chara="chess11" position="center"/>
-            <speak chara="_Champollion">Bishop to E7. Checkmate.</speak>
+            <speak chara="_Champollion">Слон на E7. Шах и Мат.</speak>
             <hide position="center"></hide>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="alexandriaOasisNightSmoke.jpg">
             <bgm src="01_18_tango.mp3" status="continue"></bgm>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">...Huh?</speak>
+            <speak chara="_Bianka">...Хах?</speak>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Wait... checkmate already?</speak>
+            <speak chara="_Bianka">Постой... уже?</speak>
             <show chara="biankaAngryClose" position="left"/>
-            <speak chara="_Bianka">I can't...</speak>
+            <speak chara="_Bianka">Я не могу...</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Well, well. Don't let it get to you.</speak>
+            <speak chara="_Champollion">Ну, ну. Не принимай это слишком близко.</speak>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">I think you did better compared to our first match.</speak>
+            <speak chara="_Champollion">Думаю, ты справилась лучше, чем в предыдущий матч.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Ugh... Taking two Rook at once turned out to be a trap all along.</speak>
+            <speak chara="_Bianka">Ухх... Сдача двух Башен, все-таки, была ловушкой.</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_Rita">That's the kind of game chess is, Bianka-sama.</speak>
+            <speak chara="_Rita">Это и есть шахматы, Госпожа Бьянка.</speak>
             <show chara="rita17SquintClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">——Rita?</speak>
+            <speak chara="_Bianka">——Рита?</speak>
             <show chara="biancaShyClose" position="left"/>
-            <speak chara="_Bianka">H-How long have you been there!?</speak>
+            <speak chara="_Bianka">К-как долго ты здесь!?</speak>
             <show chara="biancaShyClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
-            <speak chara="_Rita">Since you asked the Detective-san if she wanted to take back her move, I think.</speak>
+            <speak chara="_Rita">С тех пор, как вы спросили Детектива, хочет ли она ходить назад, я думаю.</speak>
             <show chara="rita17NormalClose" position="right" opacity="0.8"/>
             <show chara="biancaShyClose" position="left"/>
             <speak chara="_Bianka">...!!</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">...Wait.</speak>
-            <speak chara="_Bianka">You were behind me all this time, and me, a great Valkyrie, didn't notice you——</speak>
+            <speak chara="_Bianka">...Подожди.</speak>
+            <speak chara="_Bianka">Ты была у меня щза спиной все это время и я, великая Валькирия, тебя не заметила——</speak>
             <show chara="biankaBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">——You can't use your abilities to peek at a chess match! What were you thinking!?</speak>
-            <speak chara="_Bianka">Unbelievable! The saying 「you must not use a steam hammer to crack a nut, if a nutcracker would do」 exists for a reason.</speak>
+            <speak chara="_Bianka">——Тебе нельзя использовать свои навыки, чтобы подглядывать за игрой в шахматы! О чем ты думала!?</speak>
+            <speak chara="_Bianka">Невероятно! Высказывание「запрещено использовать паровой молот, чтобы расколоть орех, если с этим справился орехокол」 существет не просто так.</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">...It was a trap, but if that hadn't been the case this game wouldn't had ended that way, and you wouldn't have known such an ending was possible.</speak>
+            <speak chara="_Rita">...Это была ловушка, но если бы этого не было, игра бы не кончилась подобным бразом, и вы не узнали бы, что такой финал возможен.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Whatever. This was a lesson worth learning.</speak>
+            <speak chara="_Bianka">Без разницы. Это бы хороший урок.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="neithSmileClose" position="left"/>
-            <speak chara="_Neith">Professor! I brought the gas masks, oxygen cylinders and 50 men!</speak>
+            <speak chara="_Neith">Профессор! Вот противогазы, баллоны с кислородом и 50 человек!</speak>
             <show chara="thalesEmbarrassedClose" position="left"/>
-            <speak chara="_Thales">...And somehow I got roped into this as well.</speak>
+            <speak chara="_Thales">...И я тоже как-то ввязался в это.</speak>
             <show chara="thalesSeriousClose" position="left"/>
-            <speak chara="_Thales">For crying out loud. This kind of physical labor isn't for me.</speak>
+            <speak chara="_Thales">Говоря вслух. Подобный физический труд не для меня.</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="neithComplainClose" position="right"/>
-            <speak chara="_Neith">You're an important person, you need to be here!</speak>
+            <speak chara="_Neith">Вы - важная лперсона, вам нужно здесь быть!</speak>
             <show chara="manfredQuestionClose" position="right"/>
-            <speak chara="_Manfred">...I heard it's partly your fault our engineer Watt was kidnapped.</speak>
+            <speak chara="_Manfred">...Я слышал, что ты отчасти виновна в том, что Профессор Ватт был похищен.</speak>
             <show chara="manfredQuestionClose" position="right" opacity="0.8"/>
             <show chara="thalesAngryClose" position="left"/>
-            <speak chara="_Thales">How you dare to blame me, you simpleton!</speak>
+            <speak chara="_Thales">Как ты смеешь обвинять меня, простофиля?!</speak>
             <show chara="thalesAngryClose" position="left" opacity="0.8"/>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">Hahaha. Think about it like this, Director. That brain of yours may come in handy in this operation.</speak>
-            <speak chara="_Champollion">But first...</speak>
+            <speak chara="_Champollion">Хахаха. Думайте об этом так, директор: ваш исключительный мозг полезен для этого дела.</speak>
+            <speak chara="_Champollion">Но, сначала...</speak>
             <show chara="neithSmileClose" position="left" opacity="0.8"/>
-            <speak chara="_Champollion">Well done, Neith! Tomorrow I'm buying you a Mille-feuille from 「Golden House」!</speak>
+            <speak chara="_Champollion">Хорошо, Нейт! Завтра я куплю тебье Мильфей в 「Золотом Доме」!</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="neithLaughClose" position="left"/>
-            <speak chara="_Neith">Yay! Cake! Thanks, Pro——</speak>
+            <speak chara="_Neith">Да! Тортик! Спасибо, Про——</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <show chara="neithScaredClose" position="center"/>
             <speak chara="_Neith">.....</speak>
             <show chara="neithShockClose" position="center"/>
-            <speak chara="_Neith">T-There's a burning smell coming from the city... I think something exploded!</speak>
+            <speak chara="_Neith">И-из города пахнет горелым... Думаю, что-то взорвалось!</speak>
             <shake position="center" time="250"></shake>
-            <speak chara="_Neith">...Look! Over there! There's smoke! Smoke!!</speak>
+            <speak chara="_Neith">...Глядите! Туда! Там дым! ДЫМ!!</speak>
             <goto goto="100" change="#000000"/>
         </scene>
         <scene id="100" background="01_18_secretRoom.jpg">
             <bgm src="12_14_Sonnet_18.mp3" status="start"></bgm>
             <show chara="AliceSurprisedClose" position="center"/>
-            <speak chara="_Alice">...Alice got on the train. And guess what, all passengers and crew members suddenly disappeared!</speak>
+            <speak chara="_Alice">...Алиса села на поезд. И, представь, все пассажиры и работники внезапно исчезли!</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Alice was very worried. Who was going to drive this high speed train if the conductor was gone?</speak>
+            <speak chara="_Alice">Алиса была очень обеспокоена. Кто поведет этот выскокскоросной поезд, если машинист пропал?</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">When Alice was starting to panic she heard a voice coming from the speaker. 「Dear Alice, do not worry. I am Nyter Elmont, the conductor of this train. Let us have a wonderful trip together.」</speak>
+            <speak chara="_Alice">Когда Алиса запаниковала, из динамиков разалось: 「Дорогая Алиса. не волнуйся. Я - Найтер Эльмонт, машинист этого поезда. Позволь нам насладиться этим прекрасным путешествием.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Alice was very surprised. She got closer to the speaker and asked, 「Where are you, Conductor? I searched every corner of the train but I couldn't find you!」</speak>
+            <speak chara="_Alice">Алиса была глубоко удивлена. Она подошла к динамику ближе и спросила, 「Где вы, Машинист? Я обыскла все углы в поезде, но не нашла вас!」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">Nyter laughed and replied 「Of course. You are inside me, Alice.」</speak>
+            <speak chara="_Alice">Найтер посмеялся и ответил: 「Конечно, ты - внутри меня, Алиса.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Alice was even more surprised. 「Are you... the train itself?」</speak>
+            <speak chara="_Alice">Алиса было удивлена еще сильнее. 「Вы... сам поезд?」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">The voice from the speaker told her, 「Yes. As you know, this world is in a constant state of change.」</speak>
+            <speak chara="_Alice">Голос из динамика сказаал ей: 「Да. Как тебе известно, этот мир постоянно изменяется.」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">「When two mirror images converge, every aspect of the world changes.」</speak>
+            <speak chara="_Alice">「Когда два зеркальных изображения сходятся - каждый аспект мира меняется.」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">「There used to be 4 staff members on this train. When the mirror images converged, a fully automated train was born.」</speak>
+            <speak chara="_Alice">「Обычно в этом поезде четыре работника. Когда изображения сходятся - появляется полностью автоматические поезд.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Alice wondered why 4 people. 「5 would not work?」, she asked.</speak>
+            <speak chara="_Alice">Алиса подумала, почему четыре? 「Пятеро не согут?」, спросила она.</speak>
             <show chara="AliceSilentClose" position="center"/>
             <speak chara="_Alice">Nyter said with a disappointed voice, 「Yes, if there ever were 5 people, they would forever——」</speak>
             <hide position="center"></hide>
