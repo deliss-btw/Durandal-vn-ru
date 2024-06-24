@@ -407,47 +407,47 @@
             <show chara="AliceShyClose" position="center"/>
             <speak chara="_Alice">Алиса подумала, почему четыре? 「Пятеро не согут?」, спросила она.</speak>
             <show chara="AliceSilentClose" position="center"/>
-            <speak chara="_Alice">Nyter said with a disappointed voice, 「Yes, if there ever were 5 people, they would forever——」</speak>
+            <speak chara="_Alice">Найтер сказал растроенным голосом: 「Да, если бы их было пятеро, они бы вечно——」</speak>
             <hide position="center"></hide>
             <bgm src="02_22_ring_ring.mp3" status="start"></bgm>
-            <speak chara="_mechanicalSound">Warning. The system's power has reached a critical low level.</speak>
-            <speak chara="_mechanicalSound">Please perform Plan 5 of the emergency power supply manual.</speak>
-            <speak chara="_mechanicalSound">Starting the 5 minute countdown.</speak>
+            <speak chara="_mechanicalSound">Внимание. Уровень энергии критически низкий.</speak>
+            <speak chara="_mechanicalSound">Пожалуйста, исполните План 5 общего руководства.</speak>
+            <speak chara="_mechanicalSound">Начало пятиминутного отсчета.</speak>
             <bgm src="noise.mp3" status="start"></bgm>
             <show chara="AliceSurprisedClose" position="left"/>
             <speak chara="_Alice">...!</speak>
             <show chara="AliceSurprisedClose" position="left" opacity="0.8"/>
             <show chara="wattSurpriseClose" position="right"/>
-            <speak chara="_Watt">...What's happening?</speak>
+            <speak chara="_Watt">...Что происходит?</speak>
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="AliceHmClose" position="left"/>
-            <speak chara="_Alice">There is a problem with the power supply.</speak>
-            <speak chara="_Alice">If Plan 5 is implemented, not only the base but also this interface—— My body—— will shut down.</speak>
+            <speak chara="_Alice">Проблема с подводом энергии.</speak>
+            <speak chara="_Alice">Если План 5 будет реализован, не только основа, но так же и интерфейс —— Мое тело —— отключится.</speak>
             <show chara="AliceHmClose" position="left" opacity="0.8"/>
             <show chara="wattSadClose" position="right"/>
-            <speak chara="_Watt">...D-Did something happen at the power plant?</speak>
+            <speak chara="_Watt">...Что-то произошло на электростанции?</speak>
             <show chara="wattSadClose" position="right" opacity="0.8"/>
             <show chara="AliceThinkClose" position="left"/>
-            <speak chara="_Alice">Give me a moment. I'm running a diagnostic...</speak>
+            <speak chara="_Alice">Один момент. Запуская диагностику...</speak>
             <show chara="AliceDigitalClose" position="left"/>
             <speak chara="_Alice">……</speak>
-            <speak chara="_Alice">...No, there are no issues with the power supply, but the energy consumption is increasing exponentially.</speak>
-            <speak chara="_Alice">The cause is... the communication station!?</speak>
+            <speak chara="_Alice">...Нет, неисправностей в подаче энергии нет, но ее потребление возрастает экспоненциально.</speak>
+            <speak chara="_Alice">Причина... станция связи!?</speak>
             <show chara="AliceShockClose" position="left"/>
-            <speak chara="_Alice">...Ah!!</speak>
+            <speak chara="_Alice">...Ах!!</speak>
             <show chara="AliceShockClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Alice">What do I do!? What do I do!?</speak>
+            <speak chara="_Alice">Что я делаю!? Что я делаю!?</speak>
             <show chara="AliceShockClose" position="left" opacity="0.8"/>
             <show chara="wattScaredClose" position="right"/>
-            <speak chara="_Watt">...C-Calm down and tell me what happened.</speak>
+            <speak chara="_Watt">...У-успокойся и скажи, что случилось.</speak>
             <show chara="wattScaredClose" position="right" opacity="0.8"/>
             <show chara="AliceShockClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Alice">I can't remain calm! I'm in big trouble!</speak>
+            <speak chara="_Alice">Не могу сохранять спокойствие! Я влипла!</speak>
             <show chara="AliceShockClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Alice">It's my fault, it's all my fault!! I forgot all about 「that plan」!!!</speak>
+            <speak chara="_Alice">Это - моя ошибка, все это - моя ошибка!! я все забыла об 「этом плане」!!!</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="02_22_computerRoom.jpg">
