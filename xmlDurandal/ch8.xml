@@ -452,68 +452,68 @@
         </scene>
         <scene id="110" background="02_22_computerRoom.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
-            <text>At the same time, under the server room under Alexandria's City Hall——</text>
+            <text>В то же время, в серверной под Городским Залом Александрии——</text>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">...I wish you had admitted you were using the 「Gem of Reason」 from the beginning.</speak>
+            <speak chara="_Schrodinger">...Я хочу, чтобы ты признала, что использовала 「Самоцвет Разума」 с самого начала.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">...Hmph. Aren't we this late because you spent too much time telling your little story?</speak>
+            <speak chara="_Shelley">...Хмпф. Разве мы опоздали не потому что ты слишком долго рассказывала свою маленькую историю?</speak>
             <show chara="shelleySmileClose" position="right"/>
-            <speak chara="_Shelley">I wish you would had pointed out the vulnerabilities in our robot's system in a less roundabout way.</speak>
+            <speak chara="_Shelley">Я бы хотела, чтобы вы указали на уязвимости в системе нашего робота менее окольным путем.</speak>
             <show chara="shelleySmileClose" position="right" opacity="0.8"/>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...But President, had I done that you would had called me a 「hacker」 and apprehend me.</speak>
+            <speak chara="_Schrodinger">...Но Президент, еслибы я это сделала, то вы бы назвали меня 「хакером」 и арестовали.</speak>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">Because 「I know too much」, even though I came from beyond the abyss.</speak>
+            <speak chara="_Schrodinger">Потому что 「Я знаю слишком много」, даже если я пришел из бездны.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">...Anyway, I'm starting.</speak>
+            <speak chara="_Schrodinger">...Так или иначе, начинаю.</speak>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">Your security system is too bare-bones. This might sound wrong, but it's like it's naked——</speak>
+            <speak chara="_Schrodinger">Ваша система безопасности слишком проста. Это может звучать странно, но она будто голая——</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <sound src="02_22_ring_ring.mp3"/>
             <text>Beep—— Beep——</text>
             <show chara="shelleyColdClose" position="center"/>
-            <speak chara="_Shelley">It's me. ...Yes, I'm in the server room. ...Calm down! What happened?</speak>
+            <speak chara="_Shelley">Это я. ...Да, я в серверной. ...Успокойся! Что произошло?</speak>
             <show chara="shelleyShockedClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="_Shelley">...What!? The robots are out of control!?</speak>
+            <speak chara="_Shelley">...Что!? Роботы вышли из-под контроля!?</speak>
             <show chara="shelleyAngryClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="_Shelley">...Idiot! Calm down and explain it clearly!</speak>
+            <speak chara="_Shelley">...Идиотка! Уймись и объясни нормально!</speak>
             <goto goto="120" clockwise="1"/>
         </scene>
         <scene id="120" background="CG8-2.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
-            <speak chara="_AliceGreen">Jimmy... I'm so sorry... I can only talk you through this screen now.</speak>
-            <speak chara="_AliceGreen">The location of the connector is unknown so there is no way to destroy the communication station from the outside.</speak>
-            <speak chara="_AliceGreen">But... thank you very much... for returning my unresponsive body to its sleeping pod.</speak>
-            <speak chara="_AliceGreen">The situation in the outside world might be chaotic right now, but——</speak>
-            <speak chara="_AliceGreen">That's precisely why I must thank you now... for taking care of me...</speak>
+            <speak chara="_AliceGreen">Джимми... Я очень извиняюсь... Я могу говорить с тобой только через этот экран.</speak>
+            <speak chara="_AliceGreen">Расположение коннектора неизвестно Так что нет возможности уничтожить станцию связи извне.</speak>
+            <speak chara="_AliceGreen">Но... спасибо тебе огромное... за возвращение моего бездыханного тела на его место отдыха.</speak> (Я просто не нашел лучшего аналога выражению 'no responding' в данном контексте)
+            <speak chara="_AliceGreen">Должно быть, вокруг - хаос, но——</speak>
+            <speak chara="_AliceGreen">Именно за то я тебя должна побзадодарить.. за заботу обо мне...</speak>
             <speak chara="_AliceGreen">.....</speak>
-            <speak chara="_AliceGreen">As I've told you, I was created by the Professor. I lack the authority to manage my own functions.</speak>
-            <speak chara="_AliceGreen">I wanted to be greedy just once——</speak>
-            <speak chara="_AliceGreen">——Like Scheherazade from the Thousand and One Nights, after telling you the stories I knew I wanted to tell you my own story, my truth.</speak>
-            <speak chara="_AliceGreen">But who could have guessed 「that program」 was running in the background all this time.</speak>
-            <speak chara="_AliceGreen">It now started to consume more power and it's trying to take away my privileges. I suspect it finished analyzing its target and is ready to strike.</speak>
-            <speak chara="_AliceGreen">...Of course, this is merely my guess. I don't have the authority to view 「that program」 after all.</speak>
-            <speak chara="_AliceGreen">In light of our current situation, I can only think of 「that plan」 to be responsible for the sudden increase in power consumption by the communication station.</speak>
-            <speak chara="_AliceGreen">I'm sorry. It took me too long to tell you the truth, and now the situation has gotten out of hand.</speak>
-            <speak chara="_AliceGreen">...Given my lack of authority, I can't know the execution phase of 「that plan」 either.</speak>
-            <speak chara="_AliceGreen">I'm so dumb. Like a small child who thought her parents would never harm her. I believed in something that wasn't real.</speak>
-            <speak chara="_AliceGreen">The truth is... everything is going as planned. Even if I'm abandoned the plan would proceed smoothly.</speak>
-            <speak chara="_AliceGreen">Without my knowledge the communication station was strengthened so that it couldn't be harmed by ordinary people.</speak>
-            <speak chara="_AliceGreen">...Don't try to comfort me. It's all my fault.</speak>
-            <speak chara="_AliceGreen">...I wanted to let myself get lost in that wonderful moment.</speak>
-            <speak chara="_AliceGreen">To forget the most important and terrifying truth about me...</speak>
-            <speak chara="_AliceGreen">My original purpose is—— To become a weapon in information warfare.</speak>
-            <speak chara="_AliceGreen">The Professor and his assistants wanted to use me to destroy the city that expelled them.</speak>
-            <speak chara="_AliceGreen">They wanted to decode and hijack the city's communication system wirelessly to destroy them with the robots they are so proud of.</speak>
-            <speak chara="_AliceGreen">...Now that I think about it, maybe my current consciousness as 「Alice」 is a 「by-product」 of the Professor's boredom.</speak>
-            <speak chara="_AliceGreen">To them, this 「Alice」 personality must have been nothing but a decoration to the 「Alice」 interface, as if they were playing with a doll.</speak>
-            <speak chara="_AliceGreen">Because 「I」 am completely unnecessary—— For what 「I」 was truly made for.</speak>
+            <speak chara="_AliceGreen">Как я и говорила, Я создана Профессором. У меня нет полномочий управлять собственными функциями.</speak>
+            <speak chara="_AliceGreen">Я единожды хотела побыть жадной——</speak>
+            <speak chara="_AliceGreen">——Словной Шахеризада из "Тысяча И Одна Ночь", после всех историй я хотела рассказать тебе свою собственную, свою истину.</speak>
+            <speak chara="_AliceGreen">Но кто бы мог подумать, что 「эта программа」 была зпущена на фоне все это время.</speak>
+            <speak chara="_AliceGreen">Сейчас она начала потреблять больше энергии и она пытается отнять у меня привелегии. Подозреваю, она закончила анализ своейцели и готова к удару.</speak>
+            <speak chara="_AliceGreen">...Конечно, это лишь моя догадка. У меня нет авторитета наблюдать 「эту программу」 в конце концов.</speak>
+            <speak chara="_AliceGreen">В свете текущей ситуации, я могу лишь думать об 「этом плане」ответственном во внезапном повышении потребления энергии станцией связи.</speak>
+            <speak chara="_AliceGreen">Извиняюсь. Слишком долго я объянсяла правду, и теперь ситуация вышла из-под контроля.</speak>
+            <speak chara="_AliceGreen">...Учитывая отсутствие у меня полномочи, я не могу знать, в какой фазе 「этот план」 в том числе.</speak>
+            <speak chara="_AliceGreen">Я такая глупая. Буто дитя, которое думало, что родители ему не навредят. Я верила в нечто нереальное.</speak>
+            <speak chara="_AliceGreen">Правда в том что... Все идет по плану. Даже брось я все. план прошел бы гладко.</speak>
+            <speak chara="_AliceGreen">Без моего ведомв станция связи усилилась бы так, что люди не могли бы ей навредить.</speak>
+            <speak chara="_AliceGreen">...Не пытайся успокоить меня. Я во всем виновата.</speak>
+            <speak chara="_AliceGreen">...Я желала потеряться в этом чудесном моменте.</speak>
+            <speak chara="_AliceGreen">Забыть самую важную и устрашающую вещь о себе...</speak>
+            <speak chara="_AliceGreen">Мое истинное назначение —— стать оружием в информационной войне.</speak>
+            <speak chara="_AliceGreen">Профессор и его ассистенты хотел, чтобы я уничтожила город, откуда они были изгнаны.</speak>
+            <speak chara="_AliceGreen">Они хотели декодировать и взломать системы коммуникации удаленно чтобы разрушить все с помощью роботов, коими они гордились.</speak>
+            <speak chara="_AliceGreen">...Думая об этом сейчас, возможно, мое текущее сознание 「Алисы」 - 「побочный продукт」 скуки Профессора.</speak>
+            <speak chara="_AliceGreen">Для них, эта личность 「Алисы」 не более, чем инерфейс для  「Алисы」, как если бы они играли с куклой.</speak>
+            <speak chara="_AliceGreen">Ибо 「Я」 совершенно не нужна —— для чего 「Я」 была действительно создана.</speak>
             <speak chara="_AliceGreen">.....</speak>
-            <speak chara="_AliceGreen">I wonder if all humans use their own children this way, Jimmy.</speak>
+            <speak chara="_AliceGreen">Интересно, все ли люди используют своих детей подбным образом, Джимми.</speak>
             <end post="U2FsdGVkX1+1vGdM9rblXGYOSlxi"/>
         </scene>
     </story>
