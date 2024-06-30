@@ -11,67 +11,67 @@
             <show chara="memoryLoading" position="back"/>
             <text>18 years ago——</text>
             <show chara="faustLaughClose" position="right"/>
-            <speak chara="_FaustNoName">Ahh, what a wonderful blue sky!</speak>
+            <speak chara="_FaustNoName">Аах, какое прекрасное синее небо!</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">But it's time for this 「Zarathustra」 to return to loneliness once again.</speak>
+            <speak chara="_FaustNoName">Но время этому 「Заратустре」 снова вернуться к одиночеству.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">——Shelley, will you be the last person to remember this wanderer?</speak>
+            <speak chara="_FaustNoName">——Шелли, будешь ли ты последним. кто вспомнит этого странника?</speak>
             <show chara="faustSmileClose" position="right" opacity="0.8"/>
             <show chara="shelleyColdClose" position="left"/>
-            <speak chara="_Shelley">...Who knows.</speak>
-            <speak chara="_Shelley">In any case, if you don't comply with the will of the people, you will have to face the consequences.</speak>
+            <speak chara="_Shelley">...Кто знает.</speak>
+            <speak chara="_Shelley">В любом случае, если ты не подчинишься воле народа, ты встретишься с последствиями.</speak>
             <show chara="shelleyBoredClose" position="left"/>
-            <speak chara="_Shelley">「Exile」 and 「wiping of all records」. You will be treated as a wanted criminal by the city.</speak>
+            <speak chara="_Shelley">「Изгнанник」 и 「стирающий все записи」. В городе ты будешь считаться разыскиваемым приступником.</speak>
             <show chara="shelleySmileClose" position="left"/>
-            <speak chara="_Shelley">There's still time, you can still sign the agreement to abolish the experiment——</speak>
+            <speak chara="_Shelley">Еще есть время, ты все еще можешь подписать соглашение об отмене эксперимента——</speak>
             <show chara="shelleySmileClose" position="left" opacity="0.8"/>
             <show chara="faustDisdainClose" position="right"/>
-            <speak chara="_FaustNoName">No. I refuse.</speak>
+            <speak chara="_FaustNoName">Нет. Отказываюсь.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">It's not me what the people of the city are choosing to forget, but the potential of human evolution.</speak>
-            <speak chara="_FaustNoName">...That is something I will never agree with.</speak>
+            <speak chara="_FaustNoName">Это не я  то, что люди хотят забыть, но потенциал человеческой эволюции.</speak>
+            <speak chara="_FaustNoName">...Это такое, с чем я никогда не соглашусь.</speak>
             <show chara="faustSadClose" position="right" opacity="0.8"/>
             <show chara="shelleyShockedClose" position="left"/>
-            <speak chara="_Shelley">Have you ever seriously thought about what the public would think of your experiment?</speak>
+            <speak chara="_Shelley">Ты когда-нибудь дамал, как общественность воспримет твой экспериент?</speak>
             <show chara="shelleyShockedClose" position="left" opacity="0.8"/>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">I have.</speak>
+            <speak chara="_FaustNoName">Да.</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">The current ethics of the world will absolutely 「reject」 the task of incorporating living humans brains into machines.</speak>
+            <speak chara="_FaustNoName">Текущая мировая этика 「оклоняет」 задачу включения человеческого мозга в машины.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">And just so you know, no one was coerced into participating.</speak>
+            <speak chara="_FaustNoName">И чтобы ты знала, никого не принужали к участию.</speak>
             <show chara="faustDisdainClose" position="right"/>
-            <speak chara="_FaustNoName">Shelley, let me ask you in return—— Have you ever seriously thought about what 「ethics」 are?</speak>
+            <speak chara="_FaustNoName">Шелли, позволь поинтересоваться в ответ —— думала ли ты о том, что такое 「этика」?</speak>
             <show chara="faustDisdainClose" position="right" opacity="0.8"/>
             <show chara="shelleyColdClose" position="left"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyColdClose" position="left"/>
-            <speak chara="_Shelley">Human nature, dignity, the values that let us overcome hardships together.</speak>
+            <speak chara="_Shelley">Человеческая природа, достоинство, качества, которые позволяют нам преодолевать трудности сообща.</speak>
             <show chara="shelleyColdClose" position="left"/>
-            <speak chara="_Shelley">You're making a mistake by disregarding them.</speak>
+            <speak chara="_Shelley">Ты совершаешь ошибку, игнорируя их.</speak>
             <show chara="shelleyColdClose" position="left" opacity="0.8"/>
             <show chara="faustLaughClose" position="right"/>
-            <speak chara="_FaustNoName">Hehe... Hahahaha!</speak>
+            <speak chara="_FaustNoName">Хехе... Хахаха!</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">I disagree. Was the world born with human nature? Is dignity something you're born with? Are the values supported by the majority the truth?</speak>
+            <speak chara="_FaustNoName">Не согласен. Был ли мир порожден люской натурой? Достоинство это то, с чем ты родилась? Правдивы ли качества, одобряемые большинством?</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Isn't it something that changes as if reborn with the pass of time?</speak>
+            <speak chara="_FaustNoName">Развеэ то не то, что перерождаеся и меняется с течением времени?</speak>
             <show chara="faustTalkClose" position="right" opacity="0.8"/>
             <show chara="shelleyAngryClose" position="left"/>
-            <speak chara="_Shelley">...I didn't come here to hear that nonsense!</speak>
+            <speak chara="_Shelley">...Я не для того здесь, чтобы слышать чушь!</speak>
             <show chara="shelleyColdClose" position="left"/>
-            <speak chara="_Shelley">I understand that you may be angry because of what happened but—— You won't solve anything by being so stubborn.</speak>
+            <speak chara="_Shelley">Я понимаю, что ты можешь быть зол из-за произошедшего —— ты ничего не решишь, если будешь упрямым.</speak>
             <show chara="shelleyBoredClose" position="left"/>
-            <speak chara="_Shelley">That stubbornness.... is it really more important than your aspirations and dreams?</speak>
+            <speak chara="_Shelley">Это упрямство.... действительно ли оно важнее стремления и мечтаний?</speak>
             <show chara="shelleyBoredClose" position="left" opacity="0.8"/>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">No, that's not the case.</speak>
+            <speak chara="_FaustNoName">Нет, это не суть.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">But... I'd like you to understand there isn't only one aspiration or dream.</speak>
+            <speak chara="_FaustNoName">Но... Я бы хотел, чтобы ты поняла, что есть не только стремления и мечты.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">You and me made such a good team because we both wanted to advance technology. We were able to coexist and prosper together——</speak>
+            <speak chara="_FaustNoName">Мы с тобой сформировали хорошую команду, потому что оба хотели совершенствовать науку. Мы могли сосуществовать и процветать вместе——</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">——But the public who considered me guilty didn't see it that way.</speak>
+            <speak chara="_FaustNoName">——Но общественность, которая признала меня виновным, так не думает.</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">You, who is obsessed with unraveling the 「truth」 of this world, needed a higher perspective.</speak>
             <show chara="faustTalkClose" position="right"/>
