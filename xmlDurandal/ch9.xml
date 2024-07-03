@@ -73,73 +73,73 @@
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">——Но общественность, которая признала меня виновным, так не думает.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">You, who is obsessed with unraveling the 「truth」 of this world, needed a higher perspective.</speak>
+            <speak chara="_FaustNoName">Ты, одержимая разгадкой 「истины」 мира сего, нуждалась во взгляде свыше.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">So it became necessary to develop a combustion engine, a rocket, a spaceship, an artificial intelligence.</speak>
+            <speak chara="_FaustNoName">Так что это слало необходимо - создать двигатель сгорания, рокету, космический корабль, искусственный интеллект.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">And a step towards that was to build the entirety of the machinery of this city.</speak>
+            <speak chara="_FaustNoName">И шагом навстречу этому стало создание целостности у машинерии этого города.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">And when the opportunity presented itself, you decided to make a leap using the power of that jewel.</speak>
+            <speak chara="_FaustNoName">И когда представилась возможность, ты решила совершить прыжок. используя мощь этого сокровища.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">It's all great—— Except for the use of that strange 「jewel」 you got from the black market.</speak>
+            <speak chara="_FaustNoName">Все это прекрасно—— исключая то, что ты приобрела сие 「сокровище」на черном рынке.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">Of course, when it comes to your ambition whatever hidden danger that jewel could bring is a trivial matter. After all, you see that 「jewel」 as just a computing tool.</speak>
+            <speak chara="_FaustNoName">Конечно, когда это касается твоих амбиций, все опасности, скрытые в сокровище - лишь пустяк. В итоге, ты видела это 「сокровище」 лишь как вычислительный инструмент.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">...But in that aspect I'm different from you.</speak>
+            <speak chara="_FaustNoName">...Но в это случае, я отличаюсь от тебя.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Is this world a dream? An illusion? Or perhaps a place between heaven and hell?</speak>
+            <speak chara="_FaustNoName">Этот мир - сон? Иллюзия? Или, возможно, место меж Раем и Адом?</speak>
             <show chara="faustLaughClose" position="right"/>
-            <speak chara="_FaustNoName">——Why would any of that matter to 「me」?</speak>
+            <speak chara="_FaustNoName">——Почему все это имеет значение для「меня」?</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">「I」 think, therefore 「I」 exist, and as long as 「I」 exist, the world is 「real」.</speak>
+            <speak chara="_FaustNoName">「Я」думаю, поэтому 「Я」 существую, и сколь долго, сколь 「Я」 существую, мир 「реален」.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">It's only a philosophical answer—— But that's enough for me.</speak>
+            <speak chara="_FaustNoName">Это лиш философский ответ—— Но этого для меня достаточно.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">The external 「reality」 is not something that can be absolutely proven compared to the concept of 「I」 that everyone can understand.</speak>
+            <speak chara="_FaustNoName">Внешняя 「реальность」 не есть что-то, что можеть быть доказано лишь концептом 「Я」 что все могут понять.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">My 「I」 and someone else's 「I」 cannot confirm each other's existence.</speak>
+            <speak chara="_FaustNoName">Мое 「Я」 и чье-то 「Я」 не могут подтвердить существование друг друга.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">For instance, you are standing in front of me. How can I know that? Because my five senses are conveying me the information 「Shelley is there」.</speak>
+            <speak chara="_FaustNoName">Для начала, ты стоишь передо мной. Как я могу знать это? Потому что мои пять чувств доносят до меня, что  「Шелли здесь」.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">However, it's not logically possible to ascertain that 「Shelley is thinking」 with only sensory information.</speak>
+            <speak chara="_FaustNoName">Однако, логически невозможно установить, что 「Шелли думает」 лишь сенсорной информацией.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">One can use the Turing Test as a metric to 「conclude」 that 「Shelley is thinking」 but——</speak>
+            <speak chara="_FaustNoName">В качестве метрики можно использовать тест Тьюринга, 「заключить」 что 「Шелли думает」 но——</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">That 「conclusion」 is ultimately a 「deduction」. It's impossible to ever determine whether you're the Shelley I know or a replica of her.</speak>
+            <speak chara="_FaustNoName">Это 「заключение」в конечном итоге 「вывод」. Даже невозможно определить, Шелли ты, которую я знаю или копия ее.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">It's a paradox. From the point of view of my 「I」, the 「Objective Cognition」 is the most 「subjective」 of all.</speak>
+            <speak chara="_FaustNoName">Это парадокс. С точки зрения моего 「Я」,  「Объективное мышление」 самое 「субъективное」 из всех.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">In Objectivism, an observer speaks only of 「causality」 and 「conclusion」—— While disregarding the asymmetric 「existence property」 of 「self」 and 「other selves」.</speak>
+            <speak chara="_FaustNoName">В Объективизме, наблюдатель говорит лишь о 「причине」 и 「следствии」—— несмотря на ассиметричность 「свойства существования」  「себя」 и 「иных сущностей」.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">...Then should we in turn support Subjectivism?</speak>
+            <speak chara="_FaustNoName">...Тогда, стоит ли нам, в ином случае, поддежать Субъективизм?</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">The answer is, of course, a rotund no. That would be like throwing away a correct and great thing due to a small mistake.</speak>
+            <speak chara="_FaustNoName">Ответ, конечно, абсолютное нет. Это было бы как бросить важное дело из-за мелкой ошибки.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">We humans rely on continuous technological advancements to evolve. Technology has taken us from barbaric monkeys—— To a splendid civilization.</speak>
+            <speak chara="_FaustNoName">Мы, люди, в своем развитии полагаемся на постоянный технологический прогресс. Технология привела нас от глупых обезьян —— к великолепной цивилизации.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Technology is the only thing that can foster human progress. And technology stands on the side of thorough Objectivism.</speak>
+            <speak chara="_FaustNoName">Технология - еслинственная вещь, которая может способствовать человеческому процессу. А технология стоит на стороне основательного Объективизма.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Rather than simply ignoring philosophy, technology is more than happy to throw it away——</speak>
+            <speak chara="_FaustNoName">Вместо простого игнорирования философии, технология больше рада избавиться от нее——</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">——But that's precisely why technology born of thought can free itself from it to take us to higher heights.</speak>
+            <speak chara="_FaustNoName">——Но именно поэтому, технология, рожденная мыслью, может избавиться от нее и поднять нас на большие высоты.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">In short, based on Objectivism there is no choice but to find a breakthrough for 「I」 in the gap between 「observation」 and 「cognition」.</speak>
+            <speak chara="_FaustNoName">Вкратце, основываясь на Объективизме нет иного пути для  「Я」найти прорыв в пробеле между 「наблюдением」 and 「заключением」.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Cognitive asymmetry exists because we only have the means to recognize our own 「self」 and not 「other selves」.</speak>
+            <speak chara="_FaustNoName">Когнитивная ассимметрия существует потому что мы способны узнать лишь свое 「я」, но не 「другие я」.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">On the outside, there is a physical gap separating each consciousness, but it's impossible for a 「direct cognition」 such as 「I exist」 to surpass the 「self」.</speak>
+            <speak chara="_FaustNoName">На внешней стороне, есть физический зазор между сознательностями, но невохможно для「прямого познания」такого как 「Я существую」 преодолеть 「Я」.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">However——</speak>
-            <speak chara="_FaustNoName">——What if everyone worked together to turn every 「other selves」 into a 「self」?</speak>
-            <speak chara="_FaustNoName">Wouldn't that fundamentally get rid of the problem?</speak>
+            <speak chara="_FaustNoName">Однако——</speak>
+            <speak chara="_FaustNoName">——Что если бы каждый работал над тем. чтобы обратить 「другие я」 в 「я собственное」?</speak>
+            <speak chara="_FaustNoName">Разве это не разрешило бы проблему на корню?</speak>
             <show chara="faustSmileClose" position="right" opacity="0.8"/>
             <show chara="shelleyShockedClose" position="left"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyAngryClose" position="left"/>
-            <speak chara="_Shelley">...Do you realize what you're saying? You designed the 「Brain Engine」 for that reason?</speak>
+            <speak chara="_Shelley">...Ты понимаешь, что несешь? Ты создал 「Мозговой ДВигатель」 для этого?</speak>
             <show chara="shelleyAngryClose" position="left" opacity="0.8"/>
             <show chara="faustLaughClose" position="right"/>
-            <speak chara="_FaustNoName">Hmph. Of course I know—— And I believe I can make you understand as well.</speak>
+            <speak chara="_FaustNoName">Хмпф. Конечно, я знаю —— и верю, что смогу заставить тебя понять.</speak>
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">The Brain Engine passed the Turing Test—— Just like your 「jewel」.</speak>
             <show chara="faustTalkClose" position="right"/>
