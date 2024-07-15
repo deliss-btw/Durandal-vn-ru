@@ -200,11 +200,11 @@
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Можно быть уверенным в индивидуальности собственного 「Я」 но нет убедительного доказательства, что чье-то еще「Я」 существует.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">It's the same for each person. We all follow the same principle of the Turing Test and 「deduce」 everyone else is self-aware.</speak>
+            <speak chara="_FaustNoName">Это схоже для каждого. Мы все следуем одному принципу Теста Тьюринга и 「прослеживаем」 - все остальные самосознательны.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">That degree of acceptance is enough for objective communication. Or rather, that hypothesis is an axiom used to recognize the objective world.</speak>
+            <speak chara="_FaustNoName">Уровень принятия достаточен для объективного общения. Или скорее, эта гипотеза - аксиома используется для распознавания действительного мира.</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">Although from the perspective of skepticism, axioms can't prove their own validity.</speak>
+            <speak chara="_FaustNoName">Хотя с точки зрения скептицизма, аксиомы не могут доказать свою верность.</speak>
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">An optimist would think that every 「self」 is a projection of some kind of high dimensional phenomenon, and that everyone is someone else's 「next life」.</speak>
             <show chara="faustSadClose" position="right"/>
