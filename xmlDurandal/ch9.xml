@@ -206,54 +206,54 @@
             <show chara="faustQuestionClose" position="right"/>
             <speak chara="_FaustNoName">Хотя с точки зрения скептицизма, аксиомы не могут доказать свою верность.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">An optimist would think that every 「self」 is a projection of some kind of high dimensional phenomenon, and that everyone is someone else's 「next life」.</speak>
+            <speak chara="_FaustNoName">Оптимист бы подумал, что каждая 「сущность」 проекция некоего высокоразмерного феномена, и это чья-либо 「следующая жизнь」.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">A pessimist would claim the world is fictional, and even doubt the existence of their own 「self」.</speak>
+            <speak chara="_FaustNoName">Пессимист бы признал, что мир вымышлен, и сомневался бы даже в существовании своего 「Я」.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Sadly, regardless of what they believe, their thoughts become 「nothing」 at the moment of death.</speak>
+            <speak chara="_FaustNoName">Прискорбно, не смотря на их верования, их мысли обращаются 「ничем」 в момент смерти.</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">Philosophers have debated this topic to death but no conclusive answer has ever been found. They only managed to give it an air of 「end-of-life care」.</speak>
+            <speak chara="_FaustNoName">Философы оббсуждали эту тему до смерти но окончательный ответ не найден. Им лишь удалось придать ему вид 「заботы в конце жизни」.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">But now, thanks to the 「Brain Engine」, we humans can challenge 「death」.</speak>
+            <speak chara="_FaustNoName">Но сейчас, спасибо 「Мозговому двигателю」, мы, люди, можем бросить вызов 「смерти」.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">I believe the day when all consciousness merge into one single intelligent machine that share the same 「self」 will come. We will not only effectively become 「immortal」, but also achieve 「Great Unity」 in the process.</speak>
+            <speak chara="_FaustNoName">Я верю день, когда все личности сольются в одну разумную машину, которая делит одну 「личность」 придет. Мы не только эффективно станем 「бессмертными」, но еще и достичь 「Великого Единства」 в процессе.</speak>
             <show chara="faustTalkClose" position="right" opacity="0.8"/>
             <show chara="shelleyColdClose" position="left"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyArrogantClose" position="left"/>
-            <speak chara="_Shelley">...You're crazy. If it really were 「immortality」 or 「Great Unity」, there is no way the citizens would had voted to exile you from the city.</speak>
+            <speak chara="_Shelley">...Ты сумасшедший. Будь 「Бессмертие」 или 「Великое Единство」 в действительности, жители бы не голосовали за твое изгнание.</speak>
             <show chara="shelleyArrogantClose" position="left" opacity="0.8"/>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">Yes, that could be the case.</speak>
+            <speak chara="_FaustNoName">Да, это могло быть причиной.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">But, Shelley, how many people in the world do you think are able to truly understand the teachings of a prophet?</speak>
+            <speak chara="_FaustNoName">Но, Шелли, как много людей в мире, по-твоему, могут понять учения пророка?</speak>
             <show chara="faustDisdainClose" position="right"/>
-            <speak chara="_FaustNoName">Just how many people think reality is the visible world they see, and forget that the human eye is just a sensory organ that can only perceive specific electromagnetic wavelengths?</speak>
+            <speak chara="_FaustNoName">Сколько людей думают, что реальность это мир, который они видят, и забывают что человеческий глаз лишь орган зрения который может улавливать лишь определенные длины волн?</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">The truth is always in the hands of a few.</speak>
-            <speak chara="_FaustNoName">Everyone else when they see the light of the truth, either readily accepts it or rebels against it until they're forced to come to terms with it.</speak>
+            <speak chara="_FaustNoName">Правда всегда в руках немногих.</speak>
+            <speak chara="_FaustNoName">Все остальные, когда видят свет истины, либо принимают ее, либо восстают против нее, пока не смирятся с ней.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">True innovation is to completely destroy the old world and recreate it with a social system that suits your purposes.</speak>
+            <speak chara="_FaustNoName">Истинное новшество разрушает старый мир и пересоздают с социальной системой, приемлимо для тебя.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">By exiling me through a vote you have only given me the title of 「Martyr」.</speak>
+            <speak chara="_FaustNoName">Но мое изгнание через голосование лишь дает мне статус 「Мученика」.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">It hurts to lose valuable resources, but my philosophy is my way of life.</speak>
+            <speak chara="_FaustNoName">Больно терять ценные ресурсы, но моя философия - моя жизнь.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">...Like you said, I'm probably crazy.</speak>
+            <speak chara="_FaustNoName">...Как ты сказала, Возможно, я сумасшедший.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">But I wish you would remember this——</speak>
+            <speak chara="_FaustNoName">Но я бы хотел, чтобы ты вспомнила——</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">There is a philosophy behind every kind of madness.</speak>
+            <speak chara="_FaustNoName">За любым безумием кроется философия.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">The crazy might fall for a variety of reasons—— But their philosophy never will.</speak>
+            <speak chara="_FaustNoName">Безумцы могут провалиться по разным причинам —— Но их философия - нет.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">Farewell, President Shelley. Even if we meet again one day, I won't be called 「Faust」 anymore.</speak>
+            <speak chara="_FaustNoName">Прощайте, Президент Шелли. Даже если мы и увидимся однажды, я боле не буду зваться 「Фаустом」.</speak>
             <goto goto="20" clockwise="1"/>
         </scene>
         <scene id="20" background="02_22_computerRoom.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">President Shelley?</speak>
+            <speak chara="_Schrodinger">Президент Шелли?</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyShockedClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
@@ -262,15 +262,15 @@
             <speak chara="_Michel">Shelley!</speak>
             <show chara="micheFocusClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">Ah, I'm sorry. I was lost in thought.</speak>
+            <speak chara="_Shelley">А, прошу прощения. Я запусталась в мыслях.</speak>
             <show chara="shelleySmileClose" position="right"/>
-            <speak chara="_Shelley">So, did you regain control of the robots?</speak>
+            <speak chara="_Shelley">Итак, вы восстановили контроль над роботами?</speak>
             <show chara="shelleySmileClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Somehow I was able to put them in sleep mode.</speak>
+            <speak chara="_Schrodinger">Как-то, я смог перевести их в спящий режим.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <!-- FLOW: Deploy reserve personnel immediately -->
-            <speak chara="_Schrodinger">Deploy immediately reserve personnel to maintain law and order—— Otherwise there won't be anything to stop crimes from happening.</speak>
+            <!-- FLOW: Немедленно развенуть резервный персонал -->
+            <speak chara="_Schrodinger">Немедленно развенуть резервный персонал дабы установить закон и порядок —— в противном случае, не будет ничего, что остановило бы преступления.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
             <speak chara="_Shelley">Yes, I will do that immediately, but that's not everything we need to do, correct?</speak>
