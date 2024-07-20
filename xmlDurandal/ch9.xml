@@ -342,101 +342,101 @@
             <bgm src="bigTask.mp3" status="start"></bgm>
             <text>В то же время——</text>
             <show chara="cowboy1Close" position="left"/>
-            <speak chara="_militiaA">Will everything be okay? That's... a fire, isn't it?</speak>
+            <speak chara="_militiaA">Все будет хорошо? Это... огонь, не так ли?</speak>
             <show chara="cowboy1Close" position="left" opacity="0.8"/>
             <show chara="cowgirl1Close" position="right"/>
-            <speak chara="_militiaB">Can a simple fire produce that much black smoke? It could had been... an explosion...</speak>
+            <speak chara="_militiaB">Может простой огонь наводить столько черного дыма? Это мог быть... взрыв...</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="champoColdClose" position="center"/>
-            <speak chara="_Champollion">Cough.</speak>
+            <speak chara="_Champollion">Кгах.</speak>
             <show chara="champoNormalClose" position="center"/>
-            <speak chara="_Champollion">Hear me, reserve soldiers gathered here.</speak>
+            <speak chara="_Champollion">Услышь меня, здесь собраны солдаты резерва.</speak> (или запаса?)
             <show chara="champoSmileClose" position="center"/>
-            <speak chara="_Champollion">You have been selected for this mission because you are highly esteemed people who have the President's complete trust.</speak>
+            <speak chara="_Champollion">Вы были выбраны для этой миссии, потому что вы очень уважаемые люди, у кого есть полное доверие Президента.</speak>
             <show chara="champoQuestionClose" position="center"/>
-            <speak chara="_Champollion">As you can see in the distance, smoke is coming out of our beloved city——</speak>
+            <speak chara="_Champollion">Как вы можете видеть со стороны, дым идет от нашего любимого города——</speak>
             <show chara="champoColdClose" position="center"/>
-            <speak chara="_Champollion">——The culprits who did that are now hiding behind the poisonous gas before you.</speak>
+            <speak chara="_Champollion">——Виновники этого теперь скрываются за ядовитым газом перед вами.</speak>
             <show chara="champoColdClose" position="center"/>
-            <speak chara="_Champollion">They, who kidnapped scholars and attacked the city, are laughing at us from the safety of their hideout!</speak>
+            <speak chara="_Champollion">Те, кто похитил ученых и атаковал город, смеются над нами из своего безопасного укрытия!</speak>
             <hide position="center"></hide>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">(...H-How did she figure out they are doing that?)</speak>
+            <speak chara="_Bianka">(...Как она догадалась, что они за этим стоят?)</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">(.....)</speak>
             <show chara="rita17AngryEmClose" position="right"/>
-            <speak chara="_Rita">(She didn't do such thing.)</speak>
+            <speak chara="_Rita">(Она дне делала такого.)</speak>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">(Causation isn't important at a time like this. All that matters is to keep the soldier's morale up.)</speak>
+            <speak chara="_Rita">(Причинно-следственная связь не важна в этот раз. Значение имеет только боевуой дух солдат.)</speak>
             <show chara="rita17AngryEmClose" position="right"/>
-            <speak chara="_Rita">(That woman isn't a detective and much less an archaeologist.)</speak>
+            <speak chara="_Rita">(Эта женщина не детектив и тем более - не археолог.)</speak>
             <show chara="rita17AngryEmClose" position="right"/>
-            <speak chara="_Rita">(Only a conman or a politician—— Could say uncertainties as if they were true.)</speak>
+            <speak chara="_Rita">(Лишь мошенник или политик —— могу сказать неопределенно, как если бы оно было правдой.)</speak>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_Rita">(...I'm glad someone like that is on our side.)</speak>
+            <speak chara="_Rita">(...Я счаслива подобному человеку на нашей стороне.)</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="champoColdClose" position="center"/>
-            <speak chara="_Champollion">...We are standing against a terrifying criminal organization.</speak>
+            <speak chara="_Champollion">...Мы простивостоим устрашающей преступной организации.</speak>
             <show chara="champoColdClose" position="center"/>
-            <speak chara="_Champollion">They are trying to destroy the city and take our daily lives from us.</speak>
+            <speak chara="_Champollion">Они пытаются разрушить наш город и привычный уклад жизни.</speak>
             <show chara="champoSmileClose" position="center"/>
-            <speak chara="_Champollion">We have pinpointed the location of their hideout thanks to the valiant efforts of our comrades.</speak>
+            <speak chara="_Champollion">Мы установили их местоположение благодаря доблестным усилиям наших товарищей.</speak>
             <show chara="champoNormalClose" position="center"/>
-            <speak chara="_Champollion">This is the last time they will be able to rejoice——</speak>
+            <speak chara="_Champollion">Это последний раз, когда они могут радоваться——</speak>
             <show chara="champoSmileClose" position="center"/>
-            <speak chara="_Champollion">——Because we are going to make them pay for what they did to us.</speak>
+            <speak chara="_Champollion">——Потому что мы заставим их заплатить за содеянное.</speak>
             <show chara="champoSmileClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="_Champollion">My brave soldiers, get ready to depart!</speak>
+            <speak chara="_Champollion">Мои хравбрые солдаты, приготовьтесь к высадке!</speak>
             <show chara="champoSmileClose" position="center"/>
-            <speak chara="_Champollion">Long live Alexandria!</speak>
+            <speak chara="_Champollion">Долгих лет Александрии!!</speak>
             <hide position="center"></hide>
             <show chara="cowboy1Close" position="left"/>
-            <speak chara="_militiaA">Yeahhh!!!</speak>
+            <speak chara="_militiaA">Даааа!!!</speak>
             <show chara="cowboy1Close" position="left" opacity="0.8"/>
             <show chara="cowboy2Close" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_militiaC">Long live Alexandria!!</speak>
+            <speak chara="_militiaC">Долгих лет Александрии!!</speak>
             <goto goto="50" clockwise="1"/>
         </scene>
         <scene id="50" background="tunnelSearchLight.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
-            <text>30 minutes later, inside the mysterious facility——</text>
-            <speak chara="_Bianka">(Gesture: No enemies in sight.)</speak>
-            <speak chara="_Rita" remark="next">(Gesture: The concentration of hydrogen sulfide is approaching critical levels. It won't be long until it reaches its explosive limit. Please don't take off your masks.</speak>
+            <text>30 минут спустя, внутри загадочного учреждения——</text>
+            <speak chara="_Bianka">(Жест: Нет врагов в поле зрения.)</speak>
+            <speak chara="_Rita" remark="next">(Жест: концентрация сульфида водорода достигает критических значений. Не займет много времени, когда он достигнет опасных значений. Пожалуйста, не снимайте маски.</speak>
             <remark post="U2FsdGVkX1+w2sx7eFkBkKtYdeIw">
                 <p class="article-text-h">注：</p>
-                <p class="article-text">硫化氢在空气中的最小爆炸极限约为4%，而绝对致死浓度为0.1%以上。</p>
+                <p class="article-text">Минимальный предел взрываемости сероводорода в воздухе составляет около 4%, а абсолютная смертельная концентрация – более 0,1%.</p>
             </remark>
-            <speak chara="_Champollion">(Gesture: Let's go. Follow me.)</speak>
-            <speak chara="_Manfred">(Gesture: ...Wait.)</speak>
-            <speak chara="_Manfred">(Gesture: Northwest.)</speak>
-            <speak chara="_Manfred">(Gesture: Body spotted.)</speak>
+            <speak chara="_Champollion">(Жест: Начали. Слейдуйте за мной.)</speak>
+            <speak chara="_Manfred">(Жест: ...Подождите.)</speak>
+            <speak chara="_Manfred">(Жест: Северо-Запад.)</speak>
+            <speak chara="_Manfred">(Жест: Замечен враг.)</speak>
             <goto goto="60" change="#000000"/>
         </scene>
         <scene id="60" background="CG9-1.jpg">
             <bgm src="01_18_horror.mp3" status="continue"></bgm>
             <cg src="CG9-1.jpg" bg="CG9-1.jpg" fadeIn="0" fadeOut="1"></cg>
-            <speak chara="_Rita">(Lips and fingertips turned blue, bubbles in the mouth, congestion under the eyelids...)</speak>
-            <speak chara="_Rita">(No signs of trauma. The cause of death is asphyxiation caused by poisoning.)</speak>
-            <speak chara="_Rita">(Some kind of incident must have happened at this facility.)</speak>
-            <speak chara="_Rita">(Perhaps a gas leak around the time the hostages tried to escape.)</speak>
-            <speak chara="_Rita">(There are 5 bodies. 3 belong to the kidnappers and I presume the other 2 are the hostages.)</speak>
-            <speak chara="_Rita">(Taking into account the gas concentration and the location of the bodies——)</speak>
-            <speak chara="_Rita">(——It seems that whoever tried to escape was unaware the outside was filled with gas and forcibly opened a sealed door.)</speak>
-            <speak chara="_Rita">(Fortunately for us, our target isn't among the dead.)</speak>
-            <speak chara="_Rita">(Somewhere inside this facility there is a place we haven't seen yet.)</speak>
-            <speak chara="_Rita">(I suggest to conduct a thorough search.)</speak>
-            <speak chara="_Rita">(Our target could still be alive.)</speak>
-            <speak chara="_Rita">(And of course, the same goes for the true culprit behind this incident.)</speak>
+            <speak chara="_Rita">(Губы и отпечатки пальцев становятся синими, пузыри во рту, скопления под глазами...)</speak>
+            <speak chara="_Rita">(Нет признаков травмы. Случай смерти от асфиксии в результате отравления.)</speak>
+            <speak chara="_Rita">(На этом объекте, должно быть, произошел какой-то инцидент.)</speak>
+            <speak chara="_Rita">(Возможно, произошла утечка газа примерно в то время, когда заложники пытались сбежать.)</speak>
+            <speak chara="_Rita">( 5 тел. Трое принадлежат похитителям, и я предполагаю, что двое других - заложники..)</speak>
+            <speak chara="_Rita">(Учитывая концентрацию газа и положение тел——)</speak>
+            <speak chara="_Rita">(——Похоже, тот, кто пытался сбежать, не знал, что снаружи загазованно, и насильно открыл запечатанную дверь.)</speak>
+            <speak chara="_Rita">(К счастью для нас, наша цель не среди погибших.)</speak>
+            <speak chara="_Rita">(Где-то внутри этого учреждения есть место, которого мы пока не видели.)</speak>
+            <speak chara="_Rita">(Предлагаю провести тщательный поиск.)</speak>
+            <speak chara="_Rita">(Наша цель еще может быть жива.)</speak>
+            <speak chara="_Rita">(И, конечно же, то же самое касается и истинного виновника этого инцидента.)</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="CG8-2.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
-            <!-- FLOW: and that only you and I are the only ones left -> and that you and I are the only ones left -->
+            <!-- ПОТОК: и что остались только мы с тобой -> и что остались только мы с тобой -->
             <speak chara="_AliceGreen">...I believe I mentioned it before. After the Professor's death there was a disagreement between his assistants and the scholars they brought here, and that only you and I are the only ones left.</speak>
             <speak chara="_AliceGreen">I...</speak>
             <speak chara="_AliceGreen">Deliberately let it happen.</speak>
