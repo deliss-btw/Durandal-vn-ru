@@ -273,74 +273,74 @@
             <speak chara="_Schrodinger">Немедленно развенуть резервный персонал дабы установить закон и порядок —— в противном случае, не будет ничего, что остановило бы преступления.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">Yes, I will do that immediately, but that's not everything we need to do, correct?</speak>
+            <speak chara="_Shelley">Да, Я немедля это сделаю, но это не все, что нам нужно, верно?</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Yes. We must crush the source of the enemy's interference to win this war of information.</speak>
+            <speak chara="_Schrodinger">Да. Мы должны уничтожить источник вражеского вмешательства чтобы победить в информационной войне.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="micheSeriousClose" position="right"/>
-            <speak chara="_Michel">...You mean locating the enemy's base, launch an attack and take control from them.</speak>
+            <speak chara="_Michel">...Ты про обнаружение расположения базы противника, начать атаку и перехватить у них контроль.</speak>
             <show chara="micheSeriousClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">That would indeed solve this problem permanently.</speak>
+            <speak chara="_Schrodinger">Это бы действительно решило проблему навсегда.</speak>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">But before we get to that point we can use the 「gem」 to launch a counterattack.</speak>
+            <speak chara="_Schrodinger">Но прежде. чем мы доберемся до этого, мы можем использовать 「самоцвет」 чтобы начать контратаку.</speak>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...By making use of a 「little trick」.</speak>
+            <speak chara="_Schrodinger">...Используя「небольшую уловку」.</speak>
             <show chara="schroCalmClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">...I'm correct to assume that to use this 「little trick」 of yours the machines here won't be enough?</speak>
+            <speak chara="_Shelley">...Я прав, предполагая использовать этот 「маленький трюк」 твоих машин было бы недостаточно?</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Yes. Regaining control of the robots was possible from this server room, but to invade the enemy's system I will need to use the 「Gem of Reason」 itself.</speak>
+            <speak chara="_Schrodinger">Да. Восстановить контроль надо роботами можно было из этой серверной комнаты, но чтобы внедриться во вражескую систему мне понадобится использовать 「Самоцвет Разума」.</speak>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">Because the machines here are only a limited interface connected the 「gem」.</speak>
+            <speak chara="_Schrodinger">Потому что машины тут - лишь ограниченный интерфейс, подключенный к 「самоцвету」.</speak>
             <show chara="schroSmileClose" position="left" opacity="0.8"/>
             <show chara="shelleyBoredClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleySmileClose" position="right"/>
             <speak chara="_Shelley">Very well.</speak>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">In that case we need to leave this place and go to the real research facility of the city.</speak>
+            <speak chara="_Shelley">В таком случае мы должны покинуть это место и пойти в настоящее научное учреждение этого города.</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Heh. So the 「gem」 wasn't here after all.</speak>
+            <speak chara="_Shakespeare">Хех. Так 「самоцвет」 все же не был здесь.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="shelleyBoredClose" position="right"/>
-            <speak chara="_Shelley">Obviously. Laugh at me all you want, but even I know to 「not put all my eggs in one basket」.</speak>
+            <speak chara="_Shelley">Очевидно. Смейся надо мной сколько хочешь, но дяже я знаю, что 「не надо складывать все яйца в одну корзину」.</speak>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">Let's go—— We can take my 「presidential car」 to get there.</speak>
+            <speak chara="_Shelley">Поехали—— Мы можем взять мою 「президентскую машину」 чтобы добраться туда.</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="rocketLaunchSite.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="shakesConfidentClose" position="center"/>
-            <speak chara="_Shakespeare">...Amazing.</speak>
+            <speak chara="_Shakespeare">...Удивительно.</speak>
             <hide position="center"></hide>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">A rocket launch site...</speak>
+            <speak chara="_Schrodinger">Место запуска рокеты...</speak>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...Were you planning to use the 「gem」 to explore space?</speak>
+            <speak chara="_Schrodinger">...Ты планировала использовать 「самоцвет」 для исследования космоса?</speak>
             <show chara="schroCalmClose" position="left" opacity="0.8"/>
             <show chara="shelleyArrogantClose" position="right"/>
-            <speak chara="_Shelley">...Do you have any problem with that?</speak>
+            <speak chara="_Shelley">...У тебя какие-то проблемы с этим?</speak>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">By learning about what kind of universe we live in we can have a better understanding of the meaning behind the lives that exist within it.</speak>
+            <speak chara="_Shelley">Изучая то, в какой вселенной мы живем мы можем лучше понять смысл существования всех вещей в ней.</speak>
             <show chara="shelleyArrogantClose" position="right"/>
-            <speak chara="_Shelley">...Pessimists and skeptics like to say 「life has no meaning」.</speak>
+            <speak chara="_Shelley">...Пессимисты и скептики скажут 「жизнь не имеет значения」.</speak>
             <show chara="shelleySmileClose" position="right"/>
-            <speak chara="_Shelley">It's true that life 「itself」 has no meaning.</speak>
+            <speak chara="_Shelley">Верно, что жизнь「сама по себе」 не имеет значения.</speak>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">We are the ones who give it a meaning as we live it.</speak>
+            <speak chara="_Shelley">Мы единственные, кто придает своей жизни значение.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shelleySmileClose" position="center"/>
-            <speak chara="_Shelley">...Let's go. What you call a 「gem」 is at the research facility.</speak>
+            <speak chara="_Shelley">...Начали. То что ты зовешь 「самоцветом」 в исследовательском учреждении.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="alexandriaOasisNightSmoke.jpg">
             <bgm src="bigTask.mp3" status="start"></bgm>
-            <text>At the same time——</text>
+            <text>В то же время——</text>
             <show chara="cowboy1Close" position="left"/>
             <speak chara="_militiaA">Will everything be okay? That's... a fire, isn't it?</speak>
             <show chara="cowboy1Close" position="left" opacity="0.8"/>
