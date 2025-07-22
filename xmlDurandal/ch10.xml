@@ -8,39 +8,39 @@
         </scene>
         <scene id="10" background="rocketFactory.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
-            <text>At the rocket research facility under the pyramid——</text>
+            <text>В центре исследования ракет под пирамидой——</text>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">Alright. I'm done completely deleting that hijacking program. The robots should be safe from being hacked now.</speak>
+            <speak chara="_Schrodinger">Хорошо. Я закончила с удалением этой программы-угонщика. Роботы должны быть в безопасности.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">President Shelley... I would like for you to explain the history of this city.</speak>
+            <speak chara="_Schrodinger">Президент Шелли... Хотелось бы услышать об истории этого города.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">The 「forgotten history」, I mean.</speak>
+            <speak chara="_Schrodinger"> 「Запретную историю」, имею в виду.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyShockedClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyShockedClose" position="right" opacity="0.8"/>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">Who's 「Professor Faust」? According to the machine's records, he used to know you.</speak>
+            <speak chara="_Schrodinger">Кто такой 「Профессор Фауст」? Согласно записям машины, он знал вас.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyBoredClose" position="right"/>
-            <speak chara="_Shelley">...An old research partner. He tried to make a super computer made out of human brains and was exiled from the city 18 years ago.</speak>
+            <speak chara="_Shelley">...Старый партнер по исследованию. Он пытался создать суперкомпьютер на основе человеческих мозгова и был изгнан из города восемнадцать лет назад.</speak>
             <show chara="shelleyBoredClose" position="right" opacity="0.8"/>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...I see. He was truly a genuine 「mad scientist」.</speak>
+            <speak chara="_Schrodinger">...Ясно. Он был действительно истинным 「безумным ученым」.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">The machine in question was made by 「Professor Faust」. However, it's not possible to condemn a dead person.</speak>
+            <speak chara="_Schrodinger">Машина, о которой идет речь, создана「Профессором Фаустом」. Однако, невозможно обвинять покойника.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">...He died?</speak>
+            <speak chara="_Shelley">...Он умер?</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Yes, it happened two days ago. The cause of death is overwork.</speak>
+            <speak chara="_Schrodinger">Да, это случилось два дня назад. По причине переработки.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyShockedClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyShockedClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">He completed a robot hacking program before he died, put it inside the machine, and let the attack be carried out autonomously.</speak>
+            <speak chara="_Schrodinger">Он завершил программу для взлома роботов перед смертью, поместил в машинуи позволил атаке пройти автономно.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
