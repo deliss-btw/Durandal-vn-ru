@@ -46,86 +46,86 @@
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">The ones who kidnapped Jimmy at the library were Faust's men.</speak>
-            <speak chara="_Schrodinger">They were unable to perform maintenance after Faust's sudden death, so they kidnapped three scholars, Jimmy being one of them.</speak>
+            <speak chara="_Schrodinger">Те, кто похитил Джимми в библионеки были людми Фауста.</speak>
+            <speak chara="_Schrodinger">Они не могли провести технические работы сразу после безвременной смерти Фауста, поэтому они похитили трех ученых, среди которых был Джимми.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">——Our companions pursuing the kidnappers have seized control over Faust's facility.</speak>
+            <speak chara="_Schrodinger">——Наши компаньоны, преследовавшие похитителей, захватили контроль над сооружением Фауста.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">It was an easy job.</speak>
-            <speak chara="_Schrodinger">Because there was no one left besides Jimmy and the machine at the facility.</speak>
+            <speak chara="_Schrodinger">Это было легко.</speak>
+            <speak chara="_Schrodinger">Потому что там не осталось никого, кроме Джимми и машин.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="micheSeriousClose" position="right"/>
-            <speak chara="_Michel">...What do you mean?</speak>
+            <speak chara="_Michel">...Что ты имеешь в виду?</speak>
             <show chara="micheSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">Hey! What happened to Jimmy!?</speak>
+            <speak chara="_Shakespeare">Эй! Что случилось с Джимми!?</speak>
             <show chara="shakesQuestionClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">There was an incident involving poisonous gas at the facility. Don't worry, Jimmy is safe. The machine behind this incident helped him.</speak>
+            <speak chara="_Schrodinger">Внутри здания был отравляющий газ. Не волнуйся, Джимми в безопасности. Машина, стоящая за сим инцидентом помогла ему.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">...The machine helped him? What do you mean?</speak>
+            <speak chara="_Shakespeare">...Машина помогла ему? О чем ты?</speak>
             <show chara="shakesQuestionClose" position="right" opacity="0.8"/>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">I explained it a moment ago, Captain.</speak>
-            <speak chara="_Schrodinger">Faust was planning to make a super computer using human brains, and that computer developed an ego.</speak>
+            <speak chara="_Schrodinger">Я объяснила это только что, Капитан.</speak>
+            <speak chara="_Schrodinger">Фауст планировал компьютер на основе человеческих мозгов и этот компьютер обрел эго.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">According to the records——</speak>
-            <speak chara="_Schrodinger">That machine seems to have a cute humanoid interface. It refers to itself as 「Alice」.</speak>
+            <speak chara="_Schrodinger">Согласно записям——</speak>
+            <speak chara="_Schrodinger">Похоже. у этой машины есть милый гуманоидный интерфейс. Он опознает себя как  「Алиса」.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shakesPityClose" position="right"/>
             <speak chara="_Shakespeare">.....</speak>
             <show chara="shakesLaughClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Shakespeare">Ahahahaha!</speak>
+            <speak chara="_Shakespeare">Ахахахаха!</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">That Jimmy! He totally fell in love, didn't he?</speak>
+            <speak chara="_Shakespeare">Джимми! Он по уши влюбился, не так ли?</speak>
             <show chara="shakesLaughClose" position="right"/>
-            <speak chara="_Shakespeare">All alone, with a cute machine doll, who even saved his life... Hehe, hehehe.</speak>
+            <speak chara="_Shakespeare">Совершенно один, с милой робо-куклой, которая спасла его жизнь... Хехе, хехехе.</speak>
             <show chara="shakesLaughClose" position="right" opacity="0.8"/>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">...Cough.</speak>
+            <speak chara="_Schrodinger">...Кхм.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">In any case, if you look at it objectively, that machine is a terrorist who disrupted the order of the city.</speak>
+            <speak chara="_Schrodinger">В любом случае, если ты взглянешь объективно, эта машина - террорист, нарушивший порядок в городе.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">And by making use of the poisonous gas of the lake, it killed the other hostages and Faust's men.</speak>
+            <speak chara="_Schrodinger">И применением ядовитого газа из озера, это убило жителей и людей Фауста.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">It claims 「my life was threatened」 but—— That sort of legitimate defense argument wouldn't apply to it. Right, President Shelley?</speak>
+            <speak chara="_Schrodinger">Это утверждает 「моей жизни угрожали」, но —— \тот аргумент законной защиты не был бы тут применим. Так, президент Шелли?</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">Obviously.</speak>
+            <speak chara="_Shelley">Очевидно.</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="micheFocusClose" position="right"/>
-            <speak chara="_Michel">The law dictates a minimum of 10 years of community service and constant surveillance.</speak>
+            <speak chara="_Michel">Закон диктует как минимум десять лет обзественных работ под постоянным наблюдением.</speak>
             <show chara="micheSeriousClose" position="right"/>
-            <speak chara="_Michel">But the culprit being a machine makes the situation very complicated.</speak>
+            <speak chara="_Michel">Но обвиняемый - машина. Это осложняет ситуацию.</speak>
             <show chara="micheSeriousClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">...No, there is a benefit in being a 「machine」.</speak>
+            <speak chara="_Shakespeare">...Нет, есть польза в том, чтобы быть 「машиной」.</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="micheFocusClose" position="right"/>
-            <speak chara="_Michel">Benefit...? Which?</speak>
+            <speak chara="_Michel">Польза...? Какая?</speak>
             <show chara="micheFocusClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">That 「Alice」 is made out of human brains, right?</speak>
+            <speak chara="_Shakespeare">Эта 「Алиса」 создана из человеческих мозгов, верно?</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">A 「human brain」 can only come from human beings.</speak>
+            <speak chara="_Shakespeare"> 「Людской мозг」 может быть только у людей.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">So it could be said what 「Alice」 is made of, her 「real form」, is a bunch of ordinary people.</speak>
+            <speak chara="_Shakespeare">Так что, чожно сказать, что 「Алиса」 сделана из, ее 「реальной формы」 кучи обычных людей.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="micheDrySmileClose" position="right"/>
-            <speak chara="_Michel">That's... a possible interpretation, yes.</speak>
+            <speak chara="_Michel">Это... допустимая интерпретация, да.</speak>
             <show chara="micheDrySmileClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Then, shouldn't Alice be treated as a normal person? All you have to do is apply the law to it, and charge it with disturbing the order of the city and killing people with poisonous gas.</speak>
+            <speak chara="_Shakespeare">Следовательно, нельзя ли отнестись к ней, как к обычному человеку ? Все, что вам нужно сделать - лишь применить к этому закон, и обвинить в нарушении порядка, и убийстве жителей города.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">And thanks to being a machine, you can easily investigate the evidence... Right, Schrodinger-sensei?</speak>
+            <speak chara="_Shakespeare">И, спасибо машине - очень лего найти доказательства... Так ведь, Профессор Шрёдингер?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">Yes. We posses admin privileges over the machine. Thoroughly inspecting all of its records, memories and emotions is possible.</speak>
+            <speak chara="_Schrodinger">Да. У нас есть права администрирования. Тщательная проверка всех записей и воспоминаний возможна.</speak>
             <show chara="schroSmileClose" position="left" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">See?</speak>
+            <speak chara="_Shakespeare">Видите?</speak>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Also, some of those brains probably belong to the outsiders who have been disappearing these past few years.</speak>
             <show chara="shakesSmileClose" position="left"/>
@@ -421,3 +421,4 @@
         </scene>
     </story>
 </data>
+
