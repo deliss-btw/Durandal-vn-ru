@@ -127,35 +127,35 @@
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Видите?</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Also, some of those brains probably belong to the outsiders who have been disappearing these past few years.</speak>
+            <speak chara="_Shakespeare">Так же, часть этих мозгов принадлежит гражданам, пропавшим здесь в последнее время.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">In that case, 「Alice」 is not just the culprit behind this incident, but also a victim.</speak>
+            <speak chara="_Shakespeare">В таком случае, 「Алиса」не просто винвница проишествия, но и жертва.</speak>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">If you're worried the jury might not reach an unanimous verdict, bring that up.</speak>
+            <speak chara="_Shakespeare">Если беспокоитесь, что присяжные не вынесут единогласный вердикт, поднимите этот вопрос.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="shelleyArrogantClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleySmileClose" position="right"/>
-            <speak chara="_Shelley">As always there is a hidden motive behind your actions. Would it kill you to say what you want clearly?</speak>
+            <speak chara="_Shelley">Как всегда - за вашими действиями есть скрытый мотив. Для вас смерти подобно сказать прямо?</speak>
             <show chara="shelleySmileClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Oh my, I've been found out.</speak>
+            <speak chara="_Shakespeare">О боже, я раскрыта.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Fine, I'll be clear. I think this is the perfect opportunity for you to hand over the 「Gem of Reason」 to us.</speak>
+            <speak chara="_Shakespeare">Ладно, Буду честна. Я думаю, это прекрасная возможность для вас передать 「Жемчужину Разума」нам.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">That gem belongs to the only weapon capable of bringing down that 「wall」 near the ocean.</speak>
+            <speak chara="_Schrodinger">Эта жемчужина принадлежитs лишь оружию, способному уничтожить 「стену」 рядом с океаном.</speak>
             <goto goto="20" clockwise="1"/>
         </scene>
         <scene id="20" background="truckInterior.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
-            <text>Bianka Ataegina kept quiet and let herself be swayed by the movement of the truck.</text>
-            <text>Her partner decided by lottery this morning, Jimmy Watt, also sits in silence in front of her.</text>
-            <text>He isn't a talkative person in the first place.</text>
-            <text>Which made the already strange conclusion to this case make her feel like she had something stuck in the back of her throat.</text>
-            <text>Deep inside that facility, Bianka found a boy and a girl in an unexpected mood.</text>
-            <text>The boy's name was Jimmy, and the girl's name was Alice.</text>
-            <text>Despite being kidnapped, Jimmy didn't show any joy when he was rescued by Bianka and the rest of his crew.</text>
-            <text>He said nothing, and with a serious look on his face, he handed over a document to Bianka.</text>
+            <text>Бьянка Атаэглина оставалась тихой и позволила себе покачиваться в такт движениям вагона.</text>
+            <text>Ее партнер, выбранный лотереей этим устром, Джимми Ватт, также сидит в тишине перед ней.</text>
+            <text>Он не очень разговорчив. во-первых.</text>
+            <text>Что привело к странному заключению: зщаставило ее почувтсвовать, что что-то застрало в горле.</text>
+            <text>В глубине этого сооружения Бьянка нашла парня и девушку в неожиданном состоянии.</text>
+            <text>Парня звали Джимми, а девушку - Алиса.</text>
+            <text>Несмотря на то, что он был похищшен, Джимми не выразил радости по поводу своего спасения Бьянкой и остатсками своего персонала</text>
+            <text>Он ничего не сказал и с серьезным лицом передал документ Бьянке.</text>
             <text>The document was signed by the 「President of the City Administration Group」. It detailed how a team under her orders was able to take control of the facility before the ground team did, and instructions on what to do with the girl and the facility.</text>
             <text>That girl saved Jimmy's life, but she is also a suspect who let people that could have been saved die. And on top of that, she's guilty of causing this incident.</text>
             <text>...No, that's wrong. She should be considered innocent.</text>
@@ -421,4 +421,5 @@
         </scene>
     </story>
 </data>
+
 
