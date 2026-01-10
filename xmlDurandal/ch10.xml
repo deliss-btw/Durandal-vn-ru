@@ -156,35 +156,35 @@
             <text>Парня звали Джимми, а девушку - Алиса.</text>
             <text>Несмотря на то, что он был похищшен, Джимми не выразил радости по поводу своего спасения Бьянкой и остатсками своего персонала</text>
             <text>Он ничего не сказал и с серьезным лицом передал документ Бьянке.</text>
-            <text>The document was signed by the 「President of the City Administration Group」. It detailed how a team under her orders was able to take control of the facility before the ground team did, and instructions on what to do with the girl and the facility.</text>
-            <text>That girl saved Jimmy's life, but she is also a suspect who let people that could have been saved die. And on top of that, she's guilty of causing this incident.</text>
-            <text>...No, that's wrong. She should be considered innocent.</text>
-            <text>After all, she's just a mere computer.</text>
-            <text>Rather, the suspicious one here is Jimmy.</text>
-            <text>Even Bianka feels that way.</text>
-            <text>Even after reuniting with his companions he only kept asking 「who will be in charge of Alice's daily maintenance?」.</text>
-            <text>...Maybe engineering is a profession full of eccentrics.</text>
-            <text>Could it be——</text>
-            <text>That he fell in love at first sight with this doll, this computer?</text>
-            <text>Bianka shook her head.</text>
-            <text>There is no way she could be jealous of their absurd relationship.</text>
-            <text>Yes, it's definitely impossible.</text>
+            <text>Докемент был подписан 「Президентом Группы Правления Городом」. Он излагал, как команда под ее приказами могла взять контроль над сооружением перед полевой командой и инструкции о том, что делать с девушкой внутри.</text>
+            <text>Эта девушка спала жизнь Джимми, но она подозреваемая, которая отправила на тот свет людей, которые могли выжить. И самое главное - она виновна в этом инциденте.</text>
+            <text>...Нет, это не верно. Она должна быть признана невиновной.</text>
+            <text>Все же, она просто компьютер.</text>
+            <text>Скорее, подореваемый здесь - Джимми.</text>
+            <text>Даже Бьянка так считает.</text>
+            <text>Даже если после воссоединения со своими компаньонами он продолжал спрашивать 「кто будет обслуживать Алису в данный момент?」.</text>
+            <text>...Может быть, инженерия - профессия, полная чудаков.</text>
+            <text>Может ли быть——</text>
+            <text>Что он с первого взгляда влюбился в эту куклу, этот компьютер?</text>
+            <text>Бьянка потрясла головой.</text>
+            <text>TНе может быть, чтобы она ревновала к подобным странным отношениям.</text>
+            <text>Да, это абсолютно невозможно.</text>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="black">
             <bgm src="" status="stop"></bgm>
-            <text>3 days later——</text>
+            <text>3 три дня спустя——</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="alexandriaCityLandscape.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="start"></bgm>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Geez! We went fishing to kill time and the trial is still not over.</speak>
+            <speak chara="_Bianka">Боже! Мы пошли рыбачить, чтобы убить время, а слушане еще не началось.</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">Hmmm... I suspect the jury needs time to wrap their heads around this case.</speak>
+            <speak chara="_Miguel">Хммм... Подозреваю, присяжным нужно вреся чтобы вникнуть в это дело.</speak>
             <show chara="cervantesLaughClose" position="left"/>
-            <speak chara="_Miguel">I mean, the main suspect is a 「computer」 made out of human brains——</speak>
+            <speak chara="_Miguel">В смысле, Главный подозреваемый -  「компьютер」 созданный из человеческих мозгов——</speak>
             <speak chara="_Miguel">——Honestly, her whole existence is an enigma to an old man like me.</speak>
             <show chara="cervantesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
@@ -421,6 +421,7 @@
         </scene>
     </story>
 </data>
+
 
 
 
