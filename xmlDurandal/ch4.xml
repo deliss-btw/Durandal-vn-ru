@@ -9,7 +9,7 @@
         <scene id="10" background="CG4-1.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <text>Мужчина дрейфовал в заливе.</text>
-            <text>Он мог использовать сломанный пропеллер для того, чтобы догрести до берега</text>
+            <text>Он мог использовать сломанный пропеллер для того, чтобы догрести до берега.</text>
             <text>Но у него не было ни сил, ни мотивации для этого.</text>
             <goto goto="20" change="#ffffff"/>
         </scene>
@@ -38,14 +38,13 @@
             <text>Твои товарищи мертвы.</text>
             <text>Твоя родина вне этой иллюзии.</text>
             <text remark="next">Нельзя, как говорил один философ, 「умереть победоносно, окруженным теми, кто на деются и дают священный обет.」</text>
-            <text remark="next">Нельзя, словно воин, 「умереть в борьбе и растратить великую душу」.</text>
-            <!--Слова из "Так говорил Заратустра" - Ницше.-->
+            <text remark="next">Нельзя, словно воин, 「умереть в борьбе и растратить великую душу」.</text> <!--Слова из "Так говорил Заратустра" - Ницше.-->
             <remark post="U2FsdGVkX19tpsRgT2jPYlGdBeBn">
                 <p class="article-text-h">Примечание：</p>
                 <p class="article-text">Части в кавычках взяты из Ницше - 《Так говорил Заратустра》。</p>
             </remark>
             <text>Он может лишь встретить поражение и умереть, словно ослабленный старый беззубый лев.</text>
-            <text>…В конце дрейфа “смерть”, как и “выживание”, потеряла всякое значение.</text>
+            <text>…В конце дрейфа «смерть», как и «выживание», потеряла всякое значение.</text>
             <goto goto="50" clockwise="1"/>
         </scene>
         <scene id="50" background="submarineCabinBlurSunset.jpg">
@@ -54,7 +53,7 @@
             <speak chara="_Shakespeare">Итак. Кем был этот выживший?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="ironWhiteClose" position="right"/>
-            <speak chara="_Ironface">“Пилотом”. Это тот, кто управляет машинами, парящими в голубом небе.</speak>
+            <speak chara="_Ironface">«Пилотом». Это тот, кто управляет машинами, парящими в голубом небе.</speak>
             <show chara="ironWhiteClose" position="right" opacity="0.8"/>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Ух ты! Тогда не сможем ли мы перелететь эту стену?</speak>
@@ -67,7 +66,7 @@
             <show chara="shakesQuestionClose" position="left" opacity="0.8"/>
             <show chara="ironWhiteClose" position="right"/>
             <speak chara="_Ironface">Когда его самолет пытался пролететь над «Стеной Асгарда», на него воздействовала таинственная сила, из-за которой он внезапно отклонился от курса.</speak>
-            <speak chara="_Ironface">Объединив это с предыдущими наблюдениями за птицами, можно предположить, что над cтеной существует пространственное искажение.</speak>
+            <speak chara="_Ironface">Объединив это с предыдущими наблюдениями за птицами, можно предположить, что над стеной существует пространственное искажение.</speak>
             <show chara="ironWhiteClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">…Хотя я действительно не понимаю, о чем ты говоришь——</speak>
@@ -89,7 +88,7 @@
             <speak chara="_Shakespeare">Первое, что нужно сделать, — убедить мистера Пилота присоединиться к нам.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="lallaSighClose" position="right"/>
-            <speak chara="_Lalla">Действительно. Он выглядит... скорее деморализованным, чем готовым к сотрудничеству.</speak>
+            <speak chara="_Lalla">Действительно. Он выглядит... скорее подавленным, чем готовым к сотрудничеству.</speak>
             <show chara="ironRedClose" position="right"/>
             <speak chara="_Ironface">...Заранее скажу, что я не заинтересована в том, чтобы ободрить заблудшую душу.</speak>
             <show chara="wattScaredClose" position="right"/>
@@ -104,7 +103,7 @@
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">...Это совсем другое! Кроме того, я не признавала твою правоту, ясно?!.</speak>
+            <speak chara="_Bianka">...Это совсем другое! Кроме того, я не признавала твою правоту, ясно?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">О?</speak>
@@ -116,7 +115,7 @@
             <show chara="biankaConfidentClose" position="right"/>
             <speak chara="_Bianka">——Было бы здорово, если бы мы отплатили тебе за это, да?</speak>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Более того, этот человек - солдат, верно? Аристократ с конца Первой мировой, упрямый “летчик-ас”?.</speak>
+            <speak chara="_Bianka">Более того, этот человек - солдат, верно? Аристократ с конца Первой мировой, упрямый «лётчик-ас»?</speak>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">Уверена, он предпочел бы поговорить с валькирией-асом вроде меня, чем с какими-то пиратами, не так ли?</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
@@ -153,7 +152,7 @@
             <speak chara="_ManfredNoName">...</speak>
             <show chara="manfredColdClose" position="left" opacity="0.8"/>
             <show chara="biankaConfidentClose" position="right"/>
-            <speak chara="_Bianka">Хотя вид китов, из которого этот стейк сделан - не кашалот, не южный кит, и не финвал, которых многие знают.</speak>
+            <speak chara="_Bianka">Хотя вид кита, из которого сделан этот стейк, — не кашалот, не южный кит, и не финвал, которых многие знают.</speak>
             <show chara="biankaConfidentClose" position="right" opacity="0.8"/>
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_ManfredNoName">.....</speak>
@@ -162,7 +161,7 @@
             <speak chara="_Bianka">У него нет рыбного запаха как у других морепродуктов, он нежный и сочный. Этот стейк лучше любого говяжьего!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="manfredColdClose" position="left"/>
-            <speak chara="_ManfredNoName">..Откажусь.</speak>
+            <speak chara="_ManfredNoName">...Откажусь.</speak>
             <show chara="manfredColdClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <speak chara="_Bianka">...А? Но вы даже не попробовали——</speak>
@@ -178,7 +177,7 @@
             <speak chara="_Bianka">...Неужели такой человек, как Вы, не насытился бы, просто выпив немного медовой воды?</speak>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">Вы сами верите в такую чушь?!.</speak>
+            <speak chara="_Bianka">Вы сами верите в такую чушь?!</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="manfredSeriousClose" position="left"/>
             <speak chara="_ManfredNoName">...Ничего ты не знаешь, маленькая девочка.</speak>
@@ -201,7 +200,7 @@
             <speak chara="_ManfredNoName">Ма́нфред А́льбрехт фрайхерр фон Рихтго́фен. Пилот, командир 1-го немецкого истребительного авиаполка.</speak>
             <show chara="manfredColdClose" position="left" opacity="0.8"/>
             <show chara="biankaProudClose" position="right"/>
-            <speak chara="_Bianka">Бьянка Атаегина. Валькирия, лидер специальной экспедиции Шиксала 「LONELY PANTHALASSA」.</speak>
+            <speak chara="_Bianka">Бьянка Атаэгина. Валькирия, лидер специальной экспедиции Шиксала 「LONELY PANTHALASSA」.</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_Manfred">..."Шиксал" и "Валькирия".</speak>
@@ -225,7 +224,7 @@
             <speak chara="_Manfred">Никто из них не сдался, но...</speak>
             <show chara="manfredSadClose" position="left"/>
             <speak chara="_Manfred">...Только я, один лишь я, их капитан, выжил.</speak>
-            <speak chara="_Manfred">Я знаю... Аварии, болезни, все это происходит из-за простой и холодной "удачи"..</speak>
+            <speak chara="_Manfred">Я знаю... Аварии, болезни, все это происходит из-за простой и холодной "удачи"...</speak>
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_Manfred">Но из-за этого...</speak>
             <speak chara="_Manfred">.....</speak>
@@ -306,7 +305,7 @@
             <speak chara="_Bianka">Как мне говорили... Я выжила после атаки Хонкая.</speak>
             <speak chara="_Bianka">——Одна из немногих выживших среди сотен миллионов.</speak>
             <speak chara="_Bianka">Однако у меня нет особых чувств по поводу этого. В конце концов, я ничего не помню.</speak>
-            <speak chara="_Bianka">Сколько себя помню, “Бьянка” была одна.</speak>
+            <speak chara="_Bianka">Сколько себя помню, «Бьянка» была одна.</speak>
             <speak chara="_Bianka">Я не знаю, откуда я родом, не говоря уже о том, кто мои родители.</speak>
             <speak chara="_Bianka">Я встречала много таких ребят, от санаториев в России до детских домов во Франции.</speak>
             <speak chara="_Bianka">Некоторые были такими же пессимистичными, как вы сейчас, другие были полны ненависти, одержимыми местью—— нормальные люди, конечно.</speak>
@@ -416,16 +415,16 @@
             <speak chara="_Bianka">Но их система была столь щадящей, что мне потребовались бы годы, прежде чем я смогла бы стать полноценной валькирией.</speak>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">...Вы можете считать, что я просто "ребенок-солдат", но я также имею право думать, что в обучении пилотов, которое вы прошли, нет ничего особенного.</speak>
-            <speak chara="_Bianka">Я действующая А-ранговая Валькирия, солдат, видевший тот же ад, что и Вы.</speak>
-            <speak chara="_Bianka">——Более того, вы были измучены смертью вашего товарища и превратились в никудышного человека.</speak>
+            <speak chara="_Bianka">Я действующая А-ранговая Валькирия, солдат, видевшая тот же ад, что и Вы.</speak>
+            <speak chara="_Bianka">——Более того, Вы были измучены смертью вашего товарища и превратились в никудышного человека.</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="manfredQuestionClose" position="left"/>
             <speak chara="_Manfred">.....</speak>
             <show chara="manfredQuestionClose" position="left" opacity="0.8"/>
             <show chara="biankaAngryClose" position="right"/>
-            <speak chara="_Bianka">Тщательно обдумай это, начни смотреть только вперед, солдат.</speak>
+            <speak chara="_Bianka">Тщательно обдумайте это, начните смотреть только вперед, солдат.</speak>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka">Подумай, как можно исполнить мечты твоих товарищей в этом новом мире.</speak>
+            <speak chara="_Bianka">Подумайте, как можно исполнить мечты твоих товарищей в этом новом мире.</speak>
             <goto goto="250" clockwise="1"/>
         </scene>
         <scene id="250" background="submarineCabinBlurDeep.jpg">
@@ -454,11 +453,11 @@
             <speak chara="_Shakespeare">А. Кстати говоря... каково твое представление о том, куда мы отправимся завтра?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
-            <speak chara="_Bianka" remark="next">…Вы про “Александрию”?</speak>
+            <speak chara="_Bianka" remark="next">…Вы про «Александрию»?</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <remark post="U2FsdGVkX1+eKLKx5fPAhMd10Pz0">
                 <p class="article-text-h">Примечание:</p>
-                <p class="article-text">“Александрия“ - это чистый фонетический перевод и написание ”Александрии" (Αλεξάνδρεια). Этот египетский город является одним из десятков “александрийских”, основанных Александром Македонским под его собственным именем в рамках его завоевания, и самым процветающим из них. После смерти Великого императора его министерство назначило Птолемея столицей его собственного раздела Египта; географические преимущества и тщательное строительство династии Птолемеев сделали ее в конечном итоге самым ярким звездным городом за всю историю древнегреческой цивилизации. город. Сегодня порт Александрия по-прежнему является чрезвычайно важным портом в Восточном Средиземноморье, здесь проживает и работает около 3,34 миллиона жителей.</p>
+                <p class="article-text">«Александрия» - это чистый фонетический перевод и написание «Александрии» (Αλεξάνδρεια). Этот египетский город является одним из десятков «александрийских», основанных Александром Македонским под его собственным именем в рамках его завоевания, и самым процветающим из них. После смерти Великого императора его министерство назначило Птолемея столицей его собственного раздела Египта; географические преимущества и тщательное строительство династии Птолемеев сделали ее в конечном итоге самым ярким звездным городом за всю историю древнегреческой цивилизации. город. Сегодня порт Александрия по-прежнему является чрезвычайно важным портом в Восточном Средиземноморье, здесь проживает и работает около 3,34 миллиона жителей.</p>
             </remark>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Верно.</speak>
@@ -491,11 +490,11 @@
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Нет-нет. Совсем нет.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Если ты думаешь, что “убогий” не может сочетаться с "красивым”——</speak>
+            <speak chara="_Shakespeare">Если ты думаешь, что «убогий» не может сочетаться с «красивым»——</speak>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Тогда я могу лишь сказать, что ты недостаточно хорошо знаешь понятие «город».</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">Во всех красивых городах должно быть столько же “убожества”, сколько и “красоты”.</speak>
+            <speak chara="_Shakespeare">Во всех красивых городах должно быть столько же «убожества», сколько и «красоты».</speak>
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Хорошо запомни эту фразу——</speak>
             <show chara="shakesSmileClose" position="left"/>

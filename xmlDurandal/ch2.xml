@@ -12,7 +12,7 @@
             <text>Все события в нем мимолетны, независимо от происходящего—</text>
             <text>Только его волнам и пузырям позволено быть вечными, поглощая все в одиночество.</text>
             <text article="1">
-                <p class="article-text">Появившееся из ниоткуда таинственное подводное судно теперь спокойно плавает на поверхности моря после того, как утопила троих людей в тростниковой лодке.</p>
+                <p class="article-text">Появившееся из ниоткуда таинственное подводное судно теперь спокойно плавает на поверхности моря после того, как утопило троих людей в тростниковой лодке.</p>
                 <p class="article-text">Лишь крики бедного Левиафана были слышны под голубым небом.</p>
             </text>
             <speak chara="_Rita">Вы в порядке, госпожа Бьянка?</speak>
@@ -23,7 +23,7 @@
         <scene id="15" background="seaWaveIslandNoNameRS.jpg">
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
             <show chara="cervantesShoutClose-up" position="center"/>
-            <speak chara="_Miguel">О боже! Это.. это...</speak>
+            <speak chara="_Miguel">О боже! Это... это...</speak>
             <show chara="biancaSeriousClose-up" position="center"/>
             <speak chara="_Bianka">Что это? Ты что-то знаешь, старик?</speak>
             <show chara="cervantesSeriousClose-up" position="center"/>
@@ -42,7 +42,7 @@
         </scene>
         <scene id="20" background="CG2-1-1.jpg">
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">Не волнуйся, старик! Кем бы они не были, мы сделаем с ними что-нибудь!</speak>
+            <speak chara="_Bianka">Не волнуйся, старик! Кем бы они ни были, мы сделаем с ними что-нибудь!</speak>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="CG2-1-2.jpg">
@@ -87,7 +87,7 @@
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
             <speak chara="_WattNoName">М-мы...</speak>
-            <speak chara="_WattNoName">Похоже что убили вашу добычу, так что...</speak>
+            <speak chara="_WattNoName">Похоже, что убили вашу добычу, так что...</speak>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_WattNoName">...Я сильно извиняюсь.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
@@ -155,7 +155,7 @@
             <show chara="lallaSighClose" position="right"/>
             <speak chara="_Lalla">Но не стоит так волноваться——</speak>
             <show chara="lallaSmileClose" position="right"/>
-            <speak chara="_Lalla">Капитан сама придет позже чтобы ответить на вопросы, я не могу поторопить её.</speak>
+            <speak chara="_Lalla">Капитан сама придет позже, чтобы ответить на вопросы, я не могу поторопить её.</speak>
             <show chara="lallaSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
             <speak chara="_Bianka">...</speak>
@@ -175,7 +175,7 @@
         <scene id="110" background="submarineCabinBlur.jpg">
             <bgm src="11_15_shakespeareTheme.mp3" status="continue"></bgm>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">Тск. Пусть ты и пират, но говоришь и ведешь себя как актрисса.</speak>
+            <speak chara="_Bianka">Тск. Пусть ты и пират, но говоришь и ведешь себя как актриса.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_ShakespeareBarbarossa">Искренне благодарю вас за добрые слова в адрес "Слуг Короля"</speak>
@@ -195,7 +195,7 @@
             <speak chara="_Bianka">...!?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="shakesQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">Чтож, если вам не нравится, то я могу сыграть роль капитана Немо.</speak>
+            <speak chara="_Shakespeare">Что ж, если вам не нравится, то я могу сыграть роль капитана Немо.</speak>
             <show chara="shakesDisgustedClose" position="right"/>
             <speak chara="_Shakespeare">Хотя... я не знала о подвигах капитана, а всего лишь присвоила покинутый им корабль.</speak>
             <show chara="shakesDisgustedClose" position="right" opacity="0.8"/>
@@ -236,7 +236,7 @@
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Я Мэриан Уильям Шекспир, капитан Каледонии, родом из Англии 16-го века.</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">Если думаете что "Мэриан" звучит глупо, то можете звать меня "Уильям или "Шекспир", как хотите.</speak>
+            <speak chara="_Shakespeare">Если думаете, что "Мэриан" звучит глупо, то можете звать меня "Уильям" или "Шекспир", как хотите.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">(16-го века, значит, после 1500 года... да?)</speak>
@@ -327,10 +327,10 @@
             <speak chara="_Bianka">...Чего?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">——Но я немного знаю о Шиксале благодаря тому что мне рассказала Железная Маска.</speak>
+            <speak chara="_Shakespeare">——Но я немного знаю о Шиксале благодаря тому, что мне рассказала Железная Маска.</speak>
             <speak chara="_Shakespeare">Есть много миров, которые необычайно полны энергией, называемой "Хонкай"——</speak>
             <show chara="shakesQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">Ну... почти как  волшебные миры.</speak>
+            <speak chara="_Shakespeare">Ну... почти как волшебные миры.</speak>
             <show chara="shakesColdClose" position="right"/>
             <speak chara="_Shakespeare">В частности, миры, затронутые Хонкаем, постоянно страдают от монстров и бедствий——</speak>
             <speak chara="_Shakespeare">——Перед лицом этих страданий, первой, кто оказал сопротивление, оказалась организация под названием "Шиксал".</speak>
@@ -353,7 +353,7 @@
             <speak chara="_Shakespeare">Итак, вы двое—— мой следующий совет должен иметь для вас хоть какое-то значение.</speak>
             <show chara="shakesConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
-            <speak chara="_Bianka">……“Совет”？</speak>
+            <speak chara="_Bianka">……«Совет»?</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">Да. Совет простой, но чрезвычайно важный.</speak>
@@ -508,7 +508,7 @@
             <speak chara="_Otto">Это значит, что если мы проследим за генерацией "Проекции", то сможем переместиться в Квантовое Море.</speak>
             <speak chara="_Otto">...Возможно, мы могли бы увидеть "Клонированную Землю", во многом похожую на нашу.</speak>
             <speak chara="_Otto">——Для нас это будут невероятно ценные данные.</speak>
-            <speak chara="_Otto">К счастью, используя материалы прошлой циливизации, мы смогли создать экспериментальные устройства, позволяющие перемещаться в Квантовое Море и из него——</speak>
+            <speak chara="_Otto">К счастью, используя материалы прошлой цивилизации, мы смогли создать экспериментальные устройства, позволяющие перемещаться в Квантовое Море и из него——</speak>
             <speak chara="_Otto">——Это устройство называется "Гений".</speak>
             <speak chara="_Otto">Теоретически, с помощью "Гения", человек может в любое время переместиться из Проекции——</speak>
             <speak chara="_Otto">Но если вы захотите перейти в Проекцию со стороны реальности——</speak>

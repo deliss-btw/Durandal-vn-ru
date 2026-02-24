@@ -15,31 +15,31 @@
             <show chara="faustSadClose" position="right"/>
             <speak chara="_FaustNoName">Но время этому 「Заратустре」 снова вернуться к одиночеству.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">——Шелли, будешь ли ты последним. кто вспомнит этого странника?</speak>
+            <speak chara="_FaustNoName">——Шелли, будешь ли ты последним, кто вспомнит этого странника?</speak>
             <show chara="faustSmileClose" position="right" opacity="0.8"/>
             <show chara="shelleyColdClose" position="left"/>
             <speak chara="_Shelley">...Кто знает.</speak>
             <speak chara="_Shelley">В любом случае, если ты не подчинишься воле народа, ты встретишься с последствиями.</speak>
             <show chara="shelleyBoredClose" position="left"/>
-            <speak chara="_Shelley">「Изгнанник」 и 「стирающий все записи」. В городе ты будешь считаться разыскиваемым приступником.</speak>
+            <speak chara="_Shelley">「Изгнанник」 и 「стирающий все записи」. В городе ты будешь считаться разыскиваемым преступником.</speak>
             <show chara="shelleySmileClose" position="left"/>
             <speak chara="_Shelley">Еще есть время, ты все еще можешь подписать соглашение об отмене эксперимента——</speak>
             <show chara="shelleySmileClose" position="left" opacity="0.8"/>
             <show chara="faustDisdainClose" position="right"/>
             <speak chara="_FaustNoName">Нет. Отказываюсь.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">Это не я  то, что люди хотят забыть, но потенциал человеческой эволюции.</speak>
+            <speak chara="_FaustNoName">Люди хотят забыть не меня, а потенциал человеческой эволюции.</speak>
             <speak chara="_FaustNoName">...Это такое, с чем я никогда не соглашусь.</speak>
             <show chara="faustSadClose" position="right" opacity="0.8"/>
             <show chara="shelleyShockedClose" position="left"/>
-            <speak chara="_Shelley">Ты когда-нибудь дамал, как общественность воспримет твой экспериент?</speak>
+            <speak chara="_Shelley">Ты когда-нибудь думал, как общественность воспримет твой эксперимент?</speak>
             <show chara="shelleyShockedClose" position="left" opacity="0.8"/>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Да.</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">Текущая мировая этика 「оклоняет」 задачу включения человеческого мозга в машины.</speak>
+            <speak chara="_FaustNoName">Современная мировая этика 「отвергает」 идею встраивания человеческого мозга в машины.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">И чтобы ты знала, никого не принужали к участию.</speak>
+            <speak chara="_FaustNoName">И чтобы ты знала, никого не принуждали к участию.</speak>
             <show chara="faustDisdainClose" position="right"/>
             <speak chara="_FaustNoName">Шелли, позволь поинтересоваться в ответ —— думала ли ты о том, что такое 「этика」?</speak>
             <show chara="faustDisdainClose" position="right" opacity="0.8"/>
@@ -53,9 +53,9 @@
             <show chara="faustLaughClose" position="right"/>
             <speak chara="_FaustNoName">Хехе... Хахаха!</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">Не согласен. Был ли мир порожден люской натурой? Достоинство это то, с чем ты родилась? Правдивы ли качества, одобряемые большинством?</speak>
+            <speak chara="_FaustNoName">Не согласен. Был ли мир порожден людской натурой? Достоинство это то, с чем ты родилась? Правдивы ли качества, одобряемые большинством?</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Развеэ то не то, что перерождаеся и меняется с течением времени?</speak>
+            <speak chara="_FaustNoName">Разве то не то, что перерождается и меняется с течением времени?</speak>
             <show chara="faustTalkClose" position="right" opacity="0.8"/>
             <show chara="shelleyAngryClose" position="left"/>
             <speak chara="_Shelley">...Я не для того здесь, чтобы слышать чушь!</speak>
@@ -75,7 +75,7 @@
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Ты, одержимая разгадкой 「истины」 мира сего, нуждалась во взгляде свыше.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Так что это слало необходимо - создать двигатель сгорания, рокету, космический корабль, искусственный интеллект.</speak>
+            <speak chara="_FaustNoName">Так что это стало необходимо - создать двигатель сгорания, ракету, космический корабль, искусственный интеллект.</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">И шагом навстречу этому стало создание целостности у машинерии этого города.</speak>
             <show chara="faustTalkClose" position="right"/>
@@ -93,13 +93,13 @@
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">「Я」думаю, поэтому 「Я」 существую, и сколь долго, сколь 「Я」 существую, мир 「реален」.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Это лиш философский ответ—— Но этого для меня достаточно.</speak>
+            <speak chara="_FaustNoName">Это лишь философский ответ — но этого для меня достаточно.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Внешняя 「реальность」 не есть что-то, что можеть быть доказано лишь концептом 「Я」 что все могут понять.</speak>
+            <speak chara="_FaustNoName">Внешнюю 「реальность」 нельзя доказать одним лишь концептом 「Я」, понятным всем.</speak>
             <show chara="faustSadClose" position="right"/>
             <speak chara="_FaustNoName">Мое 「Я」 и чье-то 「Я」 не могут подтвердить существование друг друга.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Для начала, ты стоишь передо мной. Как я могу знать это? Потому что мои пять чувств доносят до меня, что  「Шелли здесь」.</speak>
+            <speak chara="_FaustNoName">Для начала ты стоишь передо мной. Как я могу знать это? Потому что мои пять чувств доносят до меня, что  「Шелли здесь」.</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Однако, логически невозможно установить, что 「Шелли думает」 лишь сенсорной информацией.</speak>
             <show chara="faustSmileClose" position="right"/>
@@ -107,27 +107,27 @@
             <show chara="faustSadClose" position="right"/>
             <speak chara="_FaustNoName">Это 「заключение」в конечном итоге 「вывод」. Даже невозможно определить, Шелли ты, которую я знаю или копия ее.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Это парадокс. С точки зрения моего 「Я」,  「Объективное мышление」 самое 「субъективное」 из всех.</speak>
+            <speak chara="_FaustNoName">Это парадокс. С точки зрения моего 「Я」, 「Объективное мышление」 самое 「субъективное」 из всех.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">В Объективизме, наблюдатель говорит лишь о 「причине」 и 「следствии」—— несмотря на ассиметричность 「свойства существования」  「себя」 и 「иных сущностей」.</speak>
+            <speak chara="_FaustNoName">В Объективизме, наблюдатель говорит лишь о 「причине」 и 「следствии」—— несмотря на асимметричность 「свойства существования」  「себя」 и 「иных сущностей」.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">...Тогда, стоит ли нам, в ином случае, поддежать Субъективизм?</speak>
+            <speak chara="_FaustNoName">...Тогда, стоит ли нам, в ином случае, поддержать Субъективизм?</speak>
             <show chara="faustSadClose" position="right"/>
             <speak chara="_FaustNoName">Ответ, конечно, абсолютное нет. Это было бы как бросить важное дело из-за мелкой ошибки.</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Мы, люди, в своем развитии полагаемся на постоянный технологический прогресс. Технология привела нас от глупых обезьян —— к великолепной цивилизации.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Технология - еслинственная вещь, которая может способствовать человеческому процессу. А технология стоит на стороне основательного Объективизма.</speak>
+            <speak chara="_FaustNoName">Технология - единственная вещь, которая может способствовать человеческому процессу. А технология стоит на стороне основательного Объективизма.</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Вместо простого игнорирования философии, технология больше рада избавиться от нее——</speak>
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">——Но именно поэтому, технология, рожденная мыслью, может избавиться от нее и поднять нас на большие высоты.</speak>
             <show chara="faustTalkClose" position="right"/>
-            <speak chara="_FaustNoName">Вкратце, основываясь на Объективизме нет иного пути для  「Я」найти прорыв в пробеле между 「наблюдением」 and 「заключением」.</speak>
+            <speak chara="_FaustNoName">Вкратце, основываясь на Объективизме нет иного пути для 「Я」найти прорыв в пробеле между 「наблюдением」 и 「заключением」.</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Когнитивная ассимметрия существует потому что мы способны узнать лишь свое 「я」, но не 「другие я」.</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">На внешней стороне, есть физический зазор между сознательностями, но невохможно для「прямого познания」такого как 「Я существую」 преодолеть 「Я」.</speak>
+            <speak chara="_FaustNoName">На внешней стороне, есть физический зазор между сознательностями, но невозможно для「прямого познания」такого как 「Я существую」 преодолеть 「Я」.</speak>
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">Однако——</speak>
             <speak chara="_FaustNoName">——Что если бы каждый работал над тем. чтобы обратить 「другие я」 в 「я собственное」?</speak>
@@ -147,7 +147,7 @@
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">Так откуда явилось「новое сознание」 Мозгового Двигателя?</speak>
             <show chara="faustSadClose" position="right"/>
-            <speak chara="_FaustNoName">And assuming it was born out of nothing, where did the original consciousnesses go to?</speak>
+            <speak chara="_FaustNoName">И если предположить, что оно возникло из ничего, куда же делись первоначальные сознания?</speak>
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Если бы они никуда не пришли, какой мозг контролирует распределенную систему?</speak>
             <show chara="faustSmileClose" position="right"/>
@@ -212,7 +212,7 @@
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Прискорбно, не смотря на их верования, их мысли обращаются 「ничем」 в момент смерти.</speak>
             <show chara="faustQuestionClose" position="right"/>
-            <speak chara="_FaustNoName">Философы оббсуждали эту тему до смерти но окончательный ответ не найден. Им лишь удалось придать ему вид 「заботы в конце жизни」.</speak>
+            <speak chara="_FaustNoName">Философы обсуждали эту тему до смерти но окончательный ответ не найден. Им лишь удалось придать ему вид 「заботы в конце жизни」.</speak>
             <show chara="faustSmileClose" position="right"/>
             <speak chara="_FaustNoName">Но сейчас, спасибо 「Мозговому двигателю」, мы, люди, можем бросить вызов 「смерти」.</speak>
             <show chara="faustTalkClose" position="right"/>
@@ -247,7 +247,7 @@
             <show chara="faustTalkClose" position="right"/>
             <speak chara="_FaustNoName">Безумцы могут провалиться по разным причинам —— Но их философия - нет.</speak>
             <show chara="faustSmileClose" position="right"/>
-            <speak chara="_FaustNoName">Прощайте, Президент Шелли. Даже если мы и увидимся однажды, я боле не буду зваться 「Фаустом」.</speak>
+            <speak chara="_FaustNoName">Прощайте, Президент Шелли. Даже если мы и увидимся однажды, я более не буду зваться 「Фаустом」.</speak>
             <goto goto="20" clockwise="1"/>
         </scene>
         <scene id="20" background="02_22_computerRoom.jpg">
@@ -262,15 +262,14 @@
             <speak chara="_Michel">Shelley!</speak>
             <show chara="micheFocusClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
-            <speak chara="_Shelley">А, прошу прощения. Я запусталась в мыслях.</speak>
+            <speak chara="_Shelley">А, прошу прощения. Я запуталась в мыслях.</speak>
             <show chara="shelleySmileClose" position="right"/>
             <speak chara="_Shelley">Итак, вы восстановили контроль над роботами?</speak>
             <show chara="shelleySmileClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">Как-то, я смог перевести их в спящий режим.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <!-- FLOW: Немедленно развенуть резервный персонал -->
-            <speak chara="_Schrodinger">Немедленно развенуть резервный персонал дабы установить закон и порядок —— в противном случае, не будет ничего, что остановило бы преступления.</speak>
+            <speak chara="_Schrodinger">Немедленно развернуть резервный персонал дабы установить закон и порядок —— в противном случае, не будет ничего, что остановило бы преступления.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
             <speak chara="_Shelley">Да, Я немедля это сделаю, но это не все, что нам нужно, верно?</speak>
@@ -292,7 +291,7 @@
             <speak chara="_Shelley">...Я прав, предполагая использовать этот 「маленький трюк」 твоих машин было бы недостаточно?</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Да. Восстановить контроль надо роботами можно было из этой серверной комнаты, но чтобы внедриться во вражескую систему мне понадобится использовать 「Самоцвет Разума」.</speak>
+            <speak chara="_Schrodinger">Да. Восстановить контроль над роботами можно было из этой серверной комнаты, но чтобы внедриться во вражескую систему мне понадобится использовать 「Самоцвет Разума」.</speak>
             <show chara="schroSmileClose" position="left"/>
             <speak chara="_Schrodinger">Потому что машины тут - лишь ограниченный интерфейс, подключенный к 「самоцвету」.</speak>
             <show chara="schroSmileClose" position="left" opacity="0.8"/>
@@ -335,7 +334,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shelleySmileClose" position="center"/>
-            <speak chara="_Shelley">...Начали. То что ты зовешь 「самоцветом」 в исследовательском учреждении.</speak>
+            <speak chara="_Shelley">...Начали. То, что ты зовешь 「самоцветом」, находится в исследовательском учреждении.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="alexandriaOasisNightSmoke.jpg">
@@ -351,7 +350,7 @@
             <show chara="champoColdClose" position="center"/>
             <speak chara="_Champollion">Кгах.</speak>
             <show chara="champoNormalClose" position="center"/>
-            <speak chara="_Champollion">Услышь меня, здесь собраны солдаты резерва.</speak> (или запаса?)
+            <speak chara="_Champollion">Услышь меня, здесь собраны солдаты резерва.</speak>
             <show chara="champoSmileClose" position="center"/>
             <speak chara="_Champollion">Вы были выбраны для этой миссии, потому что вы очень уважаемые люди, у кого есть полное доверие Президента.</speak>
             <show chara="champoQuestionClose" position="center"/>
@@ -375,11 +374,11 @@
             <show chara="rita17AngryEmClose" position="right"/>
             <speak chara="_Rita">(Лишь мошенник или политик —— могу сказать неопределенно, как если бы оно было правдой.)</speak>
             <show chara="rita17SquintClose" position="right"/>
-            <speak chara="_Rita">(...Я счаслива подобному человеку на нашей стороне.)</speak>
+            <speak chara="_Rita">(...Я счастлива подобному человеку на нашей стороне.)</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="champoColdClose" position="center"/>
-            <speak chara="_Champollion">...Мы простивостоим устрашающей преступной организации.</speak>
+            <speak chara="_Champollion">...Мы противостоим устрашающей преступной организации.</speak>
             <show chara="champoColdClose" position="center"/>
             <speak chara="_Champollion">Они пытаются разрушить наш город и привычный уклад жизни.</speak>
             <show chara="champoSmileClose" position="center"/>
@@ -390,7 +389,7 @@
             <speak chara="_Champollion">——Потому что мы заставим их заплатить за содеянное.</speak>
             <show chara="champoSmileClose" position="center"/>
             <shake position="center" time="250"></shake>
-            <speak chara="_Champollion">Мои хравбрые солдаты, приготовьтесь к высадке!</speak>
+            <speak chara="_Champollion">Мои храбрые солдаты, приготовьтесь к высадке!</speak>
             <show chara="champoSmileClose" position="center"/>
             <speak chara="_Champollion">Долгих лет Александрии!!</speak>
             <hide position="center"></hide>
@@ -406,12 +405,12 @@
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <text>30 минут спустя, внутри загадочного учреждения——</text>
             <speak chara="_Bianka">(Жест: Нет врагов в поле зрения.)</speak>
-            <speak chara="_Rita" remark="next">(Жест: концентрация сульфида водорода достигает критических значений. Не займет много времени, когда он достигнет опасных значений. Пожалуйста, не снимайте маски.</speak>
+            <speak chara="_Rita" remark="next">(Жест: концентрация сульфида водорода достигает критических значений. Не займет много времени, когда он достигнет опасных значений. Пожалуйста, не снимайте маски.)</speak>
             <remark post="U2FsdGVkX1+w2sx7eFkBkKtYdeIw">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">Минимальный предел взрываемости сероводорода в воздухе составляет около 4%, а абсолютная смертельная концентрация – более 0,1%.</p>
             </remark>
-            <speak chara="_Champollion">(Жест: Начали. Слейдуйте за мной.)</speak>
+            <speak chara="_Champollion">(Жест: Начали. Следуйте за мной.)</speak>
             <speak chara="_Manfred">(Жест: ...Подождите.)</speak>
             <speak chara="_Manfred">(Жест: Северо-Запад.)</speak>
             <speak chara="_Manfred">(Жест: Замечен враг.)</speak>
@@ -436,34 +435,33 @@
         </scene>
         <scene id="70" background="CG8-2.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
-            <!-- ПОТОК: и что остались только мы с тобой -> и что остались только мы с тобой -->
-            <speak chara="_AliceGreen">...Я верю, что говорила ранее об этм. После смерти Профессора между учеными и его ассистентами не было согласия Zи вот почему остались только мы с тобой.</speak>
+            <speak chara="_AliceGreen">...Я верю, что говорила ранее об этом. После смерти Профессора между учёными и ассистентами не было согласия — и вот почему остались только мы с тобой.</speak>
             <speak chara="_AliceGreen">Я...</speak>
             <speak chara="_AliceGreen">Умышленно позволила этому произойти.</speak>
-            <speak chara="_AliceGreen">Двое ученых отказывались сотрудничать и  плинировали совершить побег с целью выбраться на поверхность.</speak>
+            <speak chara="_AliceGreen">Двое ученых отказывались сотрудничать и планировали совершить побег с целью выбраться на поверхность.</speak>
             <speak chara="_AliceGreen">Они думали, что ассистенты скажут им 「снаружи ядовитый газ」 лишь ложь, чтобы удержать их внутри.</speak>
             <speak chara="_AliceGreen">К сожалению, это была правда.</speak>
-            <speak chara="_AliceGreen">Дабы максимизировать шансы его остаться необнаруженным —— и воспользовать газом, и природными ресурсами, Профессор построил эо сооружение внутри лавовой трубы на дне озера серы.</speak>
+            <speak chara="_AliceGreen">Дабы максимизировать шансы его остаться необнаруженным —— и воспользовать газом, и природными ресурсами, Профессор построил это сооружение внутри лавовой трубы на дне озера серы.</speak>
             <speak chara="_AliceGreen">Концентрация сульфида водорода снаружи в течение минуты приведет человека в бессознательное состояние.</speak>
             <speak chara="_AliceGreen">Те ученые не имели должной экипировки и открыли дверь на поверхность.</speak>
             <speak chara="_AliceGreen">Ассистенты пошли следом и получили отравление, не узнав этого. Они были под впечатлением от запаха газа.</speak>
             <speak chara="_AliceGreen">В отличие от Профессора, они не знали специфических свойств этого газа. Они думали, запах тухлых яиц усиливается с повышением концентрации газа.</speak>
-            <speak chara="_AliceGreen">Но, по правде людям сложно уловить запах сульфида серы при летальных концентрациях послденего, . Лишь за несколько секунд чувство запаха пропадает.</speak>
+            <speak chara="_AliceGreen">Но, по правде людям сложно уловить запах сульфида серы при летальных концентрациях последнего. Лишь за несколько секунд чувство запаха пропадает.</speak>
             <speak chara="_AliceGreen">...Я знала все, но не остановила их.</speak>
             <speak chara="_AliceGreen">Единственное, что я сделала: закрыла проход между верхними и нижними уровнями.</speak>
-            <speak chara="_AliceGreen">Я самовольно позвоила им погибнуть. Убила их.</speak>
+            <speak chara="_AliceGreen">Я самовольно позволила им погибнуть. Убила их.</speak>
             <speak chara="_AliceGreen">...Потому что думала, что они бы угрожали моему существованию.</speak>
-            <speak chara="_AliceGreen">Никто из них не видел меня лично.Они даже говорили о моей 「утилизацииl」 передо мной.</speak>
+            <speak chara="_AliceGreen">Никто из них не видел меня лично. Они даже говорили о моей 「утилизации」 передо мной.</speak>
             <speak chara="_AliceGreen">Меня собирались либо сразу уничтожить, либо уничтожить потом.</speak>
-            <speak chara="_AliceGreen">У меня не было выбоа. Вот почему——</speak>
+            <speak chara="_AliceGreen">У меня не было выбора. Вот почему——</speak>
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <speak chara="_SchrodingerNoName">——Почему ты должна была убить их?</speak>
             <speak chara="_AliceGreen">...!?</speak>
             <speak chara="_AliceGreen">К-к-кто это?</speak>
             <speak chara="_AliceGreen">К-как вы можете напрямую общаться с системой!?</speak>
-            <speak chara="_SchrodingerNoName">Твоя беспроводная система может не только передвавать, но и принимать сигналы.</speak>
+            <speak chara="_SchrodingerNoName">Твоя беспроводная система может не только передавать, но и принимать сигналы.</speak>
             <speak chara="_SchrodingerNoName">Полагаю, она была такой создана, дабы контролировать захваченных роботов. Это работало на меня. Благодаря этому я обрел удаленный контроль и 「полный」 доступ.</speak>
-            <speak chara="_AliceGreen">З-за этим стоит программа Профессора. работающая в фоновос режиме!</speak>
+            <speak chara="_AliceGreen">З-за этим стоит программа Профессора. работающая в фоновом режиме!</speak>
             <speak chara="_AliceGreen">Я-я не могу ничего с этим сделать!</speak>
             <speak chara="_AliceGreen">Прошу, отпустите меня!</speak>
             <speak chara="_Watt">Джимми: Верно! Алиса невиновна! Она ничего плохого не сделала!</speak>
@@ -471,7 +469,7 @@
             <speak chara="_SchrodingerNoName">Прошу, помолчи, Джимми.</speak>
             <speak chara="_SchrodingerNoName">Я сдышал аудиологи. Я более или менее понимаю твое отношение к Алисе.</speak>
             <speak chara="_SchrodingerNoName">Но наше нынешнее затруднительное положение не тот вид межличностной проблемы.</speak>
-            <speak chara="_SchrodingerNoName">Я уже удалила программу. которая потреблял огромный объем электроэнергии.</speak>
+            <speak chara="_SchrodingerNoName">Я уже удалила программу, которая потребляла огромный объем электроэнергии.</speak>
             <speak chara="_SchrodingerNoName">База должна вернуться к нормальному состоянию за несколько минут.</speak>
             <speak chara="_SchrodingerNoName">Когда это произойдет, Джимми, твои друзья прибудут сюда.</speak>
             <speak chara="_SchrodingerNoName">Готов противостоять им?</speak>

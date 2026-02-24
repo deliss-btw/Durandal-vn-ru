@@ -23,7 +23,7 @@
             <speak chara="_Schrodinger">Кто такой 「Профессор Фауст」? Согласно записям машины, он знал вас.</speak>
             <show chara="schroSeriousClose" position="left" opacity="0.8"/>
             <show chara="shelleyBoredClose" position="right"/>
-            <speak chara="_Shelley">...Старый партнер по исследованию. Он пытался создать суперкомпьютер на основе человеческих мозгова и был изгнан из города восемнадцать лет назад.</speak>
+            <speak chara="_Shelley">...Старый партнер по исследованию. Он пытался создать суперкомпьютер на основе человеческих мозгов и был изгнан из города восемнадцать лет назад.</speak>
             <show chara="shelleyBoredClose" position="right" opacity="0.8"/>
             <show chara="schroCalmClose" position="left"/>
             <speak chara="_Schrodinger">...Ясно. Он был действительно истинным 「безумным ученым」.</speak>
@@ -40,13 +40,13 @@
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyShockedClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Он завершил программу для взлома роботов перед смертью, поместил в машинуи позволил атаке пройти автономно.</speak>
+            <speak chara="_Schrodinger">Он завершил программу для взлома роботов перед смертью, поместил в машину и позволил атаке пройти автономно.</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">Те, кто похитил Джимми в библионеки были людми Фауста.</speak>
+            <speak chara="_Schrodinger">Те, кто похитил Джимми в библиотеке были людьми Фауста.</speak>
             <speak chara="_Schrodinger">Они не могли провести технические работы сразу после безвременной смерти Фауста, поэтому они похитили трех ученых, среди которых был Джимми.</speak>
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">——Наши компаньоны, преследовавшие похитителей, захватили контроль над сооружением Фауста.</speak>
@@ -88,15 +88,15 @@
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">В любом случае, если ты взглянешь объективно, эта машина - террорист, нарушивший порядок в городе.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">И применением ядовитого газа из озера, это убило жителей и людей Фауста.</speak>
+            <speak chara="_Schrodinger">И применением ядовитого газа из озера, она убила и жителей, и людей Фауста.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Это утверждает 「моей жизни угрожали」, но —— \тот аргумент законной защиты не был бы тут применим. Так, президент Шелли?</speak>
+            <speak chara="_Schrodinger">Она утверждает: 「моей жизни угрожали」, но этот аргумент о самообороне здесь неприменим. Так, президент Шелли?</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="shelleyColdClose" position="right"/>
             <speak chara="_Shelley">Очевидно.</speak>
             <show chara="shelleyColdClose" position="right" opacity="0.8"/>
             <show chara="micheFocusClose" position="right"/>
-            <speak chara="_Michel">Закон диктует как минимум десять лет обзественных работ под постоянным наблюдением.</speak>
+            <speak chara="_Michel">Закон диктует как минимум десять лет общественных работ под постоянным наблюдением.</speak>
             <show chara="micheSeriousClose" position="right"/>
             <speak chara="_Michel">Но обвиняемый - машина. Это осложняет ситуацию.</speak>
             <show chara="micheSeriousClose" position="right" opacity="0.8"/>
@@ -111,7 +111,7 @@
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare"> 「Людской мозг」 может быть только у людей.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Так что, чожно сказать, что 「Алиса」 сделана из, ее 「реальной формы」 кучи обычных людей.</speak>
+            <speak chara="_Shakespeare">Так что, можно сказать, что 「Алиса」 сделана из, ее 「реальной формы」 кучи обычных людей.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="micheDrySmileClose" position="right"/>
             <speak chara="_Michel">Это... допустимая интерпретация, да.</speak>
@@ -119,7 +119,7 @@
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Следовательно, нельзя ли отнестись к ней, как к обычному человеку ? Все, что вам нужно сделать - лишь применить к этому закон, и обвинить в нарушении порядка, и убийстве жителей города.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">И, спасибо машине - очень лего найти доказательства... Так ведь, Профессор Шрёдингер?</speak>
+            <speak chara="_Shakespeare">И, спасибо машине - очень легко найти доказательства... Так ведь, Профессор Шрёдингер?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="left"/>
             <speak chara="_Schrodinger">Да. У нас есть права администрирования. Тщательная проверка всех записей и воспоминаний возможна.</speak>
@@ -129,7 +129,7 @@
             <show chara="shakesConfidentClose" position="left"/>
             <speak chara="_Shakespeare">Так же, часть этих мозгов принадлежит гражданам, пропавшим здесь в последнее время.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">В таком случае, 「Алиса」не просто винвница проишествия, но и жертва.</speak>
+            <speak chara="_Shakespeare">В таком случае, 「Алиса」 не просто виновница происшествия, но и жертва.</speak>
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Если беспокоитесь, что присяжные не вынесут единогласный вердикт, поднимите этот вопрос.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
@@ -143,46 +143,46 @@
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Ладно, Буду честна. Я думаю, это прекрасная возможность для вас передать 「Жемчужину Разума」нам.</speak>
             <show chara="schroSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">Эта жемчужина принадлежитs лишь оружию, способному уничтожить 「стену」 рядом с океаном.</speak>
+            <speak chara="_Schrodinger">Эта жемчужина принадлежит лишь оружию, способному уничтожить 「стену」 рядом с океаном.</speak>
             <goto goto="20" clockwise="1"/>
         </scene>
         <scene id="20" background="truckInterior.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
             <text>Бьянка Атаэгина оставалась тихой и позволила себе покачиваться в такт движениям вагона.</text>
-            <text>Ее партнер, выбранный лотереей этим устром, Джимми Ватт, также сидит в тишине перед ней.</text>
-            <text>Он не очень разговорчив. во-первых.</text>
-            <text>Что привело к странному заключению: зщаставило ее почувтсвовать, что что-то застрало в горле.</text>
+            <text>Ее партнер, выбранный лотереей этим утром, Джимми Ватт, также сидит в тишине перед ней.</text>
+            <text>Он не очень разговорчив, во-первых.</text>
+            <text>Что привело к странному заключению: заставило ее почувствовать, что что-то застряло в горле.</text>
             <text>В глубине этого сооружения Бьянка нашла парня и девушку в неожиданном состоянии.</text>
             <text>Парня звали Джимми, а девушку - Алиса.</text>
-            <text>Несмотря на то, что он был похищшен, Джимми не выразил радости по поводу своего спасения Бьянкой и остатсками своего персонала</text>
+            <text>Несмотря на то, что он был похищен, Джимми не выразил радости по поводу своего спасения Бьянкой и остатками своего персонала</text>
             <text>Он ничего не сказал и с серьезным лицом передал документ Бьянке.</text>
-            <text>Докемент был подписан 「Президентом Группы Правления Городом」. Он излагал, как команда под ее приказами могла взять контроль над сооружением перед полевой командой и инструкции о том, что делать с девушкой внутри.</text>
-            <text>Эта девушка спала жизнь Джимми, но она подозреваемая, которая отправила на тот свет людей, которые могли выжить. И самое главное - она виновна в этом инциденте.</text>
+            <text>Документ был подписан 「Президентом Группы Правления Городом」. Он излагал, как команда по её приказу могла взять под контроль над сооружением перед полевой командой и инструкции о том, что делать с девушкой внутри.</text>
+            <text>Эта девушка спасла жизнь Джимми, но она подозреваемая, которая отправила на тот свет людей, которые могли выжить. И самое главное - она виновна в этом инциденте.</text>
             <text>...Нет, это не верно. Она должна быть признана невиновной.</text>
             <text>Все же, она просто компьютер.</text>
-            <text>Скорее, подореваемый здесь - Джимми.</text>
+            <text>Скорее, подозреваемый здесь - Джимми.</text>
             <text>Даже Бьянка так считает.</text>
             <text>Даже если после воссоединения со своими компаньонами он продолжал спрашивать 「кто будет обслуживать Алису в данный момент?」.</text>
             <text>...Может быть, инженерия - профессия, полная чудаков.</text>
             <text>Может ли быть——</text>
             <text>Что он с первого взгляда влюбился в эту куклу, этот компьютер?</text>
             <text>Бьянка потрясла головой.</text>
-            <text>TНе может быть, чтобы она ревновала к подобным странным отношениям.</text>
+            <text>Не может быть, чтобы она ревновала к подобным странным отношениям.</text>
             <text>Да, это абсолютно невозможно.</text>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="black">
             <bgm src="" status="stop"></bgm>
-            <text>3 три дня спустя——</text>
+            <text>Три дня спустя——</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="alexandriaCityLandscape.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="start"></bgm>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Боже! Мы пошли рыбачить, чтобы убить время, а слушане еще не началось.</speak>
+            <speak chara="_Bianka">Боже! Мы пошли рыбачить, чтобы убить время, а слушание еще не началось.</speak>
             <show chara="biankaSighClose" position="right" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">Хммм... Подозреваю, присяжным нужно вреся чтобы вникнуть в это дело.</speak>
+            <speak chara="_Miguel">Хммм... Подозреваю, присяжным нужно время чтобы вникнуть в это дело.</speak>
             <show chara="cervantesLaughClose" position="left"/>
             <speak chara="_Miguel">В смысле, Главный подозреваемый -  「компьютер」 созданный из человеческих мозгов——</speak>
             <speak chara="_Miguel">——Honestly, her whole existence is an enigma to an old man like me.</speak>

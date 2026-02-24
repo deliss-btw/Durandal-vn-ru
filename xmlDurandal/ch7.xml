@@ -32,7 +32,7 @@
             <speak chara="_Watt">Ммм-ммм... Кто вы...?</speak>
             <speak chara="_AliceNoName">...Приношу извинения за столь позднее знакомство.</speak>
             <speak chara="_AliceNoName">Меня зовут Алиса. Сейчас... Я отвечаю за этот объект.</speak>
-            <speak chara="_Alice">Пойдемте. Мы можем говорить, пока идем.</speak>
+            <speak chara="_Alice">Пойдёмте. Мы можем говорить, пока идем.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="jailBridge.jpg">
@@ -40,7 +40,7 @@
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">...Этот объект принадлежал некоему Профессору.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">Профессор был своебразной личностью. Он не был лишь затворником —— Его стиль мышления был абсолютно иным относительно других жителей.</speak>
+            <speak chara="_Alice">Профессор был своеобразной личностью. Он не был лишь затворником —— Его стиль мышления был абсолютно иным относительно других жителей.</speak>
             <speak chara="_Alice">Жителям претили не только его планы касательно социального управления, кроме того, они думали, что он был опасен и изгнали его из города.</speak>
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">...Но даже так, Профессор не сдался.</speak>
@@ -61,16 +61,16 @@
             <show chara="AliceDeclineFar" position="center"/>
             <speak chara="_Alice">Я не намереваюсь лгать вам. Я「Звено 4 (или "Единица")」, машина, созданная Профессором.</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">The 「Alice」 Перед вами один из множества интерфейсов этой машины.</speak>
+            <speak chara="_Alice">「Алиса」 Перед вами один из множества интерфейсов этой машины.</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">...Есдинственный, напоминающий человека.</speak>
+            <speak chara="_Alice">...Единственный, напоминающий человека.</speak>
             <speak chara="_Watt">.....</speak>
             <show chara="AliceCalmFar" position="center"/>
             <speak chara="_Alice">...Я понимаю, что вы не можете поверить мне сейчас.</speak>
             <show chara="AliceDeclineFar" position="center"/>
-            <speak chara="_Alice">Но это лишь.. начало моей истории.</speak>
+            <speak chara="_Alice">Но это лишь... начало моей истории.</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice">Я бы жилала ответить на все ваши вопросы прямо сейчас...</speak>
+            <speak chara="_Alice">Я бы желала ответить на все ваши вопросы прямо сейчас...</speak>
             <show chara="" position="center"/>
             <speak chara="_Alice">Но перед этим... перед тем как вы увидите нечто... Я хочу, чтобы вы морально подготовились.</speak>
             <speak chara="_Watt">...М-морально?</speak>
@@ -78,10 +78,10 @@
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">В место, коим Профессор гордился больше всего.</speak>
             <show chara="AliceCalmFar" position="center"/>
-            <speak chara="_Alice">Место, где находится мой 「мозг」 is.</speak>
+            <speak chara="_Alice">Место, где находится мой 「мозг」это</speak>
             <speak chara="_Watt">...Ваш... мозг...</speak>
             <show chara="AliceSilentFar" position="center"/>
-            <speak chara="_Alice">Ассистенты Профессора доставили сюда двух других ученых до вас, но в момент, когда они увиделиw 「это」 они отказали в помощи.</speak>
+            <speak chara="_Alice">Ассистенты Профессора доставили сюда двух других ученых до вас, но в момент, когда они увидели 「это」 они отказали в помощи.</speak>
             <show chara="AliceDeclineFar" position="center"/>
             <speak chara="_Alice">Один не пожелал слушать до конца и попытался бежать.</speak>
             <show chara="AliceBitterFar" position="center"/>
@@ -96,7 +96,7 @@
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">Вы ошиблись.</speak>
             <show chara="AliceBitterFar" position="center"/>
-            <speak chara="_Alice"Нет никаких 「мы」 более.</speak>
+            <speak chara="_Alice">Нет никаких 「мы」 более.</speak>
             <speak chara="_Watt">...?</speak>
             <show chara="AliceSilentFar" position="center"/>
             <speak chara="_Alice">Остались лишь вы и я.</speak>
@@ -128,7 +128,7 @@
             <show chara="AliceCalmFar" position="center"/>
             <speak chara="_Alice">Поднимитесь по лестнице направо.</speak>
             <show chara="AliceDeterminedFar" position="center"/>
-            <speak chara="_Alice">...Мы доберемся тyда быстрее.</speak>
+            <speak chara="_Alice">...Мы доберемся туда быстрее.</speak>
             <goto goto="50" change="#000000"/>
         </scene>
         <scene id="50" background="CG7-1-1.jpg">
@@ -156,7 +156,7 @@
             <show chara="AliceDeterminedClose" position="right"/>
             <speak chara="_Alice">...Мой центральный процессор.</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Я не имею допуска к документам, относящимся к моему обслуживанию. Без Профессора мне не оставалось ничего. кроме как найти того, кто сможет изучить эти документы и передать мне эти знания.</speak>
+            <speak chara="_Alice">Я не имею допуска к документам, относящимся к моему обслуживанию. Без Профессора мне не оставалось ничего, кроме как найти того, кто сможет изучить эти документы и передать мне эти знания.</speak>
             <show chara="AliceShyClose" position="right"/>
             <speak chara="_Alice">Точнее, Мне не нужно знать "как". Я лишь...</speak>
             <show chara="AliceSilentClose" position="right"/>
@@ -165,7 +165,7 @@
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
             <speak chara="_Watt">Д-дай мне время собраться с мыслями...</speak>
-            <speak chara="_Watt">В принципе, ты...машина, способная мыслить, а это - твой мозг?</speak>
+            <speak chara="_Watt">В принципе, ты... машина, способная мыслить, а это - твой мозг?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceDeclineClose" position="right"/>
             <speak chara="_Alice">...Да. Это будет самым простым объяснением.</speak>
@@ -203,7 +203,7 @@
             <show chara="AliceSilentClose" position="right"/>
             <speak chara="_Alice">.....</speak>
             <show chara="AliceBitterClose" position="right"/>
-            <speak chara="_Alice">Эти кабинеты вдоль стены —— Ты думаешь, что внутри них коммлекс электронных схем, не так ли?</speak>
+            <speak chara="_Alice">Эти кабинеты вдоль стены —— Ты думаешь, что внутри них комплекс электронных схем, не так ли?</speak>
             <show chara="AliceBitterClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Y-You said you were a 「machine」, so it would be natural to think that.</speak>
@@ -225,7 +225,7 @@
             <show chara="AliceSilentClose" position="right"/>
             <speak chara="_Alice">Я 「Звено 4」.</speak>
             <show chara="AliceCalmClose" position="right"/>
-            <speak chara="_Alice">Звено 1 было простым компьютером. Звено 2 было наделено искусственными нейронами. Звень 3 использовало мозг осьминога, и——</speak>
+            <speak chara="_Alice">Звено 1 было простым компьютером. Звено 2 было наделено искусственными нейронами. Звено 3 использовало мозг осьминога, и——</speak>
             <show chara="AliceDeclineClose" position="right"/>
             <speak chara="_Alice">——Я 「Гибридный Био Суперкомпьютер」, и причина, почему он был изгнан из города.</speak>
             <show chara="AliceDeclineClose" position="right" opacity="0.8"/>
@@ -233,7 +233,7 @@
             <speak chara="_Watt">.....</speak>
             <show chara="wattSadClose" position="left" opacity="0.8"/>
             <show chara="AliceDeterminedClose" position="right"/>
-            <speak chara="_Alice">Я считаю, что получив вашу помощь, Я неизбежно должна это преодолеть 「sin」.</speak>
+            <speak chara="_Alice">Я считаю, что получив вашу помощь, Я неизбежно должна преодолеть этот 「грех」.</speak>
             <hide position="right"></hide>
             <hide position="left"></hide>
             <text>Тонкий девичий палец указал на металлическую коробку.</text>
@@ -266,7 +266,7 @@
             <show chara="AliceDeterminedClose" position="right"/>
             <speak chara="_Alice">——Но это неправильно. Я не хочу больше брать на себя грех.</speak>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">Actually, Я...</speak>
+            <speak chara="_Alice">На самом деле, Я...</speak>
             <show chara="AliceSmileClose" position="right"/>
             <speak chara="_Alice">Извини, Я сбилась, думая о ненужных вещах.</speak>
             <text>Она достала из кармана юбки связку ключей и передала мне.</text>
@@ -275,7 +275,7 @@
             <show chara="AliceSmileClose" position="right"/>
             <speak chara="_Alice">Я обязательно верну тебя на поверхность - в мир, которому ты принадлежишь, я обещаю.</speak>
             <show chara="AliceDeclineClose" position="right"/>
-            <speak chara="_Alice">даже если ты думаешь о моем существовании, как о ереси. что не должна существовать... I——</speak>
+            <speak chara="_Alice">Даже если ты думаешь о моем существовании, как о ереси. что не должна существовать... I——</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG7-2.jpg">
@@ -285,7 +285,7 @@
             <speak chara="_Alice">...!</speak>
             <speak chara="_Alice">Но... ты не... знаешь ничего обо мне...</speak>
             <speak chara="_Watt">.....</speak>
-            <speak chara="_Watt">это возможно прозвучит глупо.</speak>
+            <speak chara="_Watt">Это, возможно, прозвучит глупо.</speak>
             <speak chara="_Watt">Но——</speak>
             <speak chara="_Watt">——Желание жить это не отклонение!</speak>
             <speak chara="_Watt">Ты не обычный человек, вроде меня, поэтому...</speak>
@@ -337,19 +337,19 @@
             <speak chara="_Bianka">Мы на окраинах города... не так ли?</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Ты можешь доверять нюху Нейт. к тому же...</speak>
+            <speak chara="_Champollion">Ты можешь доверять нюху Нейт, к тому же...</speak>
             <show chara="champoSmileClose" position="right"/>
             <speak chara="_Champollion">Этот участок с примятым песком - признак трехколесного робота. Когда их покрышки проходятся по песку, то оставляют такие следы.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">IЯ вижу... Эти следы указывают нам то, что мы на верном пути.</speak>
+            <speak chara="_Bianka">Я вижу... Эти следы указывают нам то, что мы на верном пути.</speak>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">Нейт, верны ли мои мысли, что эти следы ведут нас туда, куда овезли Джимми?</speak>
+            <speak chara="_Bianka">Нейт, верны ли мои мысли, что эти следы ведут нас туда, куда увезли Джимми?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="neithSeriousClose" position="right"/>
             <speak chara="_Neith">(нюх)</speak>
             <show chara="neithLaughClose" position="right"/>
-            <speak chara="_Neith">Ага, это номально, если вы будете следовать за ними!</speak>
+            <speak chara="_Neith">Ага, это нормально, если вы будете следовать за ними!</speak>
             <show chara="neithLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaProudClose" position="left"/>
             <speak chara="_Bianka">Здорово!</speak>
@@ -386,7 +386,7 @@
             <speak chara="_Champollion">Погляди сюда. Эта часть просела сильнее, значит под ней были следы. Это значит, что робот был здесь когда-то.</speak>
             <speak chara="_Champollion">...А значит, они подготовили всю экипировку здесь.</speak>
             <show chara="champoColdClose" position="right"/>
-            <speak chara="_Champollion"Нейт, сходи, проведай Куратора и попроси ее принести нужную экпировку и баллоны с кислородом. Скажи ей привести столь много людей, сколь возможно, нам нужно устроить полный обыск. И на сей раз - не отвлекайся!!</speak>
+            <speak chara="_Champollion">Нейт, сходи, проведай Куратора и попроси ее принести нужную экипировку и баллоны с кислородом. Скажи ей привести столь много людей, сколь возможно, нам нужно устроить полный обыск. И на сей раз - не отвлекайся!!</speak>
             <show chara="champoColdClose" position="right" opacity="0.8"/>
             <show chara="neithSmileClose" position="left"/>
             <speak chara="_Neith">Поняла!</speak>
@@ -467,10 +467,10 @@
             <show chara="wattInspiredClose" position="left"/>
             <speak chara="_Watt">Я понимаю это сейчас.</speak>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">Алиса!М-мы можем начать когда ты хочешь.</speak>
+            <speak chara="_Watt">Алиса! М-мы можем начать когда ты хочешь.</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_Alice">Правда? Это удивительно, что ты так быстро все понял!</speak>
+            <speak chara="_Alice">Правда? Удивительно, что ты так быстро все понял!</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Само по себе, техобслуживание не самый сложный процесс, просто процедура немного сложная.</speak>
@@ -528,11 +528,10 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">Тем не менее, Аоиса следовала за кроликом в смокинге пока не достигла основания ростка.</speak>
+            <speak chara="_Alice">Тем не менее, Алиса следовала за кроликом в смокинге пока не достигла основания ростка.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
             <speak chara="_Alice">В ростке была дыра —— кролик прыгнул в нее и исчез. Когда Алиса подошла ближе к ней, она почувствовала сильный порыв ветра!</speak>
             <show chara="AliceShyClose-up" position="center"/>
-            <!-- GRAMMAR: What I'm gonna -> What am I gonna -->
             <speak chara="_Alice">「Что же делать с моей юбкой, если закочу тем, что полечу как колик?」, Alice pondered.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
             <speak chara="_Alice">И на последнем лепестке. который упал перед ней была бутылка с надписью 「выпей это」.</speak>
@@ -691,13 +690,13 @@
             <speak chara="_Alice">...Я знаю, что подобное может заставить обычного человека чувствовать себя некомфортно——</speak>
             <show chara="AliceDeterminedClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Alice">——Так что, пожалуйста, не привыйкайте к подобному!</speak>
+            <speak chara="_Alice">——Так что, пожалуйста, не привыкайте к подобному!</speak>
             <show chara="AliceDeterminedClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
             <speak chara="_Watt">...И-извините.</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="AliceSilentClose" position="right"/>
-            <speak chara="_Alice">...Нет... Лишь я должна приносить извенения. Вы все делаете для меня...</speak>
+            <speak chara="_Alice">...Нет... Лишь я должна приносить извинения. Вы все делаете для меня...</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_Watt">.....</speak>
@@ -714,7 +713,7 @@
             <speak chara="_Alice">Где мы опять остановились?</speak>
             <show chara="AliceSilentClose" position="right" opacity="0.8"/>
             <show chara="wattShyClose" position="left"/>
-            <speak chara="_Watt">「Алиса」... просшла сквозь зеркало.</speak>
+            <speak chara="_Watt">「Алиса」... прошла сквозь зеркало.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
             <speak chara="_Alice">В-верно!</speak>
@@ -725,13 +724,13 @@
             <show chara="AliceShyClose-up" position="center"/>
             <speak chara="_Alice">Белка, одетая в униформу, покинула свое место, чтобы выкрикнуть 「Поезд до Сырного Ахипелага! Поезд до Сырного Ахипелага!」.</speak>
             <show chara="AliceSurprisedClose-up" position="center"/>
-            <speak chara="_Alice">Алисе бло невдомек, что за 「Сырный Архипелаг」  И она спросила девочку, которая была рядом, -  「Что такое Сырный Архипелаг? Куча островов из сыра?」</speak>
+            <speak chara="_Alice">Алисе было невдомек, что за 「Сырный Архипелаг」  И она спросила девочку, которая была рядом, -  「Что такое Сырный Архипелаг? Куча островов из сыра?」</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">Улыбаяс, девочка ответила ей. 「Так и есть. Сырный Архипелаг - прекраснейшее место во всем Млечном Пути. Золотистый пляж из Гауда Фета и замок из Голубого сыра! Там песочные деревья, карамельные цветы и более того—— это все вы можете съесть!」</speak>
+            <speak chara="_Alice">Улыбаясь, девочка ответила ей. 「Так и есть. Сырный Архипелаг - прекраснейшее место во всем Млечном Пути. Золотистый пляж из Гауда Фета и замок из Голубого сыра! Там песочные деревья, карамельные цветы и более того—— это все вы можете съесть!」</speak>
             <show chara="AliceShyClose-up" position="center"/>
             <speak chara="_Alice">Алиса была любопытной, но в то же время оставалась реалистом. Она спросила, - 「А не пропадут ли все эти сыры и конфеты, коли их едят?」</speak>
             <show chara="AliceSmileClose-up" position="center"/>
-            <speak chara="_Alice">Девочка со станции засмеялась. 「Неужто ты не слыжала раньше? 『Чудеса происходят в полночь!』. Пойдем. поезд скоро отправляется. Залазь!」</speak>
+            <speak chara="_Alice">Девочка со станции засмеялась. 「Неужто ты не слышала раньше? 『Чудеса происходят в полночь!』. Пойдем. поезд скоро отправляется. Залазь!」</speak>
             <hide position="center"></hide>
             <show chara="AliceSmileClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
@@ -780,7 +779,7 @@
             <shake position="right" time="250"></shake>
             <speak chara="_Alice">Решено. Продолжу называть себя девушкой. хе-хе!</speak>
             <show chara="AliceHmClose" position="right"/>
-            <speak chara="_Alice">...Статус 4, pнажмите желтую кнопку. Бокс 32 завершен. Осталось 26.</speak>
+            <speak chara="_Alice">...Статус 4, нажмите желтую кнопку. Бокс 32 завершен. Осталось 26.</speak>
             <show chara="AliceHmClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
             <speak chara="_Watt">Похоже, техническое обслуживание завершится раньше чем история.</speak>
@@ -799,7 +798,7 @@
             <speak chara="_Alice">...Но?</speak>
             <show chara="AliceShyClose" position="right" opacity="0.8"/>
             <show chara="wattSmileClose" position="left"/>
-            <speak chara="_Watt">「В этот раз」 Я останусь. Я хочу достушать историю 「Алисы」до самого конца!</speak>
+            <speak chara="_Watt">「В этот раз」 Я останусь. Я хочу дослушать историю 「Алисы」до самого конца!</speak>
             <show chara="wattSmileClose" position="left" opacity="0.8"/>
             <show chara="AliceShyClose" position="right"/>
             <speak chara="_Alice">...!</speak>

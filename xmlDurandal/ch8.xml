@@ -20,7 +20,7 @@
             <speak chara="_MichelCareer">...С Шамполлионом что-то произошло?</speak>
             <show chara="micheSeriousFar" position="right" opacity="0.8"/>
             <show chara="neithComplainFar" position="left"/>
-            <speak chara="_Neith">Please listen!</speak>
+            <speak chara="_Neith">Прошу послушайте!</speak>
             <show chara="neithScaredFar" position="left"/>
             <speak chara="_Neith">Мы преследовали похитителей в западном направлении и нашли их укрытие у Сернистого озера!</speak>
             <show chara="neithComplainFar" position="left"/>
@@ -40,7 +40,7 @@
             <speak chara="_Neith">Угумс!</speak>
             <show chara="neithSmileFar" position="right" opacity="0.8"/>
             <show chara="shelleySmileFar" position="left"/>
-            <speak chara="_ShelleyCareer">...Отнеси этот документ Командиру Хуссейну из Тылового Коммандования, а другую Птолемею - Управлюящему Областного Отдела Снабжения. Они выдадут тебе все необходимое снаряжение.</speak>
+            <speak chara="_ShelleyCareer">...Отнеси этот документ командиру Хуссейну из тылового командования, а второй — Птолемею, управляющему областным отделом снабжения. Они выдадут тебе всё необходимое снаряжение.</speak>
             <show chara="shelleySmileFar" position="left" opacity="0.8"/>
             <show chara="neithScaredFar" position="right"/>
             <speak chara="_Neith">О, чудно! До вас быстро дошло!</speak>
@@ -68,10 +68,10 @@
             <speak chara="_Shakespeare">Если система безопасности этого города надежна —— беспокоиться не о чем.</speak>
             <show chara="shakesSmileFar" position="right" opacity="0.8"/>
             <show chara="shelleyColdFar" position="left"/>
-            <speak chara="_Shelley">...Тч. Что ты понимешь?</speak>
+            <speak chara="_Shelley">...Тц. Что ты понимаешь?</speak>
             <show chara="shelleyColdFar" position="left" opacity="0.8"/>
             <show chara="shakesSweatyFar" position="right"/>
-            <speak chara="_Shakespeare">...Ты действительно собираешься завтавить меня сказзать это??</speak>
+            <speak chara="_Shakespeare">...Ты действительно собираешься заставить меня сказать это??</speak>
             <show chara="shakesConfidentFar" position="right"/>
             <speak chara="_Shakespeare">Если настаиваешь, полагаю, что должен.</speak>
             <show chara="shakesConfidentFar" position="right" opacity="0.8"/>
@@ -79,11 +79,11 @@
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyBoredFar" position="left" opacity="0.8"/>
             <show chara="shakesColdFar" position="right"/>
-            <speak chara="_Shakespeare">Ты и Куратор, в том числе, предсказали что случится нечто подобное.</speak>
+            <speak chara="_Shakespeare">Ты и Куратор, в том числе, предсказали, что случится нечто подобное.</speak>
             <show chara="shakesQuestionFar" position="right"/>
-            <speak chara="_Shakespeare">В противном случае, у вас не должно быть 「настоящих людей」 готовых по щелчку найти похитителей. Когда вы одержали поеду на выборах 20 лет назад, вы сказали общественности 「усовершенствовать искуственный интеллект и соблюдать законыЮ которые пресекут вовлечение людей в опасные предприятия」.</speak>
+            <speak chara="_Shakespeare">В противном случае, у вас не должно быть 「настоящих людей」 готовых по щелчку найти похитителей. Когда вы одержали победу на выборах 20 лет назад, вы сказали общественности 「усовершенствовать искусственный интеллект и соблюдать законы, которые пресекут вовлечение людей в опасные предприятия」.</speak>
             <show chara="shakesDisgustedFar" position="right"/>
-            <speak chara="_Shakespeare">Оставляя это в стороне, 「настоящие люди」 теперь в опасности, они не знали реальных сражний в течение долгого вреемени —— И несмотрян а это, вы решили. что он готовы вынести это.</speak>
+            <speak chara="_Shakespeare">Оставляя это в стороне, 「настоящие люди」 теперь в опасности, они не знали реальных сражений в течение долгого времени —— И несмотря на это, вы решили, что они готовы вынести это.</speak>
             <show chara="shakesDisgustedFar" position="right" opacity="0.8"/>
             <show chara="micheFocusFar" position="left"/>
             <speak chara="_Michel">.....</speak>
@@ -106,7 +106,7 @@
             <bgm src="02_22_amazingGrace.mp3" status="start"></bgm>
             <sound src="02_03_highheels.mp3"/>
             <show chara="ironWhiteSwordFar" position="center"/>
-            <speak chara="_SchrodingerNoName">Задача не только в том, nчтобы увидеть то, чего никто не видел——</speak>
+            <speak chara="_SchrodingerNoName">Задача не только в том, чтобы увидеть то, чего никто не видел——</speak>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="CG8-1-2.jpg">
@@ -133,7 +133,7 @@
             <show chara="schroSeriousFar" position="left"/>
             <speak chara="_Schrodinger">...Человек.</speak>
             <show chara="schroTalkFar" position="left"/>
-            <speak chara="_Schrodinger">Конкретизируя, сущность у которой была нарушена целостность квантового рнаспределения.</speak>
+            <speak chara="_Schrodinger">Конкретизируя, сущность у которой была нарушена целостность квантового распределения.</speak>
             <show chara="schroSmileFar" position="left"/>
             <speak chara="_Schrodinger">Ну, это нормально, думать обо мне, как о призраке 「проникшем」 сюда из другого мира.</speak>
             <show chara="schroSmileFar" position="left" opacity="0.8"/>
@@ -141,7 +141,7 @@
             <speak chara="_Shelley">.....</speak>
             <show chara="shelleyShockedFar" position="right" opacity="0.8"/>
             <show chara="schroTalkFar" position="left"/>
-            <speak chara="_Schrodinger">Слышала ли ты об этом мече? Он назван「Дюрандаль」.</speak>
+            <speak chara="_Schrodinger">Слышала ли ты об этом мече? Он назван 「Дюрандаль」.</speak>
             <show chara="schroTalkFar" position="left" opacity="0.8"/>
             <show chara="shelleyBoredFar" position="right"/>
             <speak chara="_Shelley">...?</speak>
@@ -149,11 +149,11 @@
             <show chara="schroSmileFar" position="left"/>
             <speak chara="_Schrodinger">Не удивительно, что меч для тебя не представляет интереса сам по себе.</speak>
             <show chara="schroCalmFar" position="left"/>
-            <speak chara="_Schrodinger">Но - следующая история может изменить твою реакцию. Городская легенда гласит, что где-то в этом городе「Философский Камень」, 「тессеракт, которыйдает твоим роботам возможность думать」.</speak>
+            <speak chara="_Schrodinger">Но - следующая история может изменить твою реакцию. Городская легенда гласит, что где-то в этом городе「Философский Камень」, 「тессеракт, который даёт твоим роботам возможность думать」.</speak>
             <show chara="schroCalmFar" position="left" opacity="0.8"/>
             <show chara="shelleySmileFar" position="right"/>
-            <speak chara="_Shelley">...Хмпф. И только я подумала, что ты расскажешь что-то интересное, ф это всего-лишь 「Философский Камень」. Ты правда веришь в этот бред?</speak>
-            <speak chara="_Shelley">Знала ли ты? Согласно некоторым легендам, я, на самом деле. мертва и заменена роботом.</speak>
+            <speak chara="_Shelley">...Хмпф. И только я подумала, что ты расскажешь что-то интересное, а это всего лишь 「Философский Камень」. Ты правда веришь в этот бред?</speak>
+            <speak chara="_Shelley">Знала ли ты? Согласно некоторым легендам, я, на самом деле, мертва и заменена роботом.</speak>
             <show chara="shelleySmileFar" position="right" opacity="0.8"/>
             <show chara="schroSeriousFar" position="left"/>
             <speak chara="_Schrodinger">Действительно. Городские легенды, обычно - чушь, далекая от правды. Даже 「Философский Камень」 - лишь старая 「всеобщая」 легенда.</speak>
@@ -164,7 +164,7 @@
                 <p class="article-text">"Три закона Кларка"——</p>
                 <p class="article-text">1. Если выдающийся, но пожилой ученый говорит, что что-то возможно, он почти наверняка прав, но если он говорит, что что-то невозможно, то он, вероятно, ошибается;</p>
                 <p class="article-text">2. Единственный способ обнаружить границы «возможности» — это выйти за пределы существующей «возможности» и войти в царство «невозможности». </p>
-                <p class="article-text">3. Любая достаточно продвинутая технология будет для аудитории неотличима от магии.。</p>
+                <p class="article-text">3. Любая достаточно продвинутая технология будет для аудитории неотличима от магии.</p>
             </remark>
             <show chara="schroSmileFar" position="left"/>
             <speak chara="_Schrodinger">Не было бы странным. если химик, вернувшийся в каменный век был назван 「божественным шаманом」 после пары экспериментов.</speak>
@@ -183,7 +183,7 @@
             <speak chara="_Schrodinger">Например... Красный Самоцвет Храбрости может отслеживать определенную длину волны, которая может служить ориентиром в поиске.</speak>
             <speak chara="_Schrodinger">Синий Самоцвет Разума имеет огромные вычислительные мощности, которые позволяют мгновенно получить данные анализа любой сложности.</speak>
             <speak chara="_Schrodinger">Даже по отдельности каждый из них имеет огромную значимость.</speak>
-            <speak chara="_Schrodinger">...реди них самый 「полезный」 「Самоцвет Разума」 из-за его способности имитировать человеческое сознание.</speak>
+            <speak chara="_Schrodinger">...Среди них самый 「полезный」 「Самоцвет Разума」 из-за его способности имитировать человеческое сознание.</speak>
             <goto goto="70" change="0"/>
         </scene>
         <scene id="70" background="alexandriaPalace.jpg">
@@ -191,40 +191,40 @@
             <show chara="schroSeriousFar" position="center"/>
             <speak chara="_Schrodinger">Я обнаружила это после тщательного исследования твоего города.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">Ничего особенного в двигателях внутреннего сгорания и лектронных лампах нет——</speak>
+            <speak chara="_Schrodinger">Ничего особенного в двигателях внутреннего сгорания и электронных лампах нет——</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">——И все же, роботы могут работать полицейскими, проводниками и домработниками. Даже их искусственный интеллект достаточно хорош для упрощения законодательной и и исполнительской деятельности.</speak>
+            <speak chara="_Schrodinger">——И все же, роботы могут работать полицейскими, проводниками и домработниками. Даже их искусственный интеллект достаточно хорош для упрощения законодательной и исполнительской деятельности.</speak>
             <show chara="schroTalkFar" position="center"/>
             <speak chara="_Schrodinger">Эти машины - не просто автоматы: они думают и решают проблемы как люди.</speak>
             <show chara="schroCalmFar" position="center"/>
             <speak chara="_Schrodinger">Они обладают гениальным искусственным интеллектом, способным пройти Тест Тьюринга.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">Это есть, без сомнения. выдающееся достижение... но и подозрительное в том числе.</speak>
+            <speak chara="_Schrodinger">Это есть, без сомнения, выдающееся достижение... но и подозрительное в том числе.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">Как тебе уже известно, сложная и нежная вещь. Попытка их имитации электронными устройствами ведет к огромным затратам энергии.</speak>
+            <speak chara="_Schrodinger">Как тебе уже известно, сознание — сложная и тонкая вещь. Попытка его имитации электронными устройствами ведет к огромным затратам энергии.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">Люди могут выжить 「питаясь трижды в день」только потому что человеческий организм хорошо оптимизирован.</speak>
+            <speak chara="_Schrodinger">Люди могут выжить, питаясь трижды в день, только потому что человеческий организм хорошо оптимизирован.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">Каждая клетка тождественнна нанороботу. они записывают информацию о собственной химической структуре, а не полагаются на электромагнитные поля, которые потребляют уйму энергии.</speak>
+            <speak chara="_Schrodinger">Каждая клетка тождественна нанороботу. Они записывают информацию о собственной химической структуре, а не полагаются на электромагнитные поля, которые потребляют уйму энергии.</speak>
             <show chara="schroSmileFar" position="center"/>
-            <speak chara="_Schrodinger">И эти клетки содержат чертежи, названные ДНК, и могут саморелицироваться подобно  「Трехмерной печати」 в процессе клеточного деления.</speak>
+            <speak chara="_Schrodinger">И эти клетки содержат чертежи, названные ДНК, и могут самореплицироваться подобно  「Трехмерной печати」 в процессе клеточного деления.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">Мое утверждение —— репликация есть сложный и эзотерический процесс, людской мозг —— теоритически невозможен 「сымитирован аппаратно」 с помощью электронных ламп и двигателей сгорния.</speak>
+            <speak chara="_Schrodinger">Мое утверждение —— репликация есть сложный и эзотерический процесс, людской мозг теоретически не может быть 「сымитирован аппаратно」 с помощью электронных ламп и двигателей сгорания.</speak>
             <show chara="schroTalkFar" position="center"/>
-            <speak chara="_Schrodinger">Человеческий моз содержит триллионы нейронных связей——</speak>
-            <speak chara="_Schrodinger">——Если бы кто-то использовал лампы, то эло бы подобно включению триллиона.</speak>
+            <speak chara="_Schrodinger">Человеческий мозг содержит триллионы нейронных связей——</speak>
+            <speak chara="_Schrodinger">——Если бы кто-то использовал лампы, то это бы подобно включению триллиона ламп.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">Исключая количество место и отвод тепла, тебе понадобятся сотни, если не тысячи ГЭС для подвода достаточного количества питания「триллиону ламп」.</speak>
+            <speak chara="_Schrodinger">Не считая количество места и отвод тепла, тебе понадобятся сотни, если не тысячи ГЭС для подвода достаточного количества питания 「триллиону ламп」.</speak>
             <show chara="schroTalkFar" position="center"/>
             <speak chara="_Schrodinger">Только тогда кто-то сможет воссоздать 「человеческий мозг」.</speak>
             <show chara="schroCalmFar" position="center"/>
-            <speak chara="_Schrodinger">Когда ты смотришь на это так, факто того, что в твоем городе есть 「гениальный Искусственный Интеллект」 звучит как сюжет из фентези-романа.</speak>
+            <speak chara="_Schrodinger">Когда ты смотришь на это так, факт того, что в твоем городе есть 「гениальный Искусственный Интеллект」 звучит как сюжет из фэнтези-романа.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">——И все же оно существует. Везде в этом городе 「машины」 выполняют сложные задачи, которые  лишь「человек」 должен быть способен.</speak>
+            <speak chara="_Schrodinger">——И все же оно существует. Везде в этом городе 「машины」 выполняют сложные задачи, которые должен уметь выполнять только человек.</speak>
             <show chara="schroTalkFar" position="center"/>
             <speak chara="_Schrodinger">После того, как я осмотрела выброшенных роботов, я заметила, что они не более чем терминалы, которые исполняют приказы —— это делало ситуацию еще более подозрительной.</speak>
             <show chara="schroSeriousFar" position="center"/>
-            <speak chara="_Schrodinger">Кто же「основной мозг」 за ними, имитирующий  「десятки тысяч」 людских мозгов каждый день?</speak>
+            <speak chara="_Schrodinger">Кто же —「основной мозг」 за ними, имитирующий  「десятки тысяч」 людских мозгов каждый день?</speak>
             <show chara="schroTalkFar" position="center"/>
             <speak chara="_Schrodinger">И что за 「уловку」 ты использовала, чтобы вытащить это?</speak>
             <show chara="schroScornfulFar" position="center"/>
@@ -234,12 +234,12 @@
             <speak chara="_Michel">.....</speak>
             <show chara="micheSeriousFar" position="left" opacity="0.8"/>
             <show chara="shelleyShockedFar" position="right"/>
-            <speak chara="_Shelley">...Можешь смеяться над нами, но позволь мне сказать, что я не считаю разщвитие моего города неэтичным и аморальным.</speak>
+            <speak chara="_Shelley">...Можешь смеяться над нами, но позволь мне сказать, что я не считаю развитие моего города неэтичным и аморальным.</speak>
             <show chara="shelleyShockedFar" position="right" opacity="0.8"/>
             <show chara="schroMemoryFar" position="left"/>
-            <speak chara="_Schrodinger">Да, я понимаю, что ты чувствуешь. Со мной было так же. когда я работала в некоем Учреждении.</speak>
+            <speak chara="_Schrodinger">Да, я понимаю, что ты чувствуешь. Со мной было также, когда я работала в некоем Учреждении.</speak>
             <show chara="schroSeriousFar" position="left"/>
-            <speak chara="_Schrodinger">Вот почему я должна рассказать тебе об уязвимостях технологий, которые ты 「позаимствовала.</speak>
+            <speak chara="_Schrodinger">Вот почему я должна рассказать тебе об уязвимостях технологий, которые ты 「позаимствовала」.</speak>
             <show chara="schroTalkFar" position="left"/>
             <speak chara="_Schrodinger">Для начала, самое важное для тебя сейчас —— 「безопасность оборудования связи」.</speak>
             <goto goto="80" clockwise="1"/>
@@ -252,10 +252,10 @@
             <speak chara="_Bianka">Ферзь на A1. Шах.</speak>
             <hide position="center"></hide>
             <show chara="biankaProudClose" position="left"/>
-            <speak chara="_Bianka">Если хочешь вернуться, то сейчас самое время, или попращайся со своими ладьями.</speak>
+            <speak chara="_Bianka">Если хочешь вернуться, то сейчас самое время, или попрощайся со своими ладьями.</speak>
             <show chara="biankaProudClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">...Как и я говорила ранее, разговоры во время шахмат отвлекают.</speak>
+            <speak chara="_Champollion">...Как я говорила ранее, разговоры во время шахмат отвлекают.</speak>
             <show chara="champoSmileClose" position="right"/>
             <speak chara="_Champollion">Кроме того, я никогда не хожу назад.</speak>
             <hide position="left"></hide>
@@ -294,7 +294,7 @@
             <speak chara="_Champollion">Матч окончен.</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="left"/>
-            <speak chara="_Bianka">(...Что она хотел этим сказать? Была ли это ловушка?)</speak>
+            <speak chara="_Bianka">(...Что она хотела этим сказать? Была ли это ловушка?)</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="chess10" position="center"/>
@@ -340,15 +340,15 @@
             <show chara="biankaBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
             <speak chara="_Bianka">——Тебе нельзя использовать свои навыки, чтобы подглядывать за игрой в шахматы! О чем ты думала!?</speak>
-            <speak chara="_Bianka">Невероятно! Высказывание「запрещено использовать паровой молот, чтобы расколоть орех, если с этим справился орехокол」 существет не просто так.</speak>
+            <speak chara="_Bianka">Невероятно! Высказывание 「запрещено использовать паровой молот, чтобы расколоть орех, если с этим справился орехокол」 существует не просто так.</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
-            <speak chara="_Rita">...Это была ловушка, но если бы этого не было, игра бы не кончилась подобным бразом, и вы не узнали бы, что такой финал возможен.</speak>
+            <speak chara="_Rita">...Это была ловушка, но если бы этого не было, игра бы не кончилась подобным образом, и вы не узнали бы, что такой финал возможен.</speak>
             <show chara="rita17HesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Без разницы. Это бы хороший урок.</speak>
+            <speak chara="_Bianka">Без разницы. Это был хороший урок.</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="neithSmileClose" position="left"/>
             <speak chara="_Neith">Профессор! Вот противогазы, баллоны с кислородом и 50 человек!</speak>
@@ -358,7 +358,7 @@
             <speak chara="_Thales">Говоря вслух. Подобный физический труд не для меня.</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="neithComplainClose" position="right"/>
-            <speak chara="_Neith">Вы - важная лперсона, вам нужно здесь быть!</speak>
+            <speak chara="_Neith">Вы - важная персона, вам нужно здесь быть!</speak>
             <show chara="manfredQuestionClose" position="right"/>
             <speak chara="_Manfred">...Я слышал, что ты отчасти виновна в том, что Профессор Ватт был похищен.</speak>
             <show chara="manfredQuestionClose" position="right" opacity="0.8"/>
@@ -369,7 +369,7 @@
             <speak chara="_Champollion">Хахаха. Думайте об этом так, директор: ваш исключительный мозг полезен для этого дела.</speak>
             <speak chara="_Champollion">Но, сначала...</speak>
             <show chara="neithSmileClose" position="left" opacity="0.8"/>
-            <speak chara="_Champollion">Хорошо, Нейт! Завтра я куплю тебье Мильфей в 「Золотом Доме」!</speak>
+            <speak chara="_Champollion">Хорошо, Нейт! Завтра я куплю тебе Мильфей в 「Золотом Доме」!</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="neithLaughClose" position="left"/>
             <speak chara="_Neith">Да! Тортик! Спасибо, Про——</speak>
@@ -389,25 +389,25 @@
             <show chara="AliceSurprisedClose" position="center"/>
             <speak chara="_Alice">...Алиса села на поезд. И, представь, все пассажиры и работники внезапно исчезли!</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Алиса была очень обеспокоена. Кто поведет этот выскокскоросной поезд, если машинист пропал?</speak>
+            <speak chara="_Alice">Алиса была очень обеспокоена. Кто поведет этот высокоскоростной поезд, если машинист пропал?</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">Когда Алиса запаниковала, из динамиков разалось: 「Дорогая Алиса. не волнуйся. Я - Найтер Эльмонт, машинист этого поезда. Позволь нам насладиться этим прекрасным путешествием.」</speak>
+            <speak chara="_Alice">Когда Алиса запаниковала, из динамиков раздалось: 「Дорогая Алиса, не волнуйся. Я - Найтер Эльмонт, машинист этого поезда. Позволь нам насладиться этим прекрасным путешествием.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Алиса была глубоко удивлена. Она подошла к динамику ближе и спросила, 「Где вы, Машинист? Я обыскла все углы в поезде, но не нашла вас!」</speak>
+            <speak chara="_Alice">Алиса была глубоко удивлена. Она подошла к динамику ближе и спросила, 「Где вы, Машинист? Я обыскала все углы в поезде, но не нашла вас!」</speak>
             <show chara="AliceSmileClose" position="center"/>
             <speak chara="_Alice">Найтер посмеялся и ответил: 「Конечно, ты - внутри меня, Алиса.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Алиса было удивлена еще сильнее. 「Вы... сам поезд?」</speak>
+            <speak chara="_Alice">Алиса была удивлена еще сильнее. 「Вы... сам поезд?」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">Голос из динамика сказаал ей: 「Да. Как тебе известно, этот мир постоянно изменяется.」</speak>
+            <speak chara="_Alice">Голос из динамика сказал ей: 「Да. Как тебе известно, этот мир постоянно изменяется.」</speak>
             <show chara="AliceSmileClose" position="center"/>
             <speak chara="_Alice">「Когда два зеркальных изображения сходятся - каждый аспект мира меняется.」</speak>
             <show chara="AliceSmileClose" position="center"/>
-            <speak chara="_Alice">「Обычно в этом поезде четыре работника. Когда изображения сходятся - появляется полностью автоматические поезд.」</speak>
+            <speak chara="_Alice">「Обычно в этом поезде четыре работника. Когда изображения сходятся - появляется полностью автоматический поезд.」</speak>
             <show chara="AliceShyClose" position="center"/>
-            <speak chara="_Alice">Алиса подумала, почему четыре? 「Пятеро не согут?」, спросила она.</speak>
+            <speak chara="_Alice">Алиса подумала, почему четыре? 「Пятеро не смогут?」, спросила она.</speak>
             <show chara="AliceSilentClose" position="center"/>
-            <speak chara="_Alice">Найтер сказал растроенным голосом: 「Да, если бы их было пятеро, они бы вечно——」</speak>
+            <speak chara="_Alice">Найтер сказал рас строенным голосом: 「Да, если бы их было пятеро, они бы вечно——」</speak>
             <hide position="center"></hide>
             <bgm src="02_22_ring_ring.mp3" status="start"></bgm>
             <speak chara="_mechanicalSound">Внимание. Уровень энергии критически низкий.</speak>
@@ -459,12 +459,12 @@
             <show chara="shelleyColdClose" position="right"/>
             <speak chara="_Shelley">...Хмпф. Разве мы опоздали не потому что ты слишком долго рассказывала свою маленькую историю?</speak>
             <show chara="shelleySmileClose" position="right"/>
-            <speak chara="_Shelley">Я бы хотела, чтобы вы указали на уязвимости в системе нашего робота менее окольным путем.</speak>
+            <speak chara="_Shelley">Я бы хотела, чтобы вы указали на уязвимости в системе наших роботов менее окольным путем.</speak>
             <show chara="shelleySmileClose" position="right" opacity="0.8"/>
             <show chara="schroCalmClose" position="left"/>
-            <speak chara="_Schrodinger">...Но Президент, еслибы я это сделала, то вы бы назвали меня 「хакером」 и арестовали.</speak>
+            <speak chara="_Schrodinger">...Но Президент, если бы я это сделала, то вы бы назвали меня 「хакером」 и арестовали.</speak>
             <show chara="schroSmileClose" position="left"/>
-            <speak chara="_Schrodinger">Потому что 「Я знаю слишком много」, даже если я пришел из бездны.</speak>
+            <speak chara="_Schrodinger">Потому что 「Я знаю слишком много」, даже если я пришла из бездны.</speak>
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">...Так или иначе, начинаю.</speak>
             <show chara="schroCalmClose" position="left"/>
@@ -486,34 +486,34 @@
         <scene id="120" background="CG8-2.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
             <speak chara="_AliceGreen">Джимми... Я очень извиняюсь... Я могу говорить с тобой только через этот экран.</speak>
-            <speak chara="_AliceGreen">Расположение коннектора неизвестно Так что нет возможности уничтожить станцию связи извне.</speak>
-            <speak chara="_AliceGreen">Но... спасибо тебе огромное... за возвращение моего бездыханного тела на его место отдыха.</speak> (Я просто не нашел лучшего аналога выражению 'no responding' в данном контексте)
+            <speak chara="_AliceGreen">Расположение коннектора неизвестно. Так что нет возможности уничтожить станцию связи извне.</speak>
+            <speak chara="_AliceGreen">Но... спасибо тебе огромное... за возвращение моего бездыханного тела на его место отдыха.</speak>
             <speak chara="_AliceGreen">Должно быть, вокруг - хаос, но——</speak>
-            <speak chara="_AliceGreen">Именно за то я тебя должна побзадодарить.. за заботу обо мне...</speak>
+            <speak chara="_AliceGreen">Именно за это я тебя должна поблагодарить.. за заботу обо мне...</speak>
             <speak chara="_AliceGreen">.....</speak>
-            <speak chara="_AliceGreen">Как я и говорила, Я создана Профессором. У меня нет полномочий управлять собственными функциями.</speak>
+            <speak chara="_AliceGreen">Как я и говорила, я создана Профессором. У меня нет полномочий управлять собственными функциями.</speak>
             <speak chara="_AliceGreen">Я единожды хотела побыть жадной——</speak>
-            <speak chara="_AliceGreen">——Словной Шахеризада из "Тысяча И Одна Ночь", после всех историй я хотела рассказать тебе свою собственную, свою истину.</speak>
-            <speak chara="_AliceGreen">Но кто бы мог подумать, что 「эта программа」 была зпущена на фоне все это время.</speak>
-            <speak chara="_AliceGreen">Сейчас она начала потреблять больше энергии и она пытается отнять у меня привелегии. Подозреваю, она закончила анализ своейцели и готова к удару.</speak>
+            <speak chara="_AliceGreen">——Словно Шахеризада из "Тысяча и одна ночь", после всех историй я хотела рассказать тебе свою собственную, свою истину.</speak>
+            <speak chara="_AliceGreen">Но кто бы мог подумать, что 「эта программа」 была запущена на фоне все это время.</speak>
+            <speak chara="_AliceGreen">Сейчас она начала потреблять больше энергии и она пытается отнять у меня привилегии. Подозреваю, она закончила анализ своей цели и готова к удару.</speak>
             <speak chara="_AliceGreen">...Конечно, это лишь моя догадка. У меня нет авторитета наблюдать 「эту программу」 в конце концов.</speak>
-            <speak chara="_AliceGreen">В свете текущей ситуации, я могу лишь думать об 「этом плане」ответственном во внезапном повышении потребления энергии станцией связи.</speak>
-            <speak chara="_AliceGreen">Извиняюсь. Слишком долго я объянсяла правду, и теперь ситуация вышла из-под контроля.</speak>
-            <speak chara="_AliceGreen">...Учитывая отсутствие у меня полномочи, я не могу знать, в какой фазе 「этот план」 в том числе.</speak>
-            <speak chara="_AliceGreen">Я такая глупая. Буто дитя, которое думало, что родители ему не навредят. Я верила в нечто нереальное.</speak>
-            <speak chara="_AliceGreen">Правда в том что... Все идет по плану. Даже брось я все. план прошел бы гладко.</speak>
-            <speak chara="_AliceGreen">Без моего ведомв станция связи усилилась бы так, что люди не могли бы ей навредить.</speak>
+            <speak chara="_AliceGreen">В свете текущей ситуации, я могу лишь думать о 「плане」, ответственном за внезапном повышении потребления энергии станцией связи.</speak>
+            <speak chara="_AliceGreen">Извиняюсь. Слишком долго я объясняла правду, и теперь ситуация вышла из-под контроля.</speak>
+            <speak chara="_AliceGreen">...Учитывая отсутствие у меня полномочий, я не могу знать, в какой фазе 「этот план」 в том числе.</speak>
+            <speak chara="_AliceGreen">Я такая глупая. Будто дитя, которое думало, что родители ему не навредят. Я верила в нечто нереальное.</speak>
+            <speak chara="_AliceGreen">Правда в том, что... Все идет по плану. Даже брось я всё — план прошел бы гладко.</speak>
+            <speak chara="_AliceGreen">Без моего ведома станция связи усилилась бы так, что люди не могли бы ей навредить.</speak>
             <speak chara="_AliceGreen">...Не пытайся успокоить меня. Я во всем виновата.</speak>
             <speak chara="_AliceGreen">...Я желала потеряться в этом чудесном моменте.</speak>
             <speak chara="_AliceGreen">Забыть самую важную и устрашающую вещь о себе...</speak>
             <speak chara="_AliceGreen">Мое истинное назначение —— стать оружием в информационной войне.</speak>
-            <speak chara="_AliceGreen">Профессор и его ассистенты хотел, чтобы я уничтожила город, откуда они были изгнаны.</speak>
-            <speak chara="_AliceGreen">Они хотели декодировать и взломать системы коммуникации удаленно чтобы разрушить все с помощью роботов, коими они гордились.</speak>
+            <speak chara="_AliceGreen">Профессор и его ассистенты хотели, чтобы я уничтожила город, откуда они были изгнаны.</speak>
+            <speak chara="_AliceGreen">Они хотели декодировать и взломать системы коммуникации удалённо, чтобы разрушить все с помощью роботов, коими они гордились.</speak>
             <speak chara="_AliceGreen">...Думая об этом сейчас, возможно, мое текущее сознание 「Алисы」 - 「побочный продукт」 скуки Профессора.</speak>
-            <speak chara="_AliceGreen">Для них, эта личность 「Алисы」 не более, чем инерфейс для  「Алисы」, как если бы они играли с куклой.</speak>
+            <speak chara="_AliceGreen">Для них, эта личность 「Алисы」 не более, чем интерфейс для  「Алисы」, как если бы они играли с куклой.</speak>
             <speak chara="_AliceGreen">Ибо 「Я」 совершенно не нужна —— для чего 「Я」 была действительно создана.</speak>
             <speak chara="_AliceGreen">.....</speak>
-            <speak chara="_AliceGreen">Интересно, все ли люди используют своих детей подбным образом, Джимми.</speak>
+            <speak chara="_AliceGreen">Интересно, все ли люди используют своих детей подобным образом, Джимми.</speak>
             <end post="U2FsdGVkX1+1vGdM9rblXGYOSlxi"/>
         </scene>
     </story>

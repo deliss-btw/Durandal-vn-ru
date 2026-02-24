@@ -64,7 +64,7 @@
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Вызовите его по радио! Заблокируйте ворота! Обыщите каждый уголок!</speak>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Разве вы не говорили, что история этого города полна порочной торговлей людьми? Куда такой трус мог пойти в одиночку?!</speak>
+            <speak chara="_Bianka">Разве вы не говорили, что история этого города полна порочной торговли людьми? Куда такой трус мог пойти в одиночку?!</speak>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">Он определенно не просто потерялся—— это похищение, похищение человека!</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
@@ -101,7 +101,7 @@
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">А ещё... если ты знаешь, что насилие это нехорошо, подавляй своё агрессивное отношение, пока мы не подтвердим, действительно ли это было похищение или нет.</speak>
+            <speak chara="_Thales">А ещё... если ты знаешь, что насилие - это нехорошо, подавляй своё агрессивное отношение, пока мы не подтвердим, действительно ли это было похищение или нет.</speak>
             <speak chara="_Thales">Иначе ты навлечешь на себя позор.</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
@@ -249,8 +249,7 @@
             <speak chara="_Thales">...О чём ты?</speak>
             <show chara="thalesSeriousClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Какое лучшее средство передвижения было создано с использованием этой "Жемчужины разума", которой вы и ваша библиотека так гордитесь?</speak>
-            <!-- П/п: В ен именуется как Камень Разума, в сн 智慧结晶. Сомневаюсь, что это именно Ядро, поэтому оставила как "жемчужину" -->
+            <speak chara="_Champollion">Какое лучшее средство передвижения было создано с использованием этой "Жемчужины разума", которой вы и ваша библиотека так гордитесь?</speak> <!-- П/п: В ен именуется как Камень Разума, в сн 智慧结晶. Сомневаюсь, что это именно Ядро, поэтому оставила как "жемчужину" -->
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="left"/>
             <speak chara="_Thales">А—— Вот оно что——</speak>
@@ -270,7 +269,7 @@
             <speak chara="_Bianka">П-Пожалуйста, объясните это так, чтобы я тоже могла это понять!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="thalesSeriousClose" position="right"/>
-            <speak chara="_Thales">...Если снять автономный блок управления роботом и переключится на дистанционное управление, то можно поместить внутрь человека.</speak>
+            <speak chara="_Thales">...Если снять автономный блок управления роботом и переключиться на дистанционное управление, то можно поместить внутрь человека.</speak>
             <show chara="thalesSeriousClose" position="right" opacity="0.8"/>
             <show chara="micheSeriousClose" position="left"/>
             <speak chara="_Michel">...Есть какие-нибудь веские доказательства этого?</speak>
@@ -304,7 +303,7 @@
             <speak chara="_Bianka">...Вы, конечно, звучите уверенно, хотя, по сути, ищете иголку в океане.</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Видишь ли, у меня очень талантливый асисстент.</speak>
+            <speak chara="_Champollion">Видишь ли, у меня очень талантливый ассисстент.</speak>
             <show chara="champoSweatyClose" position="right"/>
             <speak chara="_Champollion">Она должна прибыть с минуты на минуту—— Лучше бы ей не останавливаться, чтобы что-нибудь съесть по дороге сюда...</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
@@ -366,7 +365,7 @@
             <speak chara="_Bianka">Рынке? Не говори, что она——</speak>
             <show chara="biankaSurpriseClose" position="left" opacity="0.8"/>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">Давайте начнём. Отведи нас в комнату потерянного мальчика. Нам нужно, чтобы Нейт уловила「запах」 Джимми .</speak>
+            <speak chara="_Champollion">Давайте начнём. Отведи нас в комнату потерянного мальчика. Нам нужно, чтобы Нейт уловила「запах」 Джимми.</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
             <speak chara="_Bianka">...Ты сменила тему очень быстро. Как подозрительно.</speak>
@@ -481,18 +480,18 @@
             <speak chara="_Rita">Сталкиваясь с рисками, которые были одновременно ненужными и непредсказуемыми, я не могу одобрить никаких безрассудных, опрометчивых поступков.</speak>
             <show chara="rita17AngryEmClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Я не безрассудна! О какой честности мастера может речь идти, если я позволю адъютанту взять на себя ответственность за место себя?!</speak>
+            <speak chara="_Bianka">Я не безрассудна! О какой честности мастера может речь идти, если я позволю адъютанту взять на себя ответственность вместо себя?!</speak>
             <show chara="biankaShoutClose" position="left"/>
             <speak chara="_Bianka">И всё что мне надобно сделать - поймать похитителей! Где тут риски? Я - Валькирия А ранга, я могу справиться с подобным без всяких трудностей!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_Rita">.....</speak>
             <show chara="rita17AngryEmClose" position="right"/>
-            <speak chara="_Rita">Ежели вы так настаиваете, то, прошу, подождите, пока оставшиеся члены экипажа Каледони не вернутся——</speak>
+            <speak chara="_Rita">Ежели вы так настаиваете, то, прошу, подождите, пока оставшиеся члены экипажа Каледонии не вернутся——</speak>
             <show chara="rita17AngryEmClose" position="right" opacity="0.8"/>
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="neithLaughClose" position="left"/>
-            <speak chara="_Neith">Поняла! Mой нос готов!</speak>
+            <speak chara="_Neith">Поняла! Мой нос готов!</speak>
             <show chara="neithSmileClose" position="left"/>
             <speak chara="_Neith">Те, кто хотят знать, где преступники - следуйте за мной!</speak>
             <show chara="neithSmileClose" position="left" opacity="0.8"/>

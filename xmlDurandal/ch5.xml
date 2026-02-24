@@ -8,23 +8,22 @@
         </scene>
         <scene id="10" background="deepWater.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
-            <text>Кажется, тебе приснился сон. Сон о том, что ты все ещё живешь в русском санатории.</text>
-            <!-- 你 - Ты -->
+            <text>Кажется, тебе приснился сон. Сон о том, что ты все ещё живешь в русском санатории.</text> <!-- 你 - Ты -->
             <text>Санатории, расположенном в городе Сочи. Он окружен горами с трех сторон и обращен к морю с другой. Это место, где весна в полном разгаре во все времена года.</text>
-            <text>Ты спокойно бродишь меж асфальтированных улочек, а свежий воздух выводит весь мрак из твоих легких.</text>
+            <text>Ты спокойно бродишь по асфальтированным улочкам, а свежий воздух выводит весь мрак из твоих легких.</text>
             <text>Был июнь. Дикий чертополох кучами высовывался вдоль тропинки.</text>
             <text>Это пурпурные, колючие, гордые и упрямые цветы, которые могут безудержно расти в самой бесплодной земле.</text>
             <text>Как и все бедные, но трудолюбивые люди.</text>
             <text>Пчелы деловито летали вокруг цветов. Ты чувствуешь знакомый запах.</text>
             <text>Не знаю когда. Не знаю где. Может быть, это просто странная иллюзия.</text>
-            <text>Но, по крайней мере, в этом сне ты уверен. Что-то, что сейчас не имеет значения, но все еще волнует тебя, спит на земле, как капсула времени.</text>
+            <text>Но, по крайней мере, в этом сне ты уверен: что-то, что сейчас не имеет значения, но все еще волнует тебя, спит на земле, как капсула времени.</text>
             <text>Ты стоишь на берегу синего и глубокого Черного моря, а возле тебя проносится пар, принесенный горячими источниками.</text>
             <text remark="next">От экипажа «Аргонавта» до слепого Островского: бесчисленные герои, известные и неизвестные, слушали здесь шум волн.</text>
             <remark post="U2FsdGVkX18Hb7L85UTiSUAt87Ml">
                 <p class="article-text-h">Примечание：</p>
                 <p class="article-text">Николай Алексеевич Островский (Николай Алексеевич Островский, 1904-1936) - легендарный советский писатель. Он вступил в армию в возрасте 15 лет, получил травму головы в бою в возрасте 16 лет, был слеп на правый глаз, а в возрасте 23 лет был парализован и ослеп на оба глаза; однако именно при этом условии он настоял на устном повествовании (организованном его женой) и в возрасте 29 лет завершил автобиографический роман о вере, упорстве и самоидентификации - "Как закалялась сталь".</p>
             </remark>
-            <text>Буревестники свободно резвились между небом и землей. Ты почувствовала знакомый запах.</text>
+            <text>Буревестники свободно резвились между небом и землей. Ты чувствуешь знакомый запах.</text>
             <text>Не знаю когда. Не знаю где. Может быть, это просто странная иллюзия.</text>
             <goto goto="20" change="#000000"/>
         </scene>
@@ -36,7 +35,7 @@
             <speak chara="_Shakespeare">В этом изолированном корабле довольно сложно рано ложиться и рано вставать.</speak>
             <show chara="shakesLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaSighClose" position="right"/>
-            <speak chara="_Bianka">Ну, наверное так оно и есть для капитана, которому потребовалось 10 будильников для того, чтобы проснуться.</speak>
+            <speak chara="_Bianka">Ну, наверное, так оно и есть для капитана, которому потребовалось 10 будильников для того, чтобы проснуться.</speak>
             <show chara="biankaProudClose" position="right"/>
             <speak chara="_Bianka">Конечно, ни одна квалифицированная валькирия не может беспокоить своих спутников из-за вредных привычек в работе и отдыхе!</speak>
             <show chara="biankaProudClose" position="right" opacity="0.8"/>
@@ -52,11 +51,11 @@
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Ничего такого. Всего лишь...</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">“Заснула уткнувшись лицом в подушку”——</speak>
+            <speak chara="_Shakespeare">«Заснула, уткнувшись лицом в подушку»——</speak>
             <show chara="shakesBagaRightClose" position="left"/>
-            <speak chara="_Shakespeare">“Пять раз сбросила одеяло с кровати”——</speak>
+            <speak chara="_Shakespeare">«Пять раз сбросила одеяло с кровати»——</speak>
             <show chara="shakesBagaLeftClose" position="left"/>
-            <speak chara="_Shakespeare">“Наконец перестала ворочаться, но обслюнявила простыню”——</speak>
+            <speak chara="_Shakespeare">«Наконец перестала ворочаться, но обслюнявила простыню»——</speak>
             <show chara="shakesBagaLeftClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <shake position="right" time="250"></shake>
@@ -248,7 +247,7 @@
             <speak chara="_Bianka">Хм. Для большого города здесь царит ретро атмосфера, как в Адене или Калькутте.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">О, это места, в которых я никогда не была ни в одном мире..</speak>
+            <speak chara="_Shakespeare">О, в этих местах я не была — ни в одном мире.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
             <speak chara="_Bianka">Тогда... Что насчёт Флоренции или Стамбула?</speak>
@@ -259,7 +258,7 @@
             <shake position="left" time="250"></shake>
             <speak chara="_Shakespeare">Аах—— Информационное общество 21 века, должно быть, прекрасно. Вы можете узнать всё о прекрасной истории прошлых цивилизаций!</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Я так завидую.! Ты можешь отвезти меня туда когда-нибудь?</speak>
+            <speak chara="_Shakespeare">Я так завидую! Ты можешь отвезти меня туда когда-нибудь?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biancaShyClose" position="right"/>
             <speak chara="_Bianka">Эм, это...</speak>
@@ -279,7 +278,7 @@
         <scene id="60" background="alexandriaLighthouse.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Наконец-то мы снова на суше. Управление этого города конечно так себе, здесь нет даже таможни.</speak>
+            <speak chara="_Bianka">Наконец-то мы снова на суше. Управление этого города, конечно, так себе, здесь нет даже таможни.</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">Э-эмм... Об управлении——</speak>
@@ -319,7 +318,7 @@
             <speak chara="_Watt">Несмотря на то, что в году всего 365 дней... Я впервые вижу, чтобы кто-то родился в день Нового года....</speak>
             <show chara="wattSurpriseClose" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">Божечки, нехорошо это - заглядывать в личную информацию леди, ты же знаешь!?</speak>
+            <speak chara="_Bianka">Божечки, Нехорошо заглядывать в личную информацию леди, ты же знаешь!?</speak>
             <show chara="biankaBiteClose" position="right" opacity="0.8"/>
             <show chara="wattScaredClose" position="left"/>
             <speak chara="_Watt">М-м-м-м-мне так ж-жаль! Э-это было не с-специально.</speak>
@@ -335,7 +334,7 @@
             <speak chara="_Watt">З-заполнил? Д-дату рождения?</speak>
             <show chara="wattScaredClose" position="left" opacity="0.8"/>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">Угу. Я все равно не знаю свою точную дату рождения, так что я могу просто взять Новый год и использовать его дату для удобства. Не так ли?</speak>
+            <speak chara="_Bianka">Угу. Я всё равно не знаю свою точную дату рождения, так что я могу просто взять Новый год и использовать его дату для удобства. Не так ли?</speak>
             <show chara="biankaSneerClose" position="right" opacity="0.8"/>
             <show chara="wattSighClose" position="left"/>
             <speak chara="_Watt">...Ну, кажется, это имеет смысл.</speak>
@@ -458,7 +457,7 @@
             <show chara="thalesProudClose" position="left"/>
             <speak chara="_Thales">Ох боже, о нас, конечно, ходит много слухов.</speak>
             <show chara="thalesSmileClose" position="left"/>
-            <speak chara="_Thales">«Великая библиотека» существует всего менее 200 лет - жаль разочаровывать, мальчик.</speak>
+            <speak chara="_Thales">«Великая библиотека» существует менее 200 лет - жаль разочаровывать, мальчик.</speak>
             <show chara="thalesSmileClose" position="left" opacity="0.8"/>
             <show chara="wattScaredClose" position="right"/>
             <speak chara="_Watt">Т-тем не менее, изучать м-метафизику в Великой библиотеке - это п-потрясающе!</speak>
@@ -589,7 +588,7 @@
             <show chara="thalesSmileClose" position="left"/>
             <speak chara="_Thales">Когда вы зайдёте в тупик, измените ход своих мыслей, чтобы увидеть, чего на самом деле хотят обе стороны.</speak>
             <show chara="thalesStoneClose" position="left"/>
-            <speak chara="_Thales">В нашей нынешней ситуации вам нужен проводник, но вы не хотите быть обманутым. Я хочу поговорить с тобой, но ты меня не знаешь.</speak>
+            <speak chara="_Thales">В нашей нынешней ситуации вам нужен проводник, но вы не хотите оказаться обманутыми. Я хочу поговорить с тобой, но ты меня не знаешь.</speak>
             <speak chara="_Thales">В принципе, поскольку не имеет значения, наймёте вы меня или нет, у меня есть способ выйти из этого затруднительного положения.</speak>
             <show chara="thalesLaughClose" position="left"/>
             <speak chara="_Thales">Я должна поменять местами "получение денег" на "выплату денег". Таким образом, обе стороны получают то, что они хотят!</speak>
@@ -604,7 +603,7 @@
             <speak chara="_Bianka">...Эй! Тебе не кажется, что ты немного груба?</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
-            <speak chara="_Thales">Как бы то ни было, "метафизика - это изучение природы реальности. Она исследует само мышление, его способность и пределы постижения "истины". Потребовался бы целый семестр занятий, чтобы объяснить это подробно, так что давайте не будем сейчас вдаваться в подробности.</speak>
+            <speak chara="_Thales">Как бы то ни было, метафизика - это изучение природы реальности. Она исследует само мышление, его способность и пределы постижения «истины». Потребовался бы целый семестр занятий, чтобы объяснить это подробно, так что давайте не будем сейчас вдаваться в подробности.</speak>
             <show chara="thalesSmileClose" position="left"/>
             <speak chara="_Thales">(Вводит команды в робота)</speak>
             <hide position="left"></hide>
@@ -649,8 +648,8 @@
             <show chara="wattSurpriseClose" position="right" opacity="0.8"/>
             <show chara="thalesProudClose" position="left"/>
             <speak chara="_Thales">Да. У продуктов самый короткий срок годности, они хранятся не очень долго, и как только вы их съедите, они исчезнут.</speak>
-            <speak chara="_Thales">Одежда - это золотая середина. Её можно использовать в течение нескольких лет, даже десятилетий. Если она достаточно хорошо сохранились, её можно передавать из поколения в поколение.</speak>
-            <speak chara="_Thales">Здания, конечно, имеют самый длительный срок годности. Стоимость его изготовления высока, но однажды построенное, оно может использоваться веками.</speak>
+            <speak chara="_Thales">Одежда - это золотая середина. Её можно использовать в течение нескольких лет, даже десятилетий. Если она достаточно хорошо сохранилась, её можно передавать из поколения в поколение.</speak>
+            <speak chara="_Thales">Здания, конечно, имеют самый длительный срок годности. Стоимость их изготовления высока, но однажды построенные, они могут использоваться веками.</speak>
             <show chara="thalesEmbarrassedClose" position="left"/>
             <speak chara="_Thales">Короче говоря, вы можете питаться 3 раза в день, каждый день носить разную одежду, но если здание, в котором вы живете, старое, у вас нет другого выбора, кроме как терпеть.</speak>
             <show chara="thalesProudClose" position="left"/>
