@@ -552,14 +552,14 @@
         <character name="Силуэт" color="#000000" id="oldZaraGenius" src="06_14_oldZaraGenius.png"/>
         <character name="Заратустра" color="#dddddd" id="_oldZara" src=""/>
         <character name="Серый Змей" color="#dddddd" id="_graySnake" src=""/>
-        <character name="Заххак" color="#b6dcb5" id="_zahhak" src=""/>
-        <character name="Старый Дракон" color="#aeb5ae" id="_bertrand" src=""/>
+        <character name="Захак" color="#b6dcb5" id="_zahhak" src=""/>
+        <character name="Старый дракон" color="#aeb5ae" id="_bertrand" src=""/>
         <character name="???" color="#aeb5ae" id="_bertrandYNoName" src=""/>
         <character name="Бертран" color="#aeb5ae" id="_bertrandY" src=""/>
-        <character name="Старый Дракон" color="#aeb5ae" id="BertrandSmile" src="07_05_BertrandSmile.png"/>
-        <character name="Старый Дракон" color="#aeb5ae" id="BertrandAnger" src="07_05_BertrandAnger.png"/>
-        <character name="Старый Дракон" color="#aeb5ae" id="BertrandNormal" src="07_05_BertrandNormal.png"/>
-        <character name="Старый Дракон" color="#aeb5ae" id="BertrandThink" src="07_05_BertrandThink.png"/>
+        <character name="Старый дракон" color="#aeb5ae" id="BertrandSmile" src="07_05_BertrandSmile.png"/>
+        <character name="Старый дракон" color="#aeb5ae" id="BertrandAnger" src="07_05_BertrandAnger.png"/>
+        <character name="Старый дракон" color="#aeb5ae" id="BertrandNormal" src="07_05_BertrandNormal.png"/>
+        <character name="Старый дракон" color="#aeb5ae" id="BertrandThink" src="07_05_BertrandThink.png"/>
         <character name="Гражданин" color="#d2c7c1" id="_citizenChichenItzaMan" src=""/>
         <character name="Гражданка" color="#d2c7c1" id="vilagerWomanSmileClose" src="07_19_vilagerWomanSmileClose.png"/>
         <character name="Гражданка" color="#d2c7c1" id="_citizenChichenItzaWoman" src=""/>
@@ -572,38 +572,38 @@
         <character name="Вооружённый офицер" color="#d1bbbb" id="_incaSoldierDeLaVegaNoName" src=""/>
         <character name="Вооружённый офицер" color="#d1bbbb" id="soldierDeLaVegaClose" src="08_16_soldierDeLaVegaClose.png"/>
         <character name="Вооружённый офицер" color="#fff5e8" id="_rolandIncaNoName" src=""/>
-        <character name="Роуланд" color="#fff5e8" id="_Roland" src=""/>
+        <character name="Роланд" color="#fff5e8" id="_Roland" src=""/>
         <character name="Посланник" color="#fff5e8" id="_RolandVenice" src=""/>
         <character name="Посланник" color="#fff5e8" id="StephanoSincere" src="StephanoSincere.png"/>
         <character name="Посланник" color="#fff5e8" id="StephanoTender" src="StephanoTender.png"/>
         <character name="???" color="#fff5e8" id="_RolandNoName" src=""/>
-        <character name="Роуланд (?)" color="#fff5e8" id="_RolandNina" src=""/>
-        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNLaughClose" src="x_rolandLNLaughClose.png"/>
-        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNEmbarrassClose" src="x_rolandLNEmbarrassClose.png"/>
-        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNSmileClose" src="x_rolandLNSmileClose.png"/>
-        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNNormalClose" src="x_rolandLNNormalClose.png"/>
-        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNShockClose" src="x_rolandLNShockClose.png"/>
-        <character name="Роуланд (?)" color="#fff5e8" id="rolandLNSeriousClose" src="x_rolandLNSeriousClose.png"/>
+        <character name="Роланд (?)" color="#fff5e8" id="_RolandNina" src=""/>
+        <character name="Роланд (?)" color="#fff5e8" id="rolandLNLaughClose" src="x_rolandLNLaughClose.png"/>
+        <character name="Роланд (?)" color="#fff5e8" id="rolandLNEmbarrassClose" src="x_rolandLNEmbarrassClose.png"/>
+        <character name="Роланд (?)" color="#fff5e8" id="rolandLNSmileClose" src="x_rolandLNSmileClose.png"/>
+        <character name="Роланд (?)" color="#fff5e8" id="rolandLNNormalClose" src="x_rolandLNNormalClose.png"/>
+        <character name="Роланд (?)" color="#fff5e8" id="rolandLNShockClose" src="x_rolandLNShockClose.png"/>
+        <character name="Роланд (?)" color="#fff5e8" id="rolandLNSeriousClose" src="x_rolandLNSeriousClose.png"/>
         <character name="???" color="#fff5e8" id="_laNinaNoName" src=""/>
-        <character name="“Ла Нина”" color="#fff5e8" id="_laNina" src=""/>
-        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKSmile" src="x_RolandBSKSmile.png"/>
-        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKNormal" src="x_RolandBSKNormal.png"/>
-        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKBark" src="x_RolandBSKBark.png"/>
-        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKDis" src="x_RolandBSKDis.png"/>
-        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKSerious" src="x_RolandBSKSerious.png"/>
-        <character name="“Ла Нина”" color="#fff5e8" id="RolandBSKSeriousTalk" src="x_RolandBSKSeriousTalk.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorSmileClose" src="08_17_rolandArmorSmileClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorSeriousClose" src="08_17_rolandArmorSeriousClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorQuestionClose" src="08_17_rolandArmorQuestionClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorNormalClose" src="08_17_rolandArmorNormalClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorLaughClose" src="08_17_rolandArmorLaughClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorHelmetClose" src="08_17_rolandArmorHelmetClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandArmorEmbarrassClose" src="08_17_rolandArmorEmbarrassClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandNormalClose" src="09_13_rolandNormalClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandEmbarrassClose" src="09_13_rolandEmbarrassClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandLaughClose" src="09_13_rolandLaughClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandSmileClose" src="09_13_rolandSmileClose.png"/>
-        <character name="Роуланд" color="#fff5e8" id="rolandSeriousClose" src="09_13_rolandSeriousClose.png"/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="_laNina" src=""/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="RolandBSKSmile" src="x_RolandBSKSmile.png"/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="RolandBSKNormal" src="x_RolandBSKNormal.png"/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="RolandBSKBark" src="x_RolandBSKBark.png"/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="RolandBSKDis" src="x_RolandBSKDis.png"/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="RolandBSKSerious" src="x_RolandBSKSerious.png"/>
+        <character name="“Ла-Нинья”" color="#fff5e8" id="RolandBSKSeriousTalk" src="x_RolandBSKSeriousTalk.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorSmileClose" src="08_17_rolandArmorSmileClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorSeriousClose" src="08_17_rolandArmorSeriousClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorQuestionClose" src="08_17_rolandArmorQuestionClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorNormalClose" src="08_17_rolandArmorNormalClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorLaughClose" src="08_17_rolandArmorLaughClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorHelmetClose" src="08_17_rolandArmorHelmetClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandArmorEmbarrassClose" src="08_17_rolandArmorEmbarrassClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandNormalClose" src="09_13_rolandNormalClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandEmbarrassClose" src="09_13_rolandEmbarrassClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandLaughClose" src="09_13_rolandLaughClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandSmileClose" src="09_13_rolandSmileClose.png"/>
+        <character name="Роланд" color="#fff5e8" id="rolandSeriousClose" src="09_13_rolandSeriousClose.png"/>
         <character name="???" color="#79d2e2" id="_DarwinNoName" src=""/>
         <character name="Дарвин" color="#79d2e2" id="_Darwin" src=""/>
         <character name="Дарвин (?)" color="#c786c8" id="_DarwinError" src=""/>
@@ -627,34 +627,34 @@
         <character name="Дракула" color="#ca3433" id="DraculaThinkClose" src="11_22_DraculaThinkClose.png"/>
         <character name="Дракула" color="#ca3433" id="DraculaQuestionClose" src="11_22_DraculaQuestionClose.png"/>
         <character name="???" color="#82f1ff" id="_ShigureKiraNoName" src=""/>
-        <character name="Шигуре Кира" color="#82f1ff" id="_ShigureKira" src=""/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNShockClose" src="x_ShigureKiraVNShockClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNNormalClose" src="x_ShigureKiraVNNormalClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNTalkClose" src="x_ShigureKiraVNTalkClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNThinkClose" src="x_ShigureKiraVNThinkClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNSadClose" src="x_ShigureKiraVNSadClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraVNSeriousClose" src="x_ShigureKiraVNSeriousClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSingingCloseEyeFar" src="09_12_ShigureKiraSingingCloseEyeFar.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSingingLyricalFar" src="09_12_ShigureKiraSingingLyricalFar.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSingingPassionFar" src="09_12_ShigureKiraSingingPassionFar.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraQuestionClose" src="10_11_ShigureKiraQuestionClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraAngryClose" src="10_11_ShigureKiraAngryClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSneerClose" src="10_11_ShigureKiraSneerClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraCuteFar" src="10_11_ShigureKiraCuteFar.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraCuteClose" src="10_11_ShigureKiraCuteClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraThinkClose" src="10_11_ShigureKiraThinkClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraConfidentClose" src="10_11_ShigureKiraConfidentClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesConfidentClose" src="10_25_ShigureKiraSunGlassesConfidentClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesLaughClose" src="10_25_ShigureKiraSunGlassesLaughClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffSmileClose" src="10_25_ShigureKiraSunGlassesOffSmileClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffConfidentClose" src="10_25_ShigureKiraSunGlassesOffConfidentClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffThinkClose" src="10_25_ShigureKiraSunGlassesOffThinkClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffSunshineClose" src="10_25_ShigureKiraSunGlassesOffSunshineClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffColdClose" src="10_25_ShigureKiraSunGlassesOffColdClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffTalkingClose" src="10_25_ShigureKiraSunGlassesOffTalkingClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffShockClose" src="10_25_ShigureKiraSunGlassesOffShockClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesThinkClose" src="10_25_ShigureKiraSunGlassesThinkClose.png"/>
-        <character name="Шигуре Кира" color="#82f1ff" id="ShigureKiraSunGlassesSmileClose" src="10_25_ShigureKiraSunGlassesSmileClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="_ShigureKira" src=""/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraVNShockClose" src="x_ShigureKiraVNShockClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraVNNormalClose" src="x_ShigureKiraVNNormalClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraVNTalkClose" src="x_ShigureKiraVNTalkClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraVNThinkClose" src="x_ShigureKiraVNThinkClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraVNSadClose" src="x_ShigureKiraVNSadClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraVNSeriousClose" src="x_ShigureKiraVNSeriousClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSingingCloseEyeFar" src="09_12_ShigureKiraSingingCloseEyeFar.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSingingLyricalFar" src="09_12_ShigureKiraSingingLyricalFar.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSingingPassionFar" src="09_12_ShigureKiraSingingPassionFar.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraQuestionClose" src="10_11_ShigureKiraQuestionClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraAngryClose" src="10_11_ShigureKiraAngryClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSneerClose" src="10_11_ShigureKiraSneerClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraCuteFar" src="10_11_ShigureKiraCuteFar.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraCuteClose" src="10_11_ShigureKiraCuteClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraThinkClose" src="10_11_ShigureKiraThinkClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraConfidentClose" src="10_11_ShigureKiraConfidentClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesConfidentClose" src="10_25_ShigureKiraSunGlassesConfidentClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesLaughClose" src="10_25_ShigureKiraSunGlassesLaughClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffSmileClose" src="10_25_ShigureKiraSunGlassesOffSmileClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffConfidentClose" src="10_25_ShigureKiraSunGlassesOffConfidentClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffThinkClose" src="10_25_ShigureKiraSunGlassesOffThinkClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffSunshineClose" src="10_25_ShigureKiraSunGlassesOffSunshineClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffColdClose" src="10_25_ShigureKiraSunGlassesOffColdClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffTalkingClose" src="10_25_ShigureKiraSunGlassesOffTalkingClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesOffShockClose" src="10_25_ShigureKiraSunGlassesOffShockClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesThinkClose" src="10_25_ShigureKiraSunGlassesThinkClose.png"/>
+        <character name="Сигурэ Кира" color="#82f1ff" id="ShigureKiraSunGlassesSmileClose" src="10_25_ShigureKiraSunGlassesSmileClose.png"/>
         <character name="???" color="#c3df9c" id="_ThoreauNoName" src=""/>
         <character name="Торо" color="#c3df9c" id="_Thoreau" src=""/>
         <character name="Торо" color="#c3df9c" id="thorSmileCloseE" src="10_11_thorSmileCloseE.png"/>
